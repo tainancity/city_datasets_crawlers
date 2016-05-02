@@ -3081,6 +3081,28 @@
                     "resource_recent": 0
                 }
             },
+            "ade2e8c7-5cb4-46dc-ba68-6a2b896a9f22": {
+                "name": "12d892cf-d805-4413-b0e4-ede9216966e7",
+                "title": "桃園市道路維修資訊",
+                "organization_id": "380110000g",
+                "metadata_created": "2016-05-02T06:44:38.037773",
+                "metadata_modified": "2016-05-02T06:45:11.569695",
+                "timeEnd": 1462171511,
+                "timeBegin": 1462142678,
+                "resources": {
+                    "ca56653f-da01-4ea7-b595-1462bc245b8e": {
+                        "id": "ca56653f-da01-4ea7-b595-1462bc245b8e",
+                        "name": "道路維護資訊",
+                        "created": "2016-05-02T14:45:11.201172",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-02T14:45:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "dc3ec89b-6249-4176-9331-506337407232": {
                 "name": "179b63a8-e4b4-406d-b28c-9c1afdb631df",
                 "title": "桃園市雨水系統人手孔",
@@ -3974,7 +3996,7 @@
             }
         },
         "counters": {
-            "datasets": 24,
+            "datasets": 25,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -7360,8 +7382,8 @@
                 "title": "桃園工廠排放即時監測數據",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-12-24T08:45:14.357946",
-                "metadata_modified": "2016-05-02T06:01:26.837329",
-                "timeEnd": 1462168864,
+                "metadata_modified": "2016-05-02T07:31:27.083893",
+                "timeEnd": 1462174264,
                 "timeBegin": 1450917914,
                 "resources": {
                     "28bc4efa-a1c3-4d2e-8705-2010237b82ed": {
@@ -7369,7 +7391,7 @@
                         "name": "即時監測",
                         "created": "2015-12-24T17:31:41.890651",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-02T14:01:04"
+                        "last_modified": "2016-05-02T15:31:04"
                     }
                 },
                 "counters": {
@@ -12793,8 +12815,8 @@
                 "title": "路外停車資訊",
                 "organization_id": "380290000h",
                 "metadata_created": "2015-09-18T04:08:33.876231",
-                "metadata_modified": "2016-05-02T06:07:24.592423",
-                "timeEnd": 1462169221,
+                "metadata_modified": "2016-05-02T07:41:24.638435",
+                "timeEnd": 1462174861,
                 "timeBegin": 1442520513,
                 "resources": {
                     "0daad6e6-0632-44f5-bd25-5e1de1e9146f": {
@@ -12802,7 +12824,7 @@
                         "name": "路外停車場即時停車位資訊",
                         "created": "2015-10-01T09:03:51.256067",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-02T14:07:01"
+                        "last_modified": "2016-05-02T15:41:01"
                     }
                 },
                 "counters": {
@@ -12881,8 +12903,8 @@
                 "title": "桃園公共自行車即時服務資料",
                 "organization_id": "380290000h",
                 "metadata_created": "2016-02-26T00:57:28.408443",
-                "metadata_modified": "2016-05-02T06:09:22.909219",
-                "timeEnd": 1462169340,
+                "metadata_modified": "2016-05-02T07:42:22.820957",
+                "timeEnd": 1462174920,
                 "timeBegin": 1456419448,
                 "resources": {
                     "a1b4714b-3b75-4ff8-a8f2-cc377e4eaa0f": {
@@ -12890,7 +12912,7 @@
                         "name": "桃園公共自行車即時服務資料",
                         "created": "2016-02-26T15:21:27.348635",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-02T14:09:00"
+                        "last_modified": "2016-05-02T15:42:00"
                     }
                 },
                 "counters": {
@@ -12969,8 +12991,8 @@
                 "title": "公車動態",
                 "organization_id": "380290000h",
                 "metadata_created": "2015-12-01T08:43:46.801964",
-                "metadata_modified": "2016-05-02T06:09:24.181980",
-                "timeEnd": 1462169341,
+                "metadata_modified": "2016-05-02T07:44:23.747170",
+                "timeEnd": 1462175040,
                 "timeBegin": 1448930626,
                 "resources": {
                     "bf55b21a-2b7c-4ede-8048-f75420344aed": {
@@ -12978,7 +13000,7 @@
                         "name": "公車即時動態",
                         "created": "2015-12-01T16:48:32.341263",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-02T14:09:01"
+                        "last_modified": "2016-05-02T15:44:00"
                     },
                     "976813f9-2b43-45e3-a0df-c4544492a09b": {
                         "id": "976813f9-2b43-45e3-a0df-c4544492a09b",
@@ -13800,5 +13822,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1462169346
+    "time_generated": 1462175033
 }
