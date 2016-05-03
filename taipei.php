@@ -43,13 +43,16 @@ while ($offset < $count) {
             ),
         );
         $rowDataset['timeEnd'] = strtotime($dataset['metadata_modified']);
-        if(!empty($dataset['issued'])) {
+        if (!empty($dataset['issued'])) {
             $rowDataset['timeBegin'] = strtotime($dataset['issued']);
         }
         foreach ($dataset['resources'] AS $resource) {
             if (isset($resource['resourceId'])) {
                 if (!isset($resource['resourceName'])) {
                     $resource['resourceName'] = $resource['resourceDescription'];
+                }
+                if (empty($resource['resourceName'])) {
+                    $resource['resourceName'] = $dataset['title'];
                 }
                 $t = strtotime($resource['resourceUpdate']);
                 if ($t > $rowDataset['timeEnd']) {
