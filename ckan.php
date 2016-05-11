@@ -12,7 +12,7 @@ foreach ($targets AS $target) {
     foreach ($datasets['result'] AS $datasetId) {
         $jsonDataset = $s->GetDataset(array('id' => $datasetId))->getAll();
         $org = $jsonDataset['result']['organization']['title'];
-        if(empty($org)) {
+        if (empty($org)) {
             $org = $jsonDataset['result']['organization']['id'];
         }
         if (!isset($result[$org])) {
@@ -70,6 +70,10 @@ foreach ($targets AS $target) {
             $rowDataset['resources'][$resource['id']] = $rowResource;
         }
         $result[$org]['datasets'][$jsonDataset['result']['id']] = $rowDataset;
+    }
+    ksort($result);
+    foreach ($result AS $k => $v) {
+        ksort($result[$k]);
     }
 
     $result['time_generated'] = time();
