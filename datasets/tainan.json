@@ -1,13 +1,91 @@
 {
     "主計處": {
         "counters": {
-            "datasets": 2,
+            "datasets": 3,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 19,
-            "resource_recent": 19
+            "resource_total": 23,
+            "resource_recent": 22
         },
         "datasets": {
+            "440ff101-17bf-47d1-b9da-2e367aaf656e": {
+                "name": "103-final-accounts",
+                "title": "103年度臺南市政府地方總決算決算總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-19T07:42:07.045387",
+                "metadata_modified": "2016-05-19T09:17:57.714506",
+                "timeEnd": 1463649476,
+                "timeBegin": 1463614927,
+                "resources": {
+                    "be2de030-5f4f-488f-addb-d6582639bc4b": {
+                        "id": "be2de030-5f4f-488f-addb-d6582639bc4b",
+                        "name": "103年度臺南市政府地方總決算歲入歲出簡明比較分析表(審定後)",
+                        "created": "2016-05-19T15:45:08.322807",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "47f93ddc-1e7a-478e-ab28-4ae703c417c4": {
+                        "id": "47f93ddc-1e7a-478e-ab28-4ae703c417c4",
+                        "name": "103年度臺南市政府地方總決算歲入歲出及餘絀簡明分析表(審定後)",
+                        "created": "2016-05-19T16:20:03.420077",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "fba8f8ad-f6fe-41ab-a4d5-8215b5b856c9": {
+                        "id": "fba8f8ad-f6fe-41ab-a4d5-8215b5b856c9",
+                        "name": "103年度臺南市政府地方總決算收支簡明比較分析表(審定後)",
+                        "created": "2016-05-19T16:25:12.951005",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2fd6464e-0405-4c29-b99b-8daf78e0424e": {
+                        "id": "2fd6464e-0405-4c29-b99b-8daf78e0424e",
+                        "name": "103年度臺南市政府地方總決算歲入來源別決算總表(審定後)",
+                        "created": "2016-05-19T16:30:44.035973",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "527b9a3d-de12-4f20-9d9d-5e44f20fd0a8": {
+                        "id": "527b9a3d-de12-4f20-9d9d-5e44f20fd0a8",
+                        "name": "103年度臺南市政府地方總決算歲入來源別決算比較總表(審定後)",
+                        "created": "2016-05-19T16:50:00.940734",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "683ad12a-f805-4422-a985-9594fc908463": {
+                        "id": "683ad12a-f805-4422-a985-9594fc908463",
+                        "name": "103年度臺南市政府地方總決算歲出政事別決算總表(審定後)",
+                        "created": "2016-05-19T17:01:58.590312",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "69995690-c55f-4bfa-9a66-3ac746b9b60d": {
+                        "id": "69995690-c55f-4bfa-9a66-3ac746b9b60d",
+                        "name": "103年度臺南市政府地方總決算歲出政事別決算比較總表(審定後)",
+                        "created": "2016-05-19T17:05:56.908883",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6e3403df-ef6e-4980-88a0-1ba7a57c619e": {
+                        "id": "6e3403df-ef6e-4980-88a0-1ba7a57c619e",
+                        "name": "103年度臺南市政府地方總決算歲出機關別決算比較總表(審定後)",
+                        "created": "2016-05-19T17:09:43.190864",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b1fa83c6-a2b8-44d5-ac62-b662e9e54b75": {
+                        "id": "b1fa83c6-a2b8-44d5-ac62-b662e9e54b75",
+                        "name": "103年度臺南市政府地方總決算平衡表(審定後)",
+                        "created": "2016-05-19T17:17:56.569019",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 3,
+                    "resource_recent": 3
+                }
+            },
             "174151f4-cc94-46cb-8b87-a20dbbaf7ac2": {
                 "name": "104budget",
                 "title": "104年度臺南市政府地方總預算預算總表",
@@ -89,7 +167,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 16,
+                    "resource_total": 17,
                     "resource_recent": 16
                 }
             },
@@ -98,14 +176,77 @@
                 "title": "105年度臺南市政府地方總預算預算總表",
                 "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
                 "metadata_created": "2016-05-12T17:09:00.589944",
-                "metadata_modified": "2016-05-12T17:27:41.498082",
-                "timeEnd": 1463073035,
+                "metadata_modified": "2016-05-19T06:25:34.258319",
+                "timeEnd": 1463639132,
                 "timeBegin": 1463044140,
                 "resources": {
                     "4b19f6a7-3034-4579-a336-372711a916f0": {
                         "id": "4b19f6a7-3034-4579-a336-372711a916f0",
                         "name": "105年度臺南市政府地方總預算預算總表",
                         "created": "2016-05-13T01:10:35.656955",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f3e96701-4901-487c-8ae1-afb17cb82200": {
+                        "id": "f3e96701-4901-487c-8ae1-afb17cb82200",
+                        "name": "105年度臺南市政府地方總預算歲入歲出簡明比較分析表",
+                        "created": "2016-05-19T13:54:02.429974",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "854fa5d4-e9c8-4015-95e4-a40428f43b7b": {
+                        "id": "854fa5d4-e9c8-4015-95e4-a40428f43b7b",
+                        "name": "105年度臺南市政府地方總預算歲入歲出性質及餘絀簡明比較分析表",
+                        "created": "2016-05-19T13:55:05.997797",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "7783a4d0-2250-48b5-a70a-77a94091e4d9": {
+                        "id": "7783a4d0-2250-48b5-a70a-77a94091e4d9",
+                        "name": "105年度臺南市政府地方總預算收支簡明比較分析表",
+                        "created": "2016-05-19T13:56:27.729002",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3f2974c5-8110-40bf-801a-b0473d95f6b4": {
+                        "id": "3f2974c5-8110-40bf-801a-b0473d95f6b4",
+                        "name": "105年度臺南市政府地方總預算歲入來源別預算總表",
+                        "created": "2016-05-19T14:21:25.104029",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "30a51961-64d3-4f8f-8501-5c172ae02162": {
+                        "id": "30a51961-64d3-4f8f-8501-5c172ae02162",
+                        "name": "105年度臺南市政府地方總預算歲入來源別預算比較總表",
+                        "created": "2016-05-19T14:22:23.374044",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "0ace84d3-c730-410b-aa18-2446885a9d96": {
+                        "id": "0ace84d3-c730-410b-aa18-2446885a9d96",
+                        "name": "105年度臺南市政府地方總預算歲出政事別預算總表",
+                        "created": "2016-05-19T14:23:06.172496",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "96ecac5c-d7ab-415a-87bd-521c9936d30b": {
+                        "id": "96ecac5c-d7ab-415a-87bd-521c9936d30b",
+                        "name": "105年度臺南市政府地方總預算歲出政事別預算比較總表",
+                        "created": "2016-05-19T14:23:57.256364",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "64dbcf9a-fb23-4768-95e3-122784581175": {
+                        "id": "64dbcf9a-fb23-4768-95e3-122784581175",
+                        "name": "105年度臺南市政府地方總預算歲出機關別預算總表",
+                        "created": "2016-05-19T14:24:45.800719",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a98a9fea-5f36-4181-a78c-51194c007362": {
+                        "id": "a98a9fea-5f36-4181-a78c-51194c007362",
+                        "name": "105年度臺南市政府地方總預算歲出機關別預算比較總表",
+                        "created": "2016-05-19T14:25:32.787458",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -122,8 +263,8 @@
             "datasets": 40,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1918,
-            "resource_recent": 273
+            "resource_total": 1924,
+            "resource_recent": 274
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -1294,8 +1435,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 199,
-                    "resource_recent": 27
+                    "resource_total": 200,
+                    "resource_recent": 26
                 }
             },
             "e7ce6b1c-39b0-4ad1-94c2-bd79ff3fb8df": {
@@ -1379,8 +1520,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 131,
-                    "resource_recent": 13
+                    "resource_total": 132,
+                    "resource_recent": 14
                 }
             },
             "6e5703d6-38ff-4a5c-8f4f-b3f95ea85ef7": {
@@ -1608,7 +1749,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 325,
+                    "resource_total": 328,
                     "resource_recent": 35
                 }
             },
@@ -1742,8 +1883,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 60,
-                    "resource_recent": 16
+                    "resource_total": 61,
+                    "resource_recent": 17
                 }
             },
             "4368f776-b39e-4395-ad44-03c4caf11e5b": {
@@ -3284,8 +3425,8 @@
             "datasets": 56,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 788,
-            "resource_recent": 216
+            "resource_total": 792,
+            "resource_recent": 220
         },
         "datasets": {
             "02b8a777-c885-4fab-8d08-9e78705510af": {
@@ -3541,8 +3682,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 18,
-                    "resource_recent": 7
+                    "resource_total": 19,
+                    "resource_recent": 8
                 }
             },
             "54d6c0c7-ac03-406e-9499-6d993350232c": {
@@ -4769,8 +4910,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 16,
-                    "resource_recent": 8
+                    "resource_total": 17,
+                    "resource_recent": 9
                 }
             },
             "03f75e2c-2fb5-4370-a3b1-03bd76396197": {
@@ -5541,8 +5682,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 42,
-                    "resource_recent": 11
+                    "resource_total": 44,
+                    "resource_recent": 13
                 }
             },
             "0ad4c6f0-234b-44e3-853e-82165c72019c": {
@@ -6354,8 +6495,8 @@
             "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 270,
-            "resource_recent": 41
+            "resource_total": 273,
+            "resource_recent": 44
         },
         "datasets": {
             "320ca7e7-2267-4ffa-ae1c-90842832c220": {
@@ -6648,8 +6789,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 60,
-                    "resource_recent": 16
+                    "resource_total": 62,
+                    "resource_recent": 18
                 }
             },
             "0922c97d-0322-430a-a2be-c2041e625920": {
@@ -6742,8 +6883,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 48,
-                    "resource_recent": 2
+                    "resource_total": 49,
+                    "resource_recent": 3
                 }
             },
             "a170e857-9299-4325-88bc-c0dea7490b50": {
@@ -7379,8 +7520,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 808,
-            "resource_recent": 88
+            "resource_total": 816,
+            "resource_recent": 86
         },
         "datasets": {
             "f360c1dc-39d9-4772-8a66-ba1b57260e3d": {
@@ -7502,8 +7643,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 154,
-                    "resource_recent": 4
+                    "resource_total": 155,
+                    "resource_recent": 1
                 }
             },
             "8e8e9a47-c311-4a99-a745-ae1ae0da9552": {
@@ -7856,8 +7997,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 453,
-                    "resource_recent": 57
+                    "resource_total": 460,
+                    "resource_recent": 58
                 }
             },
             "09e86364-9562-45a0-a8ab-671ffd6ca839": {
@@ -9166,11 +9307,11 @@
     },
     "水利局": {
         "counters": {
-            "datasets": 8,
+            "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 162,
-            "resource_recent": 25
+            "resource_total": 152,
+            "resource_recent": 24
         },
         "datasets": {
             "8b063457-8da8-485f-a2ae-61d7f2d5b351": {
@@ -9236,8 +9377,8 @@
                 "title": "水利設施圖資",
                 "organization_id": "0e505c22-84f6-4486-b617-fe3e7cadf79d",
                 "metadata_created": "2015-12-10T08:56:04.347948",
-                "metadata_modified": "2015-12-11T01:40:05.717488",
-                "timeEnd": 1449769205,
+                "metadata_modified": "2016-05-19T02:59:35.283170",
+                "timeEnd": 1463597975,
                 "timeBegin": 1449708964,
                 "resources": {
                     "af3cd103-b1ad-49aa-a0c0-f25cb86e4dc3": {
@@ -9300,8 +9441,8 @@
                 "title": "市管區域排水之水位站名稱及位置",
                 "organization_id": "0e505c22-84f6-4486-b617-fe3e7cadf79d",
                 "metadata_created": "2015-02-25T13:07:23.270678",
-                "metadata_modified": "2015-02-25T13:08:51.586184",
-                "timeEnd": 1424869685,
+                "metadata_modified": "2016-05-19T03:02:35.339324",
+                "timeEnd": 1463598155,
                 "timeBegin": 1424840843,
                 "resources": {
                     "20bea80e-450c-4039-9523-8ac672727f47": {
@@ -9380,8 +9521,8 @@
                 "title": "水庫水位統計資訊",
                 "organization_id": "0e505c22-84f6-4486-b617-fe3e7cadf79d",
                 "metadata_created": "2015-05-06T04:06:55.316546",
-                "metadata_modified": "2015-05-06T04:11:08.893846",
-                "timeEnd": 1430885409,
+                "metadata_modified": "2016-05-19T03:03:40.421128",
+                "timeEnd": 1463598220,
                 "timeBegin": 1430856415,
                 "resources": {
                     "aec2b724-c6ce-448e-8a63-129c3d71ab36": {
@@ -9397,26 +9538,153 @@
                     "resource_recent": 1
                 }
             },
-            "db70e19a-7545-4dd2-b130-3d93c92823fd": {
-                "name": "waterwell",
-                "title": "臺南市抗旱水井取水點",
+            "b9378112-808c-4d42-a036-8818c2dd6467": {
+                "name": "tainanwarninfo",
+                "title": "區域排水水位警戒",
                 "organization_id": "0e505c22-84f6-4486-b617-fe3e7cadf79d",
-                "metadata_created": "2015-03-19T05:24:40.164440",
-                "metadata_modified": "2015-04-09T06:31:03.651772",
-                "timeEnd": 1428532263,
-                "timeBegin": 1426713880,
+                "metadata_created": "2016-05-19T03:39:25.070326",
+                "metadata_modified": "2016-05-19T06:38:54.607835",
+                "timeEnd": 1463630241,
+                "timeBegin": 1463600365,
                 "resources": {
-                    "925fab0d-fd89-4c4e-be85-8e2b02ab1d4b": {
-                        "id": "925fab0d-fd89-4c4e-be85-8e2b02ab1d4b",
-                        "name": "臺南市抗旱井地點列表",
-                        "created": "2015-03-19T13:39:38.985562",
+                    "04310f63-9148-46a8-a45b-af3bc949a59f": {
+                        "id": "04310f63-9148-46a8-a45b-af3bc949a59f",
+                        "name": "八掌溪流域區域排水水位警戒",
+                        "created": "2016-05-19T11:43:15.601920",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "db7d18fa-bf82-4309-9cff-4eff2d8db459": {
+                        "id": "db7d18fa-bf82-4309-9cff-4eff2d8db459",
+                        "name": "急水溪流域區域排水水位警戒",
+                        "created": "2016-05-19T11:43:40.147501",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "1d31fbfc-9cf0-4f68-abbd-6680787ff840": {
+                        "id": "1d31fbfc-9cf0-4f68-abbd-6680787ff840",
+                        "name": "將軍溪流域區域排水水位警戒",
+                        "created": "2016-05-19T11:44:59.244030",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a94fe050-1716-43b5-b250-4b9576c9dc55": {
+                        "id": "a94fe050-1716-43b5-b250-4b9576c9dc55",
+                        "name": "曾文溪流域區域排水水位警戒",
+                        "created": "2016-05-19T11:50:35.683605",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a2894e1e-37b5-45eb-a903-16f87ad50f3f": {
+                        "id": "a2894e1e-37b5-45eb-a903-16f87ad50f3f",
+                        "name": "鹽水溪流域區域排水水位警戒",
+                        "created": "2016-05-19T11:50:57.573815",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "ab3b6785-1757-44da-ab22-4930f8365a4a": {
+                        "id": "ab3b6785-1757-44da-ab22-4930f8365a4a",
+                        "name": "二仁溪流域區域排水水位警戒",
+                        "created": "2016-05-19T11:57:21.413445",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 1
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "ce03412f-948c-419b-b994-dd3a0d9a1777": {
+                "name": "wrbcctv",
+                "title": "區域排水即時影像",
+                "organization_id": "0e505c22-84f6-4486-b617-fe3e7cadf79d",
+                "metadata_created": "2016-05-19T05:56:15.846689",
+                "metadata_modified": "2016-05-19T06:36:01.325680",
+                "timeEnd": 1463637645,
+                "timeBegin": 1463608575,
+                "resources": {
+                    "1b3b782a-db6d-45db-acff-66b15123a6a3": {
+                        "id": "1b3b782a-db6d-45db-acff-66b15123a6a3",
+                        "name": "永康排水分洪口水位即時影像",
+                        "created": "2016-05-19T13:58:06.264717",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "cab4eae8-07c4-4445-8907-d8f315bb76e7": {
+                        "id": "cab4eae8-07c4-4445-8907-d8f315bb76e7",
+                        "name": "五空橋水位即時影像",
+                        "created": "2016-05-19T13:58:30.606814",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "003a2c43-5f9d-43ae-9b18-56bf6f603265": {
+                        "id": "003a2c43-5f9d-43ae-9b18-56bf6f603265",
+                        "name": "洋子下橋水位即時影像",
+                        "created": "2016-05-19T13:58:44.428167",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "ffc0d4c1-ddfc-4ba8-88be-9c3b0929603e": {
+                        "id": "ffc0d4c1-ddfc-4ba8-88be-9c3b0929603e",
+                        "name": "鯽潭橋水位即時影像",
+                        "created": "2016-05-19T13:58:58.587188",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "04b748f1-e5a8-476d-9390-4a28bdfdcb50": {
+                        "id": "04b748f1-e5a8-476d-9390-4a28bdfdcb50",
+                        "name": "真理橋水位即時影像",
+                        "created": "2016-05-19T13:59:19.756907",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "54dcf737-a6ef-4502-9e7c-8a048358c066": {
+                        "id": "54dcf737-a6ef-4502-9e7c-8a048358c066",
+                        "name": "埤頭橋水位即時影像",
+                        "created": "2016-05-19T13:59:33.613669",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "84a47c2a-3327-4a17-8fd6-9b118d72ae28": {
+                        "id": "84a47c2a-3327-4a17-8fd6-9b118d72ae28",
+                        "name": "新和庄街道水位即時影像1",
+                        "created": "2016-05-19T13:59:48.544929",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2b903072-70b1-45d3-a69e-1517ddaf4ebf": {
+                        "id": "2b903072-70b1-45d3-a69e-1517ddaf4ebf",
+                        "name": "新和庄河道水位即時影像2",
+                        "created": "2016-05-19T14:00:02.155268",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "c17df6b3-a99d-4d9d-9c83-c9480dd668d9": {
+                        "id": "c17df6b3-a99d-4d9d-9c83-c9480dd668d9",
+                        "name": "港尾溝溪分洪口水位即時影像1",
+                        "created": "2016-05-19T14:00:20.387714",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "61472fc7-6e6a-474b-9c62-3fe8ad16221f": {
+                        "id": "61472fc7-6e6a-474b-9c62-3fe8ad16221f",
+                        "name": "港尾溝溪分洪口水位即時影像2",
+                        "created": "2016-05-19T14:00:33.666540",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4b100db5-a846-4791-9d0a-4936a3cdab99": {
+                        "id": "4b100db5-a846-4791-9d0a-4936a3cdab99",
+                        "name": "萬代橋水位即時影像",
+                        "created": "2016-05-19T14:00:45.798231",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             }
         }
@@ -16823,8 +17091,8 @@
             "datasets": 49,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 707,
-            "resource_recent": 132
+            "resource_total": 709,
+            "resource_recent": 131
         },
         "datasets": {
             "00d91614-39d6-461f-ab68-ab481127c669": {
@@ -18124,8 +18392,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 18,
-                    "resource_recent": 3
+                    "resource_total": 20,
+                    "resource_recent": 2
                 }
             },
             "5426a54a-bcd9-486b-a682-cd97859041bc": {
@@ -18804,8 +19072,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 75,
-            "resource_recent": 14
+            "resource_total": 76,
+            "resource_recent": 12
         },
         "datasets": {
             "76aa2355-640e-4436-af08-df3d6e40c522": {
@@ -18935,8 +19203,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 3,
-                    "resource_recent": 3
+                    "resource_total": 4,
+                    "resource_recent": 1
                 }
             },
             "73f56194-504b-4d11-9415-2deb3afc7436": {
@@ -19501,7 +19769,7 @@
             "datasets": 26,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 308,
+            "resource_total": 313,
             "resource_recent": 50
         },
         "datasets": {
@@ -19523,8 +19791,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "5bd6e9b6-76c0-4034-b4ac-23301a6708db": {
@@ -19842,8 +20110,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 40,
-                    "resource_recent": 5
+                    "resource_total": 44,
+                    "resource_recent": 4
                 }
             },
             "f92fd313-1e1d-454d-bb76-7e52d559c4e7": {
@@ -20832,8 +21100,8 @@
             "datasets": 66,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3413,
-            "resource_recent": 267
+            "resource_total": 3431,
+            "resource_recent": 278
         },
         "datasets": {
             "e6b5dcbc-875e-4cf8-bf92-b7b57a07cba1": {
@@ -20977,8 +21245,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 388,
-                    "resource_recent": 10
+                    "resource_total": 393,
+                    "resource_recent": 15
                 }
             },
             "8951e4e2-c3dd-4ba7-b0ee-3e4d6f4011a9": {
@@ -21345,8 +21613,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1505,
-                    "resource_recent": 51
+                    "resource_total": 1509,
+                    "resource_recent": 50
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -21354,8 +21622,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-05-17T23:30:59.265195",
-                "timeEnd": 1463500800,
+                "metadata_modified": "2016-05-18T23:30:55.698352",
+                "timeEnd": 1463587200,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -21377,7 +21645,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-05-18T00:00:00"
+                        "last_modified": "2016-05-19T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -21388,8 +21656,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 407,
-                    "resource_recent": 61
+                    "resource_total": 414,
+                    "resource_recent": 66
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -21397,8 +21665,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-05-17T23:31:11.895218",
-                "timeEnd": 1463500800,
+                "metadata_modified": "2016-05-18T23:31:09.899409",
+                "timeEnd": 1463587200,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -21490,12 +21758,12 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-18T00:00:00"
+                        "last_modified": "2016-05-19T00:00:00"
                     }
                 },
                 "counters": {
-                    "resource_total": 501,
-                    "resource_recent": 29
+                    "resource_total": 503,
+                    "resource_recent": 31
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -22897,8 +23165,8 @@
             "datasets": 3,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 367,
-            "resource_recent": 22
+            "resource_total": 370,
+            "resource_recent": 23
         },
         "datasets": {
             "34e6decf-dd31-4208-a46c-4173279af5fc": {
@@ -22926,8 +23194,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 124,
-                    "resource_recent": 6
+                    "resource_total": 125,
+                    "resource_recent": 7
                 }
             },
             "e70e2580-b45b-457f-8715-d1d0846434ac": {
@@ -22962,8 +23230,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 198,
-                    "resource_recent": 12
+                    "resource_total": 199,
+                    "resource_recent": 13
                 }
             },
             "a3bbfa14-68eb-4251-8dc8-3a7a69929ea0": {
@@ -22991,8 +23259,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 45,
-                    "resource_recent": 4
+                    "resource_total": 46,
+                    "resource_recent": 3
                 }
             }
         }
@@ -23002,7 +23270,7 @@
             "datasets": 20,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 363,
+            "resource_total": 365,
             "resource_recent": 92
         },
         "datasets": {
@@ -23376,7 +23644,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 55,
+                    "resource_total": 57,
                     "resource_recent": 10
                 }
             },
@@ -24104,8 +24372,8 @@
             "datasets": 2,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 4,
-            "resource_recent": 4
+            "resource_total": 5,
+            "resource_recent": 5
         },
         "datasets": {
             "725024fe-167a-4513-b8d5-4e2879b0c107": {
@@ -24148,8 +24416,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 3,
-                    "resource_recent": 3
+                    "resource_total": 4,
+                    "resource_recent": 4
                 }
             }
         }
@@ -24512,7 +24780,7 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 646,
+            "resource_total": 648,
             "resource_recent": 89
         },
         "datasets": {
@@ -25144,7 +25412,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 11,
+                    "resource_total": 13,
                     "resource_recent": 4
                 }
             },
@@ -25172,5 +25440,5 @@
             }
         }
     },
-    "time_generated": 1463603449
+    "time_generated": 1463689848
 }
