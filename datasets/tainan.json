@@ -1,11 +1,11 @@
 {
     "主計處": {
         "counters": {
-            "datasets": 3,
+            "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 26,
-            "resource_recent": 25
+            "resource_total": 38,
+            "resource_recent": 37
         },
         "datasets": {
             "440ff101-17bf-47d1-b9da-2e367aaf656e": {
@@ -255,6 +255,140 @@
                     "resource_total": 5,
                     "resource_recent": 5
                 }
+            },
+            "936c02e8-2c56-4ca7-b9a2-4ba4286e0775": {
+                "name": "105-subordinate-unit-budget",
+                "title": "105年度臺南市地方總預算附屬單位預算及綜計表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-23T07:55:12.965872",
+                "metadata_modified": "2016-05-24T09:08:06.593886",
+                "timeEnd": 1464077813,
+                "timeBegin": 1463961312,
+                "resources": {
+                    "cd5032c3-e0a8-4081-8054-7e7aed77f0b5": {
+                        "id": "cd5032c3-e0a8-4081-8054-7e7aed77f0b5",
+                        "name": "105年度營業基金財務摘要綜計表",
+                        "created": "2016-05-23T16:13:15.131766",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "642ba781-c2ee-482e-892e-ab3b0cf948f8": {
+                        "id": "642ba781-c2ee-482e-892e-ab3b0cf948f8",
+                        "name": "105年度營業基金損益綜計表(依收支科目分列)",
+                        "created": "2016-05-23T16:25:40.998740",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "eff29a61-fb5f-46a2-a094-9ee0452a75e3": {
+                        "id": "eff29a61-fb5f-46a2-a094-9ee0452a75e3",
+                        "name": "105年度營業基金損益綜計表(依機關別分列)",
+                        "created": "2016-05-23T17:24:43.358404",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a867429d-d58e-4124-b6c1-861054d68416": {
+                        "id": "a867429d-d58e-4124-b6c1-861054d68416",
+                        "name": "105年度營業基金盈虧撥補綜計表(依撥補項目分列)",
+                        "created": "2016-05-23T17:38:12.463514",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "0e6011b6-5ca6-4801-a990-07dc670caff0": {
+                        "id": "0e6011b6-5ca6-4801-a990-07dc670caff0",
+                        "name": "105年度營業基金盈虧撥補綜計表(依機關別分列)",
+                        "created": "2016-05-24T09:25:32.609465",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "927a6ce7-1311-4601-9757-5db04849762c": {
+                        "id": "927a6ce7-1311-4601-9757-5db04849762c",
+                        "name": "105年度營業基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-05-24T09:45:37.217062",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6fc99d16-f1dc-436d-89f8-382ccff802ca": {
+                        "id": "6fc99d16-f1dc-436d-89f8-382ccff802ca",
+                        "name": "105年度營業基金現金流量綜計表(依機關別分列)",
+                        "created": "2016-05-24T10:24:38.837126",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6710e380-6564-4116-a620-699a6c1723a8": {
+                        "id": "6710e380-6564-4116-a620-699a6c1723a8",
+                        "name": "105年度營業基金固定資產建設改良擴充資金來源綜計表",
+                        "created": "2016-05-24T11:05:03.715348",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "8d3389f1-60e7-49b7-bc89-4e7cd16df721": {
+                        "id": "8d3389f1-60e7-49b7-bc89-4e7cd16df721",
+                        "name": "105年度作業基金收支餘絀綜計表(依收支科目分列)",
+                        "created": "2016-05-24T11:13:54.599220",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6fd0f777-146d-4949-8e1d-b24b6b6457be": {
+                        "id": "6fd0f777-146d-4949-8e1d-b24b6b6457be",
+                        "name": "105年度作業基金收支餘絀綜計表(依基金別分列)",
+                        "created": "2016-05-24T11:44:26.961986",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a0b0f068-3267-45b9-878e-897d68b73fa1": {
+                        "id": "a0b0f068-3267-45b9-878e-897d68b73fa1",
+                        "name": "105年度作業基金餘絀撥補綜計表(依撥補項目分列)",
+                        "created": "2016-05-24T11:51:20.047626",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "72b72937-ba63-4c5f-a96d-765a538cb2e2": {
+                        "id": "72b72937-ba63-4c5f-a96d-765a538cb2e2",
+                        "name": "105年度作業基金餘絀撥補綜計表(依基金別分列)",
+                        "created": "2016-05-24T12:07:04.384450",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "862960e3-fc34-4bb3-9393-d611e7061144": {
+                        "id": "862960e3-fc34-4bb3-9393-d611e7061144",
+                        "name": "105年度作業基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-05-24T13:36:21.211891",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b1bb4cc5-9dea-4001-8935-848bae835600": {
+                        "id": "b1bb4cc5-9dea-4001-8935-848bae835600",
+                        "name": "105年度作業基金現金流量綜計表(依基金別分列)",
+                        "created": "2016-05-24T15:43:36.458912",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "626e3bf7-ab95-4eff-86d0-8f2e7714d156": {
+                        "id": "626e3bf7-ab95-4eff-86d0-8f2e7714d156",
+                        "name": "105年度特別收入基金來源、用途及餘絀綜計表",
+                        "created": "2016-05-24T15:57:13.133389",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "9bf6fbee-59a2-4f00-830b-ab502cb67c9e": {
+                        "id": "9bf6fbee-59a2-4f00-830b-ab502cb67c9e",
+                        "name": "105年度特別收入基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-05-24T16:06:23.220624",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3f6240af-dd8b-48d5-9916-142e61071c52": {
+                        "id": "3f6240af-dd8b-48d5-9916-142e61071c52",
+                        "name": "105年度特別收入基金現金流量綜計表(依基金別分列)",
+                        "created": "2016-05-24T16:16:53.810075",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 12,
+                    "resource_recent": 12
+                }
             }
         }
     },
@@ -263,7 +397,7 @@
             "datasets": 40,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1953,
+            "resource_total": 1965,
             "resource_recent": 274
         },
         "datasets": {
@@ -1435,8 +1569,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 201,
-                    "resource_recent": 27
+                    "resource_total": 204,
+                    "resource_recent": 25
                 }
             },
             "e7ce6b1c-39b0-4ad1-94c2-bd79ff3fb8df": {
@@ -1612,8 +1746,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 176,
-                    "resource_recent": 15
+                    "resource_total": 183,
+                    "resource_recent": 18
                 }
             },
             "c2872dd5-ae70-4447-9e92-f7079f26e1e7": {
@@ -1969,8 +2103,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 60,
-                    "resource_recent": 14
+                    "resource_total": 62,
+                    "resource_recent": 13
                 }
             },
             "36612e6d-5557-4071-baa1-07d100549a64": {
@@ -2296,8 +2430,8 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 173,
-            "resource_recent": 61
+            "resource_total": 175,
+            "resource_recent": 62
         },
         "datasets": {
             "f5ccdd58-8d1a-444e-af27-142c88baebeb": {
@@ -2371,8 +2505,8 @@
                 "title": "台南市政府就業資訊",
                 "organization_id": "894dfbb0-1bd2-4733-81bd-3e13bf5f19d4",
                 "metadata_created": "2014-06-09T14:25:39.660831",
-                "metadata_modified": "2016-05-10T09:36:29.536659",
-                "timeEnd": 1462872986,
+                "metadata_modified": "2016-05-24T07:39:57.400780",
+                "timeEnd": 1464075503,
                 "timeBegin": 1402295139,
                 "resources": {
                     "6141c7e8-d433-4edf-9039-c5633c92adc1": {
@@ -3109,11 +3243,25 @@
                         "created": "2016-05-10T17:36:26.041448",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "14350e75-c8d0-48c4-97c6-2b107a2b60ff": {
+                        "id": "14350e75-c8d0-48c4-97c6-2b107a2b60ff",
+                        "name": "台南市政府就業資訊第649期職缺",
+                        "created": "2016-05-24T15:31:58.087496",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2e58b082-495e-4570-8d9c-66389685c505": {
+                        "id": "2e58b082-495e-4570-8d9c-66389685c505",
+                        "name": "台南市政府就業資訊第649期職缺",
+                        "created": "2016-05-24T15:38:23.670253",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 104,
-                    "resource_recent": 30
+                    "resource_total": 106,
+                    "resource_recent": 31
                 }
             },
             "4e65bf16-fcc2-44f9-8797-c0457558abe7": {
@@ -3425,8 +3573,8 @@
             "datasets": 56,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 800,
-            "resource_recent": 224
+            "resource_total": 805,
+            "resource_recent": 229
         },
         "datasets": {
             "02b8a777-c885-4fab-8d08-9e78705510af": {
@@ -5682,8 +5830,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 47,
-                    "resource_recent": 16
+                    "resource_total": 52,
+                    "resource_recent": 21
                 }
             },
             "0ad4c6f0-234b-44e3-853e-82165c72019c": {
@@ -6495,8 +6643,8 @@
             "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 279,
-            "resource_recent": 48
+            "resource_total": 285,
+            "resource_recent": 51
         },
         "datasets": {
             "320ca7e7-2267-4ffa-ae1c-90842832c220": {
@@ -6655,8 +6803,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 7,
-                    "resource_recent": 4
+                    "resource_total": 9,
+                    "resource_recent": 6
                 }
             },
             "8e38a3df-0457-4ce2-9681-bdbc9d3eb841": {
@@ -6789,8 +6937,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 62,
-                    "resource_recent": 18
+                    "resource_total": 63,
+                    "resource_recent": 17
                 }
             },
             "0922c97d-0322-430a-a2be-c2041e625920": {
@@ -6832,8 +6980,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 22,
-                    "resource_recent": 9
+                    "resource_total": 23,
+                    "resource_recent": 10
                 }
             },
             "fd25ecb9-7fd3-41e0-b016-6a4427e3ea55": {
@@ -6883,8 +7031,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 49,
-                    "resource_recent": 3
+                    "resource_total": 51,
+                    "resource_recent": 4
                 }
             },
             "a170e857-9299-4325-88bc-c0dea7490b50": {
@@ -7520,8 +7668,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 820,
-            "resource_recent": 88
+            "resource_total": 824,
+            "resource_recent": 92
         },
         "datasets": {
             "f360c1dc-39d9-4772-8a66-ba1b57260e3d": {
@@ -7643,8 +7791,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 155,
-                    "resource_recent": 1
+                    "resource_total": 156,
+                    "resource_recent": 2
                 }
             },
             "8e8e9a47-c311-4a99-a745-ae1ae0da9552": {
@@ -7687,8 +7835,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 27,
-                    "resource_recent": 1
+                    "resource_total": 28,
+                    "resource_recent": 2
                 }
             },
             "42482304-3489-4d17-ab42-02248c6bd62e": {
@@ -7997,8 +8145,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 464,
-                    "resource_recent": 60
+                    "resource_total": 466,
+                    "resource_recent": 62
                 }
             },
             "09e86364-9562-45a0-a8ab-671ffd6ca839": {
@@ -8199,7 +8347,7 @@
             "datasets": 28,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 717,
+            "resource_total": 719,
             "resource_recent": 61
         },
         "datasets": {
@@ -8810,8 +8958,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 74,
-                    "resource_recent": 2
+                    "resource_total": 75,
+                    "resource_recent": 3
                 }
             },
             "4db9f01b-c09f-44fd-a0f9-26987d9faa0c": {
@@ -9022,8 +9170,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 120,
-                    "resource_recent": 2
+                    "resource_total": 121,
+                    "resource_recent": 1
                 }
             },
             "d291726a-f673-4c68-9efa-5fd0c63eaa46": {
@@ -9096,11 +9244,11 @@
     },
     "民族事務委員會": {
         "counters": {
-            "datasets": 6,
+            "datasets": 7,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 10,
-            "resource_recent": 9
+            "resource_total": 9,
+            "resource_recent": 8
         },
         "datasets": {
             "78edf667-299c-4267-be52-e690bdd6d1c6": {
@@ -9160,6 +9308,28 @@
                     "resource_recent": 3
                 }
             },
+            "fea899fc-7431-48e6-bbcf-41961252aea1": {
+                "name": "http-tnda-tainan-gov-tw-civilbook-page-asp-page-178",
+                "title": "臺南市各區區公所原住民服務窗口連絡電話",
+                "organization_id": "ef357986-e616-4faf-b39c-cbaf2beba47a",
+                "metadata_created": "2016-05-18T09:36:52.397974",
+                "metadata_modified": "2016-05-23T08:37:36.810970",
+                "timeEnd": 1463963856,
+                "timeBegin": 1463535412,
+                "resources": {
+                    "96de8f3c-6e53-4cdd-9cd0-5ba438854611": {
+                        "id": "96de8f3c-6e53-4cdd-9cd0-5ba438854611",
+                        "name": "臺南市各區區公所原住民服務窗口連絡電話",
+                        "created": "2016-05-18T17:39:05.312645",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
             "4dc66b01-57ab-45ac-828b-d66e0079fd47": {
                 "name": "http-www-tainan-gov-tw-nation-list-asp-nsub-i0a000",
                 "title": "主委客廳座談會",
@@ -9201,8 +9371,8 @@
                 "title": "臺南市原住民文化會館",
                 "organization_id": "ef357986-e616-4faf-b39c-cbaf2beba47a",
                 "metadata_created": "2016-05-18T07:58:41.101720",
-                "metadata_modified": "2016-05-23T09:20:09.162545",
-                "timeEnd": 1463983099,
+                "metadata_modified": "2016-05-24T01:03:56.824082",
+                "timeEnd": 1464023036,
                 "timeBegin": 1463529521,
                 "resources": {
                     "6fb0c6c0-6276-482b-aec8-ed61025157c3": {
@@ -9249,8 +9419,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
-                    "resource_recent": 4
+                    "resource_total": 2,
+                    "resource_recent": 2
                 }
             },
             "a0571919-1f94-40b9-b9f0-862bfe65735c": {
@@ -19471,8 +19641,8 @@
             "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 121,
-            "resource_recent": 27
+            "resource_total": 122,
+            "resource_recent": 25
         },
         "datasets": {
             "40243c31-26aa-4efe-990b-034f76aaaaa8": {
@@ -19742,8 +19912,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 45,
-                    "resource_recent": 7
+                    "resource_total": 46,
+                    "resource_recent": 5
                 }
             },
             "56076e71-af79-44ec-95b2-52f737295134": {
@@ -19841,8 +20011,8 @@
             "datasets": 26,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 313,
-            "resource_recent": 50
+            "resource_total": 316,
+            "resource_recent": 47
         },
         "datasets": {
             "a76cfc8a-164f-4096-96ed-97830f0cf41b": {
@@ -20044,8 +20214,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 48,
-                    "resource_recent": 9
+                    "resource_total": 49,
+                    "resource_recent": 8
                 }
             },
             "4a874879-1e77-410d-abab-9da0f59c172d": {
@@ -20379,7 +20549,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
+                    "resource_total": 11,
                     "resource_recent": 1
                 }
             },
@@ -20430,8 +20600,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 11,
-                    "resource_recent": 3
+                    "resource_total": 12,
+                    "resource_recent": 1
                 }
             },
             "c008e6e5-b86d-4a5c-b60e-7f8ad743b272": {
@@ -20529,8 +20699,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1101,
-            "resource_recent": 78
+            "resource_total": 1108,
+            "resource_recent": 69
         },
         "datasets": {
             "98c119bd-5472-43ab-9b5d-3de0aa8e61df": {
@@ -20691,8 +20861,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1081,
-                    "resource_recent": 63
+                    "resource_total": 1088,
+                    "resource_recent": 54
                 }
             },
             "2acc3b8c-cdb6-4581-80a5-9f3c442a27c5": {
@@ -21172,8 +21342,8 @@
             "datasets": 70,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3452,
-            "resource_recent": 291
+            "resource_total": 3460,
+            "resource_recent": 287
         },
         "datasets": {
             "e6b5dcbc-875e-4cf8-bf92-b7b57a07cba1": {
@@ -21685,7 +21855,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1519,
+                    "resource_total": 1522,
                     "resource_recent": 56
                 }
             },
@@ -21694,8 +21864,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-05-22T23:31:00.615817",
-                "timeEnd": 1463932800,
+                "metadata_modified": "2016-05-23T23:30:57.772125",
+                "timeEnd": 1464019200,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -21717,7 +21887,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-05-23T00:00:00"
+                        "last_modified": "2016-05-24T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -21728,8 +21898,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 423,
-                    "resource_recent": 69
+                    "resource_total": 427,
+                    "resource_recent": 64
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -21737,8 +21907,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-05-22T23:31:11.753906",
-                "timeEnd": 1463932800,
+                "metadata_modified": "2016-05-23T23:31:10.644285",
+                "timeEnd": 1464019200,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -21830,12 +22000,12 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-23T00:00:00"
+                        "last_modified": "2016-05-24T00:00:00"
                     }
                 },
                 "counters": {
-                    "resource_total": 509,
-                    "resource_recent": 34
+                    "resource_total": 510,
+                    "resource_recent": 35
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -24587,8 +24757,8 @@
             "datasets": 13,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 128,
-            "resource_recent": 26
+            "resource_total": 84,
+            "resource_recent": 22
         },
         "datasets": {
             "49b04804-6765-46a4-bb61-eb37a894cf6e": {
@@ -24807,21 +24977,21 @@
                 "title": "臺南市珍貴樹木",
                 "organization_id": "32a07d6c-799d-46ab-81fd-41484a71bb26",
                 "metadata_created": "2014-02-20T09:31:30.100239",
-                "metadata_modified": "2014-06-03T10:09:54.018974",
-                "timeEnd": 1401761394,
+                "metadata_modified": "2016-05-24T08:16:43.496101",
+                "timeEnd": 1464077771,
                 "timeBegin": 1392859890,
                 "resources": {
-                    "ff065c02-38e7-4e97-8123-01661c9ae62b": {
-                        "id": "ff065c02-38e7-4e97-8123-01661c9ae62b",
-                        "name": "臺南市珍貴樹木網頁",
-                        "created": "2014-02-20T17:32:38.352218",
+                    "175c45b7-08bf-4d37-bf5c-c30b86f0546e": {
+                        "id": "175c45b7-08bf-4d37-bf5c-c30b86f0546e",
+                        "name": "臺南市列管珍貴樹木清冊",
+                        "created": "2016-05-24T16:16:11.717000",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 14,
-                    "resource_recent": 1
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "bf650b22-80e6-4971-89b5-3da1838030c0": {
@@ -24829,35 +24999,35 @@
                 "title": "臺南市各區農產品介紹",
                 "organization_id": "32a07d6c-799d-46ab-81fd-41484a71bb26",
                 "metadata_created": "2014-02-20T09:36:05.113553",
-                "metadata_modified": "2014-06-03T10:02:28.288521",
-                "timeEnd": 1401789746,
+                "metadata_modified": "2016-05-24T05:44:50.944151",
+                "timeEnd": 1464068497,
                 "timeBegin": 1392860165,
                 "resources": {
-                    "808255a6-ce1d-4eed-a669-8c9f4d98f64f": {
-                        "id": "808255a6-ce1d-4eed-a669-8c9f4d98f64f",
-                        "name": "臺南市各區農產品介紹",
-                        "created": "2014-02-20T17:36:38.936385",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
                     "89715173-d1e5-4af7-b5f0-6394aec073a0": {
                         "id": "89715173-d1e5-4af7-b5f0-6394aec073a0",
-                        "name": "台南市農產品產銷地圖(含圖及簡介)中文版",
+                        "name": "臺南市農產品生產區及生產期",
                         "created": "2014-06-03T18:01:38.792597",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
                     "571e8b7c-1619-42ee-922c-726fbca3ad50": {
                         "id": "571e8b7c-1619-42ee-922c-726fbca3ad50",
-                        "name": "台南市農產品產銷地圖(含圖及簡介)英文版",
+                        "name": "臺南各區主要農產品",
                         "created": "2014-06-03T18:02:26.707318",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "e06f038c-a204-4ef2-9e9d-9d14596adb2b": {
+                        "id": "e06f038c-a204-4ef2-9e9d-9d14596adb2b",
+                        "name": "臺南各月份生產之農產品",
+                        "created": "2016-05-24T13:41:37.101571",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 31,
-                    "resource_recent": 4
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "119262cc-25c7-4ca8-b639-a1dbfcc6c611": {
@@ -24940,7 +25110,7 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 648,
+            "resource_total": 649,
             "resource_recent": 89
         },
         "datasets": {
@@ -25514,7 +25684,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 586,
+                    "resource_total": 587,
                     "resource_recent": 77
                 }
             },
@@ -25607,5 +25777,5 @@
             }
         }
     },
-    "time_generated": 1464035448
+    "time_generated": 1464121848
 }
