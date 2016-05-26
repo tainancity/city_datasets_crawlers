@@ -4,8 +4,8 @@
             "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 40,
-            "resource_recent": 39
+            "resource_total": 52,
+            "resource_recent": 51
         },
         "datasets": {
             "440ff101-17bf-47d1-b9da-2e367aaf656e": {
@@ -82,8 +82,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
-                    "resource_recent": 4
+                    "resource_total": 6,
+                    "resource_recent": 6
                 }
             },
             "174151f4-cc94-46cb-8b87-a20dbbaf7ac2": {
@@ -261,8 +261,8 @@
                 "title": "105年度臺南市地方總預算附屬單位預算及綜計表",
                 "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
                 "metadata_created": "2016-05-23T07:55:12.965872",
-                "metadata_modified": "2016-05-24T09:08:06.593886",
-                "timeEnd": 1464077813,
+                "metadata_modified": "2016-05-26T09:03:10.219374",
+                "timeEnd": 1464224590,
                 "timeBegin": 1463961312,
                 "resources": {
                     "cd5032c3-e0a8-4081-8054-7e7aed77f0b5": {
@@ -386,19 +386,19 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 12,
-                    "resource_recent": 12
+                    "resource_total": 22,
+                    "resource_recent": 22
                 }
             }
         }
     },
     "交通局": {
         "counters": {
-            "datasets": 40,
+            "datasets": 41,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1987,
-            "resource_recent": 279
+            "resource_total": 1996,
+            "resource_recent": 283
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -599,8 +599,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 121,
-                    "resource_recent": 18
+                    "resource_total": 122,
+                    "resource_recent": 19
                 }
             },
             "ea14c26c-b3e3-45e4-8f61-55437a27d2eb": {
@@ -1746,8 +1746,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 197,
-                    "resource_recent": 27
+                    "resource_total": 200,
+                    "resource_recent": 30
                 }
             },
             "c2872dd5-ae70-4447-9e92-f7079f26e1e7": {
@@ -1818,7 +1818,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 9,
+                    "resource_total": 11,
                     "resource_recent": 4
                 }
             },
@@ -1847,7 +1847,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 169,
+                    "resource_total": 170,
                     "resource_recent": 10
                 }
             },
@@ -1883,7 +1883,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 334,
+                    "resource_total": 336,
                     "resource_recent": 31
                 }
             },
@@ -2170,6 +2170,42 @@
                 "counters": {
                     "resource_total": 10,
                     "resource_recent": 1
+                }
+            },
+            "a1083a65-aa21-4263-9b72-04a47f7f2663": {
+                "name": "tow",
+                "title": "臺南市拖吊保管場資訊",
+                "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
+                "metadata_created": "2016-05-26T02:05:48.116155",
+                "metadata_modified": "2016-05-26T02:09:08.321410",
+                "timeEnd": 1464228547,
+                "timeBegin": 1464199548,
+                "resources": {
+                    "4c529842-e198-47d0-9a2a-a28938eee646": {
+                        "id": "4c529842-e198-47d0-9a2a-a28938eee646",
+                        "name": "臺南市拖吊保管場資訊(CSV)",
+                        "created": "2016-05-26T10:06:53.440884",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b77da0e8-d261-4df9-8f9a-b762486cf482": {
+                        "id": "b77da0e8-d261-4df9-8f9a-b762486cf482",
+                        "name": "臺南市拖吊保管場資訊(XML)",
+                        "created": "2016-05-26T10:08:29.047773",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "ccb5a610-2c46-4348-9fac-43d9f8b01c58": {
+                        "id": "ccb5a610-2c46-4348-9fac-43d9f8b01c58",
+                        "name": "臺南市拖吊保管場資訊(JSON)",
+                        "created": "2016-05-26T10:09:07.958887",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "b4763c50-d754-4516-93bb-bff6f9e47c0a": {
@@ -3573,8 +3609,8 @@
             "datasets": 56,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 811,
-            "resource_recent": 231
+            "resource_total": 815,
+            "resource_recent": 234
         },
         "datasets": {
             "02b8a777-c885-4fab-8d08-9e78705510af": {
@@ -3830,8 +3866,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 19,
-                    "resource_recent": 8
+                    "resource_total": 20,
+                    "resource_recent": 9
                 }
             },
             "54d6c0c7-ac03-406e-9499-6d993350232c": {
@@ -4105,7 +4141,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
+                    "resource_total": 5,
                     "resource_recent": 1
                 }
             },
@@ -5143,8 +5179,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 57,
-                    "resource_recent": 9
+                    "resource_total": 58,
+                    "resource_recent": 10
                 }
             },
             "e6886330-22b3-4912-ab61-9857bc54ff9a": {
@@ -5810,8 +5846,8 @@
                 "title": "臺南市公告地價表",
                 "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
                 "metadata_created": "2016-02-23T03:56:11.187556",
-                "metadata_modified": "2016-05-17T06:10:16.810284",
-                "timeEnd": 1463465378,
+                "metadata_modified": "2016-05-26T00:59:41.702392",
+                "timeEnd": 1464195581,
                 "timeBegin": 1456170971,
                 "resources": {
                     "0ec58d27-d2b1-4eb2-99f5-34f460030d84": {
@@ -5830,8 +5866,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 52,
-                    "resource_recent": 21
+                    "resource_total": 53,
+                    "resource_recent": 22
                 }
             },
             "0ad4c6f0-234b-44e3-853e-82165c72019c": {
@@ -7225,8 +7261,8 @@
             "datasets": 19,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 401,
-            "resource_recent": 39
+            "resource_total": 403,
+            "resource_recent": 37
         },
         "datasets": {
             "a11e8d2d-20c5-42c9-9a60-cd6217242473": {
@@ -7313,8 +7349,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 24,
-                    "resource_recent": 3
+                    "resource_total": 25,
+                    "resource_recent": 1
                 }
             },
             "7ae98f0c-b5eb-4229-a1ce-bc4b13f68435": {
@@ -7335,7 +7371,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 19,
+                    "resource_total": 20,
                     "resource_recent": 1
                 }
             },
@@ -7668,8 +7704,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 831,
-            "resource_recent": 95
+            "resource_total": 836,
+            "resource_recent": 96
         },
         "datasets": {
             "f360c1dc-39d9-4772-8a66-ba1b57260e3d": {
@@ -8145,8 +8181,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 473,
-                    "resource_recent": 65
+                    "resource_total": 477,
+                    "resource_recent": 66
                 }
             },
             "09e86364-9562-45a0-a8ab-671ffd6ca839": {
@@ -8195,7 +8231,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 124,
+                    "resource_total": 125,
                     "resource_recent": 13
                 }
             }
@@ -9552,8 +9588,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 158,
-            "resource_recent": 23
+            "resource_total": 159,
+            "resource_recent": 24
         },
         "datasets": {
             "8b063457-8da8-485f-a2ae-61d7f2d5b351": {
@@ -9833,8 +9869,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
+                    "resource_total": 2,
+                    "resource_recent": 2
                 }
             },
             "ce03412f-948c-419b-b994-dd3a0d9a1777": {
@@ -17333,8 +17369,8 @@
             "datasets": 49,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 713,
-            "resource_recent": 128
+            "resource_total": 718,
+            "resource_recent": 129
         },
         "datasets": {
             "00d91614-39d6-461f-ab68-ab481127c669": {
@@ -18392,7 +18428,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 138,
+                    "resource_total": 139,
                     "resource_recent": 43
                 }
             },
@@ -18568,7 +18604,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 7,
+                    "resource_total": 9,
                     "resource_recent": 2
                 }
             },
@@ -18590,8 +18626,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 2,
-                    "resource_recent": 2
+                    "resource_total": 4,
+                    "resource_recent": 3
                 }
             },
             "47209ca9-8d8b-4710-83a3-5a1fbccb2c36": {
@@ -20011,7 +20047,7 @@
             "datasets": 26,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 317,
+            "resource_total": 318,
             "resource_recent": 46
         },
         "datasets": {
@@ -20214,7 +20250,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 49,
+                    "resource_total": 50,
                     "resource_recent": 8
                 }
             },
@@ -21342,8 +21378,8 @@
             "datasets": 70,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3466,
-            "resource_recent": 285
+            "resource_total": 3480,
+            "resource_recent": 291
         },
         "datasets": {
             "e6b5dcbc-875e-4cf8-bf92-b7b57a07cba1": {
@@ -21855,8 +21891,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1528,
-                    "resource_recent": 57
+                    "resource_total": 1529,
+                    "resource_recent": 58
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -21864,8 +21900,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-05-24T23:31:03.119968",
-                "timeEnd": 1464105600,
+                "metadata_modified": "2016-05-25T23:31:02.771893",
+                "timeEnd": 1464192000,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -21887,7 +21923,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-05-25T00:00:00"
+                        "last_modified": "2016-05-26T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -21898,8 +21934,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 433,
-                    "resource_recent": 64
+                    "resource_total": 435,
+                    "resource_recent": 62
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -21907,8 +21943,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-05-24T23:31:15.000128",
-                "timeEnd": 1464105600,
+                "metadata_modified": "2016-05-25T23:31:15.248240",
+                "timeEnd": 1464192000,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -22000,12 +22036,12 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-25T00:00:00"
+                        "last_modified": "2016-05-26T00:00:00"
                     }
                 },
                 "counters": {
-                    "resource_total": 500,
-                    "resource_recent": 29
+                    "resource_total": 511,
+                    "resource_recent": 36
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -24764,8 +24800,8 @@
             "datasets": 13,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 85,
-            "resource_recent": 23
+            "resource_total": 86,
+            "resource_recent": 24
         },
         "datasets": {
             "49b04804-6765-46a4-bb61-eb37a894cf6e": {
@@ -25033,8 +25069,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
+                    "resource_total": 2,
+                    "resource_recent": 2
                 }
             },
             "119262cc-25c7-4ca8-b639-a1dbfcc6c611": {
@@ -25784,5 +25820,5 @@
             }
         }
     },
-    "time_generated": 1464208248
+    "time_generated": 1464294648
 }
