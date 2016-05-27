@@ -1,11 +1,11 @@
 {
     "主計處": {
         "counters": {
-            "datasets": 4,
+            "datasets": 6,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 52,
-            "resource_recent": 51
+            "resource_total": 58,
+            "resource_recent": 57
         },
         "datasets": {
             "440ff101-17bf-47d1-b9da-2e367aaf656e": {
@@ -84,6 +84,211 @@
                 "counters": {
                     "resource_total": 6,
                     "resource_recent": 6
+                }
+            },
+            "516ae00b-5144-400c-981c-dc17a448f8d6": {
+                "name": "103-gender",
+                "title": "103年度臺南市性別圖像",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-27T09:32:58.070002",
+                "metadata_modified": "2016-05-27T09:41:43.750659",
+                "timeEnd": 1464342103,
+                "timeBegin": 1464312778,
+                "resources": {
+                    "1ccee957-07ab-4941-9c68-0e8c4126e861": {
+                        "id": "1ccee957-07ab-4941-9c68-0e8c4126e861",
+                        "name": "103年臺南市性別圖像-1.人口成長",
+                        "created": "2016-05-27T17:37:44.214368",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b7fca59a-1de4-4651-9562-06db10010df1": {
+                        "id": "b7fca59a-1de4-4651-9562-06db10010df1",
+                        "name": "103年臺南市性別圖像-2.婚育概況",
+                        "created": "2016-05-27T17:38:32.646163",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "0c59b2a3-429b-4c30-b094-460c6105b24b": {
+                        "id": "0c59b2a3-429b-4c30-b094-460c6105b24b",
+                        "name": "103年臺南市性別圖像-3.勞動就業",
+                        "created": "2016-05-27T17:38:59.587890",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "7f23682a-37c1-4066-a511-311ead8a152c": {
+                        "id": "7f23682a-37c1-4066-a511-311ead8a152c",
+                        "name": "103年臺南市性別圖像-4.教育文化",
+                        "created": "2016-05-27T17:39:21.444007",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b843b735-b025-4956-bc04-f2b416369b5b": {
+                        "id": "b843b735-b025-4956-bc04-f2b416369b5b",
+                        "name": "103年臺南市性別圖像-5.社會福利",
+                        "created": "2016-05-27T17:39:42.818663",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4b84555f-3933-4aa1-90b9-4cbcccdbe37c": {
+                        "id": "4b84555f-3933-4aa1-90b9-4cbcccdbe37c",
+                        "name": "103年臺南市性別圖像-6.社會治安及公共安全",
+                        "created": "2016-05-27T17:40:03.320200",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "5947add3-9d4d-4938-93af-b4b8878955e4": {
+                        "id": "5947add3-9d4d-4938-93af-b4b8878955e4",
+                        "name": "103年臺南市性別圖像-7.醫療保健",
+                        "created": "2016-05-27T17:40:24.468062",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "0c4c0e70-7a3c-4564-8fc7-828bc862c998": {
+                        "id": "0c4c0e70-7a3c-4564-8fc7-828bc862c998",
+                        "name": "103年臺南市性別圖像-8.家庭生活",
+                        "created": "2016-05-27T17:41:00.966309",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "22a55239-7092-484d-9d40-146a6b46e671": {
+                        "id": "22a55239-7092-484d-9d40-146a6b46e671",
+                        "name": "103年臺南市性別圖像-9.政府服務",
+                        "created": "2016-05-27T17:41:22.529515",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a7ca2f14-2b1d-49ff-a8b0-3cd469aee7ba": {
+                        "id": "a7ca2f14-2b1d-49ff-a8b0-3cd469aee7ba",
+                        "name": "103年臺南市性別圖像-10.附錄",
+                        "created": "2016-05-27T17:41:43.300042",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0c4bc995-98d6-498f-a8e9-d35fcf526cc7": {
+                "name": "103-statistical-yearbook",
+                "title": "103年臺南市統計年報",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-27T02:50:59.360331",
+                "metadata_modified": "2016-05-27T09:23:50.040071",
+                "timeEnd": 1464341029,
+                "timeBegin": 1464288659,
+                "resources": {
+                    "4468e23f-a0be-47f6-9c05-c54295280d0d": {
+                        "id": "4468e23f-a0be-47f6-9c05-c54295280d0d",
+                        "name": "103年臺南市統計年報-1.土地",
+                        "created": "2016-05-27T11:47:04.626334",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "cf9ff2a9-df2d-4a7c-a9ee-fc50624255af": {
+                        "id": "cf9ff2a9-df2d-4a7c-a9ee-fc50624255af",
+                        "name": "103年臺南市統計年報-2.人口",
+                        "created": "2016-05-27T13:52:49.545257",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a8f66f34-6e58-45a8-86af-2527a5218b47": {
+                        "id": "a8f66f34-6e58-45a8-86af-2527a5218b47",
+                        "name": "103年臺南市統計年報-3.行政組織",
+                        "created": "2016-05-27T13:53:20.491410",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "e149db5a-2ed5-4d81-be7b-9200175dee5f": {
+                        "id": "e149db5a-2ed5-4d81-be7b-9200175dee5f",
+                        "name": "103年臺南市統計年報-4.農林漁牧",
+                        "created": "2016-05-27T16:40:08.474397",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a864a2f8-2bf8-4adb-aebf-efaf1213c4f9": {
+                        "id": "a864a2f8-2bf8-4adb-aebf-efaf1213c4f9",
+                        "name": "103年臺南市統計年報-5.工商業及市建設",
+                        "created": "2016-05-27T16:44:55.398975",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "69823963-708f-40ab-92f2-d410b8bd89b4": {
+                        "id": "69823963-708f-40ab-92f2-d410b8bd89b4",
+                        "name": "103年臺南市統計年報-6.金融財稅",
+                        "created": "2016-05-27T17:18:37.696188",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "5122bdf1-012f-445f-9a0f-02b39d202077": {
+                        "id": "5122bdf1-012f-445f-9a0f-02b39d202077",
+                        "name": "103年臺南市統計年報-7.交通運輸",
+                        "created": "2016-05-27T17:19:04.396784",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3136f411-f378-4f47-997b-5a787646c95b": {
+                        "id": "3136f411-f378-4f47-997b-5a787646c95b",
+                        "name": "103年臺南市統計年報-8.教育文化",
+                        "created": "2016-05-27T17:19:53.714084",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "0f1fe044-a10e-4f31-a663-93a8ed1a96e1": {
+                        "id": "0f1fe044-a10e-4f31-a663-93a8ed1a96e1",
+                        "name": "103年臺南市統計年報-9.衛生",
+                        "created": "2016-05-27T17:20:31.540942",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "e4a3570b-3b75-422a-b886-ae54b1bcf183": {
+                        "id": "e4a3570b-3b75-422a-b886-ae54b1bcf183",
+                        "name": "103年臺南市統計年報-10.環境保護",
+                        "created": "2016-05-27T17:21:37.237868",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "ce3f74d3-fd92-497c-81bf-c6ba11cf124f": {
+                        "id": "ce3f74d3-fd92-497c-81bf-c6ba11cf124f",
+                        "name": "103年臺南市統計年報-11.社會福利",
+                        "created": "2016-05-27T17:22:02.297942",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "fedd2514-8faf-49a8-b4ab-7b5130b7c2cc": {
+                        "id": "fedd2514-8faf-49a8-b4ab-7b5130b7c2cc",
+                        "name": "103年臺南市統計年報-12.勞工行政",
+                        "created": "2016-05-27T17:22:29.567847",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "02ab3d8f-0832-4cdd-99c7-afad7d8fd8a9": {
+                        "id": "02ab3d8f-0832-4cdd-99c7-afad7d8fd8a9",
+                        "name": "103年臺南市統計年報-13.社會治安",
+                        "created": "2016-05-27T17:22:59.409598",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "fdad3f65-19b9-43cf-ac89-ea28c10f906c": {
+                        "id": "fdad3f65-19b9-43cf-ac89-ea28c10f906c",
+                        "name": "103年臺南市統計年報-14.家庭收支",
+                        "created": "2016-05-27T17:23:25.877021",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "987642bd-41be-49b8-bfb4-72bac10a541f": {
+                        "id": "987642bd-41be-49b8-bfb4-72bac10a541f",
+                        "name": "103年臺南市統計年報-15.其他",
+                        "created": "2016-05-27T17:23:49.605170",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "174151f4-cc94-46cb-8b87-a20dbbaf7ac2": {
@@ -261,8 +466,8 @@
                 "title": "105年度臺南市地方總預算附屬單位預算及綜計表",
                 "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
                 "metadata_created": "2016-05-23T07:55:12.965872",
-                "metadata_modified": "2016-05-26T09:03:10.219374",
-                "timeEnd": 1464224590,
+                "metadata_modified": "2016-05-27T02:10:48.527889",
+                "timeEnd": 1464286248,
                 "timeBegin": 1463961312,
                 "resources": {
                     "cd5032c3-e0a8-4081-8054-7e7aed77f0b5": {
@@ -386,8 +591,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 22,
-                    "resource_recent": 22
+                    "resource_total": 27,
+                    "resource_recent": 27
                 }
             }
         }
@@ -397,8 +602,8 @@
             "datasets": 41,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1996,
-            "resource_recent": 283
+            "resource_total": 2012,
+            "resource_recent": 284
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -599,8 +804,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 122,
-                    "resource_recent": 19
+                    "resource_total": 124,
+                    "resource_recent": 14
                 }
             },
             "ea14c26c-b3e3-45e4-8f61-55437a27d2eb": {
@@ -1350,8 +1555,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 173,
-                    "resource_recent": 31
+                    "resource_total": 174,
+                    "resource_recent": 30
                 }
             },
             "970aa102-b901-439f-9350-2c5fea209764": {
@@ -1569,7 +1774,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 205,
+                    "resource_total": 206,
                     "resource_recent": 26
                 }
             },
@@ -1654,8 +1859,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 143,
-                    "resource_recent": 16
+                    "resource_total": 147,
+                    "resource_recent": 18
                 }
             },
             "6e5703d6-38ff-4a5c-8f4f-b3f95ea85ef7": {
@@ -1746,8 +1951,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 200,
-                    "resource_recent": 30
+                    "resource_total": 201,
+                    "resource_recent": 31
                 }
             },
             "c2872dd5-ae70-4447-9e92-f7079f26e1e7": {
@@ -1847,7 +2052,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 170,
+                    "resource_total": 171,
                     "resource_recent": 10
                 }
             },
@@ -1883,8 +2088,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 336,
-                    "resource_recent": 31
+                    "resource_total": 341,
+                    "resource_recent": 35
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -2146,7 +2351,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 17,
+                    "resource_total": 18,
                     "resource_recent": 6
                 }
             },
@@ -3609,8 +3814,8 @@
             "datasets": 56,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 815,
-            "resource_recent": 234
+            "resource_total": 821,
+            "resource_recent": 238
         },
         "datasets": {
             "02b8a777-c885-4fab-8d08-9e78705510af": {
@@ -4075,7 +4280,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 15,
+                    "resource_total": 16,
                     "resource_recent": 1
                 }
             },
@@ -4097,7 +4302,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 9,
+                    "resource_total": 10,
                     "resource_recent": 1
                 }
             },
@@ -5866,8 +6071,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 53,
-                    "resource_recent": 22
+                    "resource_total": 56,
+                    "resource_recent": 25
                 }
             },
             "0ad4c6f0-234b-44e3-853e-82165c72019c": {
@@ -5895,8 +6100,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 25,
-                    "resource_recent": 3
+                    "resource_total": 26,
+                    "resource_recent": 4
                 }
             },
             "db3ab51d-dde8-4918-8452-ec999630e731": {
@@ -6679,7 +6884,7 @@
             "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 287,
+            "resource_total": 288,
             "resource_recent": 53
         },
         "datasets": {
@@ -7067,7 +7272,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 51,
+                    "resource_total": 52,
                     "resource_recent": 4
                 }
             },
@@ -7704,8 +7909,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 836,
-            "resource_recent": 96
+            "resource_total": 842,
+            "resource_recent": 95
         },
         "datasets": {
             "f360c1dc-39d9-4772-8a66-ba1b57260e3d": {
@@ -8181,8 +8386,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 477,
-                    "resource_recent": 66
+                    "resource_total": 481,
+                    "resource_recent": 67
                 }
             },
             "09e86364-9562-45a0-a8ab-671ffd6ca839": {
@@ -8231,8 +8436,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 125,
-                    "resource_recent": 13
+                    "resource_total": 127,
+                    "resource_recent": 11
                 }
             }
         }
@@ -9280,7 +9485,7 @@
     },
     "民族事務委員會": {
         "counters": {
-            "datasets": 7,
+            "datasets": 8,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 9,
@@ -9404,11 +9609,11 @@
             },
             "91adcedc-8e34-4f55-b223-fb4b7ff7b349": {
                 "name": "http-www-tainan-gov-tw-nation-page-asp-nsub-g0a000",
-                "title": "臺南市原住民文化會館",
+                "title": "臺南市原住民場館",
                 "organization_id": "ef357986-e616-4faf-b39c-cbaf2beba47a",
                 "metadata_created": "2016-05-18T07:58:41.101720",
-                "metadata_modified": "2016-05-24T01:03:56.824082",
-                "timeEnd": 1464023036,
+                "metadata_modified": "2016-05-27T01:16:23.473587",
+                "timeEnd": 1464282983,
                 "timeBegin": 1463529521,
                 "resources": {
                     "6fb0c6c0-6276-482b-aec8-ed61025157c3": {
@@ -9461,11 +9666,11 @@
             },
             "a0571919-1f94-40b9-b9f0-862bfe65735c": {
                 "name": "http-www-tainan-gov-tw-nation-page-asp-nsub-g0a100",
-                "title": "臺南市客家文化會館",
+                "title": "臺南市客家場館",
                 "organization_id": "ef357986-e616-4faf-b39c-cbaf2beba47a",
                 "metadata_created": "2016-05-18T08:50:09.385637",
-                "metadata_modified": "2016-05-23T06:04:03.418027",
-                "timeEnd": 1463983404,
+                "metadata_modified": "2016-05-27T01:16:46.817536",
+                "timeEnd": 1464283006,
                 "timeBegin": 1463532609,
                 "resources": {
                     "40d7784e-2471-4390-81d7-de7ddcdc9a82": {
@@ -9517,13 +9722,35 @@
                     "resource_recent": 0
                 }
             },
+            "25635d86-78cd-4e9d-ae90-f575dbd65383": {
+                "name": "http-www-tainan-gov-tw-nation-page-asp-nsub-h0a100",
+                "title": "臺南市客家社團名冊",
+                "organization_id": "ef357986-e616-4faf-b39c-cbaf2beba47a",
+                "metadata_created": "2016-05-25T07:03:25.577972",
+                "metadata_modified": "2016-05-25T07:05:26.193431",
+                "timeEnd": 1464159891,
+                "timeBegin": 1464131005,
+                "resources": {
+                    "c20706db-2393-44bb-bcc2-f26d1aeb5031": {
+                        "id": "c20706db-2393-44bb-bcc2-f26d1aeb5031",
+                        "name": "臺南市客家社團聯絡名冊",
+                        "created": "2016-05-25T15:04:51.888939",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "45c5a884-c838-4a9e-b905-0b8abf5041c2": {
                 "name": "http-www-tainan-gov-tw-nation-page-asp-nsub-h1a500",
-                "title": "民族事務委員會會議",
+                "title": "臺南市政府民族事務委員會議",
                 "organization_id": "ef357986-e616-4faf-b39c-cbaf2beba47a",
                 "metadata_created": "2015-12-24T08:46:48.969567",
-                "metadata_modified": "2016-04-27T08:28:43.771890",
-                "timeEnd": 1461745723,
+                "metadata_modified": "2016-05-27T01:15:42.729885",
+                "timeEnd": 1464282942,
                 "timeBegin": 1450918008,
                 "resources": {
                     "c75b29b2-e909-4162-944d-bed035306fd7": {
@@ -9972,8 +10199,8 @@
             "datasets": 78,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 286,
-            "resource_recent": 155
+            "resource_total": 287,
+            "resource_recent": 153
         },
         "datasets": {
             "b52eebe5-f594-4503-b40f-cc0631be8219": {
@@ -10096,8 +10323,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 22,
-                    "resource_recent": 5
+                    "resource_total": 23,
+                    "resource_recent": 3
                 }
             },
             "1d7375a3-3f23-41c1-ad69-5f1bebb9a892": {
@@ -17369,8 +17596,8 @@
             "datasets": 49,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 718,
-            "resource_recent": 129
+            "resource_total": 722,
+            "resource_recent": 130
         },
         "datasets": {
             "00d91614-39d6-461f-ab68-ab481127c669": {
@@ -18428,8 +18655,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 139,
-                    "resource_recent": 43
+                    "resource_total": 141,
+                    "resource_recent": 45
                 }
             },
             "4f0b4b4b-90dd-4273-b537-f87bc915fedc": {
@@ -18692,7 +18919,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
+                    "resource_total": 6,
                     "resource_recent": 1
                 }
             },
@@ -18714,8 +18941,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 14,
-                    "resource_recent": 2
+                    "resource_total": 15,
+                    "resource_recent": 1
                 }
             },
             "8b193c72-38c2-48df-8e89-c76eeedf09a4": {
@@ -19677,7 +19904,7 @@
             "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 123,
+            "resource_total": 124,
             "resource_recent": 25
         },
         "datasets": {
@@ -20014,7 +20241,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 12,
+                    "resource_total": 13,
                     "resource_recent": 1
                 }
             },
@@ -20735,7 +20962,7 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1113,
+            "resource_total": 1114,
             "resource_recent": 68
         },
         "datasets": {
@@ -20897,7 +21124,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1093,
+                    "resource_total": 1094,
                     "resource_recent": 53
                 }
             },
@@ -21378,8 +21605,8 @@
             "datasets": 70,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3480,
-            "resource_recent": 291
+            "resource_total": 3483,
+            "resource_recent": 292
         },
         "datasets": {
             "e6b5dcbc-875e-4cf8-bf92-b7b57a07cba1": {
@@ -21473,7 +21700,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 29,
+                    "resource_total": 30,
                     "resource_recent": 1
                 }
             },
@@ -21891,7 +22118,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1529,
+                    "resource_total": 1530,
                     "resource_recent": 58
                 }
             },
@@ -21900,8 +22127,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-05-25T23:31:02.771893",
-                "timeEnd": 1464192000,
+                "metadata_modified": "2016-05-26T23:31:01.754732",
+                "timeEnd": 1464278400,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -21923,7 +22150,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-05-26T00:00:00"
+                        "last_modified": "2016-05-27T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -21943,8 +22170,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-05-25T23:31:15.248240",
-                "timeEnd": 1464192000,
+                "metadata_modified": "2016-05-26T23:31:16.706340",
+                "timeEnd": 1464278400,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -22036,12 +22263,12 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-26T00:00:00"
+                        "last_modified": "2016-05-27T00:00:00"
                     }
                 },
                 "counters": {
-                    "resource_total": 511,
-                    "resource_recent": 36
+                    "resource_total": 512,
+                    "resource_recent": 37
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -23538,7 +23765,7 @@
             "datasets": 3,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 373,
+            "resource_total": 374,
             "resource_recent": 22
         },
         "datasets": {
@@ -23603,7 +23830,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 202,
+                    "resource_total": 203,
                     "resource_recent": 12
                 }
             },
@@ -24800,8 +25027,8 @@
             "datasets": 13,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 86,
-            "resource_recent": 24
+            "resource_total": 79,
+            "resource_recent": 23
         },
         "datasets": {
             "49b04804-6765-46a4-bb61-eb37a894cf6e": {
@@ -24880,8 +25107,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 14,
-                    "resource_recent": 2
+                    "resource_total": 15,
+                    "resource_recent": 3
                 }
             },
             "e5d89031-3d97-49ba-9858-6df7d831fbb3": {
@@ -25075,31 +25302,24 @@
             },
             "119262cc-25c7-4ca8-b639-a1dbfcc6c611": {
                 "name": "pripro-stores",
-                "title": "臺南市優質農特產精品館",
+                "title": "臺南市各區農會產品網路購物",
                 "organization_id": "32a07d6c-799d-46ab-81fd-41484a71bb26",
                 "metadata_created": "2014-02-20T09:51:42.335024",
-                "metadata_modified": "2014-06-03T10:11:03.453705",
-                "timeEnd": 1401761463,
+                "metadata_modified": "2016-05-27T02:31:02.424750",
+                "timeEnd": 1464316203,
                 "timeBegin": 1392861102,
                 "resources": {
-                    "897370b5-6596-4070-ac6a-834ff28435d2": {
-                        "id": "897370b5-6596-4070-ac6a-834ff28435d2",
-                        "name": "臺南農漁產品網路商城",
-                        "created": "2014-02-20T17:52:09.926938",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "10d9cb41-c42a-4b43-b1f6-5d35aa246b75": {
-                        "id": "10d9cb41-c42a-4b43-b1f6-5d35aa246b75",
-                        "name": "臺南市農會網路商城",
-                        "created": "2014-02-20T17:52:47.964511",
+                    "f5b99df2-b17d-45d7-ba80-f223ee841eaf": {
+                        "id": "f5b99df2-b17d-45d7-ba80-f223ee841eaf",
+                        "name": "臺南市各區農會產品網路購物",
+                        "created": "2016-05-27T10:30:03.490775",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 8,
-                    "resource_recent": 2
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "3298f2bd-57d9-4790-836a-0a2905a567cd": {
@@ -25153,8 +25373,8 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 651,
-            "resource_recent": 89
+            "resource_total": 652,
+            "resource_recent": 90
         },
         "datasets": {
             "5b799b1e-de08-4b43-8dfa-e2c8c137bc07": {
@@ -25727,8 +25947,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 589,
-                    "resource_recent": 77
+                    "resource_total": 590,
+                    "resource_recent": 78
                 }
             },
             "fd50ca07-d045-4455-ad5c-433fe07b262d": {
@@ -25820,5 +26040,5 @@
             }
         }
     },
-    "time_generated": 1464294648
+    "time_generated": 1464381062
 }
