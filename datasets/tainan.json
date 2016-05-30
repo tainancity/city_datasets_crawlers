@@ -1,11 +1,11 @@
 {
     "主計處": {
         "counters": {
-            "datasets": 6,
+            "datasets": 8,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 58,
-            "resource_recent": 57
+            "resource_total": 66,
+            "resource_recent": 65
         },
         "datasets": {
             "440ff101-17bf-47d1-b9da-2e367aaf656e": {
@@ -167,8 +167,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "0c4bc995-98d6-498f-a8e9-d35fcf526cc7": {
@@ -176,8 +176,8 @@
                 "title": "103年臺南市統計年報",
                 "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
                 "metadata_created": "2016-05-27T02:50:59.360331",
-                "metadata_modified": "2016-05-27T09:23:50.040071",
-                "timeEnd": 1464341029,
+                "metadata_modified": "2016-05-30T08:39:15.054214",
+                "timeEnd": 1464568755,
                 "timeBegin": 1464288659,
                 "resources": {
                     "4468e23f-a0be-47f6-9c05-c54295280d0d": {
@@ -287,8 +287,100 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
+                    "resource_total": 2,
+                    "resource_recent": 2
+                }
+            },
+            "e1760de6-ee13-41a9-a862-ae8718b04eb6": {
+                "name": "103-subordinate-agency",
+                "title": "103年度臺南市地方總決算附屬單位決算綜計表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-30T02:36:43.550783",
+                "metadata_modified": "2016-05-30T08:21:31.555844",
+                "timeEnd": 1464596488,
+                "timeBegin": 1464547003,
+                "resources": {
+                    "bb2f50a9-303b-4b82-8bd2-9b68a72c1062": {
+                        "id": "bb2f50a9-303b-4b82-8bd2-9b68a72c1062",
+                        "name": "103年度營業基金損益綜計表(依收支科目分別)",
+                        "created": "2016-05-30T10:40:56.648639",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "c262e6f9-b910-4160-8d83-8a57e07f0461": {
+                        "id": "c262e6f9-b910-4160-8d83-8a57e07f0461",
+                        "name": "103年度營業基金盈虧撥補綜計表(撥補項目分別)",
+                        "created": "2016-05-30T10:50:10.962849",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3e07bdf0-ff31-42ae-aedc-4e8e493a9379": {
+                        "id": "3e07bdf0-ff31-42ae-aedc-4e8e493a9379",
+                        "name": "103年度營業基金現金流量綜計表(依現金流量項目分別)",
+                        "created": "2016-05-30T11:13:31.940425",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "62dffe31-485a-47ef-a2fe-295fbbe67507": {
+                        "id": "62dffe31-485a-47ef-a2fe-295fbbe67507",
+                        "name": "103年度營業基金資產負債綜計表(依科目分列)",
+                        "created": "2016-05-30T13:48:20.642054",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "c17b90bf-93f8-4fa7-8d3b-4808091163bc": {
+                        "id": "c17b90bf-93f8-4fa7-8d3b-4808091163bc",
+                        "name": "103年度作業基金收支餘絀綜計表(依收支科目分列)",
+                        "created": "2016-05-30T14:19:19.585321",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d18fd6ed-ebf3-44b1-a8e8-d7ca6e7d5a28": {
+                        "id": "d18fd6ed-ebf3-44b1-a8e8-d7ca6e7d5a28",
+                        "name": "103年度作業基金餘絀撥補綜計表(依撥補項目分列)",
+                        "created": "2016-05-30T15:36:09.039009",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "dd780fbb-bcb8-4221-8068-117edec96481": {
+                        "id": "dd780fbb-bcb8-4221-8068-117edec96481",
+                        "name": "103年度作業基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-05-30T15:43:14.828150",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a5ffb312-7909-4713-b66b-ac5159a7192c": {
+                        "id": "a5ffb312-7909-4713-b66b-ac5159a7192c",
+                        "name": "103年度作業基金平衡綜計表(依科目分列)",
+                        "created": "2016-05-30T15:57:05.722005",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "bdc7a833-6cd4-4e68-9fe1-ed20b3e505bb": {
+                        "id": "bdc7a833-6cd4-4e68-9fe1-ed20b3e505bb",
+                        "name": "103年度特別收入基金基金來源、用途及餘絀綜計表",
+                        "created": "2016-05-30T16:12:01.545469",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2ff56e33-c7ee-44f3-8011-c81cb9d931fa": {
+                        "id": "2ff56e33-c7ee-44f3-8011-c81cb9d931fa",
+                        "name": "103年度特別收入基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-05-30T16:16:42.577848",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "682b47a7-96a4-44ab-89b8-be8f1cba1377": {
+                        "id": "682b47a7-96a4-44ab-89b8-be8f1cba1377",
+                        "name": "103年度特別收入基金平衡綜計表(依科目分列)",
+                        "created": "2016-05-30T16:21:28.626110",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 5,
+                    "resource_recent": 5
                 }
             },
             "174151f4-cc94-46cb-8b87-a20dbbaf7ac2": {
@@ -591,8 +683,44 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 27,
-                    "resource_recent": 27
+                    "resource_total": 28,
+                    "resource_recent": 28
+                }
+            },
+            "9a84a339-a53e-46dc-8613-0941e52b3989": {
+                "name": "statistical-data",
+                "title": "臺南市統計月報、重要統計指標、統計資料庫",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-30T09:00:07.880289",
+                "metadata_modified": "2016-05-30T09:40:31.648944",
+                "timeEnd": 1464601231,
+                "timeBegin": 1464570007,
+                "resources": {
+                    "0f0cbb62-7679-4728-bd84-43abc2bf4909": {
+                        "id": "0f0cbb62-7679-4728-bd84-43abc2bf4909",
+                        "name": "臺南市統計月報",
+                        "created": "2016-05-30T17:00:58.070481",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "5f5330fc-554f-4551-8b52-8f78275e1b5c": {
+                        "id": "5f5330fc-554f-4551-8b52-8f78275e1b5c",
+                        "name": "臺南市重要統計指標",
+                        "created": "2016-05-30T17:39:40.317978",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4928c5b8-ae6f-4e4e-b4b0-9b69e2850717": {
+                        "id": "4928c5b8-ae6f-4e4e-b4b0-9b69e2850717",
+                        "name": "臺南市統計資料庫",
+                        "created": "2016-05-30T17:40:31.402070",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             }
         }
@@ -602,8 +730,8 @@
             "datasets": 41,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2042,
-            "resource_recent": 288
+            "resource_total": 2047,
+            "resource_recent": 290
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -804,7 +932,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 124,
+                    "resource_total": 125,
                     "resource_recent": 14
                 }
             },
@@ -1774,8 +1902,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 207,
-                    "resource_recent": 27
+                    "resource_total": 208,
+                    "resource_recent": 28
                 }
             },
             "e7ce6b1c-39b0-4ad1-94c2-bd79ff3fb8df": {
@@ -2052,7 +2180,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 171,
+                    "resource_total": 172,
                     "resource_recent": 10
                 }
             },
@@ -2088,8 +2216,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 349,
-                    "resource_recent": 36
+                    "resource_total": 351,
+                    "resource_recent": 37
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -2671,8 +2799,8 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 176,
-            "resource_recent": 62
+            "resource_total": 177,
+            "resource_recent": 63
         },
         "datasets": {
             "f5ccdd58-8d1a-444e-af27-142c88baebeb": {
@@ -3501,8 +3629,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 106,
-                    "resource_recent": 31
+                    "resource_total": 107,
+                    "resource_recent": 32
                 }
             },
             "4e65bf16-fcc2-44f9-8797-c0457558abe7": {
@@ -3814,7 +3942,7 @@
             "datasets": 56,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 822,
+            "resource_total": 827,
             "resource_recent": 239
         },
         "datasets": {
@@ -4071,7 +4199,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 20,
+                    "resource_total": 21,
                     "resource_recent": 9
                 }
             },
@@ -4302,8 +4430,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 1
+                    "resource_total": 11,
+                    "resource_recent": 2
                 }
             },
             "82daf261-416a-4043-9683-406fdb676e09": {
@@ -6071,8 +6199,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 56,
-                    "resource_recent": 25
+                    "resource_total": 58,
+                    "resource_recent": 26
                 }
             },
             "0ad4c6f0-234b-44e3-853e-82165c72019c": {
@@ -6371,8 +6499,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 105,
-                    "resource_recent": 20
+                    "resource_total": 106,
+                    "resource_recent": 18
                 }
             },
             "c93349cb-2d17-4360-8436-204db053182e": {
@@ -7466,7 +7594,7 @@
             "datasets": 19,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 405,
+            "resource_total": 406,
             "resource_recent": 38
         },
         "datasets": {
@@ -7810,7 +7938,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 11,
+                    "resource_total": 12,
                     "resource_recent": 1
                 }
             },
@@ -7909,7 +8037,7 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 842,
+            "resource_total": 844,
             "resource_recent": 95
         },
         "datasets": {
@@ -8386,7 +8514,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 481,
+                    "resource_total": 483,
                     "resource_recent": 67
                 }
             },
@@ -8588,8 +8716,8 @@
             "datasets": 28,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 723,
-            "resource_recent": 56
+            "resource_total": 724,
+            "resource_recent": 57
         },
         "datasets": {
             "d735ccd2-a179-49ec-ac46-ec625e739952": {
@@ -9199,8 +9327,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 75,
-                    "resource_recent": 3
+                    "resource_total": 76,
+                    "resource_recent": 4
                 }
             },
             "4db9f01b-c09f-44fd-a0f9-26987d9faa0c": {
@@ -9815,8 +9943,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 159,
-            "resource_recent": 24
+            "resource_total": 163,
+            "resource_recent": 26
         },
         "datasets": {
             "8b063457-8da8-485f-a2ae-61d7f2d5b351": {
@@ -9873,7 +10001,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 23,
+                    "resource_total": 24,
                     "resource_recent": 5
                 }
             },
@@ -9995,8 +10123,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 72,
-                    "resource_recent": 3
+                    "resource_total": 75,
+                    "resource_recent": 5
                 }
             },
             "38106dc7-d258-4ced-ad17-4f681655c5a2": {
@@ -10199,8 +10327,8 @@
             "datasets": 78,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 287,
-            "resource_recent": 153
+            "resource_total": 289,
+            "resource_recent": 155
         },
         "datasets": {
             "b52eebe5-f594-4503-b40f-cc0631be8219": {
@@ -17453,8 +17581,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 18,
-                    "resource_recent": 4
+                    "resource_total": 20,
+                    "resource_recent": 6
                 }
             },
             "3a6e761b-9369-49a6-a3b8-bee07b9cb4c5": {
@@ -19904,8 +20032,8 @@
             "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 125,
-            "resource_recent": 25
+            "resource_total": 128,
+            "resource_recent": 27
         },
         "datasets": {
             "40243c31-26aa-4efe-990b-034f76aaaaa8": {
@@ -20131,7 +20259,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 12,
+                    "resource_total": 13,
                     "resource_recent": 2
                 }
             },
@@ -20175,8 +20303,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 47,
-                    "resource_recent": 5
+                    "resource_total": 49,
+                    "resource_recent": 7
                 }
             },
             "56076e71-af79-44ec-95b2-52f737295134": {
@@ -20274,7 +20402,7 @@
             "datasets": 26,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 318,
+            "resource_total": 319,
             "resource_recent": 46
         },
         "datasets": {
@@ -20572,7 +20700,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 2,
+                    "resource_total": 3,
                     "resource_recent": 1
                 }
             },
@@ -20962,8 +21090,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1119,
-            "resource_recent": 72
+            "resource_total": 1125,
+            "resource_recent": 73
         },
         "datasets": {
             "98c119bd-5472-43ab-9b5d-3de0aa8e61df": {
@@ -21124,8 +21252,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1099,
-                    "resource_recent": 57
+                    "resource_total": 1102,
+                    "resource_recent": 55
                 }
             },
             "2acc3b8c-cdb6-4581-80a5-9f3c442a27c5": {
@@ -21266,8 +21394,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
+                    "resource_total": 4,
+                    "resource_recent": 4
                 }
             },
             "bf7eb079-8b9f-4248-a4a2-877962258763": {
@@ -21605,7 +21733,7 @@
             "datasets": 70,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3488,
+            "resource_total": 3496,
             "resource_recent": 287
         },
         "datasets": {
@@ -22118,8 +22246,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1531,
-                    "resource_recent": 56
+                    "resource_total": 1534,
+                    "resource_recent": 57
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -22127,8 +22255,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-05-28T23:30:58.699306",
-                "timeEnd": 1464451200,
+                "metadata_modified": "2016-05-29T23:31:03.855936",
+                "timeEnd": 1464537600,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -22150,7 +22278,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-05-29T00:00:00"
+                        "last_modified": "2016-05-30T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -22161,8 +22289,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 438,
-                    "resource_recent": 59
+                    "resource_total": 439,
+                    "resource_recent": 58
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -22170,8 +22298,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-05-28T23:31:11.781754",
-                "timeEnd": 1464451200,
+                "metadata_modified": "2016-05-29T23:31:16.069250",
+                "timeEnd": 1464537600,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -22263,7 +22391,7 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-29T00:00:00"
+                        "last_modified": "2016-05-30T00:00:00"
                     }
                 },
                 "counters": {
@@ -22361,8 +22489,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 35,
-                    "resource_recent": 2
+                    "resource_total": 36,
+                    "resource_recent": 1
                 }
             },
             "57ef331d-ffe8-4418-bbd2-9ab2806765cf": {
@@ -22448,8 +22576,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 14,
-                    "resource_recent": 4
+                    "resource_total": 22,
+                    "resource_recent": 8
                 }
             },
             "88f2d272-6aa1-4337-92be-705dbb2c77fa": {
@@ -22477,8 +22605,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 7,
-                    "resource_recent": 2
+                    "resource_total": 10,
+                    "resource_recent": 3
                 }
             },
             "10e8d8cd-bc34-450d-90a7-32ffac84603a": {
@@ -22552,28 +22680,21 @@
                 "title": "臺南市行動醫院全民健檢日程表",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2014-06-04T06:46:56.996079",
-                "metadata_modified": "2016-05-03T06:59:31.365540",
-                "timeEnd": 1462258485,
+                "metadata_modified": "2016-05-30T03:57:38.614258",
+                "timeEnd": 1464580636,
                 "timeBegin": 1401835616,
                 "resources": {
-                    "7878aa5e-c57b-4b44-a81f-105bdcf94307": {
-                        "id": "7878aa5e-c57b-4b44-a81f-105bdcf94307",
-                        "name": "臺南市行動醫院全民健檢日程表(更新到104年8月份)",
-                        "created": "2014-06-04T14:47:32.349827",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0286e456-ff07-4fb1-9cbe-2be47a5f69a4": {
-                        "id": "0286e456-ff07-4fb1-9cbe-2be47a5f69a4",
-                        "name": "105年度臺南市行動醫院全民健檢日程表(更新到105年5月底)",
-                        "created": "2016-05-03T14:54:45.388702",
+                    "822fb132-baa1-4980-b0f8-7cd7740e703d": {
+                        "id": "822fb132-baa1-4980-b0f8-7cd7740e703d",
+                        "name": "105年度臺南市行動醫院全民健檢日程表(更新至105年6月底)",
+                        "created": "2016-05-30T11:57:16.975633",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 4
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "215f547d-fe10-4ac3-bd15-bb5dc61ddd8d": {
@@ -22673,7 +22794,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 24,
+                    "resource_total": 26,
                     "resource_recent": 2
                 }
             },
@@ -23765,7 +23886,7 @@
             "datasets": 3,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 375,
+            "resource_total": 376,
             "resource_recent": 23
         },
         "datasets": {
@@ -23794,7 +23915,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 125,
+                    "resource_total": 126,
                     "resource_recent": 7
                 }
             },
@@ -23870,8 +23991,8 @@
             "datasets": 20,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 367,
-            "resource_recent": 92
+            "resource_total": 370,
+            "resource_recent": 91
         },
         "datasets": {
             "ae6ce7eb-7b9a-4b44-b35f-04bcbde5316e": {
@@ -24770,8 +24891,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 16,
-                    "resource_recent": 2
+                    "resource_total": 17,
+                    "resource_recent": 1
                 }
             },
             "078ec347-ae9d-4715-bfe2-72a2993877ed": {
@@ -24855,7 +24976,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 37,
+                    "resource_total": 39,
                     "resource_recent": 14
                 }
             },
@@ -24864,8 +24985,8 @@
                 "title": "臺南市政府治安會報會議紀錄",
                 "organization_id": "c48d04cc-533e-40a3-a663-e376567fa5bd",
                 "metadata_created": "2015-03-16T03:44:04.684680",
-                "metadata_modified": "2016-04-27T01:09:42.886850",
-                "timeEnd": 1461719382,
+                "metadata_modified": "2016-05-30T01:24:10.514227",
+                "timeEnd": 1464571449,
                 "timeBegin": 1426448644,
                 "resources": {
                     "ebe121e4-71b6-46b5-be8f-c61df2e8020a": {
@@ -24956,6 +25077,13 @@
                         "id": "6a8d5e0d-c976-4a39-a3d3-e51a4265bbd5",
                         "name": "第63次治安會報會議紀錄",
                         "created": "2016-04-27T09:09:42.002565",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "836a37bd-e387-45d9-86fd-7d61a804da7a": {
+                        "id": "836a37bd-e387-45d9-86fd-7d61a804da7a",
+                        "name": "第64次治安會報會議紀錄",
+                        "created": "2016-05-30T09:24:09.714438",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -25373,7 +25501,7 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 652,
+            "resource_total": 654,
             "resource_recent": 90
         },
         "datasets": {
@@ -25947,7 +26075,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 590,
+                    "resource_total": 592,
                     "resource_recent": 78
                 }
             },
@@ -26040,5 +26168,5 @@
             }
         }
     },
-    "time_generated": 1464553847
+    "time_generated": 1464640247
 }
