@@ -760,8 +760,8 @@
             "datasets": 41,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2124,
-            "resource_recent": 303
+            "resource_total": 2131,
+            "resource_recent": 302
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -962,8 +962,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 130,
-                    "resource_recent": 13
+                    "resource_total": 131,
+                    "resource_recent": 14
                 }
             },
             "ea14c26c-b3e3-45e4-8f61-55437a27d2eb": {
@@ -2109,8 +2109,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 207,
-                    "resource_recent": 36
+                    "resource_total": 208,
+                    "resource_recent": 32
                 }
             },
             "c2872dd5-ae70-4447-9e92-f7079f26e1e7": {
@@ -2210,8 +2210,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 176,
-                    "resource_recent": 12
+                    "resource_total": 177,
+                    "resource_recent": 11
                 }
             },
             "a0bb9ae4-37dc-4292-8d8e-a17027e81994": {
@@ -2246,8 +2246,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 370,
-                    "resource_recent": 40
+                    "resource_total": 373,
+                    "resource_recent": 43
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -2380,7 +2380,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 71,
+                    "resource_total": 72,
                     "resource_recent": 19
                 }
             },
@@ -10421,8 +10421,8 @@
             "datasets": 78,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 301,
-            "resource_recent": 158
+            "resource_total": 306,
+            "resource_recent": 163
         },
         "datasets": {
             "b52eebe5-f594-4503-b40f-cc0631be8219": {
@@ -10430,14 +10430,56 @@
                 "title": "臺南市政府消防局會計報告",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T07:07:20.835412",
-                "metadata_modified": "2015-05-05T08:44:05.313586",
-                "timeEnd": 1430786645,
+                "metadata_modified": "2016-06-08T09:41:12.300138",
+                "timeEnd": 1465378871,
                 "timeBegin": 1430348840,
                 "resources": {
                     "76dae14b-e6cd-4083-a77d-b5713d5b7e4e": {
                         "id": "76dae14b-e6cd-4083-a77d-b5713d5b7e4e",
                         "name": "臺南市政府消防局會計報告",
                         "created": "2015-04-30T15:08:03.300531",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3cdd413e-5401-4745-bcbf-c4e4bece8429": {
+                        "id": "3cdd413e-5401-4745-bcbf-c4e4bece8429",
+                        "name": "105年3月報歲入平衡表",
+                        "created": "2016-06-08T16:38:37.721659",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d8c89698-28ae-4bc7-8782-3f4290b3ec56": {
+                        "id": "d8c89698-28ae-4bc7-8782-3f4290b3ec56",
+                        "name": "105年3月報歲入現金出納表",
+                        "created": "2016-06-08T16:55:19.480578",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3530efde-0c64-4019-a073-0f95ef55b3d9": {
+                        "id": "3530efde-0c64-4019-a073-0f95ef55b3d9",
+                        "name": "105年3月報歲入累計表",
+                        "created": "2016-06-08T17:15:08.870850",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "720ed273-fb3b-4603-860c-f6044d223eab": {
+                        "id": "720ed273-fb3b-4603-860c-f6044d223eab",
+                        "name": "105年3月報經費平衡表",
+                        "created": "2016-06-08T17:27:52.095107",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "1b71508f-a469-426c-b66f-f4e3af9cb8bc": {
+                        "id": "1b71508f-a469-426c-b66f-f4e3af9cb8bc",
+                        "name": "105年3月報經費現金出納表",
+                        "created": "2016-06-08T17:34:58.429299",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "65395a72-42ad-4e8d-8ab7-98afee07880b": {
+                        "id": "65395a72-42ad-4e8d-8ab7-98afee07880b",
+                        "name": "105年3月報經費累計表",
+                        "created": "2016-06-08T17:41:11.112197",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -10474,14 +10516,28 @@
                 "title": "標案明細表",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T09:07:30.848106",
-                "metadata_modified": "2015-05-05T08:37:18.758904",
-                "timeEnd": 1430786238,
+                "metadata_modified": "2016-06-08T06:44:16.348753",
+                "timeEnd": 1465368254,
                 "timeBegin": 1430356050,
                 "resources": {
                     "674e5821-a3f2-4138-94af-deef0c74957c": {
                         "id": "674e5821-a3f2-4138-94af-deef0c74957c",
                         "name": "標案明細表",
                         "created": "2015-04-30T17:08:08.293336",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "db3fdcf4-64df-4eb2-86d8-6ff4bd053fa4": {
+                        "id": "db3fdcf4-64df-4eb2-86d8-6ff4bd053fa4",
+                        "name": "臺南市政府消防局104年標案明細表",
+                        "created": "2016-06-08T14:40:32.361391",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4bad35b2-1b4f-4bc5-b228-7f37019e3e33": {
+                        "id": "4bad35b2-1b4f-4bc5-b228-7f37019e3e33",
+                        "name": "臺南市政府消防局105年標案明細表",
+                        "created": "2016-06-08T14:44:14.941326",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -10496,8 +10552,8 @@
                 "title": "臺南市政府消防局預算及決算書",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T07:02:34.924340",
-                "metadata_modified": "2015-05-05T08:44:49.335888",
-                "timeEnd": 1430786689,
+                "metadata_modified": "2016-06-08T09:31:07.696674",
+                "timeEnd": 1465378265,
                 "timeBegin": 1430348554,
                 "resources": {
                     "89bb5823-e518-4b1c-a4db-995fdf6fe653": {
@@ -10506,11 +10562,25 @@
                         "created": "2015-04-30T15:03:29.121230",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "6c28332e-4152-4407-a083-175115d3c574": {
+                        "id": "6c28332e-4152-4407-a083-175115d3c574",
+                        "name": "105年歲入來源別預算表",
+                        "created": "2016-06-08T15:16:23.012266",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "43b13bf3-c90e-44ee-90b1-5db890d91dd0": {
+                        "id": "43b13bf3-c90e-44ee-90b1-5db890d91dd0",
+                        "name": "105年歲出機關別預算表",
+                        "created": "2016-06-08T17:31:05.738165",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
-                    "resource_recent": 1
+                    "resource_total": 5,
+                    "resource_recent": 2
                 }
             },
             "365f7bd1-835e-4957-9f1f-918bc0604e01": {
@@ -10604,8 +10674,8 @@
                 "title": "每月臺南市消防緊急救護服務統計",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T01:17:37.007057",
-                "metadata_modified": "2015-05-05T08:52:08.946141",
-                "timeEnd": 1430787128,
+                "metadata_modified": "2016-06-08T06:08:07.162807",
+                "timeEnd": 1465366085,
                 "timeBegin": 1430327857,
                 "resources": {
                     "6141cd37-11a7-468c-93c7-ed12d21eb150": {
@@ -10614,11 +10684,39 @@
                         "created": "2015-04-30T09:18:59.502341",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "2a3fd57b-fda0-42ef-aed2-4540e03756ab": {
+                        "id": "2a3fd57b-fda0-42ef-aed2-4540e03756ab",
+                        "name": "105年1月救護服務統計",
+                        "created": "2016-06-08T11:30:49.349649",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "8a1dd313-0152-4b7b-af07-cf0187fde373": {
+                        "id": "8a1dd313-0152-4b7b-af07-cf0187fde373",
+                        "name": "105年2月救護服務統計",
+                        "created": "2016-06-08T11:38:26.372318",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "ebffa51c-5de4-4892-a503-d140a28ed64a": {
+                        "id": "ebffa51c-5de4-4892-a503-d140a28ed64a",
+                        "name": "105年3月救護服務統計",
+                        "created": "2016-06-08T14:05:22.080203",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "58fb4e59-0bd4-446f-a2f8-0cdb795cd526": {
+                        "id": "58fb4e59-0bd4-446f-a2f8-0cdb795cd526",
+                        "name": "105年4月救護服務統計",
+                        "created": "2016-06-08T14:08:05.948536",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 1
+                    "resource_total": 7,
+                    "resource_recent": 3
                 }
             },
             "3ed8b08a-ecca-4b02-8842-15696a2cc2d1": {
@@ -10736,8 +10834,8 @@
                 "title": "火災調查資料",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T08:35:54.377484",
-                "metadata_modified": "2015-05-05T08:39:47.902517",
-                "timeEnd": 1430786387,
+                "metadata_modified": "2016-06-08T10:30:28.711641",
+                "timeEnd": 1465381737,
                 "timeBegin": 1430354154,
                 "resources": {
                     "63330b91-c306-4b43-b10f-c02e72359c6b": {
@@ -10746,11 +10844,46 @@
                         "created": "2015-04-30T16:36:27.317747",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "ed51d5fe-93d2-4e90-9c14-121825c2c9d0": {
+                        "id": "ed51d5fe-93d2-4e90-9c14-121825c2c9d0",
+                        "name": "105年4月臺南市火災人員死傷、財物損失統計",
+                        "created": "2016-06-08T18:17:36.791150",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "52e6e632-4da8-4226-956b-577b25a28f40": {
+                        "id": "52e6e632-4da8-4226-956b-577b25a28f40",
+                        "name": "105年4月臺南市火災次數分類及時間統計",
+                        "created": "2016-06-08T18:22:30.990031",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "84e4af67-20df-40cf-bb09-3648d915ac2f": {
+                        "id": "84e4af67-20df-40cf-bb09-3648d915ac2f",
+                        "name": "105年4月臺南市火災次數按起火原因分統計",
+                        "created": "2016-06-08T18:25:24.683518",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f7d58855-3150-44a7-b2bc-c58eb50047d4": {
+                        "id": "f7d58855-3150-44a7-b2bc-c58eb50047d4",
+                        "name": "105年4月臺南市火災次數按起火處分統計",
+                        "created": "2016-06-08T18:27:09.126541",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6b57e02f-6792-44a1-ae12-16103c5f2c24": {
+                        "id": "6b57e02f-6792-44a1-ae12-16103c5f2c24",
+                        "name": "105年4月臺南市起火建築物統計",
+                        "created": "2016-06-08T18:28:57.140883",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 2,
-                    "resource_recent": 1
+                    "resource_total": 3,
+                    "resource_recent": 2
                 }
             },
             "7c361e0a-92c9-4963-8f25-8c0950c43648": {
@@ -10824,14 +10957,21 @@
                 "title": "消防水源資料",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T08:30:47.462752",
-                "metadata_modified": "2015-05-05T08:41:04.348910",
-                "timeEnd": 1430786464,
+                "metadata_modified": "2016-06-08T10:13:14.386839",
+                "timeEnd": 1465380793,
                 "timeBegin": 1430353847,
                 "resources": {
                     "54c4871f-12f3-496c-826f-12b885a4dd77": {
                         "id": "54c4871f-12f3-496c-826f-12b885a4dd77",
                         "name": "消防水源資料",
                         "created": "2015-04-30T16:31:22.068854",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "7fcb9ecf-d846-494e-b09a-1463455e169a": {
+                        "id": "7fcb9ecf-d846-494e-b09a-1463455e169a",
+                        "name": "105年4月臺南市消防水源統計",
+                        "created": "2016-06-08T18:13:13.395753",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -10978,8 +11118,8 @@
                 "title": "液化石油氣",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T07:34:07.984426",
-                "metadata_modified": "2015-05-07T01:11:34.978793",
-                "timeEnd": 1430961094,
+                "metadata_modified": "2016-06-08T03:40:11.206332",
+                "timeEnd": 1465349423,
                 "timeBegin": 1430350447,
                 "resources": {
                     "e6289587-788d-496d-9543-deb56739b21e": {
@@ -10988,11 +11128,18 @@
                         "created": "2015-05-07T09:11:34.818899",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "a890e1a6-3e89-438e-8aed-cc1978c0ffac": {
+                        "id": "a890e1a6-3e89-438e-8aed-cc1978c0ffac",
+                        "name": "105年5月臺南市消防局液化石油氣容器儲存場所",
+                        "created": "2016-06-08T09:30:23.349858",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 1
+                    "resource_total": 6,
+                    "resource_recent": 2
                 }
             },
             "f4f92192-0819-4ec2-8a27-039f3201e2c1": {
@@ -17538,14 +17685,21 @@
                 "title": "救災出勤資料",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T08:22:50.674661",
-                "metadata_modified": "2015-05-05T08:41:41.157126",
-                "timeEnd": 1430786501,
+                "metadata_modified": "2016-06-08T10:06:45.473093",
+                "timeEnd": 1465380404,
                 "timeBegin": 1430353370,
                 "resources": {
                     "8fa1cdc9-c897-417f-9504-95a97c232cd9": {
                         "id": "8fa1cdc9-c897-417f-9504-95a97c232cd9",
                         "name": "救災出勤資料",
                         "created": "2015-04-30T16:23:20.922941",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "780120c6-0165-46da-b0ab-5516ea32a3ca": {
+                        "id": "780120c6-0165-46da-b0ab-5516ea32a3ca",
+                        "name": "105年4月臺南市火災出動人員、車輛、船艇、直升機統計",
+                        "created": "2016-06-08T18:06:44.440537",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -17560,14 +17714,21 @@
                 "title": "住宅用火災警報器",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T07:24:03.118974",
-                "metadata_modified": "2015-04-30T07:25:11.312040",
-                "timeEnd": 1430378682,
+                "metadata_modified": "2016-06-08T02:48:06.841870",
+                "timeEnd": 1465354083,
                 "timeBegin": 1430349843,
                 "resources": {
                     "094163b9-57de-4cb3-95f4-9a91a037cb0b": {
                         "id": "094163b9-57de-4cb3-95f4-9a91a037cb0b",
                         "name": "住宅用火災警報器",
                         "created": "2015-04-30T15:24:42.078912",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "05ae1d31-040d-4a80-91ca-58fbb74899b2": {
+                        "id": "05ae1d31-040d-4a80-91ca-58fbb74899b2",
+                        "name": "105年第1季住宅用火災警報器推廣執行成果季報表",
+                        "created": "2016-06-08T10:48:03.067259",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -17691,14 +17852,133 @@
                 "title": "消防統計年報",
                 "organization_id": "0ab7ce01-4449-4228-8ee6-24cfc54340d9",
                 "metadata_created": "2015-04-30T08:03:39.821697",
-                "metadata_modified": "2015-05-05T08:42:56.622384",
-                "timeEnd": 1430786576,
+                "metadata_modified": "2016-06-08T11:12:17.339727",
+                "timeEnd": 1465384335,
                 "timeBegin": 1430352219,
                 "resources": {
                     "009781bd-bdfc-4c60-bb96-4799e24af8bf": {
                         "id": "009781bd-bdfc-4c60-bb96-4799e24af8bf",
                         "name": "消防統計年報",
                         "created": "2015-04-30T16:04:35.126976",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "02b246d8-9578-40cf-a953-da1cd8307edd": {
+                        "id": "02b246d8-9578-40cf-a953-da1cd8307edd",
+                        "name": "103年消防年報臺南市火災人員死傷、財物損失",
+                        "created": "2016-06-08T18:53:48.440046",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "00de73ef-1011-41b7-b7ef-1b8027876c6d": {
+                        "id": "00de73ef-1011-41b7-b7ef-1b8027876c6d",
+                        "name": "103年消防年報臺南市火災出動人員、車輛、船艇、直升機",
+                        "created": "2016-06-08T18:54:54.328783",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "33fe1ef6-6410-49c6-baf8-c214cceae0c0": {
+                        "id": "33fe1ef6-6410-49c6-baf8-c214cceae0c0",
+                        "name": "103年消防年報臺南市火災次數分類及時間",
+                        "created": "2016-06-08T18:56:33.689044",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6f78ede0-87ac-4dcb-891b-9b8e230f9a5c": {
+                        "id": "6f78ede0-87ac-4dcb-891b-9b8e230f9a5c",
+                        "name": "103年消防年報臺南市火災次數按起火原因分",
+                        "created": "2016-06-08T18:57:28.295024",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d1cfb7ec-2d51-4d63-a334-9282cb23dbe2": {
+                        "id": "d1cfb7ec-2d51-4d63-a334-9282cb23dbe2",
+                        "name": "103年消防年報臺南市火災次數按起火處分",
+                        "created": "2016-06-08T18:58:46.426090",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "cbb6e409-0df3-49eb-b707-2e3556c6c350": {
+                        "id": "cbb6e409-0df3-49eb-b707-2e3556c6c350",
+                        "name": "103年消防年報臺南市列管建築物",
+                        "created": "2016-06-08T18:59:37.654598",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2eee3873-ab6f-4028-a839-3d76a7b2f5ab": {
+                        "id": "2eee3873-ab6f-4028-a839-3d76a7b2f5ab",
+                        "name": "103年消防年報臺南市防燄規制執行情形-防燄性能認證合格廠商",
+                        "created": "2016-06-08T19:00:47.916112",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6a55ac21-1518-4b1d-b701-bac918fc0d78": {
+                        "id": "6a55ac21-1518-4b1d-b701-bac918fc0d78",
+                        "name": "103年消防年報臺南市防燄規制執行情形-設置防燄物品場所",
+                        "created": "2016-06-08T19:02:24.244605",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f31c7018-0502-42e5-82b1-f902f1d6bea8": {
+                        "id": "f31c7018-0502-42e5-82b1-f902f1d6bea8",
+                        "name": "103年消防年報臺南市消防人員講習訓練",
+                        "created": "2016-06-08T19:03:21.210617",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "eae9470b-90bd-4dd4-976d-e2c6bc083e2d": {
+                        "id": "eae9470b-90bd-4dd4-976d-e2c6bc083e2d",
+                        "name": "103年消防年報臺南市消防水源",
+                        "created": "2016-06-08T19:04:43.510835",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "0665e757-b412-47b4-b41a-3a12372d09ac": {
+                        "id": "0665e757-b412-47b4-b41a-3a12372d09ac",
+                        "name": "103年消防年報臺南市消防安全設備查察處理",
+                        "created": "2016-06-08T19:05:45.526808",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a6e32b66-3528-4df5-ac94-8b850ad97526": {
+                        "id": "a6e32b66-3528-4df5-ac94-8b850ad97526",
+                        "name": "103年消防年報臺南市消防車輛裝備",
+                        "created": "2016-06-08T19:06:34.163971",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "80d12f46-7d2b-4b05-981f-f2133828ad91": {
+                        "id": "80d12f46-7d2b-4b05-981f-f2133828ad91",
+                        "name": "103年消防年報臺南市消防員工傷亡慰問情形",
+                        "created": "2016-06-08T19:07:50.222290",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "9da03455-1a0f-498b-988d-dac545433528": {
+                        "id": "9da03455-1a0f-498b-988d-dac545433528",
+                        "name": "103年消防年報臺南市消防緊急救護服務",
+                        "created": "2016-06-08T19:08:58.197494",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f6db775c-aa42-4a7d-8e49-54152d6e3d4d": {
+                        "id": "f6db775c-aa42-4a7d-8e49-54152d6e3d4d",
+                        "name": "103年消防年報臺南市消防緊急救護急救處置",
+                        "created": "2016-06-08T19:09:49.983605",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "81045ac9-f206-4eac-8f34-c1b487d882d3": {
+                        "id": "81045ac9-f206-4eac-8f34-c1b487d882d3",
+                        "name": "103年消防年報臺南市起火建築物",
+                        "created": "2016-06-08T19:10:54.548380",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "326ec325-78a5-4400-8865-56333c573867": {
+                        "id": "326ec325-78a5-4400-8865-56333c573867",
+                        "name": "103年消防年報臺南市義勇消防人員傷亡",
+                        "created": "2016-06-08T19:12:15.772603",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -17822,13 +18102,35 @@
     },
     "環境保護局": {
         "counters": {
-            "datasets": 49,
+            "datasets": 50,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 696,
-            "resource_recent": 127
+            "resource_total": 672,
+            "resource_recent": 124
         },
         "datasets": {
+            "5717fe92-343a-45ef-a488-8b341a1d2776": {
+                "name": "06081144",
+                "title": "臺南市病媒防治業者名單",
+                "organization_id": "eec4b111-3d04-48c5-a78f-01eabc800e6a",
+                "metadata_created": "2016-06-08T03:44:51.421041",
+                "metadata_modified": "2016-06-08T05:50:26.643687",
+                "timeEnd": 1465357536,
+                "timeBegin": 1465328691,
+                "resources": {
+                    "2cbe49fc-167b-458c-a75a-fb8632eb90f5": {
+                        "id": "2cbe49fc-167b-458c-a75a-fb8632eb90f5",
+                        "name": "臺南市病媒防治業者名單",
+                        "created": "2016-06-08T11:45:36.284523",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
             "00d91614-39d6-461f-ab68-ab481127c669": {
                 "name": "103envpeople",
                 "title": "臺南市環保志義工環境清潔執行成果",
@@ -17863,13 +18165,13 @@
                 "title": "臺南市地下水監測資料",
                 "organization_id": "eec4b111-3d04-48c5-a78f-01eabc800e6a",
                 "metadata_created": "2015-03-20T03:48:35.015876",
-                "metadata_modified": "2016-06-07T03:44:38.075600",
-                "timeEnd": 1465271000,
+                "metadata_modified": "2016-06-08T03:37:55.075468",
+                "timeEnd": 1465328275,
                 "timeBegin": 1426794515,
                 "resources": {
                     "a8f7e132-c8f8-44ae-b8e9-a0db0ea57bd2": {
                         "id": "a8f7e132-c8f8-44ae-b8e9-a0db0ea57bd2",
-                        "name": "103臺南市地下水監測資料",
+                        "name": "103年臺南市地下水監測資料",
                         "created": "2015-03-20T11:49:43.757944",
                         "webstore_last_updated": null,
                         "last_modified": null
@@ -18119,8 +18421,8 @@
                 "title": "臺南市環保局操作維護之水質淨化設施資料",
                 "organization_id": "eec4b111-3d04-48c5-a78f-01eabc800e6a",
                 "metadata_created": "2015-03-11T07:24:40.513812",
-                "metadata_modified": "2015-10-26T07:12:21.764124",
-                "timeEnd": 1445814741,
+                "metadata_modified": "2016-06-08T07:34:21.084693",
+                "timeEnd": 1465342461,
                 "timeBegin": 1426029880,
                 "resources": {
                     "9586e471-6784-4f8f-8c35-bf5a75679852": {
@@ -18132,8 +18434,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 6,
-                    "resource_recent": 1
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "752e57e4-f4aa-482e-a525-ba16c2f1c2ed": {
@@ -19054,8 +19356,8 @@
                 "title": "臺南市海洋水質監測資料",
                 "organization_id": "eec4b111-3d04-48c5-a78f-01eabc800e6a",
                 "metadata_created": "2015-03-11T06:39:34.121393",
-                "metadata_modified": "2015-10-26T07:13:28.432629",
-                "timeEnd": 1445814808,
+                "metadata_modified": "2016-06-08T05:57:34.895777",
+                "timeEnd": 1465336654,
                 "timeBegin": 1426027174,
                 "resources": {
                     "1d11eb17-75a0-4826-a94f-c7cef3251f26": {
@@ -19067,8 +19369,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 3
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "95bd201c-3536-49c6-9e8a-dd35b80119a1": {
@@ -19076,8 +19378,8 @@
                 "title": "臺南市河川水質監測資料",
                 "organization_id": "eec4b111-3d04-48c5-a78f-01eabc800e6a",
                 "metadata_created": "2015-03-11T02:37:00.958248",
-                "metadata_modified": "2016-05-04T08:30:33.290730",
-                "timeEnd": 1462321833,
+                "metadata_modified": "2016-06-08T03:40:12.928070",
+                "timeEnd": 1465328412,
                 "timeBegin": 1426012620,
                 "resources": {
                     "c1eb1f28-9e0b-4417-adfa-d914a2d4d1db": {
@@ -19089,8 +19391,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
-                    "resource_recent": 3
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "47209ca9-8d8b-4710-83a3-5a1fbccb2c36": {
@@ -19140,8 +19442,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "5426a54a-bcd9-486b-a682-cd97859041bc": {
@@ -19184,8 +19486,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "8b193c72-38c2-48df-8e89-c76eeedf09a4": {
@@ -19281,8 +19583,8 @@
                 "title": "臺南市飲用水水質檢驗資料",
                 "organization_id": "eec4b111-3d04-48c5-a78f-01eabc800e6a",
                 "metadata_created": "2015-03-11T07:19:46.027835",
-                "metadata_modified": "2015-10-26T07:39:50.556066",
-                "timeEnd": 1445816390,
+                "metadata_modified": "2016-06-08T05:56:26.010113",
+                "timeEnd": 1465336586,
                 "timeBegin": 1426029586,
                 "resources": {
                     "b0c0a63f-0679-4c7a-b155-5253ee441a94": {
@@ -19294,8 +19596,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 9,
-                    "resource_recent": 1
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "0b0502a3-81bb-46d2-8a14-c324a5f89a1b": {
@@ -20539,8 +20841,8 @@
             "datasets": 26,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 329,
-            "resource_recent": 44
+            "resource_total": 331,
+            "resource_recent": 45
         },
         "datasets": {
             "a76cfc8a-164f-4096-96ed-97830f0cf41b": {
@@ -20742,7 +21044,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 50,
+                    "resource_total": 51,
                     "resource_recent": 8
                 }
             },
@@ -20815,8 +21117,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 32,
-                    "resource_recent": 1
+                    "resource_total": 33,
+                    "resource_recent": 2
                 }
             },
             "255f066b-68bc-455c-ab26-b43142be00bc": {
@@ -21870,8 +22172,8 @@
             "datasets": 70,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3531,
-            "resource_recent": 254
+            "resource_total": 3538,
+            "resource_recent": 256
         },
         "datasets": {
             "e6b5dcbc-875e-4cf8-bf92-b7b57a07cba1": {
@@ -22383,7 +22685,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1549,
+                    "resource_total": 1550,
                     "resource_recent": 48
                 }
             },
@@ -22392,8 +22694,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-06-06T23:30:56.904311",
-                "timeEnd": 1465228800,
+                "metadata_modified": "2016-06-07T23:30:54.322387",
+                "timeEnd": 1465315200,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -22415,7 +22717,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-06-07T00:00:00"
+                        "last_modified": "2016-06-08T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -22426,8 +22728,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 457,
-                    "resource_recent": 34
+                    "resource_total": 462,
+                    "resource_recent": 35
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -22435,8 +22737,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-06-06T23:31:09.123446",
-                "timeEnd": 1465228800,
+                "metadata_modified": "2016-06-07T23:31:07.131268",
+                "timeEnd": 1465315200,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -22528,7 +22830,7 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-07T00:00:00"
+                        "last_modified": "2016-06-08T00:00:00"
                     }
                 },
                 "counters": {
@@ -22648,8 +22950,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 2,
-                    "resource_recent": 2
+                    "resource_total": 3,
+                    "resource_recent": 3
                 }
             },
             "9cef33d4-7e89-4676-bd10-dabae3ea3a1b": {
@@ -25030,8 +25332,8 @@
                 "title": "臺南市犯罪統計資訊",
                 "organization_id": "c48d04cc-533e-40a3-a663-e376567fa5bd",
                 "metadata_created": "2015-03-12T03:59:48.077194",
-                "metadata_modified": "2016-05-10T02:52:58.070094",
-                "timeEnd": 1462848390,
+                "metadata_modified": "2016-06-08T01:20:14.668279",
+                "timeEnd": 1465348812,
                 "timeBegin": 1426103988,
                 "resources": {
                     "ac3f50ba-7622-49f0-bd50-1b1d923fd106": {
@@ -25101,6 +25403,13 @@
                         "id": "bb61b112-be52-4823-a53d-1d23c9c83a8a",
                         "name": "105年4月份臺南市全般刑案統計資訊",
                         "created": "2016-05-10T10:46:30.897364",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "09d7dec0-b17b-411c-a899-8958fc26b99a": {
+                        "id": "09d7dec0-b17b-411c-a899-8958fc26b99a",
+                        "name": "105年5月份臺南市全般刑案統計資訊",
+                        "created": "2016-06-08T09:20:12.389163",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -25653,7 +25962,7 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 661,
+            "resource_total": 665,
             "resource_recent": 91
         },
         "datasets": {
@@ -26227,7 +26536,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 598,
+                    "resource_total": 602,
                     "resource_recent": 79
                 }
             },
@@ -26320,5 +26629,5 @@
             }
         }
     },
-    "time_generated": 1465331450
+    "time_generated": 1465417851
 }
