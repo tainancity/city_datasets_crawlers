@@ -577,13 +577,42 @@
     },
     "教育處": {
         "counters": {
-            "datasets": 4,
+            "datasets": 5,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "3b0a0b70-711f-4ddb-8b46-47f9ff2176da": {
+                "name": "deo01",
+                "title": "南投縣補習班",
+                "organization_id": "d62f3346-bc03-4e09-ae2e-26990748d314",
+                "metadata_created": "2016-06-14T03:57:31.482570",
+                "metadata_modified": "2016-06-14T08:45:04.589368",
+                "timeEnd": 1465876689,
+                "timeBegin": 1465847851,
+                "resources": {
+                    "6f8a5028-23f5-40b9-83cb-4a295d22cf4d": {
+                        "id": "6f8a5028-23f5-40b9-83cb-4a295d22cf4d",
+                        "name": "南投縣補習班",
+                        "created": "2016-06-14T11:57:59.672767",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "e0510896-0de9-437f-a855-be9ae1d0b73b": {
+                        "id": "e0510896-0de9-437f-a855-be9ae1d0b73b",
+                        "name": "南投縣補習班",
+                        "created": "2016-06-14T11:58:00.028610",
+                        "webstore_last_updated": "2016-06-14T11:58:09.475284",
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "23a2c6be-417e-4627-89d4-4189e91fa7a3": {
                 "name": "doe-01",
                 "title": "南投縣各級學校基本資料",
@@ -2838,5 +2867,5 @@
             }
         }
     },
-    "time_generated": 1465849903
+    "time_generated": 1465936294
 }
