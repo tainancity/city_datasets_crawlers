@@ -1,690 +1,429 @@
 {
     "主計處": {
         "counters": {
-            "datasets": 10,
+            "datasets": 74,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 81,
-            "resource_recent": 67
+            "resource_total": 15,
+            "resource_recent": 13
         },
         "datasets": {
+            "8bfebf6b-a5f7-4a6a-b1d0-b7a0075d3f1b": {
+                "name": "final-accounts-01",
+                "title": "臺南市政府地方總決算-歲入歲出簡明比較分析表(審定後)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:17:59.050490",
+                "metadata_modified": "2016-06-19T13:28:11.887224",
+                "timeEnd": 1466342360,
+                "timeBegin": 1466313479,
+                "resources": {
+                    "03c80d09-e755-43ce-a9fd-bbf63d80794a": {
+                        "id": "03c80d09-e755-43ce-a9fd-bbf63d80794a",
+                        "name": "103年度臺南市政府地方總決算-歲入歲出簡明比較分析表",
+                        "created": "2016-06-19T21:19:20.923095",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "2fc45de6-9401-4d08-99ba-7c8141fbeff4": {
+                "name": "final-accounts-02",
+                "title": "臺南市政府地方總決算-歲入歲出及餘絀簡明分析表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:26:06.136056",
+                "metadata_modified": "2016-06-19T13:29:59.094063",
+                "timeEnd": 1466342830,
+                "timeBegin": 1466313966,
+                "resources": {
+                    "b78482e5-0fe9-4aed-93e8-6a9631075459": {
+                        "id": "b78482e5-0fe9-4aed-93e8-6a9631075459",
+                        "name": "103年度臺南市政府地方總決算-歲入歲出及餘絀簡明分析表",
+                        "created": "2016-06-19T21:27:10.190063",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "66cb14fd-25cb-4c98-9007-3ce009968f0b": {
+                "name": "final-accounts-03",
+                "title": "臺南市政府地方總決算-收支簡明比較分析表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:31:46.977306",
+                "metadata_modified": "2016-06-19T13:33:14.591513",
+                "timeEnd": 1466343159,
+                "timeBegin": 1466314306,
+                "resources": {
+                    "f316798f-2ee8-4c72-b20f-edad9dad430d": {
+                        "id": "f316798f-2ee8-4c72-b20f-edad9dad430d",
+                        "name": "103年度臺南市政府地方總決算-收支簡明比較分析表",
+                        "created": "2016-06-19T21:32:39.404742",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "257b3c48-fa13-4019-a4cd-fa2eae0a19dc": {
+                "name": "final-accounts-04",
+                "title": "臺南市政府地方總決算-歲入來源別決算總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:34:52.480523",
+                "metadata_modified": "2016-06-19T13:36:16.747266",
+                "timeEnd": 1466343365,
+                "timeBegin": 1466314492,
+                "resources": {
+                    "47e3409e-2dcf-4833-9197-37e75c7d99e2": {
+                        "id": "47e3409e-2dcf-4833-9197-37e75c7d99e2",
+                        "name": "103年度臺南市政府地方總決算-歲入來源別決算總表",
+                        "created": "2016-06-19T21:36:05.735416",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9e603fd2-8a6c-4bf3-bfd9-a02cfeb92df1": {
+                "name": "final-accounts-05",
+                "title": "臺南市政府地方總決算-歲入來源別決算比較總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:38:33.216934",
+                "metadata_modified": "2016-06-19T13:39:36.597294",
+                "timeEnd": 1466343565,
+                "timeBegin": 1466314713,
+                "resources": {
+                    "6037069d-bbdc-472b-8d9f-9149314d6dd1": {
+                        "id": "6037069d-bbdc-472b-8d9f-9149314d6dd1",
+                        "name": "103年度臺南市政府地方總決算-歲入來源別決算比較總表",
+                        "created": "2016-06-19T21:39:25.428254",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "98a1aec9-2c87-43a5-8b51-3be0c78a1249": {
+                "name": "final-accounts-06",
+                "title": "臺南市政府地方總決算-歲出政事別決算總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:41:39.917031",
+                "metadata_modified": "2016-06-19T13:42:18.370975",
+                "timeEnd": 1466343727,
+                "timeBegin": 1466314899,
+                "resources": {
+                    "7e480144-749f-4679-87e9-c8f96701c0fa": {
+                        "id": "7e480144-749f-4679-87e9-c8f96701c0fa",
+                        "name": "103年度臺南市政府地方總決算-歲出政事別決算總表",
+                        "created": "2016-06-19T21:42:07.113679",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "30ac34bc-9b7f-4858-b883-e5353f6fe664": {
+                "name": "final-accounts-07",
+                "title": "臺南市政府地方總決算-歲出政事別決算比較總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:43:46.544435",
+                "metadata_modified": "2016-06-19T13:45:06.591645",
+                "timeEnd": 1466343894,
+                "timeBegin": 1466315026,
+                "resources": {
+                    "52badf65-a799-472a-9608-ee22a6b6f726": {
+                        "id": "52badf65-a799-472a-9608-ee22a6b6f726",
+                        "name": "103年度臺南市政府地方總決算-歲出政事別決算比較總表",
+                        "created": "2016-06-19T21:44:54.957927",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "375e7ca3-226c-4cec-8365-506c6256d7cb": {
+                "name": "final-accounts-08",
+                "title": "臺南市政府地方總決算-歲出機關別決算比較總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T13:53:41.379771",
+                "metadata_modified": "2016-06-19T13:54:42.526366",
+                "timeEnd": 1466344470,
+                "timeBegin": 1466315621,
+                "resources": {
+                    "2b2187fd-9544-4736-be05-75c25bd6cbb6": {
+                        "id": "2b2187fd-9544-4736-be05-75c25bd6cbb6",
+                        "name": "103年度臺南市政府地方總決算-歲出機關別決算比較總表",
+                        "created": "2016-06-19T21:54:30.129435",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "440ff101-17bf-47d1-b9da-2e367aaf656e": {
-                "name": "103-final-accounts",
-                "title": "103年度臺南市政府地方總決算決算總表",
+                "name": "final-accounts-09",
+                "title": "臺南市政府地方總決算-平衡表",
                 "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
                 "metadata_created": "2016-05-19T07:42:07.045387",
-                "metadata_modified": "2016-05-19T09:17:57.714506",
-                "timeEnd": 1463649476,
+                "metadata_modified": "2016-06-19T14:09:15.836098",
+                "timeEnd": 1466316555,
                 "timeBegin": 1463614927,
                 "resources": {
-                    "be2de030-5f4f-488f-addb-d6582639bc4b": {
-                        "id": "be2de030-5f4f-488f-addb-d6582639bc4b",
-                        "name": "103年度臺南市政府地方總決算歲入歲出簡明比較分析表(審定後)",
-                        "created": "2016-05-19T15:45:08.322807",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "47f93ddc-1e7a-478e-ab28-4ae703c417c4": {
-                        "id": "47f93ddc-1e7a-478e-ab28-4ae703c417c4",
-                        "name": "103年度臺南市政府地方總決算歲入歲出及餘絀簡明分析表(審定後)",
-                        "created": "2016-05-19T16:20:03.420077",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "fba8f8ad-f6fe-41ab-a4d5-8215b5b856c9": {
-                        "id": "fba8f8ad-f6fe-41ab-a4d5-8215b5b856c9",
-                        "name": "103年度臺南市政府地方總決算收支簡明比較分析表(審定後)",
-                        "created": "2016-05-19T16:25:12.951005",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2fd6464e-0405-4c29-b99b-8daf78e0424e": {
-                        "id": "2fd6464e-0405-4c29-b99b-8daf78e0424e",
-                        "name": "103年度臺南市政府地方總決算歲入來源別決算總表(審定後)",
-                        "created": "2016-05-19T16:30:44.035973",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "527b9a3d-de12-4f20-9d9d-5e44f20fd0a8": {
-                        "id": "527b9a3d-de12-4f20-9d9d-5e44f20fd0a8",
-                        "name": "103年度臺南市政府地方總決算歲入來源別決算比較總表(審定後)",
-                        "created": "2016-05-19T16:50:00.940734",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "683ad12a-f805-4422-a985-9594fc908463": {
-                        "id": "683ad12a-f805-4422-a985-9594fc908463",
-                        "name": "103年度臺南市政府地方總決算歲出政事別決算總表(審定後)",
-                        "created": "2016-05-19T17:01:58.590312",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "69995690-c55f-4bfa-9a66-3ac746b9b60d": {
-                        "id": "69995690-c55f-4bfa-9a66-3ac746b9b60d",
-                        "name": "103年度臺南市政府地方總決算歲出政事別決算比較總表(審定後)",
-                        "created": "2016-05-19T17:05:56.908883",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "6e3403df-ef6e-4980-88a0-1ba7a57c619e": {
-                        "id": "6e3403df-ef6e-4980-88a0-1ba7a57c619e",
-                        "name": "103年度臺南市政府地方總決算歲出機關別決算比較總表(審定後)",
-                        "created": "2016-05-19T17:09:43.190864",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
                     "b1fa83c6-a2b8-44d5-ac62-b662e9e54b75": {
                         "id": "b1fa83c6-a2b8-44d5-ac62-b662e9e54b75",
-                        "name": "103年度臺南市政府地方總決算平衡表(審定後)",
+                        "name": "103年臺南市政府地方總決算-平衡表",
                         "created": "2016-05-19T17:17:56.569019",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 6,
-                    "resource_recent": 6
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "50026aa5-273c-4ac0-83be-14b1a2652f7e": {
+                "name": "gender-01",
+                "title": "臺南市性別圖像-人口成長",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:13:59.036627",
+                "metadata_modified": "2016-06-19T16:14:27.148280",
+                "timeEnd": 1466352860,
+                "timeBegin": 1466324039,
+                "resources": {
+                    "ad1666cb-1e2a-4e23-9d77-742e98d1acd3": {
+                        "id": "ad1666cb-1e2a-4e23-9d77-742e98d1acd3",
+                        "name": "103年度-臺南市性別圖像-人口成長",
+                        "created": "2016-06-20T00:14:20.789696",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "866eb079-691d-48d9-b553-5999210abca1": {
+                "name": "gender-02",
+                "title": "臺南市性別圖像-婚育概況",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:16:11.918951",
+                "metadata_modified": "2016-06-19T16:16:42.980799",
+                "timeEnd": 1466352996,
+                "timeBegin": 1466324171,
+                "resources": {
+                    "6ce1c12c-de15-412d-b243-e3b732a2cc1a": {
+                        "id": "6ce1c12c-de15-412d-b243-e3b732a2cc1a",
+                        "name": "103年度-臺南市性別圖像-婚育概況",
+                        "created": "2016-06-20T00:16:36.575751",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "70658d0e-963e-48a5-9de7-7749e4d43745": {
+                "name": "gender-03",
+                "title": "臺南市性別圖像-勞動就業",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:18:03.412263",
+                "metadata_modified": "2016-06-19T16:18:29.872856",
+                "timeEnd": 1466353102,
+                "timeBegin": 1466324283,
+                "resources": {
+                    "b6a48401-b52f-49db-930e-bf7e3cfc4032": {
+                        "id": "b6a48401-b52f-49db-930e-bf7e3cfc4032",
+                        "name": "103年度-臺南市性別圖像-勞動就業",
+                        "created": "2016-06-20T00:18:22.796842",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4470c43d-4d23-400a-8320-511804665fdf": {
+                "name": "gender-04",
+                "title": "臺南市性別圖像-教育文化",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:19:32.087972",
+                "metadata_modified": "2016-06-19T16:20:01.278418",
+                "timeEnd": 1466353194,
+                "timeBegin": 1466324372,
+                "resources": {
+                    "ef8243f3-5306-4cdb-b305-6e541d0f0dbe": {
+                        "id": "ef8243f3-5306-4cdb-b305-6e541d0f0dbe",
+                        "name": "103年度-臺南市性別圖像-教育文化",
+                        "created": "2016-06-20T00:19:54.796166",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3128d42b-9f07-4724-a0c1-aa922f1a3efe": {
+                "name": "gender-05",
+                "title": "臺南市性別圖像-社會福利",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:21:10.161701",
+                "metadata_modified": "2016-06-19T16:21:34.602972",
+                "timeEnd": 1466353287,
+                "timeBegin": 1466324470,
+                "resources": {
+                    "2d2a625f-81f8-448d-ae72-9be26e6018d3": {
+                        "id": "2d2a625f-81f8-448d-ae72-9be26e6018d3",
+                        "name": "103年度-臺南市性別圖像-社會福利",
+                        "created": "2016-06-20T00:21:27.106013",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "78e5f357-2b2d-4881-b1c1-b19f3603e97d": {
+                "name": "gender-06",
+                "title": "臺南市性別圖像-社會治安及公共安全",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:22:50.910801",
+                "metadata_modified": "2016-06-19T16:23:15.577910",
+                "timeEnd": 1466353388,
+                "timeBegin": 1466324570,
+                "resources": {
+                    "25a3f372-dc51-49cd-97e6-71bfeead9fe4": {
+                        "id": "25a3f372-dc51-49cd-97e6-71bfeead9fe4",
+                        "name": "103年度-臺南市性別圖像-社會治安及公共安全",
+                        "created": "2016-06-20T00:23:08.638622",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f3d663dc-ee36-47f4-ab12-b0f2661a4478": {
+                "name": "gender-07",
+                "title": "臺南市性別圖像-醫療保健",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:24:22.379338",
+                "metadata_modified": "2016-06-19T16:24:49.389549",
+                "timeEnd": 1466353481,
+                "timeBegin": 1466324662,
+                "resources": {
+                    "77517b89-66e6-4538-a0e8-13286a1bb8f2": {
+                        "id": "77517b89-66e6-4538-a0e8-13286a1bb8f2",
+                        "name": "103年度-臺南市性別圖像-醫療保健",
+                        "created": "2016-06-20T00:24:41.878116",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a0e68b4b-2231-4434-ad4e-e49ca25b01ff": {
+                "name": "gender-08",
+                "title": "臺南市性別圖像-家庭生活",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:25:50.705882",
+                "metadata_modified": "2016-06-19T16:26:26.367297",
+                "timeEnd": 1466353579,
+                "timeBegin": 1466324750,
+                "resources": {
+                    "9a73ed95-c790-4bbf-827a-ea9dbc5fab09": {
+                        "id": "9a73ed95-c790-4bbf-827a-ea9dbc5fab09",
+                        "name": "103年度-臺南市性別圖像-家庭生活",
+                        "created": "2016-06-20T00:26:19.842100",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7d995c57-5cad-4d80-8b4e-068817b53cf6": {
+                "name": "gender-09",
+                "title": "臺南市性別圖像-政府服務",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:27:30.757625",
+                "metadata_modified": "2016-06-19T16:28:00.683504",
+                "timeEnd": 1466353670,
+                "timeBegin": 1466324850,
+                "resources": {
+                    "e1b6692e-03ba-457f-b540-3475af119409": {
+                        "id": "e1b6692e-03ba-457f-b540-3475af119409",
+                        "name": "103年度-臺南市性別圖像-政府服務",
+                        "created": "2016-06-20T00:27:50.514856",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "516ae00b-5144-400c-981c-dc17a448f8d6": {
-                "name": "103-gender",
-                "title": "103年度臺南市性別圖像",
+                "name": "gender-10",
+                "title": "臺南市性別圖像-附錄",
                 "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
                 "metadata_created": "2016-05-27T09:32:58.070002",
-                "metadata_modified": "2016-05-27T09:41:43.750659",
-                "timeEnd": 1464342103,
+                "metadata_modified": "2016-06-19T16:30:49.290141",
+                "timeEnd": 1466325049,
                 "timeBegin": 1464312778,
                 "resources": {
-                    "1ccee957-07ab-4941-9c68-0e8c4126e861": {
-                        "id": "1ccee957-07ab-4941-9c68-0e8c4126e861",
-                        "name": "103年臺南市性別圖像-1.人口成長",
-                        "created": "2016-05-27T17:37:44.214368",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b7fca59a-1de4-4651-9562-06db10010df1": {
-                        "id": "b7fca59a-1de4-4651-9562-06db10010df1",
-                        "name": "103年臺南市性別圖像-2.婚育概況",
-                        "created": "2016-05-27T17:38:32.646163",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0c59b2a3-429b-4c30-b094-460c6105b24b": {
-                        "id": "0c59b2a3-429b-4c30-b094-460c6105b24b",
-                        "name": "103年臺南市性別圖像-3.勞動就業",
-                        "created": "2016-05-27T17:38:59.587890",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "7f23682a-37c1-4066-a511-311ead8a152c": {
-                        "id": "7f23682a-37c1-4066-a511-311ead8a152c",
-                        "name": "103年臺南市性別圖像-4.教育文化",
-                        "created": "2016-05-27T17:39:21.444007",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b843b735-b025-4956-bc04-f2b416369b5b": {
-                        "id": "b843b735-b025-4956-bc04-f2b416369b5b",
-                        "name": "103年臺南市性別圖像-5.社會福利",
-                        "created": "2016-05-27T17:39:42.818663",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "4b84555f-3933-4aa1-90b9-4cbcccdbe37c": {
-                        "id": "4b84555f-3933-4aa1-90b9-4cbcccdbe37c",
-                        "name": "103年臺南市性別圖像-6.社會治安及公共安全",
-                        "created": "2016-05-27T17:40:03.320200",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "5947add3-9d4d-4938-93af-b4b8878955e4": {
-                        "id": "5947add3-9d4d-4938-93af-b4b8878955e4",
-                        "name": "103年臺南市性別圖像-7.醫療保健",
-                        "created": "2016-05-27T17:40:24.468062",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0c4c0e70-7a3c-4564-8fc7-828bc862c998": {
-                        "id": "0c4c0e70-7a3c-4564-8fc7-828bc862c998",
-                        "name": "103年臺南市性別圖像-8.家庭生活",
-                        "created": "2016-05-27T17:41:00.966309",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "22a55239-7092-484d-9d40-146a6b46e671": {
-                        "id": "22a55239-7092-484d-9d40-146a6b46e671",
-                        "name": "103年臺南市性別圖像-9.政府服務",
-                        "created": "2016-05-27T17:41:22.529515",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
                     "a7ca2f14-2b1d-49ff-a8b0-3cd469aee7ba": {
                         "id": "a7ca2f14-2b1d-49ff-a8b0-3cd469aee7ba",
-                        "name": "103年臺南市性別圖像-10.附錄",
+                        "name": "103年度-臺南市性別圖像-附錄",
                         "created": "2016-05-27T17:41:43.300042",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 2,
-                    "resource_recent": 2
-                }
-            },
-            "0c4bc995-98d6-498f-a8e9-d35fcf526cc7": {
-                "name": "103-statistical-yearbook",
-                "title": "103年臺南市統計年報",
-                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
-                "metadata_created": "2016-05-27T02:50:59.360331",
-                "metadata_modified": "2016-05-30T08:39:15.054214",
-                "timeEnd": 1464568755,
-                "timeBegin": 1464288659,
-                "resources": {
-                    "4468e23f-a0be-47f6-9c05-c54295280d0d": {
-                        "id": "4468e23f-a0be-47f6-9c05-c54295280d0d",
-                        "name": "103年臺南市統計年報-1.土地",
-                        "created": "2016-05-27T11:47:04.626334",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "cf9ff2a9-df2d-4a7c-a9ee-fc50624255af": {
-                        "id": "cf9ff2a9-df2d-4a7c-a9ee-fc50624255af",
-                        "name": "103年臺南市統計年報-2.人口",
-                        "created": "2016-05-27T13:52:49.545257",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a8f66f34-6e58-45a8-86af-2527a5218b47": {
-                        "id": "a8f66f34-6e58-45a8-86af-2527a5218b47",
-                        "name": "103年臺南市統計年報-3.行政組織",
-                        "created": "2016-05-27T13:53:20.491410",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "e149db5a-2ed5-4d81-be7b-9200175dee5f": {
-                        "id": "e149db5a-2ed5-4d81-be7b-9200175dee5f",
-                        "name": "103年臺南市統計年報-4.農林漁牧",
-                        "created": "2016-05-27T16:40:08.474397",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a864a2f8-2bf8-4adb-aebf-efaf1213c4f9": {
-                        "id": "a864a2f8-2bf8-4adb-aebf-efaf1213c4f9",
-                        "name": "103年臺南市統計年報-5.工商業及市建設",
-                        "created": "2016-05-27T16:44:55.398975",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "69823963-708f-40ab-92f2-d410b8bd89b4": {
-                        "id": "69823963-708f-40ab-92f2-d410b8bd89b4",
-                        "name": "103年臺南市統計年報-6.金融財稅",
-                        "created": "2016-05-27T17:18:37.696188",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "5122bdf1-012f-445f-9a0f-02b39d202077": {
-                        "id": "5122bdf1-012f-445f-9a0f-02b39d202077",
-                        "name": "103年臺南市統計年報-7.交通運輸",
-                        "created": "2016-05-27T17:19:04.396784",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "3136f411-f378-4f47-997b-5a787646c95b": {
-                        "id": "3136f411-f378-4f47-997b-5a787646c95b",
-                        "name": "103年臺南市統計年報-8.教育文化",
-                        "created": "2016-05-27T17:19:53.714084",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0f1fe044-a10e-4f31-a663-93a8ed1a96e1": {
-                        "id": "0f1fe044-a10e-4f31-a663-93a8ed1a96e1",
-                        "name": "103年臺南市統計年報-9.衛生",
-                        "created": "2016-05-27T17:20:31.540942",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "e4a3570b-3b75-422a-b886-ae54b1bcf183": {
-                        "id": "e4a3570b-3b75-422a-b886-ae54b1bcf183",
-                        "name": "103年臺南市統計年報-10.環境保護",
-                        "created": "2016-05-27T17:21:37.237868",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "ce3f74d3-fd92-497c-81bf-c6ba11cf124f": {
-                        "id": "ce3f74d3-fd92-497c-81bf-c6ba11cf124f",
-                        "name": "103年臺南市統計年報-11.社會福利",
-                        "created": "2016-05-27T17:22:02.297942",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "fedd2514-8faf-49a8-b4ab-7b5130b7c2cc": {
-                        "id": "fedd2514-8faf-49a8-b4ab-7b5130b7c2cc",
-                        "name": "103年臺南市統計年報-12.勞工行政",
-                        "created": "2016-05-27T17:22:29.567847",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "02ab3d8f-0832-4cdd-99c7-afad7d8fd8a9": {
-                        "id": "02ab3d8f-0832-4cdd-99c7-afad7d8fd8a9",
-                        "name": "103年臺南市統計年報-13.社會治安",
-                        "created": "2016-05-27T17:22:59.409598",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "fdad3f65-19b9-43cf-ac89-ea28c10f906c": {
-                        "id": "fdad3f65-19b9-43cf-ac89-ea28c10f906c",
-                        "name": "103年臺南市統計年報-14.家庭收支",
-                        "created": "2016-05-27T17:23:25.877021",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "987642bd-41be-49b8-bfb4-72bac10a541f": {
-                        "id": "987642bd-41be-49b8-bfb4-72bac10a541f",
-                        "name": "103年臺南市統計年報-15.其他",
-                        "created": "2016-05-27T17:23:49.605170",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 3,
-                    "resource_recent": 3
-                }
-            },
-            "e1760de6-ee13-41a9-a862-ae8718b04eb6": {
-                "name": "103-subordinate-agency",
-                "title": "103年度臺南市地方總決算附屬單位決算綜計表",
-                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
-                "metadata_created": "2016-05-30T02:36:43.550783",
-                "metadata_modified": "2016-05-30T08:21:31.555844",
-                "timeEnd": 1464596488,
-                "timeBegin": 1464547003,
-                "resources": {
-                    "bb2f50a9-303b-4b82-8bd2-9b68a72c1062": {
-                        "id": "bb2f50a9-303b-4b82-8bd2-9b68a72c1062",
-                        "name": "103年度營業基金損益綜計表(依收支科目分別)",
-                        "created": "2016-05-30T10:40:56.648639",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "c262e6f9-b910-4160-8d83-8a57e07f0461": {
-                        "id": "c262e6f9-b910-4160-8d83-8a57e07f0461",
-                        "name": "103年度營業基金盈虧撥補綜計表(撥補項目分別)",
-                        "created": "2016-05-30T10:50:10.962849",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "3e07bdf0-ff31-42ae-aedc-4e8e493a9379": {
-                        "id": "3e07bdf0-ff31-42ae-aedc-4e8e493a9379",
-                        "name": "103年度營業基金現金流量綜計表(依現金流量項目分別)",
-                        "created": "2016-05-30T11:13:31.940425",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "62dffe31-485a-47ef-a2fe-295fbbe67507": {
-                        "id": "62dffe31-485a-47ef-a2fe-295fbbe67507",
-                        "name": "103年度營業基金資產負債綜計表(依科目分列)",
-                        "created": "2016-05-30T13:48:20.642054",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "c17b90bf-93f8-4fa7-8d3b-4808091163bc": {
-                        "id": "c17b90bf-93f8-4fa7-8d3b-4808091163bc",
-                        "name": "103年度作業基金收支餘絀綜計表(依收支科目分列)",
-                        "created": "2016-05-30T14:19:19.585321",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d18fd6ed-ebf3-44b1-a8e8-d7ca6e7d5a28": {
-                        "id": "d18fd6ed-ebf3-44b1-a8e8-d7ca6e7d5a28",
-                        "name": "103年度作業基金餘絀撥補綜計表(依撥補項目分列)",
-                        "created": "2016-05-30T15:36:09.039009",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "dd780fbb-bcb8-4221-8068-117edec96481": {
-                        "id": "dd780fbb-bcb8-4221-8068-117edec96481",
-                        "name": "103年度作業基金現金流量綜計表(依現金流量項目分列)",
-                        "created": "2016-05-30T15:43:14.828150",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a5ffb312-7909-4713-b66b-ac5159a7192c": {
-                        "id": "a5ffb312-7909-4713-b66b-ac5159a7192c",
-                        "name": "103年度作業基金平衡綜計表(依科目分列)",
-                        "created": "2016-05-30T15:57:05.722005",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "bdc7a833-6cd4-4e68-9fe1-ed20b3e505bb": {
-                        "id": "bdc7a833-6cd4-4e68-9fe1-ed20b3e505bb",
-                        "name": "103年度特別收入基金基金來源、用途及餘絀綜計表",
-                        "created": "2016-05-30T16:12:01.545469",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2ff56e33-c7ee-44f3-8011-c81cb9d931fa": {
-                        "id": "2ff56e33-c7ee-44f3-8011-c81cb9d931fa",
-                        "name": "103年度特別收入基金現金流量綜計表(依現金流量項目分列)",
-                        "created": "2016-05-30T16:16:42.577848",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "682b47a7-96a4-44ab-89b8-be8f1cba1377": {
-                        "id": "682b47a7-96a4-44ab-89b8-be8f1cba1377",
-                        "name": "103年度特別收入基金平衡綜計表(依科目分列)",
-                        "created": "2016-05-30T16:21:28.626110",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 5
-                }
-            },
-            "174151f4-cc94-46cb-8b87-a20dbbaf7ac2": {
-                "name": "104budget",
-                "title": "104年度臺南市政府地方總預算預算總表",
-                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
-                "metadata_created": "2015-06-23T00:50:12.764573",
-                "metadata_modified": "2016-05-12T17:30:22.934864",
-                "timeEnd": 1463045422,
-                "timeBegin": 1434991812,
-                "resources": {
-                    "162df1b2-0604-45cd-a61d-30b79070cb5b": {
-                        "id": "162df1b2-0604-45cd-a61d-30b79070cb5b",
-                        "name": "104年度臺南市政府地方總預算預算總表",
-                        "created": "2015-06-23T08:52:01.731621",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "08254657-fdd2-4934-a382-faf311f8f93c": {
-                        "id": "08254657-fdd2-4934-a382-faf311f8f93c",
-                        "name": "104年度臺南市政府地方總預算歲入歲出簡明比較分析表",
-                        "created": "2016-04-27T11:04:51.439788",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "e1200cd5-6182-4cb5-a7ac-ed4b690c6402": {
-                        "id": "e1200cd5-6182-4cb5-a7ac-ed4b690c6402",
-                        "name": "104年度臺南市政府地方總預算歲入歲出性質及餘絀簡明比較分析表",
-                        "created": "2016-04-27T11:22:04.978335",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "12e65523-d332-429a-a7b3-c8267ce0a61a": {
-                        "id": "12e65523-d332-429a-a7b3-c8267ce0a61a",
-                        "name": "104年度臺南市政府地方總預算收支簡明比較分析表",
-                        "created": "2016-04-27T13:33:14.731807",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d43563e3-1c60-4485-8086-5e32bdeff599": {
-                        "id": "d43563e3-1c60-4485-8086-5e32bdeff599",
-                        "name": "104年度臺南市政府地方總預算歲入來源別預算總表",
-                        "created": "2016-04-27T13:34:50.945484",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "ebde9d55-10eb-4738-9ca9-a127aaa47d3b": {
-                        "id": "ebde9d55-10eb-4738-9ca9-a127aaa47d3b",
-                        "name": "104年度臺南市政府地方總預算歲入來源別預算比較總表",
-                        "created": "2016-04-27T13:36:08.639587",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "91d38e6b-1ae1-4da4-92aa-68c0bb6ecf77": {
-                        "id": "91d38e6b-1ae1-4da4-92aa-68c0bb6ecf77",
-                        "name": "104年度臺南市政府地方總預算歲出政事別預算總表",
-                        "created": "2016-04-27T13:38:02.734080",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "dd6ae912-83a0-4257-ac7d-d8cc15e724ac": {
-                        "id": "dd6ae912-83a0-4257-ac7d-d8cc15e724ac",
-                        "name": "104年度臺南市政府地方總預算歲出政事別預算比較總表",
-                        "created": "2016-04-27T13:39:14.653699",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "9dce441c-bbe8-430d-be8e-a375f39d3bb2": {
-                        "id": "9dce441c-bbe8-430d-be8e-a375f39d3bb2",
-                        "name": "104年度臺南市政府地方總預算歲出機關別預算總表",
-                        "created": "2016-04-27T13:40:18.795589",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "cfa1b5d6-21b9-47c5-ad64-0392f787ebe5": {
-                        "id": "cfa1b5d6-21b9-47c5-ad64-0392f787ebe5",
-                        "name": "104年度臺南市政府地方總預算歲出機關別預算比較總表",
-                        "created": "2016-04-27T13:41:30.778224",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 23,
-                    "resource_recent": 11
-                }
-            },
-            "8f47df1c-75d3-416e-8703-f4805aa1f6d7": {
-                "name": "105budget",
-                "title": "105年度臺南市政府地方總預算預算總表",
-                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
-                "metadata_created": "2016-05-12T17:09:00.589944",
-                "metadata_modified": "2016-05-19T06:25:34.258319",
-                "timeEnd": 1463639132,
-                "timeBegin": 1463044140,
-                "resources": {
-                    "4b19f6a7-3034-4579-a336-372711a916f0": {
-                        "id": "4b19f6a7-3034-4579-a336-372711a916f0",
-                        "name": "105年度臺南市政府地方總預算預算總表",
-                        "created": "2016-05-13T01:10:35.656955",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "f3e96701-4901-487c-8ae1-afb17cb82200": {
-                        "id": "f3e96701-4901-487c-8ae1-afb17cb82200",
-                        "name": "105年度臺南市政府地方總預算歲入歲出簡明比較分析表",
-                        "created": "2016-05-19T13:54:02.429974",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "854fa5d4-e9c8-4015-95e4-a40428f43b7b": {
-                        "id": "854fa5d4-e9c8-4015-95e4-a40428f43b7b",
-                        "name": "105年度臺南市政府地方總預算歲入歲出性質及餘絀簡明比較分析表",
-                        "created": "2016-05-19T13:55:05.997797",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "7783a4d0-2250-48b5-a70a-77a94091e4d9": {
-                        "id": "7783a4d0-2250-48b5-a70a-77a94091e4d9",
-                        "name": "105年度臺南市政府地方總預算收支簡明比較分析表",
-                        "created": "2016-05-19T13:56:27.729002",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "3f2974c5-8110-40bf-801a-b0473d95f6b4": {
-                        "id": "3f2974c5-8110-40bf-801a-b0473d95f6b4",
-                        "name": "105年度臺南市政府地方總預算歲入來源別預算總表",
-                        "created": "2016-05-19T14:21:25.104029",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "30a51961-64d3-4f8f-8501-5c172ae02162": {
-                        "id": "30a51961-64d3-4f8f-8501-5c172ae02162",
-                        "name": "105年度臺南市政府地方總預算歲入來源別預算比較總表",
-                        "created": "2016-05-19T14:22:23.374044",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0ace84d3-c730-410b-aa18-2446885a9d96": {
-                        "id": "0ace84d3-c730-410b-aa18-2446885a9d96",
-                        "name": "105年度臺南市政府地方總預算歲出政事別預算總表",
-                        "created": "2016-05-19T14:23:06.172496",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "96ecac5c-d7ab-415a-87bd-521c9936d30b": {
-                        "id": "96ecac5c-d7ab-415a-87bd-521c9936d30b",
-                        "name": "105年度臺南市政府地方總預算歲出政事別預算比較總表",
-                        "created": "2016-05-19T14:23:57.256364",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "64dbcf9a-fb23-4768-95e3-122784581175": {
-                        "id": "64dbcf9a-fb23-4768-95e3-122784581175",
-                        "name": "105年度臺南市政府地方總預算歲出機關別預算總表",
-                        "created": "2016-05-19T14:24:45.800719",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a98a9fea-5f36-4181-a78c-51194c007362": {
-                        "id": "a98a9fea-5f36-4181-a78c-51194c007362",
-                        "name": "105年度臺南市政府地方總預算歲出機關別預算比較總表",
-                        "created": "2016-05-19T14:25:32.787458",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 14,
-                    "resource_recent": 12
-                }
-            },
-            "936c02e8-2c56-4ca7-b9a2-4ba4286e0775": {
-                "name": "105-subordinate-unit-budget",
-                "title": "105年度臺南市地方總預算附屬單位預算及綜計表",
-                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
-                "metadata_created": "2016-05-23T07:55:12.965872",
-                "metadata_modified": "2016-05-27T02:10:48.527889",
-                "timeEnd": 1464286248,
-                "timeBegin": 1463961312,
-                "resources": {
-                    "cd5032c3-e0a8-4081-8054-7e7aed77f0b5": {
-                        "id": "cd5032c3-e0a8-4081-8054-7e7aed77f0b5",
-                        "name": "105年度營業基金財務摘要綜計表",
-                        "created": "2016-05-23T16:13:15.131766",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "642ba781-c2ee-482e-892e-ab3b0cf948f8": {
-                        "id": "642ba781-c2ee-482e-892e-ab3b0cf948f8",
-                        "name": "105年度營業基金損益綜計表(依收支科目分列)",
-                        "created": "2016-05-23T16:25:40.998740",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "eff29a61-fb5f-46a2-a094-9ee0452a75e3": {
-                        "id": "eff29a61-fb5f-46a2-a094-9ee0452a75e3",
-                        "name": "105年度營業基金損益綜計表(依機關別分列)",
-                        "created": "2016-05-23T17:24:43.358404",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a867429d-d58e-4124-b6c1-861054d68416": {
-                        "id": "a867429d-d58e-4124-b6c1-861054d68416",
-                        "name": "105年度營業基金盈虧撥補綜計表(依撥補項目分列)",
-                        "created": "2016-05-23T17:38:12.463514",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0e6011b6-5ca6-4801-a990-07dc670caff0": {
-                        "id": "0e6011b6-5ca6-4801-a990-07dc670caff0",
-                        "name": "105年度營業基金盈虧撥補綜計表(依機關別分列)",
-                        "created": "2016-05-24T09:25:32.609465",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "927a6ce7-1311-4601-9757-5db04849762c": {
-                        "id": "927a6ce7-1311-4601-9757-5db04849762c",
-                        "name": "105年度營業基金現金流量綜計表(依現金流量項目分列)",
-                        "created": "2016-05-24T09:45:37.217062",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "6fc99d16-f1dc-436d-89f8-382ccff802ca": {
-                        "id": "6fc99d16-f1dc-436d-89f8-382ccff802ca",
-                        "name": "105年度營業基金現金流量綜計表(依機關別分列)",
-                        "created": "2016-05-24T10:24:38.837126",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "6710e380-6564-4116-a620-699a6c1723a8": {
-                        "id": "6710e380-6564-4116-a620-699a6c1723a8",
-                        "name": "105年度營業基金固定資產建設改良擴充資金來源綜計表",
-                        "created": "2016-05-24T11:05:03.715348",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "8d3389f1-60e7-49b7-bc89-4e7cd16df721": {
-                        "id": "8d3389f1-60e7-49b7-bc89-4e7cd16df721",
-                        "name": "105年度作業基金收支餘絀綜計表(依收支科目分列)",
-                        "created": "2016-05-24T11:13:54.599220",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "6fd0f777-146d-4949-8e1d-b24b6b6457be": {
-                        "id": "6fd0f777-146d-4949-8e1d-b24b6b6457be",
-                        "name": "105年度作業基金收支餘絀綜計表(依基金別分列)",
-                        "created": "2016-05-24T11:44:26.961986",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a0b0f068-3267-45b9-878e-897d68b73fa1": {
-                        "id": "a0b0f068-3267-45b9-878e-897d68b73fa1",
-                        "name": "105年度作業基金餘絀撥補綜計表(依撥補項目分列)",
-                        "created": "2016-05-24T11:51:20.047626",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "72b72937-ba63-4c5f-a96d-765a538cb2e2": {
-                        "id": "72b72937-ba63-4c5f-a96d-765a538cb2e2",
-                        "name": "105年度作業基金餘絀撥補綜計表(依基金別分列)",
-                        "created": "2016-05-24T12:07:04.384450",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "862960e3-fc34-4bb3-9393-d611e7061144": {
-                        "id": "862960e3-fc34-4bb3-9393-d611e7061144",
-                        "name": "105年度作業基金現金流量綜計表(依現金流量項目分列)",
-                        "created": "2016-05-24T13:36:21.211891",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b1bb4cc5-9dea-4001-8935-848bae835600": {
-                        "id": "b1bb4cc5-9dea-4001-8935-848bae835600",
-                        "name": "105年度作業基金現金流量綜計表(依基金別分列)",
-                        "created": "2016-05-24T15:43:36.458912",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "626e3bf7-ab95-4eff-86d0-8f2e7714d156": {
-                        "id": "626e3bf7-ab95-4eff-86d0-8f2e7714d156",
-                        "name": "105年度特別收入基金來源、用途及餘絀綜計表",
-                        "created": "2016-05-24T15:57:13.133389",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "9bf6fbee-59a2-4f00-830b-ab502cb67c9e": {
-                        "id": "9bf6fbee-59a2-4f00-830b-ab502cb67c9e",
-                        "name": "105年度特別收入基金現金流量綜計表(依現金流量項目分列)",
-                        "created": "2016-05-24T16:06:23.220624",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "3f6240af-dd8b-48d5-9916-142e61071c52": {
-                        "id": "3f6240af-dd8b-48d5-9916-142e61071c52",
-                        "name": "105年度特別收入基金現金流量綜計表(依基金別分列)",
-                        "created": "2016-05-24T16:16:53.810075",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 28,
-                    "resource_recent": 28
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "5255ade0-1d55-4688-9c13-3a0ddb6808a6": {
@@ -707,6 +446,336 @@
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
+                }
+            },
+            "87fe21e1-bea2-48dc-b47b-f704ee44a2eb": {
+                "name": "statistical-yearbook-01",
+                "title": "臺南市統計年報-土地",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:37:13.492861",
+                "metadata_modified": "2016-06-19T17:04:18.211962",
+                "timeEnd": 1466354255,
+                "timeBegin": 1466325433,
+                "resources": {
+                    "19b29630-4f9f-468b-b9a9-007e5ab527ae": {
+                        "id": "19b29630-4f9f-468b-b9a9-007e5ab527ae",
+                        "name": "103年度-臺南市統計年報-土地",
+                        "created": "2016-06-20T00:37:35.970639",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "47837eaf-f826-4c42-aa37-88567a64a737": {
+                "name": "statistical-yearbook-02",
+                "title": "臺南市統計年報-人口",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:39:17.331382",
+                "metadata_modified": "2016-06-19T17:04:37.451709",
+                "timeEnd": 1466354386,
+                "timeBegin": 1466325557,
+                "resources": {
+                    "da227c63-69fa-4364-8404-1db6bf479b74": {
+                        "id": "da227c63-69fa-4364-8404-1db6bf479b74",
+                        "name": "103年度-臺南市統計年報-人口",
+                        "created": "2016-06-20T00:39:46.346671",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c6fb0cf2-2d41-42c7-ac4b-6f6ce244c21b": {
+                "name": "statistical-yearbook-03",
+                "title": "臺南市統計年報-行政組織",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:41:07.066487",
+                "metadata_modified": "2016-06-19T17:05:03.295463",
+                "timeEnd": 1466354485,
+                "timeBegin": 1466325667,
+                "resources": {
+                    "048a1533-d20d-4852-806f-505017becd14": {
+                        "id": "048a1533-d20d-4852-806f-505017becd14",
+                        "name": "103年度-臺南市統計年報-行政組織",
+                        "created": "2016-06-20T00:41:25.845687",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c5e411cf-8e22-411c-af67-6a85479230f2": {
+                "name": "statistical-yearbook-04",
+                "title": "臺南市統計年報-農林漁牧",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:42:43.452976",
+                "metadata_modified": "2016-06-19T17:05:23.075746",
+                "timeEnd": 1466354582,
+                "timeBegin": 1466325763,
+                "resources": {
+                    "d837b60a-48ad-45cc-bddd-470480d02191": {
+                        "id": "d837b60a-48ad-45cc-bddd-470480d02191",
+                        "name": "103年度-臺南市統計年報-農林漁牧",
+                        "created": "2016-06-20T00:43:02.383301",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d1f3b0c4-6ec7-4574-971b-d3fd480becaa": {
+                "name": "statistical-yearbook-05",
+                "title": "臺南市統計年報-工商業及市建設",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:44:24.270699",
+                "metadata_modified": "2016-06-19T17:05:40.579821",
+                "timeEnd": 1466354690,
+                "timeBegin": 1466325864,
+                "resources": {
+                    "76e3f212-3f76-4fb5-8660-11e04af9fe94": {
+                        "id": "76e3f212-3f76-4fb5-8660-11e04af9fe94",
+                        "name": "103年度-臺南市統計年報-工商業及市建設",
+                        "created": "2016-06-20T00:44:50.771346",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c1115086-a928-4317-8885-38ab8c01bfb3": {
+                "name": "statistical-yearbook-06",
+                "title": "臺南市統計年報-金融財稅",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:46:17.825971",
+                "metadata_modified": "2016-06-19T17:05:57.085539",
+                "timeEnd": 1466354797,
+                "timeBegin": 1466325977,
+                "resources": {
+                    "94bb3c5d-20cf-4aa3-946f-ed37f203f6bc": {
+                        "id": "94bb3c5d-20cf-4aa3-946f-ed37f203f6bc",
+                        "name": "103年度-臺南市統計年報-金融財稅",
+                        "created": "2016-06-20T00:46:37.326261",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "2324d30d-1083-4237-97cc-be580d2fc690": {
+                "name": "statistical-yearbook-07",
+                "title": "臺南市統計年報-交通運輸",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:47:50.963608",
+                "metadata_modified": "2016-06-19T17:06:12.538803",
+                "timeEnd": 1466354888,
+                "timeBegin": 1466326070,
+                "resources": {
+                    "d60eb418-650c-4ed7-9840-3261ae0530a3": {
+                        "id": "d60eb418-650c-4ed7-9840-3261ae0530a3",
+                        "name": "103年度-臺南市統計年報-交通運輸",
+                        "created": "2016-06-20T00:48:08.164986",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e01df816-4009-4b58-9751-3dc812683d0d": {
+                "name": "statistical-yearbook-08",
+                "title": "臺南市統計年報-教育文化",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:49:28.962367",
+                "metadata_modified": "2016-06-19T17:06:40.264448",
+                "timeEnd": 1466354991,
+                "timeBegin": 1466326168,
+                "resources": {
+                    "c3d016ea-88e3-4b16-94e2-9a967be92f82": {
+                        "id": "c3d016ea-88e3-4b16-94e2-9a967be92f82",
+                        "name": "103年度-臺南市統計年報-教育文化",
+                        "created": "2016-06-20T00:49:51.672486",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "35262785-1b57-4098-a956-3d73614ebf53": {
+                "name": "statistical-yearbook-09",
+                "title": "臺南市統計年報-衛生",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:51:01.401712",
+                "metadata_modified": "2016-06-19T17:06:55.088567",
+                "timeEnd": 1466355081,
+                "timeBegin": 1466326261,
+                "resources": {
+                    "486e37f3-4f77-4f36-811b-974b9eb33cdf": {
+                        "id": "486e37f3-4f77-4f36-811b-974b9eb33cdf",
+                        "name": "103年度-臺南市統計年報-衛生",
+                        "created": "2016-06-20T00:51:21.817179",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4a5fb19b-e68a-4c21-90ab-971a6458e07d": {
+                "name": "statistical-yearbook-10",
+                "title": "臺南市統計年報-環境保護",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:52:36.776093",
+                "metadata_modified": "2016-06-19T17:07:12.804394",
+                "timeEnd": 1466355174,
+                "timeBegin": 1466326356,
+                "resources": {
+                    "9d79422e-09b2-4ce5-84e3-6f4ed2d68c73": {
+                        "id": "9d79422e-09b2-4ce5-84e3-6f4ed2d68c73",
+                        "name": "103年度-臺南市統計年報-環境保護",
+                        "created": "2016-06-20T00:52:54.204578",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "74d417ba-e0ec-4728-bcf3-9443678f747c": {
+                "name": "statistical-yearbook-11",
+                "title": "臺南市統計年報-社會福利",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:54:15.932922",
+                "metadata_modified": "2016-06-19T17:07:29.404411",
+                "timeEnd": 1466355274,
+                "timeBegin": 1466326455,
+                "resources": {
+                    "4b055c29-531b-4771-8676-839067c6c724": {
+                        "id": "4b055c29-531b-4771-8676-839067c6c724",
+                        "name": "103年度-臺南市統計年報-社會福利",
+                        "created": "2016-06-20T00:54:34.904470",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "10a15c79-ff9b-40d8-8339-abe655d9aa59": {
+                "name": "statistical-yearbook-12",
+                "title": "臺南市統計年報-勞工行政",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:55:52.943979",
+                "metadata_modified": "2016-06-19T17:07:45.955294",
+                "timeEnd": 1466355370,
+                "timeBegin": 1466326552,
+                "resources": {
+                    "087abb7e-a7b7-4438-8e9b-6dc71bd3f38f": {
+                        "id": "087abb7e-a7b7-4438-8e9b-6dc71bd3f38f",
+                        "name": "103年度-臺南市統計年報-勞工行政",
+                        "created": "2016-06-20T00:56:10.883388",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "234360b8-983b-4b6a-b6c2-373fd9b46572": {
+                "name": "statistical-yearbook-13",
+                "title": "臺南市統計年報-社會治安",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:57:32.201182",
+                "metadata_modified": "2016-06-19T17:08:04.694804",
+                "timeEnd": 1466355472,
+                "timeBegin": 1466326652,
+                "resources": {
+                    "e1d0c8cf-4351-4adc-9f60-eb2c517c4ed9": {
+                        "id": "e1d0c8cf-4351-4adc-9f60-eb2c517c4ed9",
+                        "name": "103年度-臺南市統計年報-社會治安",
+                        "created": "2016-06-20T00:57:52.468753",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a78a29bc-9134-49f2-a5b8-4b3918e262f1": {
+                "name": "statistical-yearbook-14",
+                "title": "臺南市統計年報-家庭收支",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T16:59:32.845561",
+                "metadata_modified": "2016-06-19T17:08:21.397572",
+                "timeEnd": 1466355598,
+                "timeBegin": 1466326772,
+                "resources": {
+                    "7657b5da-05f1-4746-8035-28d0a0128aff": {
+                        "id": "7657b5da-05f1-4746-8035-28d0a0128aff",
+                        "name": "103年度-臺南市統計年報-家庭收支",
+                        "created": "2016-06-20T00:59:58.510473",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0c4bc995-98d6-498f-a8e9-d35fcf526cc7": {
+                "name": "statistical-yearbook-15",
+                "title": "臺南市統計年報-其他",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-27T02:50:59.360331",
+                "metadata_modified": "2016-06-19T17:09:00.742164",
+                "timeEnd": 1466327340,
+                "timeBegin": 1464288659,
+                "resources": {
+                    "987642bd-41be-49b8-bfb4-72bac10a541f": {
+                        "id": "987642bd-41be-49b8-bfb4-72bac10a541f",
+                        "name": "103年度-臺南市統計年報-其他",
+                        "created": "2016-05-27T17:23:49.605170",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "39892060-9ed3-4429-bf59-3e8e07fe22a1": {
@@ -752,6 +821,883 @@
                     "resource_total": 0,
                     "resource_recent": 0
                 }
+            },
+            "510027ae-ec96-4eaf-af3e-25839cdc74c3": {
+                "name": "subordinate-agency-01",
+                "title": "臺南市附屬單位決算綜計表-營業基金損益綜計表(依收支科目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:27:28.291306",
+                "metadata_modified": "2016-06-19T15:28:05.210447",
+                "timeEnd": 1466350072,
+                "timeBegin": 1466321248,
+                "resources": {
+                    "5a4740c9-6b03-440e-8ee0-0281f73773c6": {
+                        "id": "5a4740c9-6b03-440e-8ee0-0281f73773c6",
+                        "name": "103年度-臺南市附屬單位決算綜計表-營業基金損益綜計表(依收支科目分列)",
+                        "created": "2016-06-19T23:27:52.487666",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8afe2bfe-e811-4814-bf75-e76f1364a25c": {
+                "name": "subordinate-agency-02",
+                "title": "臺南市附屬單位決算綜計表-營業基金盈虧撥補綜計表(依撥補項目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:29:44.308533",
+                "metadata_modified": "2016-06-19T15:30:16.248083",
+                "timeEnd": 1466350204,
+                "timeBegin": 1466321384,
+                "resources": {
+                    "710a481f-682a-4eb0-94f7-2e80d493febf": {
+                        "id": "710a481f-682a-4eb0-94f7-2e80d493febf",
+                        "name": "103年度-臺南市附屬單位決算綜計表-營業基金盈虧撥補綜計表(依撥補項目分列)",
+                        "created": "2016-06-19T23:30:04.174400",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e8875d10-2dc0-47e8-8c43-22bb7c08ac71": {
+                "name": "subordinate-agency-03",
+                "title": "臺南市附屬單位決算綜計表-營業基金現金流量綜計表(依現金流量項目分別)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:34:21.968054",
+                "metadata_modified": "2016-06-19T15:34:57.803029",
+                "timeEnd": 1466350486,
+                "timeBegin": 1466321661,
+                "resources": {
+                    "1b1afbcf-46a7-4f20-9913-ef1e17facbc0": {
+                        "id": "1b1afbcf-46a7-4f20-9913-ef1e17facbc0",
+                        "name": "103年度-臺南市附屬單位決算綜計表-營業基金現金流量綜計表(依現金流量項目分別)",
+                        "created": "2016-06-19T23:34:46.444006",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "25ba90b7-d942-4fe1-abd8-17a0d4ea8ead": {
+                "name": "subordinate-agency-04",
+                "title": "臺南市附屬單位決算綜計表-營業基金資產負債綜計表(依科目分別)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:36:59.878958",
+                "metadata_modified": "2016-06-19T15:37:34.915947",
+                "timeEnd": 1466350644,
+                "timeBegin": 1466321819,
+                "resources": {
+                    "550b88ae-81a5-47b2-ac34-45b863bb7c68": {
+                        "id": "550b88ae-81a5-47b2-ac34-45b863bb7c68",
+                        "name": "103年度-臺南市附屬單位決算綜計表-營業基金資產負債綜計表(依科目分別)",
+                        "created": "2016-06-19T23:37:24.214601",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c2368930-2b0f-4ebc-a52f-2a5e5aebc6d6": {
+                "name": "subordinate-agency-05",
+                "title": "臺南市附屬單位決算綜計表-作業基金收支餘絀綜計表(依收支科目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:39:19.560414",
+                "metadata_modified": "2016-06-19T15:43:07.045352",
+                "timeEnd": 1466350975,
+                "timeBegin": 1466321959,
+                "resources": {
+                    "31d660b8-5b5c-42fa-9216-15ee043f27bc": {
+                        "id": "31d660b8-5b5c-42fa-9216-15ee043f27bc",
+                        "name": "103年度-臺南市附屬單位決算綜計表-作業基金收支餘絀綜計表(依收支科目分列)",
+                        "created": "2016-06-19T23:42:55.890909",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f34e300b-20dd-43e9-b654-ad189cef971d": {
+                "name": "subordinate-agency-06",
+                "title": "臺南市附屬單位決算綜計表-作業基金餘絀撥補綜計表(依撥補項目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:46:15.904442",
+                "metadata_modified": "2016-06-19T15:47:04.391658",
+                "timeEnd": 1466351211,
+                "timeBegin": 1466322375,
+                "resources": {
+                    "1e20a5d5-7dc9-4a12-8baa-7cf6fab5c7f2": {
+                        "id": "1e20a5d5-7dc9-4a12-8baa-7cf6fab5c7f2",
+                        "name": "103年度-臺南市附屬單位決算綜計表-作業基金餘絀撥補綜計表(依撥補項目分列)",
+                        "created": "2016-06-19T23:46:51.306536",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "83cc4c49-9fbd-44c3-b686-95771ceeba75": {
+                "name": "subordinate-agency-07",
+                "title": "臺南市附屬單位決算綜計表-作業基金現金流量綜計表(依現金流量項目分別)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:48:55.345250",
+                "metadata_modified": "2016-06-19T15:49:30.295570",
+                "timeEnd": 1466351358,
+                "timeBegin": 1466322535,
+                "resources": {
+                    "303c4ca2-91af-4bbe-9efa-b1cd34c9cc90": {
+                        "id": "303c4ca2-91af-4bbe-9efa-b1cd34c9cc90",
+                        "name": "103年度-臺南市附屬單位決算綜計表-作業基金現金流量綜計表(依現金流量項目分別)",
+                        "created": "2016-06-19T23:49:18.976184",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e2eed773-1e26-4a52-93b1-871891875f83": {
+                "name": "subordinate-agency-08",
+                "title": "臺南市附屬單位決算綜計表-作業基金平衡綜計表(依科目分別)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:50:53.522579",
+                "metadata_modified": "2016-06-19T15:51:27.569263",
+                "timeEnd": 1466351475,
+                "timeBegin": 1466322653,
+                "resources": {
+                    "5626ff9b-8c53-4610-bf55-775c7cd7ce4e": {
+                        "id": "5626ff9b-8c53-4610-bf55-775c7cd7ce4e",
+                        "name": "103年度-臺南市附屬單位決算綜計表-作業基金平衡綜計表(依科目分別)",
+                        "created": "2016-06-19T23:51:15.882821",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "f2f8a74d-0452-405a-908e-09699c43dd53": {
+                "name": "subordinate-agency-09",
+                "title": "臺南市附屬單位決算綜計表-特別收入基金基金來源用途及餘絀綜計表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:53:10.996832",
+                "metadata_modified": "2016-06-19T15:54:55.899283",
+                "timeEnd": 1466351654,
+                "timeBegin": 1466322790,
+                "resources": {
+                    "89151c8d-c8c4-4f68-bf07-495e8f7dd55b": {
+                        "id": "89151c8d-c8c4-4f68-bf07-495e8f7dd55b",
+                        "name": "103年度-臺南市附屬單位決算綜計表-特別收入基金基金來源用途及餘絀綜計表",
+                        "created": "2016-06-19T23:54:14.531263",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7b079ab1-4743-4d0d-b821-be5ec4054478": {
+                "name": "subordinate-agency-10",
+                "title": "臺南市附屬單位決算綜計表-特別收入基金現金流量綜計表(依現金流量項目分別)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:56:45.871623",
+                "metadata_modified": "2016-06-19T15:57:22.499709",
+                "timeEnd": 1466351830,
+                "timeBegin": 1466323005,
+                "resources": {
+                    "d1453506-23e4-49ad-8164-5244c8c04e33": {
+                        "id": "d1453506-23e4-49ad-8164-5244c8c04e33",
+                        "name": "103年度-臺南市附屬單位決算綜計表-特別收入基金現金流量綜計表(依現金流量項目分別)",
+                        "created": "2016-06-19T23:57:10.496936",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e1760de6-ee13-41a9-a862-ae8718b04eb6": {
+                "name": "subordinate-agency-11",
+                "title": "臺南市附屬單位決算綜計表-特別收入基金平衡綜計表(依科目分別)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-30T02:36:43.550783",
+                "metadata_modified": "2016-06-19T16:01:11.214441",
+                "timeEnd": 1466323271,
+                "timeBegin": 1464547003,
+                "resources": {
+                    "682b47a7-96a4-44ab-89b8-be8f1cba1377": {
+                        "id": "682b47a7-96a4-44ab-89b8-be8f1cba1377",
+                        "name": "103年度-臺南市附屬單位決算綜計表-特別收入基金平衡綜計表(依科目分別)",
+                        "created": "2016-05-30T16:21:28.626110",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 2,
+                    "resource_recent": 1
+                }
+            },
+            "19a3e69d-d81c-464d-808d-7c8faecc2504": {
+                "name": "subordinate-unit-budget-01",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業基金財務摘要綜計表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:24:34.166201",
+                "metadata_modified": "2016-06-19T14:25:22.122806",
+                "timeEnd": 1466346310,
+                "timeBegin": 1466317474,
+                "resources": {
+                    "2f69ae0b-91be-4f5b-86fb-475eebb9a9b2": {
+                        "id": "2f69ae0b-91be-4f5b-86fb-475eebb9a9b2",
+                        "name": "105年度臺南市附屬單位預算-營業基金財務摘要綜計表",
+                        "created": "2016-06-19T22:25:10.328768",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "8a6a36fb-7799-4e55-b8ec-2c7589910689": {
+                "name": "subordinate-unit-budget-02",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業其金損益綜計表(依收支科目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:28:28.663150",
+                "metadata_modified": "2016-06-19T14:29:17.338935",
+                "timeEnd": 1466346545,
+                "timeBegin": 1466317708,
+                "resources": {
+                    "7216a035-9290-4659-af0b-3af38bed3d16": {
+                        "id": "7216a035-9290-4659-af0b-3af38bed3d16",
+                        "name": "105年度-臺南市附屬單位預算-營業其金損益綜計表(依收支科目分列)",
+                        "created": "2016-06-19T22:29:05.409878",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "a5cac282-bd98-4edb-a4fe-99eac3c1ea0e": {
+                "name": "subordinate-unit-budget-03",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業基金損益綜計表(依機關別分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:31:11.697702",
+                "metadata_modified": "2016-06-19T14:31:51.724470",
+                "timeEnd": 1466346697,
+                "timeBegin": 1466317871,
+                "resources": {
+                    "c4fd6ef9-0cb7-4657-ac92-3f808bfc40e4": {
+                        "id": "c4fd6ef9-0cb7-4657-ac92-3f808bfc40e4",
+                        "name": "105年度-臺南市附屬單位預算-營業基金損益綜計表(依機關別分列)",
+                        "created": "2016-06-19T22:31:37.567730",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "011df94b-1297-4a61-b9f3-17be2943b32a": {
+                "name": "subordinate-unit-budget-04",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業基金盈虧撥補綜計表(依撥補項目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:33:52.561953",
+                "metadata_modified": "2016-06-19T14:34:35.899674",
+                "timeEnd": 1466346863,
+                "timeBegin": 1466318032,
+                "resources": {
+                    "acd06b38-efcb-4577-9e13-c2a46471c9ff": {
+                        "id": "acd06b38-efcb-4577-9e13-c2a46471c9ff",
+                        "name": "105年度-臺南市附屬單位預算-營業基金盈虧撥補綜計表(依撥補項目分列)",
+                        "created": "2016-06-19T22:34:23.671808",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "90ddb63d-f55d-4e0d-a4f6-04491cc127e9": {
+                "name": "subordinate-unit-budget-05",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業基金盈虧撥補綜計表(依機關別分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:36:22.463246",
+                "metadata_modified": "2016-06-19T14:36:59.739286",
+                "timeEnd": 1466347007,
+                "timeBegin": 1466318182,
+                "resources": {
+                    "8ff21d5d-d8c5-48e1-a87a-dfd9192df2f3": {
+                        "id": "8ff21d5d-d8c5-48e1-a87a-dfd9192df2f3",
+                        "name": "105年度-臺南市附屬單位預算-營業基金盈虧撥補綜計表(依機關別分列)",
+                        "created": "2016-06-19T22:36:47.095580",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "5dfae612-1967-4323-82f0-3787860b51ed": {
+                "name": "subordinate-unit-budget-06",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:40:34.349232",
+                "metadata_modified": "2016-06-19T14:41:12.104053",
+                "timeEnd": 1466347259,
+                "timeBegin": 1466318434,
+                "resources": {
+                    "91d4caf7-ca41-4f61-9c9c-a65599249518": {
+                        "id": "91d4caf7-ca41-4f61-9c9c-a65599249518",
+                        "name": "105年度-臺南市附屬單位預算-營業基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-06-19T22:40:59.976926",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "02203b3e-9978-428f-adce-0cc1b6482656": {
+                "name": "subordinate-unit-budget-07",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業基金現金流量綜計表(依機關別分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:43:08.486532",
+                "metadata_modified": "2016-06-19T14:43:45.518158",
+                "timeEnd": 1466347414,
+                "timeBegin": 1466318588,
+                "resources": {
+                    "05ce165e-dc4c-48fd-b2e3-580d76da3825": {
+                        "id": "05ce165e-dc4c-48fd-b2e3-580d76da3825",
+                        "name": "105年度-臺南市附屬單位預算-營業基金現金流量綜計表(依機關別分列)",
+                        "created": "2016-06-19T22:43:34.059004",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "acf466aa-e746-4ea3-a96f-831edff9d27a": {
+                "name": "subordinate-unit-budget-08",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-營業基金固定資產建設改良擴充資金來源綜計表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:45:21.233704",
+                "metadata_modified": "2016-06-19T14:45:58.294411",
+                "timeEnd": 1466347545,
+                "timeBegin": 1466318721,
+                "resources": {
+                    "e1ba0a34-cc00-4fa6-ad71-366fbece0a71": {
+                        "id": "e1ba0a34-cc00-4fa6-ad71-366fbece0a71",
+                        "name": "105年度-臺南市附屬單位預算-營業基金固定資產建設改良擴充資金來源綜計表",
+                        "created": "2016-06-19T22:45:45.514872",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "566192c3-8328-436f-958e-7700219c7d7d": {
+                "name": "subordinate-unit-budget-b1",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-作業基金收支餘絀綜計表(依收支科目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:47:53.307514",
+                "metadata_modified": "2016-06-19T14:48:31.105335",
+                "timeEnd": 1466347699,
+                "timeBegin": 1466318873,
+                "resources": {
+                    "a1d76131-df30-4447-ae42-a05fff9b024f": {
+                        "id": "a1d76131-df30-4447-ae42-a05fff9b024f",
+                        "name": "105年度-臺南市附屬單位預算-作業基金收支餘絀綜計表(依收支科目分列)",
+                        "created": "2016-06-19T22:48:19.934026",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7dbeee03-7649-4b97-894b-7b98d262f107": {
+                "name": "subordinate-unit-budget-b2",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-作業基金收支餘絀綜計表(依基金別分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:49:49.380843",
+                "metadata_modified": "2016-06-19T14:50:25.180259",
+                "timeEnd": 1466347813,
+                "timeBegin": 1466318989,
+                "resources": {
+                    "3465b065-1181-4387-8da9-b58b4d5ce2ca": {
+                        "id": "3465b065-1181-4387-8da9-b58b4d5ce2ca",
+                        "name": "105年度-臺南市附屬單位預算-作業基金收支餘絀綜計表(依基金別分列)",
+                        "created": "2016-06-19T22:50:13.153791",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "2c1dde09-975b-4387-8bd5-0eb254a16cd4": {
+                "name": "subordinate-unit-budget-b3",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-作業基金餘絀撥補綜計表(依撥補項目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:51:50.666479",
+                "metadata_modified": "2016-06-19T14:52:26.526340",
+                "timeEnd": 1466347934,
+                "timeBegin": 1466319110,
+                "resources": {
+                    "4015878e-e77a-40bc-923b-6228c33af292": {
+                        "id": "4015878e-e77a-40bc-923b-6228c33af292",
+                        "name": "105年度-臺南市附屬單位預算-作業基金餘絀撥補綜計表(依撥補項目分列)",
+                        "created": "2016-06-19T22:52:14.591125",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e44cdc12-3eb6-4a9d-bf7d-88b967c50a3b": {
+                "name": "subordinate-unit-budget-b4",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-作業基金餘絀撥補綜計表(依基金別分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:58:04.470129",
+                "metadata_modified": "2016-06-19T15:02:39.484527",
+                "timeEnd": 1466348308,
+                "timeBegin": 1466319484,
+                "resources": {
+                    "7bde9105-319f-48ed-b8cf-15f13c6fef80": {
+                        "id": "7bde9105-319f-48ed-b8cf-15f13c6fef80",
+                        "name": "105年度-臺南市附屬單位預算-作業基金餘絀撥補綜計表(依基金別分列)",
+                        "created": "2016-06-19T22:58:28.521792",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0d4ccf19-4daa-4a58-b571-6852f4a04069": {
+                "name": "subordinate-unit-budget-b5",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-作業基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T14:54:13.661276",
+                "metadata_modified": "2016-06-19T15:03:34.261669",
+                "timeEnd": 1466348518,
+                "timeBegin": 1466319253,
+                "resources": {
+                    "8af9fb17-c5d6-4a59-8271-3d19a4a8d2da": {
+                        "id": "8af9fb17-c5d6-4a59-8271-3d19a4a8d2da",
+                        "name": "105年度-臺南市附屬單位預算-作業基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-06-19T23:01:58.302737",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "bc17b157-c881-48df-bb63-a859344fe023": {
+                "name": "subordinate-unit-budget-b6",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-作業基金現金流量綜計表(依基金別分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:05:10.100933",
+                "metadata_modified": "2016-06-19T15:05:48.414604",
+                "timeEnd": 1466348737,
+                "timeBegin": 1466319910,
+                "resources": {
+                    "62d19ca4-0f05-4991-bc44-68311edca4d5": {
+                        "id": "62d19ca4-0f05-4991-bc44-68311edca4d5",
+                        "name": "105年度-臺南市附屬單位預算-作業基金現金流量綜計表(依基金別分列)",
+                        "created": "2016-06-19T23:05:37.106046",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b9d452c6-cc52-4d84-9a16-65874d28431c": {
+                "name": "subordinate-unit-budget-c1",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-特別收入基金來源、用途及餘絀綜計表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:08:05.113577",
+                "metadata_modified": "2016-06-19T15:08:41.789772",
+                "timeEnd": 1466348909,
+                "timeBegin": 1466320085,
+                "resources": {
+                    "2e771f46-983b-44c7-9f52-3a0b325efd17": {
+                        "id": "2e771f46-983b-44c7-9f52-3a0b325efd17",
+                        "name": "105年度-臺南市附屬單位預算-特別收入基金來源、用途及餘絀綜計表",
+                        "created": "2016-06-19T23:08:29.570382",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "291dce0e-5c6d-4af1-bc05-d42e969fe1d4": {
+                "name": "subordinate-unit-budget-c2",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-特別收入基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T15:09:57.611466",
+                "metadata_modified": "2016-06-19T15:10:31.027039",
+                "timeEnd": 1466349020,
+                "timeBegin": 1466320197,
+                "resources": {
+                    "523ce27b-a118-463e-bac3-46d43351f286": {
+                        "id": "523ce27b-a118-463e-bac3-46d43351f286",
+                        "name": "105年度-臺南市附屬單位預算-特別收入基金現金流量綜計表(依現金流量項目分列)",
+                        "created": "2016-06-19T23:10:20.036729",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "936c02e8-2c56-4ca7-b9a2-4ba4286e0775": {
+                "name": "subordinate-unit-budget-c3",
+                "title": "臺南市地方總預算附屬單位預算及綜計表-特別收入基金現金流量綜計表(依基金別分列)",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-23T07:55:12.965872",
+                "metadata_modified": "2016-06-19T15:15:04.503964",
+                "timeEnd": 1466320504,
+                "timeBegin": 1463961312,
+                "resources": {
+                    "3f6240af-dd8b-48d5-9916-142e61071c52": {
+                        "id": "3f6240af-dd8b-48d5-9916-142e61071c52",
+                        "name": "105年度-臺南市附屬單位預算-特別收入基金現金流量綜計表(依基金別分列)",
+                        "created": "2016-05-24T16:16:53.810075",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 2,
+                    "resource_recent": 1
+                }
+            },
+            "de43f0d7-c656-45e0-b3fc-fd8b2355679f": {
+                "name": "tainan-general-budget-01",
+                "title": "臺南市政府地方總預算歲入歲出簡明比較分析表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-04-26T16:21:00.541891",
+                "metadata_modified": "2016-06-16T04:02:04.339005",
+                "timeEnd": 1466049575,
+                "timeBegin": 1461658860,
+                "resources": {
+                    "f3ddf60a-f0e8-44dd-82df-10afa0450b4a": {
+                        "id": "f3ddf60a-f0e8-44dd-82df-10afa0450b4a",
+                        "name": "104年度臺南市政府地方總預算歲入歲出簡明比較分析表",
+                        "created": "2016-06-16T11:56:05.009560",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4a1df5bf-606b-4aad-a4c6-6fb32ded44af": {
+                        "id": "4a1df5bf-606b-4aad-a4c6-6fb32ded44af",
+                        "name": "105年度臺南市政府地方總預算歲入歲出簡明比較分析表",
+                        "created": "2016-06-16T11:59:35.793515",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "04743905-56f4-4930-933c-79bcc35d4946": {
+                "name": "tainan-general-budget-02",
+                "title": "臺南市政府地方總預算歲入歲出性質及餘絀簡明比較分析表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-04-26T14:39:05.201935",
+                "metadata_modified": "2016-06-16T05:41:19.389620",
+                "timeEnd": 1466026879,
+                "timeBegin": 1461652745,
+                "resources": {
+                    "f63a9210-b112-455c-bd2a-e5780d4b4567": {
+                        "id": "f63a9210-b112-455c-bd2a-e5780d4b4567",
+                        "name": "104年度臺南市政府地方總預算歲入歲出性質及餘絀簡明比較分析表",
+                        "created": "2016-06-04T15:33:32.362338",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a6330854-f0b0-4feb-a436-506cb7b970ea": {
+                        "id": "a6330854-f0b0-4feb-a436-506cb7b970ea",
+                        "name": "105年度臺南市政府地方總預算歲入歲出性質及餘絀簡明比較分析表",
+                        "created": "2016-06-04T15:35:39.162475",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "93ed0ea0-aa55-49bd-833d-8d1a19b548f0": {
+                "name": "tainan-general-budget-03",
+                "title": "臺南市政府地方總預算收支簡明比較分析表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-16T05:46:53.406998",
+                "metadata_modified": "2016-06-19T12:20:20.143407",
+                "timeEnd": 1466310020,
+                "timeBegin": 1466027213,
+                "resources": {
+                    "178f300b-7990-4370-abef-d5cb2f408baa": {
+                        "id": "178f300b-7990-4370-abef-d5cb2f408baa",
+                        "name": "104年度臺南市政府地方總預算收支簡明比較分析表",
+                        "created": "2016-06-16T13:50:48.955082",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a7963845-38bc-42a0-b9a0-717e8ce7f2bf": {
+                        "id": "a7963845-38bc-42a0-b9a0-717e8ce7f2bf",
+                        "name": "105年度臺南市政府地方總預算收支簡明比較分析表",
+                        "created": "2016-06-16T17:02:12.269438",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "635653aa-b067-47e6-84f5-7c66daf3dcda": {
+                "name": "tainan-general-budget-04",
+                "title": "臺南市政府地方總預算歲入來源別預算總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-17T08:43:14.059826",
+                "metadata_modified": "2016-06-17T08:46:45.830567",
+                "timeEnd": 1466153204,
+                "timeBegin": 1466124194,
+                "resources": {
+                    "d37acb3a-bede-45d4-bb52-42b8f96c4cea": {
+                        "id": "d37acb3a-bede-45d4-bb52-42b8f96c4cea",
+                        "name": "104年度臺南市政府地方總預算歲入來源別預算總表",
+                        "created": "2016-06-17T16:45:45.154544",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "5d321cec-5060-4b93-b849-e31399333d71": {
+                        "id": "5d321cec-5060-4b93-b849-e31399333d71",
+                        "name": "105年度臺南市政府地方總預算歲入來源別預算總表",
+                        "created": "2016-06-17T16:46:44.177070",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "ce0c9cf6-73b6-4ac0-aaf4-212efd43dc8c": {
+                "name": "tainan-general-budget-05",
+                "title": "臺南市政府地方總預算歲入來源別預算比較總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T12:01:16.558531",
+                "metadata_modified": "2016-06-19T12:20:43.823361",
+                "timeEnd": 1466337870,
+                "timeBegin": 1466308876,
+                "resources": {
+                    "99eb6692-6dd0-4e8d-923a-2e0016c6fe42": {
+                        "id": "99eb6692-6dd0-4e8d-923a-2e0016c6fe42",
+                        "name": "104年度臺南市政府地方總預算歲入來源別預算比較總表",
+                        "created": "2016-06-19T20:02:03.271187",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "0f26b0d6-dda2-4f22-9781-afbfe740111d": {
+                        "id": "0f26b0d6-dda2-4f22-9781-afbfe740111d",
+                        "name": "105年度臺南市政府地方總預算歲入來源別預算比較總表",
+                        "created": "2016-06-19T20:04:30.416846",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
+                    "resource_recent": 1
+                }
+            },
+            "5bc36785-e523-4624-812b-407f897f328b": {
+                "name": "tainan-general-budget-06",
+                "title": "臺南市政府地方總預算歲出政事別預算總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-17T08:51:13.826587",
+                "metadata_modified": "2016-06-19T12:11:32.714332",
+                "timeEnd": 1466309492,
+                "timeBegin": 1466124673,
+                "resources": {
+                    "938c9cf8-6c43-4ff9-b897-429faac4c40d": {
+                        "id": "938c9cf8-6c43-4ff9-b897-429faac4c40d",
+                        "name": "104年度臺南市政府地方總預算歲出政事別預算總表",
+                        "created": "2016-06-17T17:20:55.118384",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d7c5e85d-f7b4-483f-817e-5b27ffd82bcc": {
+                        "id": "d7c5e85d-f7b4-483f-817e-5b27ffd82bcc",
+                        "name": "105年度臺南市政府地方總預算歲出政事別預算總表",
+                        "created": "2016-06-17T17:38:24.546440",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9a84a339-a53e-46dc-8613-0941e52b3989": {
+                "name": "tainan-general-budget-07",
+                "title": "臺南市政府地方總預算歲出政事別預算比較總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-05-30T09:00:07.880289",
+                "metadata_modified": "2016-06-19T12:19:11.827841",
+                "timeEnd": 1466338737,
+                "timeBegin": 1464570007,
+                "resources": {
+                    "4928c5b8-ae6f-4e4e-b4b0-9b69e2850717": {
+                        "id": "4928c5b8-ae6f-4e4e-b4b0-9b69e2850717",
+                        "name": "104年度臺南市政府地方總預算歲出政事別預算比較總表",
+                        "created": "2016-05-30T17:40:31.402070",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "93136b4a-7273-4b5f-8288-2ebd50445f86": {
+                        "id": "93136b4a-7273-4b5f-8288-2ebd50445f86",
+                        "name": "105年度臺南市政府地方總預算歲出政事別預算比較總表",
+                        "created": "2016-06-19T20:18:57.351430",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d17834ea-8239-452d-9aba-3cef0ea5ce83": {
+                "name": "tainan-general-budget-08",
+                "title": "臺南市政府地方總預算歲出機關別預算總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T12:24:44.082603",
+                "metadata_modified": "2016-06-19T12:51:58.504121",
+                "timeEnd": 1466340625,
+                "timeBegin": 1466310284,
+                "resources": {
+                    "c700ef7f-8d56-472a-86dc-de5314427c36": {
+                        "id": "c700ef7f-8d56-472a-86dc-de5314427c36",
+                        "name": "104年度臺南市政府地方總預算歲出機關別預算總表",
+                        "created": "2016-06-19T20:48:39.714946",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "243dde57-41e4-4859-a2f0-5d0aa3618f7f": {
+                        "id": "243dde57-41e4-4859-a2f0-5d0aa3618f7f",
+                        "name": "105年度臺南市政府地方總預算歲出機關別預算總表",
+                        "created": "2016-06-19T20:50:25.507974",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1b396348-caa3-4d88-a549-a89a7d1c12a4": {
+                "name": "tainan-general-budget-09",
+                "title": "臺南市政府地方總預算歲出機關別預算比較總表",
+                "organization_id": "6f624863-1664-42a1-9a33-b5d717a3b557",
+                "metadata_created": "2016-06-19T12:53:12.725847",
+                "metadata_modified": "2016-06-19T12:55:19.041554",
+                "timeEnd": 1466340917,
+                "timeBegin": 1466311992,
+                "resources": {
+                    "a22e212d-4bd2-44a4-bdec-d06536561bac": {
+                        "id": "a22e212d-4bd2-44a4-bdec-d06536561bac",
+                        "name": "104年度臺南市政府地方總預算歲出機關別預算比較總表",
+                        "created": "2016-06-19T20:54:20.473171",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "984daed0-3688-4ef6-a669-59d4760401ed": {
+                        "id": "984daed0-3688-4ef6-a669-59d4760401ed",
+                        "name": "105年度臺南市政府地方總預算歲出機關別預算比較總表",
+                        "created": "2016-06-19T20:55:17.127361",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
             }
         }
     },
@@ -760,8 +1706,8 @@
             "datasets": 41,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2214,
-            "resource_recent": 309
+            "resource_total": 2220,
+            "resource_recent": 304
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -1243,8 +2189,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 22,
-                    "resource_recent": 7
+                    "resource_total": 23,
+                    "resource_recent": 4
                 }
             },
             "0ed2e5e5-010b-4ec8-91ad-0f3c6e259543": {
@@ -1565,7 +2511,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 12,
+                    "resource_total": 13,
                     "resource_recent": 5
                 }
             },
@@ -2109,8 +3055,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 212,
-                    "resource_recent": 31
+                    "resource_total": 213,
+                    "resource_recent": 32
                 }
             },
             "c2872dd5-ae70-4447-9e92-f7079f26e1e7": {
@@ -2246,8 +3192,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 394,
-                    "resource_recent": 39
+                    "resource_total": 395,
+                    "resource_recent": 37
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -2380,7 +3326,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 73,
+                    "resource_total": 74,
                     "resource_recent": 20
                 }
             },
@@ -2466,8 +3412,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 80,
-                    "resource_recent": 17
+                    "resource_total": 81,
+                    "resource_recent": 16
                 }
             },
             "36612e6d-5557-4071-baa1-07d100549a64": {
@@ -4000,7 +4946,7 @@
             "datasets": 56,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 882,
+            "resource_total": 883,
             "resource_recent": 235
         },
         "datasets": {
@@ -6257,7 +7203,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 73,
+                    "resource_total": 74,
                     "resource_recent": 17
                 }
             },
@@ -7070,8 +8016,8 @@
             "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 310,
-            "resource_recent": 49
+            "resource_total": 313,
+            "resource_recent": 43
         },
         "datasets": {
             "320ca7e7-2267-4ffa-ae1c-90842832c220": {
@@ -7230,8 +8176,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 5
+                    "resource_total": 12,
+                    "resource_recent": 2
                 }
             },
             "8e38a3df-0457-4ce2-9681-bdbc9d3eb841": {
@@ -7458,8 +8404,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 55,
-                    "resource_recent": 7
+                    "resource_total": 56,
+                    "resource_recent": 4
                 }
             },
             "a170e857-9299-4325-88bc-c0dea7490b50": {
@@ -8116,8 +9062,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 889,
-            "resource_recent": 93
+            "resource_total": 894,
+            "resource_recent": 97
         },
         "datasets": {
             "f360c1dc-39d9-4772-8a66-ba1b57260e3d": {
@@ -8643,8 +9589,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 142,
-                    "resource_recent": 15
+                    "resource_total": 147,
+                    "resource_recent": 19
                 }
             }
         }
@@ -10093,8 +11039,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 197,
-            "resource_recent": 46
+            "resource_total": 200,
+            "resource_recent": 48
         },
         "datasets": {
             "8b063457-8da8-485f-a2ae-61d7f2d5b351": {
@@ -10215,8 +11161,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 26,
-                    "resource_recent": 7
+                    "resource_total": 27,
+                    "resource_recent": 8
                 }
             },
             "53fe0c36-d4f7-422f-90ff-a681edd2f042": {
@@ -10374,8 +11320,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 9,
-                    "resource_recent": 8
+                    "resource_total": 10,
+                    "resource_recent": 9
                 }
             },
             "ce03412f-948c-419b-b994-dd3a0d9a1777": {
@@ -10466,7 +11412,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 19,
+                    "resource_total": 20,
                     "resource_recent": 17
                 }
             }
@@ -18161,8 +19107,8 @@
             "datasets": 50,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 702,
-            "resource_recent": 136
+            "resource_total": 703,
+            "resource_recent": 137
         },
         "datasets": {
             "5717fe92-343a-45ef-a488-8b341a1d2776": {
@@ -19542,8 +20488,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 2,
-                    "resource_recent": 2
+                    "resource_total": 3,
+                    "resource_recent": 3
                 }
             },
             "8b193c72-38c2-48df-8e89-c76eeedf09a4": {
@@ -20527,8 +21473,8 @@
             "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 146,
-            "resource_recent": 30
+            "resource_total": 147,
+            "resource_recent": 31
         },
         "datasets": {
             "40243c31-26aa-4efe-990b-034f76aaaaa8": {
@@ -20798,8 +21744,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 59,
-                    "resource_recent": 10
+                    "resource_total": 60,
+                    "resource_recent": 11
                 }
             },
             "56076e71-af79-44ec-95b2-52f737295134": {
@@ -20897,7 +21843,7 @@
             "datasets": 30,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 339,
+            "resource_total": 340,
             "resource_recent": 47
         },
         "datasets": {
@@ -21618,7 +22564,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 28,
+                    "resource_total": 29,
                     "resource_recent": 1
                 }
             },
@@ -21673,8 +22619,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1166,
-            "resource_recent": 81
+            "resource_total": 1167,
+            "resource_recent": 78
         },
         "datasets": {
             "98c119bd-5472-43ab-9b5d-3de0aa8e61df": {
@@ -21835,8 +22781,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1136,
-                    "resource_recent": 59
+                    "resource_total": 1137,
+                    "resource_recent": 56
                 }
             },
             "2acc3b8c-cdb6-4581-80a5-9f3c442a27c5": {
@@ -22316,8 +23262,8 @@
             "datasets": 70,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3637,
-            "resource_recent": 263
+            "resource_total": 3648,
+            "resource_recent": 265
         },
         "datasets": {
             "e6b5dcbc-875e-4cf8-bf92-b7b57a07cba1": {
@@ -22461,8 +23407,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 412,
-                    "resource_recent": 17
+                    "resource_total": 414,
+                    "resource_recent": 18
                 }
             },
             "8951e4e2-c3dd-4ba7-b0ee-3e4d6f4011a9": {
@@ -22829,8 +23775,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1571,
-                    "resource_recent": 46
+                    "resource_total": 1575,
+                    "resource_recent": 44
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -22838,8 +23784,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-06-17T23:30:56.840814",
-                "timeEnd": 1466179200,
+                "metadata_modified": "2016-06-18T23:30:56.585135",
+                "timeEnd": 1466265600,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -22861,7 +23807,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-06-18T00:00:00"
+                        "last_modified": "2016-06-19T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -22872,8 +23818,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 499,
-                    "resource_recent": 52
+                    "resource_total": 502,
+                    "resource_recent": 54
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -22881,8 +23827,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-06-17T23:31:10.269553",
-                "timeEnd": 1466179200,
+                "metadata_modified": "2016-06-18T23:31:10.747118",
+                "timeEnd": 1466265600,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -22974,12 +23920,12 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-18T00:00:00"
+                        "last_modified": "2016-06-19T00:00:00"
                     }
                 },
                 "counters": {
-                    "resource_total": 535,
-                    "resource_recent": 24
+                    "resource_total": 536,
+                    "resource_recent": 25
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -23276,7 +24222,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 3,
+                    "resource_total": 4,
                     "resource_recent": 3
                 }
             },
@@ -24462,8 +25408,8 @@
             "datasets": 3,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 397,
-            "resource_recent": 22
+            "resource_total": 398,
+            "resource_recent": 20
         },
         "datasets": {
             "34e6decf-dd31-4208-a46c-4173279af5fc": {
@@ -24491,8 +25437,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 133,
-                    "resource_recent": 7
+                    "resource_total": 134,
+                    "resource_recent": 5
                 }
             },
             "e70e2580-b45b-457f-8715-d1d0846434ac": {
@@ -24567,8 +25513,8 @@
             "datasets": 20,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 378,
-            "resource_recent": 90
+            "resource_total": 379,
+            "resource_recent": 91
         },
         "datasets": {
             "ae6ce7eb-7b9a-4b44-b35f-04bcbde5316e": {
@@ -25559,8 +26505,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 39,
-                    "resource_recent": 14
+                    "resource_total": 40,
+                    "resource_recent": 15
                 }
             },
             "43dbe2a0-78bb-401f-8d05-17831e08c5c4": {
@@ -26106,7 +27052,7 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 669,
+            "resource_total": 670,
             "resource_recent": 93
         },
         "datasets": {
@@ -26680,7 +27626,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 605,
+                    "resource_total": 606,
                     "resource_recent": 81
                 }
             },
@@ -26773,5 +27719,5 @@
             }
         }
     },
-    "time_generated": 1466281852
+    "time_generated": 1466368253
 }
