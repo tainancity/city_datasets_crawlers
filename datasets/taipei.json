@@ -237,15 +237,15 @@
                 "name": "6556e1e8-c908-42d5-b984-b3f7337b139b",
                 "title": "臺北捷運列車到站站名",
                 "organization_id": "379620000M",
-                "metadata_modified": "2016-07-12 05:31:12",
-                "timeEnd": 1468272672,
+                "metadata_modified": "2016-07-13 05:31:14",
+                "timeEnd": 1468359074,
                 "timeBegin": 1435593600,
                 "resources": {
                     "55ec6d6e-dc5c-4268-a725-d04cc262172b": {
                         "id": "55ec6d6e-dc5c-4268-a725-d04cc262172b",
                         "name": "apiIn.json",
-                        "created": "2016-07-12 05:31:12",
-                        "last_modified": "2016-07-12T05:31:12"
+                        "created": "2016-07-13 05:31:14",
+                        "last_modified": "2016-07-13T05:31:14"
                     }
                 },
                 "counters": {
@@ -3161,15 +3161,15 @@
                 "name": "38f2d8e0-07ce-4201-87cb-3462be39d8aa",
                 "title": "臺北市道路速率",
                 "organization_id": "379530000H",
-                "metadata_modified": "2016-07-12 05:30:01",
-                "timeEnd": 1468272601,
+                "metadata_modified": "2016-07-13 05:30:03",
+                "timeEnd": 1468359003,
                 "timeBegin": 0,
                 "resources": {
                     "5aacba65-afda-4ad5-88f5-6026934140e6": {
                         "id": "5aacba65-afda-4ad5-88f5-6026934140e6",
                         "name": "traffic_VD.xml",
-                        "created": "2016-07-12 05:30:01",
-                        "last_modified": "2016-07-12T05:30:01"
+                        "created": "2016-07-13 05:30:02",
+                        "last_modified": "2016-07-13T05:30:02"
                     }
                 },
                 "counters": {
@@ -4624,6 +4624,26 @@
     },
     "臺北市政府人事處": {
         "datasets": {
+            "abd80a1c-eb3a-4c99-bbb4-4c671a060050": {
+                "name": "abd80a1c-eb3a-4c99-bbb4-4c671a060050",
+                "title": "臺北市政府各一級機關暨列席議會二級機關首長名錄",
+                "organization_id": "379210000A",
+                "metadata_modified": "2016-07-12 12:05:57",
+                "timeEnd": 1468296357,
+                "timeBegin": 1439827200,
+                "resources": {
+                    "607b8781-6a55-4da3-82a1-61c3fad687b2": {
+                        "id": "607b8781-6a55-4da3-82a1-61c3fad687b2",
+                        "name": "臺北市政府各一級機關暨列席議會二級機關首長名錄_1050712.doc",
+                        "created": "2016-07-12 12:05:54",
+                        "last_modified": "2016-07-12T12:05:54"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "025761db-2be8-4820-a094-72510e1df707": {
                 "name": "025761db-2be8-4820-a094-72510e1df707",
                 "title": "獎懲月報表",
@@ -4933,26 +4953,6 @@
                         "name": "10505員工總表.xls",
                         "created": "2016-06-29 16:08:16",
                         "last_modified": "2016-06-29T16:08:16"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "abd80a1c-eb3a-4c99-bbb4-4c671a060050": {
-                "name": "abd80a1c-eb3a-4c99-bbb4-4c671a060050",
-                "title": "臺北市政府各一級機關暨列席議會二級機關首長名錄",
-                "organization_id": "379210000A",
-                "metadata_modified": "2016-06-29 14:32:54",
-                "timeEnd": 1467181974,
-                "timeBegin": 1439827200,
-                "resources": {
-                    "133856db-bd20-4914-8fd7-e0496a73dde2": {
-                        "id": "133856db-bd20-4914-8fd7-e0496a73dde2",
-                        "name": "臺北市政府各一級機關暨列席議會二級機關首長名錄_1050627.doc",
-                        "created": "2016-06-29 14:32:51",
-                        "last_modified": "2016-06-29T14:32:51"
                     }
                 },
                 "counters": {
@@ -9221,21 +9221,47 @@
                 "name": "4d29818c-a3ee-425d-b88a-22ac0c24c712",
                 "title": "臺北市今日施工資訊",
                 "organization_id": "379110000G",
-                "metadata_modified": "2016-07-12 05:24:00",
-                "timeEnd": 1468272240,
+                "metadata_modified": "2016-07-13 05:24:00",
+                "timeEnd": 1468358640,
                 "timeBegin": 1403452800,
                 "resources": {
                     "201d8ae8-dffc-4d17-ae1f-e58d8a95b162": {
                         "id": "201d8ae8-dffc-4d17-ae1f-e58d8a95b162",
                         "name": "construction.json",
-                        "created": "2016-07-12 05:24:00",
-                        "last_modified": "2016-07-12T05:24:00"
+                        "created": "2016-07-13 05:24:00",
+                        "last_modified": "2016-07-13T05:24:00"
                     },
                     "58bc550d-4033-4727-a1a5-989b54a59d38": {
                         "id": "58bc550d-4033-4727-a1a5-989b54a59d38",
                         "name": "todaywork104_1030623-1040518.xlsx",
                         "created": "2015-05-19 09:33:36",
                         "last_modified": "2015-05-19T09:33:36"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3b5fe265-ea4b-4144-887f-dc6030d13563": {
+                "name": "3b5fe265-ea4b-4144-887f-dc6030d13563",
+                "title": "臺北市河濱自行車租借站及租借費率&提供免費飲水、打氣及簡易維修服務",
+                "organization_id": "379110000G",
+                "metadata_modified": "2016-07-12 16:18:43",
+                "timeEnd": 1468311523,
+                "timeBegin": 1341504000,
+                "resources": {
+                    "03ed9382-1685-4955-8bad-eca0f0269363": {
+                        "id": "03ed9382-1685-4955-8bad-eca0f0269363",
+                        "name": "自行車租借站.zip",
+                        "created": "2016-01-20 09:40:25",
+                        "last_modified": "2016-01-20T09:40:25"
+                    },
+                    "acb5cf55-08c3-4d1f-b223-cb189de10b5f": {
+                        "id": "acb5cf55-08c3-4d1f-b223-cb189de10b5f",
+                        "name": "自行車租借站.csv",
+                        "created": "2016-07-12 16:18:43",
+                        "last_modified": "2016-07-12T16:18:43"
                     }
                 },
                 "counters": {
@@ -10606,32 +10632,6 @@
                     "resource_recent": 0
                 }
             },
-            "3b5fe265-ea4b-4144-887f-dc6030d13563": {
-                "name": "3b5fe265-ea4b-4144-887f-dc6030d13563",
-                "title": "臺北市河濱自行車租借站及租借費率&提供免費飲水、打氣及簡易維修服務",
-                "organization_id": "379110000G",
-                "metadata_modified": "2016-05-03 16:43:37",
-                "timeEnd": 1462265017,
-                "timeBegin": 1341504000,
-                "resources": {
-                    "03ed9382-1685-4955-8bad-eca0f0269363": {
-                        "id": "03ed9382-1685-4955-8bad-eca0f0269363",
-                        "name": "自行車租借站.zip",
-                        "created": "2016-01-20 09:40:25",
-                        "last_modified": "2016-01-20T09:40:25"
-                    },
-                    "acb5cf55-08c3-4d1f-b223-cb189de10b5f": {
-                        "id": "acb5cf55-08c3-4d1f-b223-cb189de10b5f",
-                        "name": "自行車租借站.csv",
-                        "created": "2016-05-03 16:43:36",
-                        "last_modified": "2016-05-03T16:43:36"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "cd99ce72-0633-4e32-94d3-838764214093": {
                 "name": "cd99ce72-0633-4e32-94d3-838764214093",
                 "title": "臺北市土石流潛勢溪流位置圖",
@@ -11730,6 +11730,122 @@
     },
     "臺北市政府捷運工程局": {
         "datasets": {
+            "92d54729-3e02-435d-8ae0-c23fe99fe13b": {
+                "name": "92d54729-3e02-435d-8ae0-c23fe99fe13b",
+                "title": "2015年捷運年刊",
+                "organization_id": "379510000H",
+                "metadata_modified": "2016-07-12 17:21:35",
+                "timeEnd": 1468315295,
+                "timeBegin": 1468252800,
+                "resources": {
+                    "c57aaa9b-8082-482d-a94a-8f2e658067f8": {
+                        "id": "c57aaa9b-8082-482d-a94a-8f2e658067f8",
+                        "name": "封面.jpg",
+                        "created": "2016-07-12 16:22:20",
+                        "last_modified": "2016-07-12T16:22:20"
+                    },
+                    "2c67cd9e-23fb-4d83-a83b-865f45a2a2ab": {
+                        "id": "2c67cd9e-23fb-4d83-a83b-865f45a2a2ab",
+                        "name": "y104-02局徽.pdf",
+                        "created": "2016-07-12 16:23:40",
+                        "last_modified": "2016-07-12T16:23:40"
+                    },
+                    "cb6252bb-9558-47b6-8cfa-c536360ff0f1": {
+                        "id": "cb6252bb-9558-47b6-8cfa-c536360ff0f1",
+                        "name": "y104-03目錄.pdf",
+                        "created": "2016-07-12 16:24:54",
+                        "last_modified": "2016-07-12T16:24:54"
+                    },
+                    "f169bb18-3a3c-4299-afa2-cddb9cb0f56c": {
+                        "id": "f169bb18-3a3c-4299-afa2-cddb9cb0f56c",
+                        "name": "y104-04首長的話.pdf",
+                        "created": "2016-07-12 16:25:47",
+                        "last_modified": "2016-07-12T16:25:47"
+                    },
+                    "77546492-2310-428b-bf1e-715584c400ad": {
+                        "id": "77546492-2310-428b-bf1e-715584c400ad",
+                        "name": "y104-06組織架構.pdf",
+                        "created": "2016-07-12 16:26:37",
+                        "last_modified": "2016-07-12T16:26:37"
+                    },
+                    "b83140ac-e5b2-4468-be4c-32ba91a93854": {
+                        "id": "b83140ac-e5b2-4468-be4c-32ba91a93854",
+                        "name": "y104-07新完工通車路線.pdf",
+                        "created": "2016-07-12 16:27:13",
+                        "last_modified": "2016-07-12T16:27:13"
+                    },
+                    "6a02d442-fa2a-4b0c-9ebf-8de8f93067d7": {
+                        "id": "6a02d442-fa2a-4b0c-9ebf-8de8f93067d7",
+                        "name": "y104-30土城線延伸頂埔段車站建築與公共藝術.pdf",
+                        "created": "2016-07-12 16:27:54",
+                        "last_modified": "2016-07-12T16:27:54"
+                    },
+                    "40982300-239d-489a-ac77-5daf9b6c0ed3": {
+                        "id": "40982300-239d-489a-ac77-5daf9b6c0ed3",
+                        "name": "y104-34土地開發、用地取得與土地開發基金成果.pdf",
+                        "created": "2016-07-12 16:28:32",
+                        "last_modified": "2016-07-12T16:28:32"
+                    },
+                    "a82f081f-80cb-45ff-8a8d-2ff479b28390": {
+                        "id": "a82f081f-80cb-45ff-8a8d-2ff479b28390",
+                        "name": "y104-41重置基本與財務管理.pdf",
+                        "created": "2016-07-12 16:29:13",
+                        "last_modified": "2016-07-12T16:29:13"
+                    },
+                    "5e81e02c-f194-464d-8c3a-3fec6a723ba3": {
+                        "id": "5e81e02c-f194-464d-8c3a-3fec6a723ba3",
+                        "name": "y104-46公共關係與行銷活動.pdf",
+                        "created": "2016-07-12 16:29:52",
+                        "last_modified": "2016-07-12T16:29:52"
+                    },
+                    "9b878610-d45b-4338-8375-85e96151ce38": {
+                        "id": "9b878610-d45b-4338-8375-85e96151ce38",
+                        "name": "y104-48正興建中捷運工程.pdf",
+                        "created": "2016-07-12 16:30:32",
+                        "last_modified": "2016-07-12T16:30:32"
+                    },
+                    "36f8d885-cc53-4910-a2e9-9be4a5941310": {
+                        "id": "36f8d885-cc53-4910-a2e9-9be4a5941310",
+                        "name": "y104-70創新措施與精進作為.pdf",
+                        "created": "2016-07-12 16:31:13",
+                        "last_modified": "2016-07-12T16:31:13"
+                    },
+                    "9d7a5dc5-d82d-4f45-8c7d-0fd369684e66": {
+                        "id": "9d7a5dc5-d82d-4f45-8c7d-0fd369684e66",
+                        "name": "y104-75持續規劃健全捷運路網.pdf",
+                        "created": "2016-07-12 16:31:50",
+                        "last_modified": "2016-07-12T16:31:50"
+                    },
+                    "ae5115c4-409e-408e-95b9-201470642811": {
+                        "id": "ae5115c4-409e-408e-95b9-201470642811",
+                        "name": "y104-81回顧與展望.pdf",
+                        "created": "2016-07-12 16:32:25",
+                        "last_modified": "2016-07-12T16:32:25"
+                    },
+                    "88646d77-acc2-4404-9518-a31f8cb57c40": {
+                        "id": "88646d77-acc2-4404-9518-a31f8cb57c40",
+                        "name": "y104-82附錄─大事紀要.pdf",
+                        "created": "2016-07-12 16:33:00",
+                        "last_modified": "2016-07-12T16:33:00"
+                    },
+                    "2aa169fb-128e-4d9c-b9a4-f07f21e9e61c": {
+                        "id": "2aa169fb-128e-4d9c-b9a4-f07f21e9e61c",
+                        "name": "y104-93附錄─榮耀獎項.pdf",
+                        "created": "2016-07-12 16:33:35",
+                        "last_modified": "2016-07-12T16:33:35"
+                    },
+                    "82df18bb-702a-4880-8dbe-dde15f0b1a37": {
+                        "id": "82df18bb-702a-4880-8dbe-dde15f0b1a37",
+                        "name": "y104-封底.pdf",
+                        "created": "2016-07-12 16:34:11",
+                        "last_modified": "2016-07-12T16:34:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "27b9c616-f68c-4856-bb39-ef9ed0478c96": {
                 "name": "27b9c616-f68c-4856-bb39-ef9ed0478c96",
                 "title": "捷運聯合開發公有不動產非統一經營部分預計出租標的",
@@ -12563,7 +12679,7 @@
             }
         },
         "counters": {
-            "datasets": 46,
+            "datasets": 47,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -12627,123 +12743,143 @@
                 "name": "ac589468-529b-4636-a9b2-ab57ae41cbcb",
                 "title": "學習型機構",
                 "organization_id": "379040000E",
-                "metadata_modified": "2016-07-11 20:46:27",
-                "timeEnd": 1468241187,
+                "metadata_modified": "2016-07-12 20:45:58",
+                "timeEnd": 1468327558,
                 "timeBegin": 0,
                 "resources": {
                     "11f11d42-bdd8-45d0-9493-8134b2e494e9": {
                         "id": "11f11d42-bdd8-45d0-9493-8134b2e494e9",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:44:02",
-                        "last_modified": "2016-07-11T20:44:02"
+                        "created": "2016-07-12 20:44:03",
+                        "last_modified": "2016-07-12T20:44:03"
                     },
                     "24c9f8fe-88db-4a6e-895c-498fbc94df94": {
                         "id": "24c9f8fe-88db-4a6e-895c-498fbc94df94",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:44:13",
-                        "last_modified": "2016-07-11T20:44:13"
+                        "created": "2016-07-12 20:44:15",
+                        "last_modified": "2016-07-12T20:44:15"
                     },
                     "c79ed7d6-050b-45d3-9835-634694b57661": {
                         "id": "c79ed7d6-050b-45d3-9835-634694b57661",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:44:19",
-                        "last_modified": "2016-07-11T20:44:19"
+                        "created": "2016-07-12 20:44:20",
+                        "last_modified": "2016-07-12T20:44:20"
                     },
                     "b41472da-e34e-4a76-924a-5417c0c007ee": {
                         "id": "b41472da-e34e-4a76-924a-5417c0c007ee",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:44:28",
-                        "last_modified": "2016-07-11T20:44:28"
+                        "created": "2016-07-12 20:44:26",
+                        "last_modified": "2016-07-12T20:44:26"
                     },
                     "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd": {
                         "id": "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:44:35",
-                        "last_modified": "2016-07-11T20:44:35"
+                        "created": "2016-07-12 20:44:33",
+                        "last_modified": "2016-07-12T20:44:33"
                     },
                     "1f892a80-a776-4ea5-9b00-c94d459de674": {
                         "id": "1f892a80-a776-4ea5-9b00-c94d459de674",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:44:42",
-                        "last_modified": "2016-07-11T20:44:42"
+                        "created": "2016-07-12 20:44:37",
+                        "last_modified": "2016-07-12T20:44:37"
                     },
                     "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3": {
                         "id": "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:44:52",
-                        "last_modified": "2016-07-11T20:44:52"
+                        "created": "2016-07-12 20:44:49",
+                        "last_modified": "2016-07-12T20:44:49"
                     },
                     "9548a823-a337-4106-82eb-7d2b2279a96c": {
                         "id": "9548a823-a337-4106-82eb-7d2b2279a96c",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:02",
-                        "last_modified": "2016-07-11T20:45:02"
+                        "created": "2016-07-12 20:44:54",
+                        "last_modified": "2016-07-12T20:44:54"
                     },
                     "2391e09e-df95-457d-ab71-72beea2bce4d": {
                         "id": "2391e09e-df95-457d-ab71-72beea2bce4d",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:11",
-                        "last_modified": "2016-07-11T20:45:11"
+                        "created": "2016-07-12 20:45:03",
+                        "last_modified": "2016-07-12T20:45:03"
                     },
                     "7e42ce18-2c4b-440b-989c-8e32969ad180": {
                         "id": "7e42ce18-2c4b-440b-989c-8e32969ad180",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:18",
-                        "last_modified": "2016-07-11T20:45:18"
+                        "created": "2016-07-12 20:45:07",
+                        "last_modified": "2016-07-12T20:45:07"
                     },
                     "404988b2-d0b9-4a7f-ae04-30aee13f6025": {
                         "id": "404988b2-d0b9-4a7f-ae04-30aee13f6025",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:24",
-                        "last_modified": "2016-07-11T20:45:24"
+                        "created": "2016-07-12 20:45:12",
+                        "last_modified": "2016-07-12T20:45:12"
                     },
                     "74e7d540-3538-4bdb-b5ae-ffb45d03d45d": {
                         "id": "74e7d540-3538-4bdb-b5ae-ffb45d03d45d",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:34",
-                        "last_modified": "2016-07-11T20:45:34"
+                        "created": "2016-07-12 20:45:18",
+                        "last_modified": "2016-07-12T20:45:18"
                     },
                     "b395d4a4-090a-4223-b0e3-b99b0cf40549": {
                         "id": "b395d4a4-090a-4223-b0e3-b99b0cf40549",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:42",
-                        "last_modified": "2016-07-11T20:45:42"
+                        "created": "2016-07-12 20:45:22",
+                        "last_modified": "2016-07-12T20:45:22"
                     },
                     "edc33c48-cd9f-425d-82d1-d0677baa160a": {
                         "id": "edc33c48-cd9f-425d-82d1-d0677baa160a",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:51",
-                        "last_modified": "2016-07-11T20:45:51"
+                        "created": "2016-07-12 20:45:34",
+                        "last_modified": "2016-07-12T20:45:34"
                     },
                     "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64": {
                         "id": "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:45:57",
-                        "last_modified": "2016-07-11T20:45:57"
+                        "created": "2016-07-12 20:45:38",
+                        "last_modified": "2016-07-12T20:45:38"
                     },
                     "0a1e7957-7699-452c-8020-bf11a5408fc8": {
                         "id": "0a1e7957-7699-452c-8020-bf11a5408fc8",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:46:04",
-                        "last_modified": "2016-07-11T20:46:04"
+                        "created": "2016-07-12 20:45:43",
+                        "last_modified": "2016-07-12T20:45:43"
                     },
                     "e5ac12f2-239c-4175-9f2e-1cd510ac308c": {
                         "id": "e5ac12f2-239c-4175-9f2e-1cd510ac308c",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:46:11",
-                        "last_modified": "2016-07-11T20:46:11"
+                        "created": "2016-07-12 20:45:47",
+                        "last_modified": "2016-07-12T20:45:47"
                     },
                     "990479f4-82aa-4365-8c19-8c8c2afb15bb": {
                         "id": "990479f4-82aa-4365-8c19-8c8c2afb15bb",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:46:18",
-                        "last_modified": "2016-07-11T20:46:18"
+                        "created": "2016-07-12 20:45:54",
+                        "last_modified": "2016-07-12T20:45:54"
                     },
                     "ed83db24-f206-4ff0-9135-a0a8d65ace31": {
                         "id": "ed83db24-f206-4ff0-9135-a0a8d65ace31",
                         "name": "eduagency.json",
-                        "created": "2016-07-11 20:46:26",
-                        "last_modified": "2016-07-11T20:46:26"
+                        "created": "2016-07-12 20:45:58",
+                        "last_modified": "2016-07-12T20:45:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1ed45a8a-d26a-4a5f-b544-788a4071eea2": {
+                "name": "1ed45a8a-d26a-4a5f-b544-788a4071eea2",
+                "title": "臺北市立動物園_館區簡介",
+                "organization_id": "379040000E",
+                "metadata_modified": "2016-07-12 11:55:42",
+                "timeEnd": 1468295742,
+                "timeBegin": 1397491200,
+                "resources": {
+                    "5a0e5fbb-72f8-41c6-908e-2fb25eff9b8a": {
+                        "id": "5a0e5fbb-72f8-41c6-908e-2fb25eff9b8a",
+                        "name": "20160712.csv",
+                        "created": "2016-07-12 11:55:41",
+                        "last_modified": "2016-07-12T11:55:41"
                     }
                 },
                 "counters": {
@@ -13640,26 +13776,6 @@
                 "timeEnd": 1444031468,
                 "timeBegin": 0,
                 "resources": [],
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "1ed45a8a-d26a-4a5f-b544-788a4071eea2": {
-                "name": "1ed45a8a-d26a-4a5f-b544-788a4071eea2",
-                "title": "臺北市立動物園_館區簡介",
-                "organization_id": "379040000E",
-                "metadata_modified": "2015-09-22 14:13:59",
-                "timeEnd": 1442902439,
-                "timeBegin": 1397491200,
-                "resources": {
-                    "5a0e5fbb-72f8-41c6-908e-2fb25eff9b8a": {
-                        "id": "5a0e5fbb-72f8-41c6-908e-2fb25eff9b8a",
-                        "name": "臺北市立動物園_館區簡介.csv",
-                        "created": "2015-09-22 14:13:59",
-                        "last_modified": "2015-09-22T14:13:59"
-                    }
-                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -15678,15 +15794,15 @@
                 "name": "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6",
                 "title": "臺北市文化快遞資訊",
                 "organization_id": "379590000E",
-                "metadata_modified": "2016-07-11 19:55:01",
-                "timeEnd": 1468238101,
+                "metadata_modified": "2016-07-12 19:55:02",
+                "timeEnd": 1468324502,
                 "timeBegin": 1325606400,
                 "resources": {
                     "35aa3c53-28fb-423c-91b6-2c22432d0d70": {
                         "id": "35aa3c53-28fb-423c-91b6-2c22432d0d70",
                         "name": "culture.xml",
-                        "created": "2016-07-11 19:55:01",
-                        "last_modified": "2016-07-11T19:55:01"
+                        "created": "2016-07-12 19:55:01",
+                        "last_modified": "2016-07-12T19:55:01"
                     }
                 },
                 "counters": {
@@ -19253,15 +19369,15 @@
                 "name": "86672d20-9c69-4c24-859b-078862c4e699",
                 "title": "臺北市已立案宗教團體點位資料",
                 "organization_id": "379020000A",
-                "metadata_modified": "2016-07-11 19:44:02",
-                "timeEnd": 1468237442,
+                "metadata_modified": "2016-07-12 19:44:04",
+                "timeEnd": 1468323844,
                 "timeBegin": 1380643200,
                 "resources": {
                     "2aac2df3-e768-448c-8f06-181d7b424690": {
                         "id": "2aac2df3-e768-448c-8f06-181d7b424690",
                         "name": "religion.xml",
-                        "created": "2016-07-11 19:44:02",
-                        "last_modified": "2016-07-11T19:44:02"
+                        "created": "2016-07-12 19:44:02",
+                        "last_modified": "2016-07-12T19:44:02"
                     }
                 },
                 "counters": {
@@ -20867,15 +20983,15 @@
                 "name": "b6aa4716-aa07-4aac-9ffc-57df0f1f529f",
                 "title": "臺北市列管營業場所消防安全檢查結果",
                 "organization_id": "379570000A",
-                "metadata_modified": "2016-07-11 19:42:16",
-                "timeEnd": 1468237336,
+                "metadata_modified": "2016-07-12 19:42:21",
+                "timeEnd": 1468323741,
                 "timeBegin": 1404057600,
                 "resources": {
                     "1316a13a-39cd-4db5-b663-930638f244c5": {
                         "id": "1316a13a-39cd-4db5-b663-930638f244c5",
                         "name": "openplace.json",
-                        "created": "2016-07-11 19:42:16",
-                        "last_modified": "2016-07-11T19:42:16"
+                        "created": "2016-07-12 19:42:21",
+                        "last_modified": "2016-07-12T19:42:21"
                     }
                 },
                 "counters": {
@@ -20887,15 +21003,15 @@
                 "name": "3a45616d-c4b3-4676-b28c-24e5c9c90bd0",
                 "title": "臺北市政府燃氣熱水器承裝業名冊",
                 "organization_id": "379570000A",
-                "metadata_modified": "2016-07-11 19:28:00",
-                "timeEnd": 1468236480,
+                "metadata_modified": "2016-07-12 19:28:00",
+                "timeEnd": 1468322880,
                 "timeBegin": 1370880000,
                 "resources": {
                     "f6bb8bb9-c5b6-4851-a837-695d202d4ccb": {
                         "id": "f6bb8bb9-c5b6-4851-a837-695d202d4ccb",
                         "name": "boiler.json",
-                        "created": "2016-07-11 19:28:00",
-                        "last_modified": "2016-07-11T19:28:00"
+                        "created": "2016-07-12 19:28:00",
+                        "last_modified": "2016-07-12T19:28:00"
                     }
                 },
                 "counters": {
@@ -21257,15 +21373,101 @@
                 "name": "119efc37-541b-4aca-a16a-7ba210aafa1f",
                 "title": "臺北市垃圾清運點位資訊",
                 "organization_id": "379150000I",
-                "metadata_modified": "2016-07-11 19:22:03",
-                "timeEnd": 1468236123,
+                "metadata_modified": "2016-07-12 19:22:02",
+                "timeEnd": 1468322522,
                 "timeBegin": 1355673600,
                 "resources": {
                     "aa9c657c-ea6f-4062-a645-b6c973d45564": {
                         "id": "aa9c657c-ea6f-4062-a645-b6c973d45564",
                         "name": "garbage.xml",
-                        "created": "2016-07-11 19:22:02",
-                        "last_modified": "2016-07-11T19:22:02"
+                        "created": "2016-07-12 19:22:02",
+                        "last_modified": "2016-07-12T19:22:02"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a835f3ba-7f50-4b0d-91a6-9df128632d1c": {
+                "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
+                "title": "臺北市行人專用清潔箱",
+                "organization_id": "379150000I",
+                "metadata_modified": "2016-07-12 15:10:28",
+                "timeEnd": 1468307428,
+                "timeBegin": 1432137600,
+                "resources": {
+                    "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
+                        "id": "97cc923a-e9ee-4adc-8c3d-335567dc15d3",
+                        "name": "士林區行人專用清潔箱-資料異動105年7月12日.csv",
+                        "created": "2016-07-12 14:05:15",
+                        "last_modified": "2016-07-12T14:05:15"
+                    },
+                    "5fa14e06-018b-4851-8316-1ff324384f79": {
+                        "id": "5fa14e06-018b-4851-8316-1ff324384f79",
+                        "name": "大同區行人專用清潔箱-資料異動105年7月12日.csv",
+                        "created": "2016-07-12 13:57:42",
+                        "last_modified": "2016-07-12T13:57:42"
+                    },
+                    "f40cd66c-afba-4409-9289-e677b6b8d00e": {
+                        "id": "f40cd66c-afba-4409-9289-e677b6b8d00e",
+                        "name": "大安區.csv",
+                        "created": "2016-07-12 15:10:27",
+                        "last_modified": "2016-07-12T15:10:27"
+                    },
+                    "33b2c4c5-9870-4ee9-b280-a3a297c56a22": {
+                        "id": "33b2c4c5-9870-4ee9-b280-a3a297c56a22",
+                        "name": "中山區行人專用清潔箱.csv",
+                        "created": "2016-07-01 13:40:07",
+                        "last_modified": "2016-07-01T13:40:07"
+                    },
+                    "0b544701-fb47-4fa9-90f1-15b1987da0f5": {
+                        "id": "0b544701-fb47-4fa9-90f1-15b1987da0f5",
+                        "name": "中正區行人專用清潔箱.csv",
+                        "created": "2016-06-23 16:23:16",
+                        "last_modified": "2016-06-23T16:23:16"
+                    },
+                    "37eac6d1-6569-43c9-9fcf-fc676417c2cd": {
+                        "id": "37eac6d1-6569-43c9-9fcf-fc676417c2cd",
+                        "name": "內湖區行人專用清潔箱.csv",
+                        "created": "2016-07-01 13:39:43",
+                        "last_modified": "2016-07-01T13:39:43"
+                    },
+                    "46647394-d47f-4a4d-b0f0-14a60ac2aade": {
+                        "id": "46647394-d47f-4a4d-b0f0-14a60ac2aade",
+                        "name": "文山區行人專用清潔箱.csv",
+                        "created": "2016-07-01 13:40:19",
+                        "last_modified": "2016-07-01T13:40:19"
+                    },
+                    "05d67de9-a034-4177-9f53-10d6f79e02cf": {
+                        "id": "05d67de9-a034-4177-9f53-10d6f79e02cf",
+                        "name": "北投區行人專用清潔箱.csv",
+                        "created": "2016-07-01 13:40:29",
+                        "last_modified": "2016-07-01T13:40:29"
+                    },
+                    "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc": {
+                        "id": "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc",
+                        "name": "松山區行人專用清潔箱-資料異動105年07月06日.csv",
+                        "created": "2016-07-12 14:07:38",
+                        "last_modified": "2016-07-12T14:07:38"
+                    },
+                    "8cbb344b-83d2-4176-9abd-d84508e7dc73": {
+                        "id": "8cbb344b-83d2-4176-9abd-d84508e7dc73",
+                        "name": "信義區行人專用清潔箱.csv",
+                        "created": "2016-07-01 15:39:55",
+                        "last_modified": "2016-07-01T15:39:55"
+                    },
+                    "7b955414-f460-4472-b1a8-44819f74dc86": {
+                        "id": "7b955414-f460-4472-b1a8-44819f74dc86",
+                        "name": "南港區行人專用清潔箱.csv",
+                        "created": "2016-06-20 10:36:00",
+                        "last_modified": "2016-06-20T10:36:00"
+                    },
+                    "5697d81f-7c9d-43fc-a202-ae8804bbd34b": {
+                        "id": "5697d81f-7c9d-43fc-a202-ae8804bbd34b",
+                        "name": "萬華區行人專用清潔箱.csv",
+                        "created": "2016-07-01 13:39:55",
+                        "last_modified": "2016-07-01T13:39:55"
                     }
                 },
                 "counters": {
@@ -21456,92 +21658,6 @@
                         "name": "傳統.csv",
                         "created": "2016-07-06 15:02:30",
                         "last_modified": "2016-07-06T15:02:30"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a835f3ba-7f50-4b0d-91a6-9df128632d1c": {
-                "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
-                "title": "臺北市行人專用清潔箱",
-                "organization_id": "379150000I",
-                "metadata_modified": "2016-07-06 11:37:24",
-                "timeEnd": 1467776244,
-                "timeBegin": 1432137600,
-                "resources": {
-                    "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
-                        "id": "97cc923a-e9ee-4adc-8c3d-335567dc15d3",
-                        "name": "士林區行人專用清潔箱.csv",
-                        "created": "2016-07-04 16:30:32",
-                        "last_modified": "2016-07-04T16:30:32"
-                    },
-                    "5fa14e06-018b-4851-8316-1ff324384f79": {
-                        "id": "5fa14e06-018b-4851-8316-1ff324384f79",
-                        "name": "大同區行人專用清潔箱.csv",
-                        "created": "2016-05-19 08:41:27",
-                        "last_modified": "2016-05-19T08:41:27"
-                    },
-                    "f40cd66c-afba-4409-9289-e677b6b8d00e": {
-                        "id": "f40cd66c-afba-4409-9289-e677b6b8d00e",
-                        "name": "大安區行人專用清潔箱.csv",
-                        "created": "2016-07-01 15:40:17",
-                        "last_modified": "2016-07-01T15:40:17"
-                    },
-                    "33b2c4c5-9870-4ee9-b280-a3a297c56a22": {
-                        "id": "33b2c4c5-9870-4ee9-b280-a3a297c56a22",
-                        "name": "中山區行人專用清潔箱.csv",
-                        "created": "2016-07-01 13:40:07",
-                        "last_modified": "2016-07-01T13:40:07"
-                    },
-                    "0b544701-fb47-4fa9-90f1-15b1987da0f5": {
-                        "id": "0b544701-fb47-4fa9-90f1-15b1987da0f5",
-                        "name": "中正區行人專用清潔箱.csv",
-                        "created": "2016-06-23 16:23:16",
-                        "last_modified": "2016-06-23T16:23:16"
-                    },
-                    "37eac6d1-6569-43c9-9fcf-fc676417c2cd": {
-                        "id": "37eac6d1-6569-43c9-9fcf-fc676417c2cd",
-                        "name": "內湖區行人專用清潔箱.csv",
-                        "created": "2016-07-01 13:39:43",
-                        "last_modified": "2016-07-01T13:39:43"
-                    },
-                    "46647394-d47f-4a4d-b0f0-14a60ac2aade": {
-                        "id": "46647394-d47f-4a4d-b0f0-14a60ac2aade",
-                        "name": "文山區行人專用清潔箱.csv",
-                        "created": "2016-07-01 13:40:19",
-                        "last_modified": "2016-07-01T13:40:19"
-                    },
-                    "05d67de9-a034-4177-9f53-10d6f79e02cf": {
-                        "id": "05d67de9-a034-4177-9f53-10d6f79e02cf",
-                        "name": "北投區行人專用清潔箱.csv",
-                        "created": "2016-07-01 13:40:29",
-                        "last_modified": "2016-07-01T13:40:29"
-                    },
-                    "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc": {
-                        "id": "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc",
-                        "name": "松山區行人專用清潔箱.csv",
-                        "created": "2016-07-06 11:33:34",
-                        "last_modified": "2016-07-06T11:33:34"
-                    },
-                    "8cbb344b-83d2-4176-9abd-d84508e7dc73": {
-                        "id": "8cbb344b-83d2-4176-9abd-d84508e7dc73",
-                        "name": "信義區行人專用清潔箱.csv",
-                        "created": "2016-07-01 15:39:55",
-                        "last_modified": "2016-07-01T15:39:55"
-                    },
-                    "7b955414-f460-4472-b1a8-44819f74dc86": {
-                        "id": "7b955414-f460-4472-b1a8-44819f74dc86",
-                        "name": "南港區行人專用清潔箱.csv",
-                        "created": "2016-06-20 10:36:00",
-                        "last_modified": "2016-06-20T10:36:00"
-                    },
-                    "5697d81f-7c9d-43fc-a202-ae8804bbd34b": {
-                        "id": "5697d81f-7c9d-43fc-a202-ae8804bbd34b",
-                        "name": "萬華區行人專用清潔箱.csv",
-                        "created": "2016-07-01 13:39:55",
-                        "last_modified": "2016-07-01T13:39:55"
                     }
                 },
                 "counters": {
@@ -23733,15 +23849,15 @@
                 "name": "6a3e862a-e1cb-4e44-b989-d35609559463",
                 "title": "臺北市開放認養動物",
                 "organization_id": "379670000G",
-                "metadata_modified": "2016-07-11 19:26:14",
-                "timeEnd": 1468236374,
+                "metadata_modified": "2016-07-12 19:26:14",
+                "timeEnd": 1468322774,
                 "timeBegin": 1356537600,
                 "resources": {
                     "f4a75ba9-7721-4363-884d-c3820b0b917c": {
                         "id": "f4a75ba9-7721-4363-884d-c3820b0b917c",
                         "name": "animal.json",
-                        "created": "2016-07-11 19:26:14",
-                        "last_modified": "2016-07-11T19:26:14"
+                        "created": "2016-07-12 19:26:13",
+                        "last_modified": "2016-07-12T19:26:13"
                     }
                 },
                 "counters": {
@@ -23753,15 +23869,15 @@
                 "name": "d23e6ef4-3b78-4e74-8f8e-93cbe0c66515",
                 "title": "臺北市企業營運總部分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2016-07-11 19:18:00",
-                "timeEnd": 1468235880,
+                "metadata_modified": "2016-07-12 19:18:00",
+                "timeEnd": 1468322280,
                 "timeBegin": 1326384000,
                 "resources": {
                     "77f5bb24-425a-4910-a5c1-fafe48fdaff6": {
                         "id": "77f5bb24-425a-4910-a5c1-fafe48fdaff6",
                         "name": "factory.xml",
-                        "created": "2016-07-11 19:18:00",
-                        "last_modified": "2016-07-11T19:18:00"
+                        "created": "2016-07-12 19:18:00",
+                        "last_modified": "2016-07-12T19:18:00"
                     }
                 },
                 "counters": {
@@ -23773,15 +23889,15 @@
                 "name": "2385447a-6793-4055-8ce0-b601ffa5e9b5",
                 "title": "臺北市加油站及加氣站分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2016-07-11 19:16:00",
-                "timeEnd": 1468235760,
+                "metadata_modified": "2016-07-12 19:16:00",
+                "timeEnd": 1468322160,
                 "timeBegin": 1326384000,
                 "resources": {
                     "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e": {
                         "id": "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e",
                         "name": "religion.xml",
-                        "created": "2016-07-11 19:16:00",
-                        "last_modified": "2016-07-11T19:16:00"
+                        "created": "2016-07-12 19:16:00",
+                        "last_modified": "2016-07-12T19:16:00"
                     }
                 },
                 "counters": {
@@ -23793,15 +23909,15 @@
                 "name": "c8215f0d-20fa-4350-bcd9-da82432c2c9d",
                 "title": "臺北市登記工廠分佈圖及基本資料",
                 "organization_id": "379670000G",
-                "metadata_modified": "2016-07-11 19:14:00",
-                "timeEnd": 1468235640,
+                "metadata_modified": "2016-07-12 19:14:02",
+                "timeEnd": 1468322042,
                 "timeBegin": 1326384000,
                 "resources": {
                     "0c526081-68e3-489f-ae05-5a015ab80f61": {
                         "id": "0c526081-68e3-489f-ae05-5a015ab80f61",
                         "name": "taipeiFactory.xml",
-                        "created": "2016-07-11 19:14:00",
-                        "last_modified": "2016-07-11T19:14:00"
+                        "created": "2016-07-12 19:14:02",
+                        "last_modified": "2016-07-12T19:14:02"
                     }
                 },
                 "counters": {
@@ -23813,15 +23929,15 @@
                 "name": "3a7f9832-d020-4a6d-9b4d-6727fc149352",
                 "title": "臺北市公用天然氣導管承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2016-07-11 19:12:00",
-                "timeEnd": 1468235520,
+                "metadata_modified": "2016-07-12 19:12:00",
+                "timeEnd": 1468321920,
                 "timeBegin": 1369324800,
                 "resources": {
                     "cc69a890-eaae-4af5-9b00-e24cadaaad09": {
                         "id": "cc69a890-eaae-4af5-9b00-e24cadaaad09",
                         "name": "gasbusiness.xml",
-                        "created": "2016-07-11 19:12:00",
-                        "last_modified": "2016-07-11T19:12:00"
+                        "created": "2016-07-12 19:12:00",
+                        "last_modified": "2016-07-12T19:12:00"
                     }
                 },
                 "counters": {
@@ -23833,15 +23949,15 @@
                 "name": "166c8468-c496-4e27-ade3-13ee7d4a3881",
                 "title": "臺北市電器承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2016-07-11 19:10:00",
-                "timeEnd": 1468235400,
+                "metadata_modified": "2016-07-12 19:10:00",
+                "timeEnd": 1468321800,
                 "timeBegin": 1369324800,
                 "resources": {
                     "7befb610-232e-4a1e-99d0-35e964c10b70": {
                         "id": "7befb610-232e-4a1e-99d0-35e964c10b70",
                         "name": "ele.xml",
-                        "created": "2016-07-11 19:10:00",
-                        "last_modified": "2016-07-11T19:10:00"
+                        "created": "2016-07-12 19:10:00",
+                        "last_modified": "2016-07-12T19:10:00"
                     }
                 },
                 "counters": {
@@ -23853,15 +23969,35 @@
                 "name": "81b2a881-d37b-41b0-b9e0-39a2fef486ce",
                 "title": "臺北市自來水管承裝商業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2016-07-11 19:08:00",
-                "timeEnd": 1468235280,
+                "metadata_modified": "2016-07-12 19:08:00",
+                "timeEnd": 1468321680,
                 "timeBegin": 1369324800,
                 "resources": {
                     "6805942d-a8dd-4635-a394-01a8eadb3eba": {
                         "id": "6805942d-a8dd-4635-a394-01a8eadb3eba",
                         "name": "waterbusiness.xml",
-                        "created": "2016-07-11 19:08:00",
-                        "last_modified": "2016-07-11T19:08:00"
+                        "created": "2016-07-12 19:08:00",
+                        "last_modified": "2016-07-12T19:08:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dc76bd87-2d1e-4c32-85d5-ef606319a4f0": {
+                "name": "dc76bd87-2d1e-4c32-85d5-ef606319a4f0",
+                "title": "臺北市瓦斯供氣戶數及供氣量",
+                "organization_id": "379670000G",
+                "metadata_modified": "2016-07-12 08:49:51",
+                "timeEnd": 1468284591,
+                "timeBegin": 1431619200,
+                "resources": {
+                    "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f": {
+                        "id": "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f",
+                        "name": "105年6月臺北市瓦斯供氣戶數及供氣量.xls",
+                        "created": "2016-07-12 08:49:50",
+                        "last_modified": "2016-07-12T08:49:50"
                     }
                 },
                 "counters": {
@@ -23922,26 +24058,6 @@
                         "name": "寵物登記站名冊.xlsx",
                         "created": "2016-07-01 17:32:49",
                         "last_modified": "2016-07-01T17:32:49"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "dc76bd87-2d1e-4c32-85d5-ef606319a4f0": {
-                "name": "dc76bd87-2d1e-4c32-85d5-ef606319a4f0",
-                "title": "臺北市瓦斯供氣戶數及供氣量",
-                "organization_id": "379670000G",
-                "metadata_modified": "2016-06-07 10:26:02",
-                "timeEnd": 1465266362,
-                "timeBegin": 1431619200,
-                "resources": {
-                    "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f": {
-                        "id": "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f",
-                        "name": "檢送105年5月瓦斯供氣戶數及供氣量2.xls",
-                        "created": "2016-06-07 10:26:02",
-                        "last_modified": "2016-06-07T10:26:02"
                     }
                 },
                 "counters": {
@@ -28221,15 +28337,15 @@
                 "name": "01ac5a1d-dfc3-44c7-84a7-6d76bcb2879b",
                 "title": "臺北市嬰幼兒照顧服務-兒童托育資源中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:28",
-                "timeEnd": 1468206268,
+                "metadata_modified": "2016-07-12 11:03:57",
+                "timeEnd": 1468292637,
                 "timeBegin": 1326038400,
                 "resources": {
                     "1015e1db-bbf0-4cef-9bea-9928e84b3735": {
                         "id": "1015e1db-bbf0-4cef-9bea-9928e84b3735",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:27",
-                        "last_modified": "2016-07-11T11:04:27"
+                        "created": "2016-07-12 11:03:57",
+                        "last_modified": "2016-07-12T11:03:57"
                     }
                 },
                 "counters": {
@@ -28241,15 +28357,15 @@
                 "name": "081df75e-85c7-464c-b125-546920911c5c",
                 "title": "臺北市嬰幼兒照顧服務-臺北市私立托嬰中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:25",
-                "timeEnd": 1468206265,
+                "metadata_modified": "2016-07-12 11:03:55",
+                "timeEnd": 1468292635,
                 "timeBegin": 1326038400,
                 "resources": {
                     "e7cdaca3-e9da-46f9-b857-395e6e8e06a6": {
                         "id": "e7cdaca3-e9da-46f9-b857-395e6e8e06a6",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:25",
-                        "last_modified": "2016-07-11T11:04:25"
+                        "created": "2016-07-12 11:03:55",
+                        "last_modified": "2016-07-12T11:03:55"
                     }
                 },
                 "counters": {
@@ -28261,15 +28377,15 @@
                 "name": "63ffcab9-c4bb-407f-a4c3-3b87d149ba3f",
                 "title": "臺北市身心障礙者服務-臺北市身心障礙福利會館",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:23",
-                "timeEnd": 1468206263,
+                "metadata_modified": "2016-07-12 11:03:53",
+                "timeEnd": 1468292633,
                 "timeBegin": 1377446400,
                 "resources": {
                     "aba33618-a5e9-4974-a612-d37ead3b3339": {
                         "id": "aba33618-a5e9-4974-a612-d37ead3b3339",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:23",
-                        "last_modified": "2016-07-11T11:04:23"
+                        "created": "2016-07-12 11:03:53",
+                        "last_modified": "2016-07-12T11:03:53"
                     }
                 },
                 "counters": {
@@ -28281,15 +28397,15 @@
                 "name": "28c08fda-c7d1-4485-9791-8effde726635",
                 "title": "臺北市銀髮族服務-公立老人安養護機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:21",
-                "timeEnd": 1468206261,
+                "metadata_modified": "2016-07-12 11:03:51",
+                "timeEnd": 1468292631,
                 "timeBegin": 1326038400,
                 "resources": {
                     "905196ee-62ff-4cde-a1c0-cdede195ed04": {
                         "id": "905196ee-62ff-4cde-a1c0-cdede195ed04",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:20",
-                        "last_modified": "2016-07-11T11:04:20"
+                        "created": "2016-07-12 11:03:51",
+                        "last_modified": "2016-07-12T11:03:51"
                     }
                 },
                 "counters": {
@@ -28301,15 +28417,15 @@
                 "name": "f59b76f0-9c63-4242-9d1e-19364de95814",
                 "title": "臺北市銀髮族服務-公辦民營老人安養護機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:19",
-                "timeEnd": 1468206259,
+                "metadata_modified": "2016-07-12 11:03:50",
+                "timeEnd": 1468292630,
                 "timeBegin": 1326038400,
                 "resources": {
                     "88ee77e3-74f5-4593-b55f-be7f01bb2259": {
                         "id": "88ee77e3-74f5-4593-b55f-be7f01bb2259",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:18",
-                        "last_modified": "2016-07-11T11:04:18"
+                        "created": "2016-07-12 11:03:49",
+                        "last_modified": "2016-07-12T11:03:49"
                     }
                 },
                 "counters": {
@@ -28321,15 +28437,15 @@
                 "name": "cef4eddf-7d49-46ea-b94c-33fcde55218a",
                 "title": "臺北市銀髮族服務-老人公寓",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:16",
-                "timeEnd": 1468206256,
+                "metadata_modified": "2016-07-12 11:03:47",
+                "timeEnd": 1468292627,
                 "timeBegin": 1326038400,
                 "resources": {
                     "a5674541-0175-47bf-a8ac-0f8c6edd37a1": {
                         "id": "a5674541-0175-47bf-a8ac-0f8c6edd37a1",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:16",
-                        "last_modified": "2016-07-11T11:04:16"
+                        "created": "2016-07-12 11:03:47",
+                        "last_modified": "2016-07-12T11:03:47"
                     }
                 },
                 "counters": {
@@ -28341,15 +28457,15 @@
                 "name": "cd62abcb-f489-4857-a110-de451ee84302",
                 "title": "臺北市銀髮族服務-老人活動據點",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:13",
-                "timeEnd": 1468206253,
+                "metadata_modified": "2016-07-12 11:03:45",
+                "timeEnd": 1468292625,
                 "timeBegin": 1326038400,
                 "resources": {
                     "65dee30d-6397-4e3c-b06b-cead2a87e9f9": {
                         "id": "65dee30d-6397-4e3c-b06b-cead2a87e9f9",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:13",
-                        "last_modified": "2016-07-11T11:04:13"
+                        "created": "2016-07-12 11:03:45",
+                        "last_modified": "2016-07-12T11:03:45"
                     }
                 },
                 "counters": {
@@ -28361,15 +28477,15 @@
                 "name": "e3cec007-4212-4944-989e-5078e4f5f3bb",
                 "title": "臺北市銀髮族服務-老人營養餐飲",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:10",
-                "timeEnd": 1468206250,
+                "metadata_modified": "2016-07-12 11:03:43",
+                "timeEnd": 1468292623,
                 "timeBegin": 1326038400,
                 "resources": {
                     "efed6694-9700-4b45-a7bd-3000918d59b0": {
                         "id": "efed6694-9700-4b45-a7bd-3000918d59b0",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:09",
-                        "last_modified": "2016-07-11T11:04:09"
+                        "created": "2016-07-12 11:03:43",
+                        "last_modified": "2016-07-12T11:03:43"
                     }
                 },
                 "counters": {
@@ -28381,15 +28497,15 @@
                 "name": "99daa736-36c6-4957-884d-45cf81dc5745",
                 "title": "臺北市銀髮族服務-私立老人安養護機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:06",
-                "timeEnd": 1468206246,
+                "metadata_modified": "2016-07-12 11:03:41",
+                "timeEnd": 1468292621,
                 "timeBegin": 1326038400,
                 "resources": {
                     "aba1629f-58a7-41db-ab41-80c879c10f3c": {
                         "id": "aba1629f-58a7-41db-ab41-80c879c10f3c",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:06",
-                        "last_modified": "2016-07-11T11:04:06"
+                        "created": "2016-07-12 11:03:41",
+                        "last_modified": "2016-07-12T11:03:41"
                     }
                 },
                 "counters": {
@@ -28401,15 +28517,15 @@
                 "name": "40c16fac-ff03-4da7-91a0-75272f732149",
                 "title": "臺北市銀髮族服務-居家服務",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:04",
-                "timeEnd": 1468206244,
+                "metadata_modified": "2016-07-12 11:03:39",
+                "timeEnd": 1468292619,
                 "timeBegin": 1326038400,
                 "resources": {
                     "f432adf0-0e92-473f-a81e-5d5e8ef75965": {
                         "id": "f432adf0-0e92-473f-a81e-5d5e8ef75965",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:03",
-                        "last_modified": "2016-07-11T11:04:03"
+                        "created": "2016-07-12 11:03:39",
+                        "last_modified": "2016-07-12T11:03:39"
                     }
                 },
                 "counters": {
@@ -28421,15 +28537,15 @@
                 "name": "d082dc87-d3fd-479d-89c6-745ff1be955a",
                 "title": "臺北市銀髮族服務-社區照顧關懷據點",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:04:01",
-                "timeEnd": 1468206241,
+                "metadata_modified": "2016-07-12 11:03:36",
+                "timeEnd": 1468292616,
                 "timeBegin": 1326038400,
                 "resources": {
                     "11930dc6-4092-4bde-a42c-7722e0416462": {
                         "id": "11930dc6-4092-4bde-a42c-7722e0416462",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:04:01",
-                        "last_modified": "2016-07-11T11:04:01"
+                        "created": "2016-07-12 11:03:36",
+                        "last_modified": "2016-07-12T11:03:36"
                     }
                 },
                 "counters": {
@@ -28441,15 +28557,15 @@
                 "name": "67b63404-89b8-4214-8096-3322204144e6",
                 "title": "臺北市銀髮族服務-長青學苑",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:58",
-                "timeEnd": 1468206238,
+                "metadata_modified": "2016-07-12 11:03:34",
+                "timeEnd": 1468292614,
                 "timeBegin": 1326038400,
                 "resources": {
                     "4b03e7ea-8007-4b95-bc65-bc359abd29ea": {
                         "id": "4b03e7ea-8007-4b95-bc65-bc359abd29ea",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:58",
-                        "last_modified": "2016-07-11T11:03:58"
+                        "created": "2016-07-12 11:03:34",
+                        "last_modified": "2016-07-12T11:03:34"
                     }
                 },
                 "counters": {
@@ -28461,15 +28577,15 @@
                 "name": "78dfc9a2-36e2-4ef5-beaa-a74633ba3d26",
                 "title": "臺北市銀髮族服務-臺北市各老人服務中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:56",
-                "timeEnd": 1468206236,
+                "metadata_modified": "2016-07-12 11:03:33",
+                "timeEnd": 1468292613,
                 "timeBegin": 1326038400,
                 "resources": {
                     "869a27cb-65d8-4479-bde0-5781220b2016": {
                         "id": "869a27cb-65d8-4479-bde0-5781220b2016",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:56",
-                        "last_modified": "2016-07-11T11:03:56"
+                        "created": "2016-07-12 11:03:33",
+                        "last_modified": "2016-07-12T11:03:33"
                     }
                 },
                 "counters": {
@@ -28481,15 +28597,15 @@
                 "name": "f17b2bdc-1cff-4caf-83fb-561b3d272f00",
                 "title": "臺北市銀髮族服務-臺北市各區公所",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:54",
-                "timeEnd": 1468206234,
+                "metadata_modified": "2016-07-12 11:03:31",
+                "timeEnd": 1468292611,
                 "timeBegin": 1326038400,
                 "resources": {
                     "03ac321b-51fb-4ea9-a8c5-d0976184550a": {
                         "id": "03ac321b-51fb-4ea9-a8c5-d0976184550a",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:54",
-                        "last_modified": "2016-07-11T11:03:54"
+                        "created": "2016-07-12 11:03:31",
+                        "last_modified": "2016-07-12T11:03:31"
                     }
                 },
                 "counters": {
@@ -28501,15 +28617,15 @@
                 "name": "c8ac5650-2a3a-4d80-8cb0-d26f89f7395f",
                 "title": "臺北市銀髮族服務-臺北市老人日間照顧中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:52",
-                "timeEnd": 1468206232,
+                "metadata_modified": "2016-07-12 11:03:29",
+                "timeEnd": 1468292609,
                 "timeBegin": 1326038400,
                 "resources": {
                     "a8222101-850f-404e-bde8-99d7eda642f9": {
                         "id": "a8222101-850f-404e-bde8-99d7eda642f9",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:52",
-                        "last_modified": "2016-07-11T11:03:52"
+                        "created": "2016-07-12 11:03:29",
+                        "last_modified": "2016-07-12T11:03:29"
                     }
                 },
                 "counters": {
@@ -28521,15 +28637,15 @@
                 "name": "61a6449b-9a0e-4b1c-848b-81bb22350379",
                 "title": "臺北市銀髮族服務-臺北市長期照顧管理中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:50",
-                "timeEnd": 1468206230,
+                "metadata_modified": "2016-07-12 11:03:28",
+                "timeEnd": 1468292608,
                 "timeBegin": 1326038400,
                 "resources": {
                     "ef76b389-e6f3-412d-9c4b-63f47ff96198": {
                         "id": "ef76b389-e6f3-412d-9c4b-63f47ff96198",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:50",
-                        "last_modified": "2016-07-11T11:03:50"
+                        "created": "2016-07-12 11:03:27",
+                        "last_modified": "2016-07-12T11:03:27"
                     }
                 },
                 "counters": {
@@ -28541,15 +28657,15 @@
                 "name": "2d32278e-7606-4ac2-bdb7-ef3bfd8461be",
                 "title": "臺北市銀髮族服務-銀髮友善好站",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:45",
-                "timeEnd": 1468206225,
+                "metadata_modified": "2016-07-12 11:03:24",
+                "timeEnd": 1468292604,
                 "timeBegin": 1377446400,
                 "resources": {
                     "2ab15ace-a058-4170-8da2-ecfe5707e926": {
                         "id": "2ab15ace-a058-4170-8da2-ecfe5707e926",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:44",
-                        "last_modified": "2016-07-11T11:03:44"
+                        "created": "2016-07-12 11:03:24",
+                        "last_modified": "2016-07-12T11:03:24"
                     }
                 },
                 "counters": {
@@ -28561,15 +28677,15 @@
                 "name": "ece023db-a5f8-4399-97da-f04d7f4009e3",
                 "title": "臺北市生活危機服務-臺北市社會福利服務中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:41",
-                "timeEnd": 1468206221,
+                "metadata_modified": "2016-07-12 11:03:22",
+                "timeEnd": 1468292602,
                 "timeBegin": 1377446400,
                 "resources": {
                     "1a2d417e-c121-4a12-835f-97ee6852c4b8": {
                         "id": "1a2d417e-c121-4a12-835f-97ee6852c4b8",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:41",
-                        "last_modified": "2016-07-11T11:03:41"
+                        "created": "2016-07-12 11:03:22",
+                        "last_modified": "2016-07-12T11:03:22"
                     }
                 },
                 "counters": {
@@ -28581,15 +28697,15 @@
                 "name": "fd4779d0-827d-4ab3-8f65-2a356abad6d9",
                 "title": "臺北市嬰幼兒照顧服務-親子館",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:39",
-                "timeEnd": 1468206219,
+                "metadata_modified": "2016-07-12 11:03:21",
+                "timeEnd": 1468292601,
                 "timeBegin": 1377446400,
                 "resources": {
                     "5c09f39f-79cc-45b8-be8e-9b3ea8b220e3": {
                         "id": "5c09f39f-79cc-45b8-be8e-9b3ea8b220e3",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:39",
-                        "last_modified": "2016-07-11T11:03:39"
+                        "created": "2016-07-12 11:03:21",
+                        "last_modified": "2016-07-12T11:03:21"
                     }
                 },
                 "counters": {
@@ -28601,15 +28717,15 @@
                 "name": "5d65fcc3-4290-4806-840c-60b345a1c893",
                 "title": "臺北市低收、中低收入戶服務-平價住宅",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:36",
-                "timeEnd": 1468206216,
+                "metadata_modified": "2016-07-12 11:03:19",
+                "timeEnd": 1468292599,
                 "timeBegin": 1377446400,
                 "resources": {
                     "073dbdaf-9ca6-4a47-b297-dc9c57e3f031": {
                         "id": "073dbdaf-9ca6-4a47-b297-dc9c57e3f031",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:36",
-                        "last_modified": "2016-07-11T11:03:36"
+                        "created": "2016-07-12 11:03:19",
+                        "last_modified": "2016-07-12T11:03:19"
                     }
                 },
                 "counters": {
@@ -28621,15 +28737,15 @@
                 "name": "bb6adffe-2300-4ea7-8f25-1073340f922e",
                 "title": "臺北市身心障礙者服務-全國性身心障礙福利基金會",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:34",
-                "timeEnd": 1468206214,
+                "metadata_modified": "2016-07-12 11:03:17",
+                "timeEnd": 1468292597,
                 "timeBegin": 1377446400,
                 "resources": {
                     "943c505b-2aa3-4b1e-b8d6-fa066b317b19": {
                         "id": "943c505b-2aa3-4b1e-b8d6-fa066b317b19",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:33",
-                        "last_modified": "2016-07-11T11:03:33"
+                        "created": "2016-07-12 11:03:17",
+                        "last_modified": "2016-07-12T11:03:17"
                     }
                 },
                 "counters": {
@@ -28641,15 +28757,15 @@
                 "name": "34caee29-5566-4516-acb8-c39b93897fe8",
                 "title": "臺北市身心障礙者服務-全國性身心障礙福利團體",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:31",
-                "timeEnd": 1468206211,
+                "metadata_modified": "2016-07-12 11:03:16",
+                "timeEnd": 1468292596,
                 "timeBegin": 1377446400,
                 "resources": {
                     "227093b9-a9b0-43ec-ae4f-c7b364787783": {
                         "id": "227093b9-a9b0-43ec-ae4f-c7b364787783",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:31",
-                        "last_modified": "2016-07-11T11:03:31"
+                        "created": "2016-07-12 11:03:16",
+                        "last_modified": "2016-07-12T11:03:16"
                     }
                 },
                 "counters": {
@@ -28661,15 +28777,15 @@
                 "name": "a72055e3-812b-4e10-82ab-f44b692a7ff5",
                 "title": "臺北市身心障礙者服務-康復之家一覽表",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:28",
-                "timeEnd": 1468206208,
+                "metadata_modified": "2016-07-12 11:03:14",
+                "timeEnd": 1468292594,
                 "timeBegin": 1377446400,
                 "resources": {
                     "41404922-8817-4cb4-8781-d21432f2a0eb": {
                         "id": "41404922-8817-4cb4-8781-d21432f2a0eb",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:28",
-                        "last_modified": "2016-07-11T11:03:28"
+                        "created": "2016-07-12 11:03:14",
+                        "last_modified": "2016-07-12T11:03:14"
                     }
                 },
                 "counters": {
@@ -28681,15 +28797,15 @@
                 "name": "eaaa5b6c-f32b-4168-83f6-b4dba142a727",
                 "title": "臺北市社區發展服務-社區發展協會(北投)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:25",
-                "timeEnd": 1468206205,
+                "metadata_modified": "2016-07-12 11:03:11",
+                "timeEnd": 1468292591,
                 "timeBegin": 1376928000,
                 "resources": {
                     "b4e43fae-8880-428a-b6d1-a5a1aab30533": {
                         "id": "b4e43fae-8880-428a-b6d1-a5a1aab30533",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:25",
-                        "last_modified": "2016-07-11T11:03:25"
+                        "created": "2016-07-12 11:03:11",
+                        "last_modified": "2016-07-12T11:03:11"
                     }
                 },
                 "counters": {
@@ -28701,15 +28817,15 @@
                 "name": "6bac0867-ceec-43ad-88aa-1e315913242f",
                 "title": "臺北市社區發展服務-社區發展協會(士林)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:21",
-                "timeEnd": 1468206201,
+                "metadata_modified": "2016-07-12 11:03:10",
+                "timeEnd": 1468292590,
                 "timeBegin": 1376928000,
                 "resources": {
                     "6f1b6c27-d3a7-4b88-a0b3-9828dc5c88dd": {
                         "id": "6f1b6c27-d3a7-4b88-a0b3-9828dc5c88dd",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:21",
-                        "last_modified": "2016-07-11T11:03:21"
+                        "created": "2016-07-12 11:03:10",
+                        "last_modified": "2016-07-12T11:03:10"
                     }
                 },
                 "counters": {
@@ -28721,15 +28837,15 @@
                 "name": "565f64be-a893-437d-8a25-a697310e3e9d",
                 "title": "臺北市社區發展服務-社區發展協會(大同)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:19",
-                "timeEnd": 1468206199,
+                "metadata_modified": "2016-07-12 11:03:08",
+                "timeEnd": 1468292588,
                 "timeBegin": 1376928000,
                 "resources": {
                     "06ff56e1-94ac-4255-a468-3065097a2c75": {
                         "id": "06ff56e1-94ac-4255-a468-3065097a2c75",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:19",
-                        "last_modified": "2016-07-11T11:03:19"
+                        "created": "2016-07-12 11:03:08",
+                        "last_modified": "2016-07-12T11:03:08"
                     }
                 },
                 "counters": {
@@ -28741,15 +28857,15 @@
                 "name": "e81a07f7-8137-4019-a96f-210a00ef72a3",
                 "title": "臺北市社區發展服務-社區發展協會(大安)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:17",
-                "timeEnd": 1468206197,
+                "metadata_modified": "2016-07-12 11:03:06",
+                "timeEnd": 1468292586,
                 "timeBegin": 1376928000,
                 "resources": {
                     "654f0abf-b859-4a1d-8dcd-28c733313c1c": {
                         "id": "654f0abf-b859-4a1d-8dcd-28c733313c1c",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:17",
-                        "last_modified": "2016-07-11T11:03:17"
+                        "created": "2016-07-12 11:03:05",
+                        "last_modified": "2016-07-12T11:03:05"
                     }
                 },
                 "counters": {
@@ -28761,15 +28877,15 @@
                 "name": "41d10b15-29df-4c1d-a8dc-312bb9c1dbc2",
                 "title": "臺北市社區發展服務-社區發展協會(中山)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:15",
-                "timeEnd": 1468206195,
+                "metadata_modified": "2016-07-12 11:03:04",
+                "timeEnd": 1468292584,
                 "timeBegin": 1376928000,
                 "resources": {
                     "03b9118d-5ca5-41d2-aa29-4af63e388b80": {
                         "id": "03b9118d-5ca5-41d2-aa29-4af63e388b80",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:15",
-                        "last_modified": "2016-07-11T11:03:15"
+                        "created": "2016-07-12 11:03:03",
+                        "last_modified": "2016-07-12T11:03:03"
                     }
                 },
                 "counters": {
@@ -28781,15 +28897,15 @@
                 "name": "73caee04-596a-44d8-80f0-6f82b7210448",
                 "title": "臺北市社區發展服務-社區發展協會(中正)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:13",
-                "timeEnd": 1468206193,
+                "metadata_modified": "2016-07-12 11:03:02",
+                "timeEnd": 1468292582,
                 "timeBegin": 1376928000,
                 "resources": {
                     "c7a1fc15-1ce3-43cc-9030-576f53ff515e": {
                         "id": "c7a1fc15-1ce3-43cc-9030-576f53ff515e",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:12",
-                        "last_modified": "2016-07-11T11:03:12"
+                        "created": "2016-07-12 11:03:02",
+                        "last_modified": "2016-07-12T11:03:02"
                     }
                 },
                 "counters": {
@@ -28801,15 +28917,15 @@
                 "name": "ef5ef497-2d57-4865-813e-0f0d3827ebd6",
                 "title": "臺北市社區發展服務-社區發展協會(內湖)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:10",
-                "timeEnd": 1468206190,
+                "metadata_modified": "2016-07-12 11:03:00",
+                "timeEnd": 1468292580,
                 "timeBegin": 1376928000,
                 "resources": {
                     "ff1f1b36-216f-4b77-b085-465900c38b7d": {
                         "id": "ff1f1b36-216f-4b77-b085-465900c38b7d",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:10",
-                        "last_modified": "2016-07-11T11:03:10"
+                        "created": "2016-07-12 11:03:00",
+                        "last_modified": "2016-07-12T11:03:00"
                     }
                 },
                 "counters": {
@@ -28821,15 +28937,15 @@
                 "name": "67e8ce71-a913-4723-aab4-05f0de21eca7",
                 "title": "臺北市社區發展服務-社區發展協會(文山)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:08",
-                "timeEnd": 1468206188,
+                "metadata_modified": "2016-07-12 11:02:58",
+                "timeEnd": 1468292578,
                 "timeBegin": 1376928000,
                 "resources": {
                     "6e56b5ae-2541-4f9e-95ba-7f94878910eb": {
                         "id": "6e56b5ae-2541-4f9e-95ba-7f94878910eb",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:08",
-                        "last_modified": "2016-07-11T11:03:08"
+                        "created": "2016-07-12 11:02:58",
+                        "last_modified": "2016-07-12T11:02:58"
                     }
                 },
                 "counters": {
@@ -28841,15 +28957,15 @@
                 "name": "606f2ac9-0e38-4392-8ae6-e09bb0c9bd00",
                 "title": "臺北市身心障礙者服務-臺北市身心障礙福利基金會",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:05",
-                "timeEnd": 1468206185,
+                "metadata_modified": "2016-07-12 11:02:56",
+                "timeEnd": 1468292576,
                 "timeBegin": 1377446400,
                 "resources": {
                     "efab0c4d-0882-47ac-a01b-48aa36caa25a": {
                         "id": "efab0c4d-0882-47ac-a01b-48aa36caa25a",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:05",
-                        "last_modified": "2016-07-11T11:03:05"
+                        "created": "2016-07-12 11:02:56",
+                        "last_modified": "2016-07-12T11:02:56"
                     }
                 },
                 "counters": {
@@ -28861,15 +28977,15 @@
                 "name": "bacd3be9-85cb-40da-9484-33e463efd02a",
                 "title": "臺北市身心障礙者服務-臺北市身心障礙福利團體",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:03:03",
-                "timeEnd": 1468206183,
+                "metadata_modified": "2016-07-12 11:02:54",
+                "timeEnd": 1468292574,
                 "timeBegin": 1377446400,
                 "resources": {
                     "df6e8450-a4a6-4542-8f80-83b72e2f0970": {
                         "id": "df6e8450-a4a6-4542-8f80-83b72e2f0970",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:03:03",
-                        "last_modified": "2016-07-11T11:03:03"
+                        "created": "2016-07-12 11:02:54",
+                        "last_modified": "2016-07-12T11:02:54"
                     }
                 },
                 "counters": {
@@ -28881,15 +28997,15 @@
                 "name": "cab9c0fb-4635-4c9e-9458-203132d87104",
                 "title": "臺北市婦女服務-家庭服務相關團體名冊",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:58",
-                "timeEnd": 1468206178,
+                "metadata_modified": "2016-07-12 11:02:50",
+                "timeEnd": 1468292570,
                 "timeBegin": 1377446400,
                 "resources": {
                     "8610b7d8-ba34-4b65-99ae-6cc28fdfbe44": {
                         "id": "8610b7d8-ba34-4b65-99ae-6cc28fdfbe44",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:58",
-                        "last_modified": "2016-07-11T11:02:58"
+                        "created": "2016-07-12 11:02:50",
+                        "last_modified": "2016-07-12T11:02:50"
                     }
                 },
                 "counters": {
@@ -28901,15 +29017,15 @@
                 "name": "dd72b5cb-2e52-4bd6-b970-ac42e907b1ee",
                 "title": "臺北市婦女服務-婦女相關團體名冊",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:56",
-                "timeEnd": 1468206176,
+                "metadata_modified": "2016-07-12 11:02:48",
+                "timeEnd": 1468292568,
                 "timeBegin": 1377446400,
                 "resources": {
                     "2d9fb39a-5e73-4ba0-82c7-fb75c471474c": {
                         "id": "2d9fb39a-5e73-4ba0-82c7-fb75c471474c",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:56",
-                        "last_modified": "2016-07-11T11:02:56"
+                        "created": "2016-07-12 11:02:48",
+                        "last_modified": "2016-07-12T11:02:48"
                     }
                 },
                 "counters": {
@@ -28921,15 +29037,15 @@
                 "name": "be785406-f433-44d7-a90a-295820bc7c38",
                 "title": "臺北市婦女服務-新移民相關團體名冊",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:54",
-                "timeEnd": 1468206174,
+                "metadata_modified": "2016-07-12 11:02:46",
+                "timeEnd": 1468292566,
                 "timeBegin": 1377446400,
                 "resources": {
                     "8e85db31-7255-403c-84af-02f4827ab1bb": {
                         "id": "8e85db31-7255-403c-84af-02f4827ab1bb",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:54",
-                        "last_modified": "2016-07-11T11:02:54"
+                        "created": "2016-07-12 11:02:46",
+                        "last_modified": "2016-07-12T11:02:46"
                     }
                 },
                 "counters": {
@@ -28941,15 +29057,15 @@
                 "name": "9e4f246e-1d40-4ca2-8c72-997f43ae84a3",
                 "title": "臺北市婦女服務-臺北市家庭服務中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:52",
-                "timeEnd": 1468206172,
+                "metadata_modified": "2016-07-12 11:02:44",
+                "timeEnd": 1468292564,
                 "timeBegin": 1377446400,
                 "resources": {
                     "d41c9e7b-690c-47da-a887-3e8eacaa1fef": {
                         "id": "d41c9e7b-690c-47da-a887-3e8eacaa1fef",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:52",
-                        "last_modified": "2016-07-11T11:02:52"
+                        "created": "2016-07-12 11:02:44",
+                        "last_modified": "2016-07-12T11:02:44"
                     }
                 },
                 "counters": {
@@ -28961,15 +29077,15 @@
                 "name": "fe548add-f420-4522-ab77-83f1a28d7d6b",
                 "title": "臺北市婦女服務-臺北市婦女服務中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:50",
-                "timeEnd": 1468206170,
+                "metadata_modified": "2016-07-12 11:02:42",
+                "timeEnd": 1468292562,
                 "timeBegin": 1377446400,
                 "resources": {
                     "e54b66b4-79f3-4fdf-8925-2b8c97a02cd8": {
                         "id": "e54b66b4-79f3-4fdf-8925-2b8c97a02cd8",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:50",
-                        "last_modified": "2016-07-11T11:02:50"
+                        "created": "2016-07-12 11:02:41",
+                        "last_modified": "2016-07-12T11:02:41"
                     }
                 },
                 "counters": {
@@ -28981,15 +29097,15 @@
                 "name": "8953f893-bab8-4d22-a08d-afddcab1ca88",
                 "title": "臺北市兒童與少年服務-公設民營兒少安置教養機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:48",
-                "timeEnd": 1468206168,
+                "metadata_modified": "2016-07-12 11:02:40",
+                "timeEnd": 1468292560,
                 "timeBegin": 1377187200,
                 "resources": {
                     "f3f24bad-1cc4-4e7f-b338-e319bc5b50dd": {
                         "id": "f3f24bad-1cc4-4e7f-b338-e319bc5b50dd",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:48",
-                        "last_modified": "2016-07-11T11:02:48"
+                        "created": "2016-07-12 11:02:40",
+                        "last_modified": "2016-07-12T11:02:40"
                     }
                 },
                 "counters": {
@@ -29001,15 +29117,15 @@
                 "name": "a840414a-0905-4507-8469-7c9afe16e42c",
                 "title": "臺北市兒童與少年服務-心理輔導或家庭諮詢機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:46",
-                "timeEnd": 1468206166,
+                "metadata_modified": "2016-07-12 11:02:38",
+                "timeEnd": 1468292558,
                 "timeBegin": 1377187200,
                 "resources": {
                     "5d3cc3b0-d54f-46f5-a3a1-a2f48b58ed6d": {
                         "id": "5d3cc3b0-d54f-46f5-a3a1-a2f48b58ed6d",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:46",
-                        "last_modified": "2016-07-11T11:02:46"
+                        "created": "2016-07-12 11:02:38",
+                        "last_modified": "2016-07-12T11:02:38"
                     }
                 },
                 "counters": {
@@ -29021,15 +29137,15 @@
                 "name": "9c1000e3-493b-4a8f-980b-36a0a7b5e8c5",
                 "title": "臺北市兒童與少年服務-收出養服務機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:45",
-                "timeEnd": 1468206165,
+                "metadata_modified": "2016-07-12 11:02:36",
+                "timeEnd": 1468292556,
                 "timeBegin": 1377187200,
                 "resources": {
                     "b6225f9f-d661-4147-a871-e5e3cf61aea5": {
                         "id": "b6225f9f-d661-4147-a871-e5e3cf61aea5",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:44",
-                        "last_modified": "2016-07-11T11:02:44"
+                        "created": "2016-07-12 11:02:36",
+                        "last_modified": "2016-07-12T11:02:36"
                     }
                 },
                 "counters": {
@@ -29041,15 +29157,15 @@
                 "name": "3a98fc18-5205-4f2e-b0de-761b09541aab",
                 "title": "臺北市兒童與少年服務-私立兒童及少年安置教養機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:43",
-                "timeEnd": 1468206163,
+                "metadata_modified": "2016-07-12 11:02:34",
+                "timeEnd": 1468292554,
                 "timeBegin": 1377187200,
                 "resources": {
                     "5d84a955-a05f-4b9f-88cb-154b3583bdec": {
                         "id": "5d84a955-a05f-4b9f-88cb-154b3583bdec",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:43",
-                        "last_modified": "2016-07-11T11:02:43"
+                        "created": "2016-07-12 11:02:34",
+                        "last_modified": "2016-07-12T11:02:34"
                     }
                 },
                 "counters": {
@@ -29061,15 +29177,15 @@
                 "name": "a6ff4234-0455-4f61-b9c1-95ba00cf4433",
                 "title": "臺北市兒童與少年服務-青少年就業諮詢輔導單位",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:41",
-                "timeEnd": 1468206161,
+                "metadata_modified": "2016-07-12 11:02:33",
+                "timeEnd": 1468292553,
                 "timeBegin": 1377187200,
                 "resources": {
                     "c0f667f2-dc0d-40f8-8a12-534c0ed6183c": {
                         "id": "c0f667f2-dc0d-40f8-8a12-534c0ed6183c",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:41",
-                        "last_modified": "2016-07-11T11:02:41"
+                        "created": "2016-07-12 11:02:33",
+                        "last_modified": "2016-07-12T11:02:33"
                     }
                 },
                 "counters": {
@@ -29081,15 +29197,15 @@
                 "name": "3b790b10-5795-4e95-850a-ce978f1d0cb0",
                 "title": "臺北市兒童與少年服務-青少年福利相關機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:39",
-                "timeEnd": 1468206159,
+                "metadata_modified": "2016-07-12 11:02:31",
+                "timeEnd": 1468292551,
                 "timeBegin": 1377187200,
                 "resources": {
                     "440e2491-9300-4d89-9efa-e9086c2afd7e": {
                         "id": "440e2491-9300-4d89-9efa-e9086c2afd7e",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:38",
-                        "last_modified": "2016-07-11T11:02:38"
+                        "created": "2016-07-12 11:02:31",
+                        "last_modified": "2016-07-12T11:02:31"
                     }
                 },
                 "counters": {
@@ -29101,15 +29217,15 @@
                 "name": "c99547ce-4cc4-4ea9-83a8-7a8d8d3a592c",
                 "title": "臺北市兒童與少年服務-家庭寄養",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:36",
-                "timeEnd": 1468206156,
+                "metadata_modified": "2016-07-12 11:02:29",
+                "timeEnd": 1468292549,
                 "timeBegin": 1377187200,
                 "resources": {
                     "662b3d6a-7220-487c-a6d5-693dd74dff14": {
                         "id": "662b3d6a-7220-487c-a6d5-693dd74dff14",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:36",
-                        "last_modified": "2016-07-11T11:02:36"
+                        "created": "2016-07-12 11:02:29",
+                        "last_modified": "2016-07-12T11:02:29"
                     }
                 },
                 "counters": {
@@ -29121,15 +29237,15 @@
                 "name": "34b4b777-ec28-4cfc-a475-f77c70073726",
                 "title": "臺北市兒童與少年服務-臺北市少年服務中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:34",
-                "timeEnd": 1468206154,
+                "metadata_modified": "2016-07-12 11:02:28",
+                "timeEnd": 1468292548,
                 "timeBegin": 1377187200,
                 "resources": {
                     "fe0b9a5f-0a07-4668-bf93-024c2c050036": {
                         "id": "fe0b9a5f-0a07-4668-bf93-024c2c050036",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:34",
-                        "last_modified": "2016-07-11T11:02:34"
+                        "created": "2016-07-12 11:02:28",
+                        "last_modified": "2016-07-12T11:02:28"
                     }
                 },
                 "counters": {
@@ -29141,15 +29257,15 @@
                 "name": "7e02f5a9-b0cf-4b16-baf5-3554e895322f",
                 "title": "臺北市兒童與少年服務-臺北市登記設立之分事務所",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:33",
-                "timeEnd": 1468206153,
+                "metadata_modified": "2016-07-12 11:02:26",
+                "timeEnd": 1468292546,
                 "timeBegin": 1377187200,
                 "resources": {
                     "ecf31307-8e90-47a1-b2f0-8bf731aa8ae7": {
                         "id": "ecf31307-8e90-47a1-b2f0-8bf731aa8ae7",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:32",
-                        "last_modified": "2016-07-11T11:02:32"
+                        "created": "2016-07-12 11:02:26",
+                        "last_modified": "2016-07-12T11:02:26"
                     }
                 },
                 "counters": {
@@ -29161,15 +29277,15 @@
                 "name": "df046940-674b-41e6-8c6d-9ba0b6c6ebfc",
                 "title": "臺北市國民年金-勞工保險局",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:31",
-                "timeEnd": 1468206151,
+                "metadata_modified": "2016-07-12 11:02:25",
+                "timeEnd": 1468292545,
                 "timeBegin": 1377446400,
                 "resources": {
                     "90aa6f79-6056-481d-9fe1-bf21a6ecdc37": {
                         "id": "90aa6f79-6056-481d-9fe1-bf21a6ecdc37",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:31",
-                        "last_modified": "2016-07-11T11:02:31"
+                        "created": "2016-07-12 11:02:24",
+                        "last_modified": "2016-07-12T11:02:24"
                     }
                 },
                 "counters": {
@@ -29181,15 +29297,15 @@
                 "name": "d9f83f67-b7f1-49f0-83b9-07cff457b41f",
                 "title": "臺北市國民年金-臺北市各區公所社會課",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:29",
-                "timeEnd": 1468206149,
+                "metadata_modified": "2016-07-12 11:02:23",
+                "timeEnd": 1468292543,
                 "timeBegin": 1377446400,
                 "resources": {
                     "e687fb97-867b-4549-bd00-cc1c21a35568": {
                         "id": "e687fb97-867b-4549-bd00-cc1c21a35568",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:29",
-                        "last_modified": "2016-07-11T11:02:29"
+                        "created": "2016-07-12 11:02:23",
+                        "last_modified": "2016-07-12T11:02:23"
                     }
                 },
                 "counters": {
@@ -29201,15 +29317,15 @@
                 "name": "2a1704bf-b4c8-49f3-9070-b69c879d0516",
                 "title": "臺北市國民年金-衛生福利部",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:27",
-                "timeEnd": 1468206147,
+                "metadata_modified": "2016-07-12 11:02:21",
+                "timeEnd": 1468292541,
                 "timeBegin": 1377446400,
                 "resources": {
                     "9875d5e9-0a73-4857-8c3a-e1383d04012b": {
                         "id": "9875d5e9-0a73-4857-8c3a-e1383d04012b",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:27",
-                        "last_modified": "2016-07-11T11:02:27"
+                        "created": "2016-07-12 11:02:20",
+                        "last_modified": "2016-07-12T11:02:20"
                     }
                 },
                 "counters": {
@@ -29221,15 +29337,15 @@
                 "name": "d2c852bc-8c87-4720-89db-9269390e6868",
                 "title": "臺北市愛心餐食-溫馨送餐",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:25",
-                "timeEnd": 1468206145,
+                "metadata_modified": "2016-07-12 11:02:19",
+                "timeEnd": 1468292539,
                 "timeBegin": 1377446400,
                 "resources": {
                     "daf13a5f-9216-4fa1-ac87-163d733e11d3": {
                         "id": "daf13a5f-9216-4fa1-ac87-163d733e11d3",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:25",
-                        "last_modified": "2016-07-11T11:02:25"
+                        "created": "2016-07-12 11:02:19",
+                        "last_modified": "2016-07-12T11:02:19"
                     }
                 },
                 "counters": {
@@ -29241,15 +29357,15 @@
                 "name": "ae286d1f-5fe5-4aab-bf2a-d54e93bf6505",
                 "title": "臺北市遊民服務-遊民中途之家",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:23",
-                "timeEnd": 1468206143,
+                "metadata_modified": "2016-07-12 11:02:17",
+                "timeEnd": 1468292537,
                 "timeBegin": 1377446400,
                 "resources": {
                     "45bc8cd5-2cff-4386-9f67-f7c6105aec54": {
                         "id": "45bc8cd5-2cff-4386-9f67-f7c6105aec54",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:23",
-                        "last_modified": "2016-07-11T11:02:23"
+                        "created": "2016-07-12 11:02:17",
+                        "last_modified": "2016-07-12T11:02:17"
                     }
                 },
                 "counters": {
@@ -29261,15 +29377,15 @@
                 "name": "f2998ef5-0d08-4f82-8905-d95bdb9e880b",
                 "title": "臺北市愛心餐食-老人共餐",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:20",
-                "timeEnd": 1468206140,
+                "metadata_modified": "2016-07-12 11:02:13",
+                "timeEnd": 1468292533,
                 "timeBegin": 1377446400,
                 "resources": {
                     "3581a524-16a4-4605-b6b9-85e4f71a4a97": {
                         "id": "3581a524-16a4-4605-b6b9-85e4f71a4a97",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:20",
-                        "last_modified": "2016-07-11T11:02:20"
+                        "created": "2016-07-12 11:02:13",
+                        "last_modified": "2016-07-12T11:02:13"
                     }
                 },
                 "counters": {
@@ -29281,15 +29397,15 @@
                 "name": "902ce3ff-75c6-4ad3-bcf4-562c23bc16a6",
                 "title": "臺北市愛心餐食-愛心餐食補給站",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:17",
-                "timeEnd": 1468206137,
+                "metadata_modified": "2016-07-12 11:02:11",
+                "timeEnd": 1468292531,
                 "timeBegin": 1377446400,
                 "resources": {
                     "bdc841eb-e8c8-41ee-abfc-1e198a96e905": {
                         "id": "bdc841eb-e8c8-41ee-abfc-1e198a96e905",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:17",
-                        "last_modified": "2016-07-11T11:02:17"
+                        "created": "2016-07-12 11:02:11",
+                        "last_modified": "2016-07-12T11:02:11"
                     }
                 },
                 "counters": {
@@ -29301,15 +29417,15 @@
                 "name": "9a38bce7-03de-4f4b-9fc6-8265a2ac1d60",
                 "title": "臺北市社區發展服務-社區發展協會(松山)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:14",
-                "timeEnd": 1468206134,
+                "metadata_modified": "2016-07-12 11:02:09",
+                "timeEnd": 1468292529,
                 "timeBegin": 1376928000,
                 "resources": {
                     "3111f4e7-62a1-4474-89f8-b1d213d5c9e4": {
                         "id": "3111f4e7-62a1-4474-89f8-b1d213d5c9e4",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:14",
-                        "last_modified": "2016-07-11T11:02:14"
+                        "created": "2016-07-12 11:02:06",
+                        "last_modified": "2016-07-12T11:02:06"
                     }
                 },
                 "counters": {
@@ -29321,15 +29437,15 @@
                 "name": "15b08c39-b2a8-4233-a29f-1ac57d9e237c",
                 "title": "臺北市社區發展服務-社區發展協會(信義)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:12",
-                "timeEnd": 1468206132,
+                "metadata_modified": "2016-07-12 11:02:04",
+                "timeEnd": 1468292524,
                 "timeBegin": 1376928000,
                 "resources": {
                     "80baa9bd-365d-42e9-ba49-c9865592f325": {
                         "id": "80baa9bd-365d-42e9-ba49-c9865592f325",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:12",
-                        "last_modified": "2016-07-11T11:02:12"
+                        "created": "2016-07-12 11:02:04",
+                        "last_modified": "2016-07-12T11:02:04"
                     }
                 },
                 "counters": {
@@ -29341,15 +29457,15 @@
                 "name": "216cf6f5-fe7f-4395-ad2b-b47a533cefab",
                 "title": "臺北市兒童與少年服務-臺北市兒童福利服務中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:10",
-                "timeEnd": 1468206130,
+                "metadata_modified": "2016-07-12 11:02:02",
+                "timeEnd": 1468292522,
                 "timeBegin": 1377187200,
                 "resources": {
                     "be2de1c8-b47c-407a-9491-8deb0fad46b7": {
                         "id": "be2de1c8-b47c-407a-9491-8deb0fad46b7",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:09",
-                        "last_modified": "2016-07-11T11:02:09"
+                        "created": "2016-07-12 11:02:02",
+                        "last_modified": "2016-07-12T11:02:02"
                     }
                 },
                 "counters": {
@@ -29361,15 +29477,15 @@
                 "name": "9c9a3f77-8340-48d8-bc0e-f9155521b758",
                 "title": "臺北市嬰幼兒照顧服務-公辦民營托嬰中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:05",
-                "timeEnd": 1468206125,
+                "metadata_modified": "2016-07-12 11:02:01",
+                "timeEnd": 1468292521,
                 "timeBegin": 1377446400,
                 "resources": {
                     "a02ccc34-dd28-4c5d-b527-c5433ec1a453": {
                         "id": "a02ccc34-dd28-4c5d-b527-c5433ec1a453",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:05",
-                        "last_modified": "2016-07-11T11:02:05"
+                        "created": "2016-07-12 11:02:01",
+                        "last_modified": "2016-07-12T11:02:01"
                     }
                 },
                 "counters": {
@@ -29381,15 +29497,15 @@
                 "name": "ff877b15-b82e-4922-a4e2-5286bfb60edc",
                 "title": "臺北市社區發展服務-社區發展協會(南港)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:03",
-                "timeEnd": 1468206123,
+                "metadata_modified": "2016-07-12 11:01:59",
+                "timeEnd": 1468292519,
                 "timeBegin": 1376928000,
                 "resources": {
                     "99a5a877-dd80-4a63-9647-8bf5ca4246a3": {
                         "id": "99a5a877-dd80-4a63-9647-8bf5ca4246a3",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:03",
-                        "last_modified": "2016-07-11T11:02:03"
+                        "created": "2016-07-12 11:01:59",
+                        "last_modified": "2016-07-12T11:01:59"
                     }
                 },
                 "counters": {
@@ -29401,15 +29517,15 @@
                 "name": "820c1c94-67ae-491b-a6cc-34a1bd247b73",
                 "title": "臺北市社區發展服務-社區發展協會(萬華)",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:02:01",
-                "timeEnd": 1468206121,
+                "metadata_modified": "2016-07-12 11:01:58",
+                "timeEnd": 1468292518,
                 "timeBegin": 1376928000,
                 "resources": {
                     "fba6ad08-ec66-4d9b-8a71-4c76b36704f7": {
                         "id": "fba6ad08-ec66-4d9b-8a71-4c76b36704f7",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:02:01",
-                        "last_modified": "2016-07-11T11:02:01"
+                        "created": "2016-07-12 11:01:58",
+                        "last_modified": "2016-07-12T11:01:58"
                     }
                 },
                 "counters": {
@@ -29421,15 +29537,15 @@
                 "name": "ec51217d-c1d1-4804-a05e-f3abdd3a77e9",
                 "title": "臺北市身心障礙者服務-早期療育社區資源中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:01:59",
-                "timeEnd": 1468206119,
+                "metadata_modified": "2016-07-12 11:01:55",
+                "timeEnd": 1468292515,
                 "timeBegin": 1377446400,
                 "resources": {
                     "3fa84102-8050-4d92-88bd-63247a77bbcc": {
                         "id": "3fa84102-8050-4d92-88bd-63247a77bbcc",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:01:58",
-                        "last_modified": "2016-07-11T11:01:58"
+                        "created": "2016-07-12 11:01:55",
+                        "last_modified": "2016-07-12T11:01:55"
                     }
                 },
                 "counters": {
@@ -29441,15 +29557,15 @@
                 "name": "0d1944a8-644e-4a21-9ac8-ef0a72ff0a54",
                 "title": "臺北市身心障礙者服務-早療訓練機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:01:56",
-                "timeEnd": 1468206116,
+                "metadata_modified": "2016-07-12 11:01:53",
+                "timeEnd": 1468292513,
                 "timeBegin": 1377446400,
                 "resources": {
                     "e71db367-1afb-43aa-a6ee-228c7882f7e8": {
                         "id": "e71db367-1afb-43aa-a6ee-228c7882f7e8",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:01:56",
-                        "last_modified": "2016-07-11T11:01:56"
+                        "created": "2016-07-12 11:01:53",
+                        "last_modified": "2016-07-12T11:01:53"
                     }
                 },
                 "counters": {
@@ -29461,15 +29577,15 @@
                 "name": "89273339-3d6e-4a69-bda6-33a9dbb5e937",
                 "title": "臺北市身心障礙者服務-早療通報轉介中心",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:01:54",
-                "timeEnd": 1468206114,
+                "metadata_modified": "2016-07-12 11:01:51",
+                "timeEnd": 1468292511,
                 "timeBegin": 1377446400,
                 "resources": {
                     "4c23101b-4b21-4951-bcc2-6bdb92c6b4d0": {
                         "id": "4c23101b-4b21-4951-bcc2-6bdb92c6b4d0",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:01:54",
-                        "last_modified": "2016-07-11T11:01:54"
+                        "created": "2016-07-12 11:01:51",
+                        "last_modified": "2016-07-12T11:01:51"
                     }
                 },
                 "counters": {
@@ -29481,15 +29597,15 @@
                 "name": "6fc5184c-a4ee-452e-ba5f-2ec5d065a8d2",
                 "title": "臺北市身心障礙者服務-早療醫療資源",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:01:52",
-                "timeEnd": 1468206112,
+                "metadata_modified": "2016-07-12 11:01:50",
+                "timeEnd": 1468292510,
                 "timeBegin": 1377446400,
                 "resources": {
                     "8e48c170-4f92-4fe5-a217-3f1603211e9f": {
                         "id": "8e48c170-4f92-4fe5-a217-3f1603211e9f",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:01:52",
-                        "last_modified": "2016-07-11T11:01:52"
+                        "created": "2016-07-12 11:01:49",
+                        "last_modified": "2016-07-12T11:01:49"
                     }
                 },
                 "counters": {
@@ -29501,15 +29617,15 @@
                 "name": "aea23bf9-5e9c-470b-bc32-85b9bef4c35f",
                 "title": "臺北市身心障礙者服務-身心障礙福利機構",
                 "organization_id": "379120000J",
-                "metadata_modified": "2016-07-11 11:01:50",
-                "timeEnd": 1468206110,
+                "metadata_modified": "2016-07-12 11:01:48",
+                "timeEnd": 1468292508,
                 "timeBegin": 1377446400,
                 "resources": {
                     "76985f1a-3983-43c8-9707-0ee74e0ceb4c": {
                         "id": "76985f1a-3983-43c8-9707-0ee74e0ceb4c",
                         "name": "doswTaipei.xml",
-                        "created": "2016-07-11 11:01:50",
-                        "last_modified": "2016-07-11T11:01:50"
+                        "created": "2016-07-12 11:01:47",
+                        "last_modified": "2016-07-12T11:01:47"
                     }
                 },
                 "counters": {
@@ -31024,21 +31140,8 @@
                 "name": "c40452b3-3f62-4778-97d1-ed9954823a19",
                 "title": "臺北市政府公報(105年度)",
                 "organization_id": "379010000A",
-                "metadata_modified": "2016-07-11 09:06:54",
-                "timeEnd": 1468199214,
-                "timeBegin": 0,
-                "resources": [],
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "4edf771b-bcc5-42c0-bea2-c003e3435d0e": {
-                "name": "4edf771b-bcc5-42c0-bea2-c003e3435d0e",
-                "title": "臺北市年鑑2015",
-                "organization_id": "379010000A",
-                "metadata_modified": "2016-07-11 09:03:55",
-                "timeEnd": 1468199035,
+                "metadata_modified": "2016-07-12 09:33:23",
+                "timeEnd": 1468287203,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -31050,8 +31153,8 @@
                 "name": "12abd545-6729-467f-8819-abf913f3590d",
                 "title": "臺北市政府電視新聞統計週報",
                 "organization_id": "379010000A",
-                "metadata_modified": "2016-07-06 14:03:25",
-                "timeEnd": 1467785005,
+                "metadata_modified": "2016-07-12 07:49:30",
+                "timeEnd": 1468280970,
                 "timeBegin": 1459958400,
                 "resources": {
                     "aa8db9e9-f16e-405e-82e2-ca631107ba5f": {
@@ -31335,8 +31438,27 @@
                         "name": "臺北市政府專案 2016.06.27～2016.07.03電視新聞統計週報.pdf",
                         "created": "2016-07-06 14:03:14",
                         "last_modified": "2016-07-06T14:03:14"
+                    },
+                    "739dd8f7-c7dd-4c52-8ddf-ba3da8184646": {
+                        "id": "739dd8f7-c7dd-4c52-8ddf-ba3da8184646",
+                        "name": "臺北市政府專案 2016.07.04～2016.07.10電視新聞統計週報.pdf",
+                        "created": "2016-07-12 07:49:24",
+                        "last_modified": "2016-07-12T07:49:24"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4edf771b-bcc5-42c0-bea2-c003e3435d0e": {
+                "name": "4edf771b-bcc5-42c0-bea2-c003e3435d0e",
+                "title": "臺北市年鑑2015",
+                "organization_id": "379010000A",
+                "metadata_modified": "2016-07-11 09:03:55",
+                "timeEnd": 1468199035,
+                "timeBegin": 0,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -33229,15 +33351,15 @@
                 "name": "a6d2b56b-4a25-4d0b-a4f7-55abef456358",
                 "title": "臺北市臺北旅遊網-住宿資料(英文)",
                 "organization_id": "379660000E",
-                "metadata_modified": "2016-07-12 04:35:37",
-                "timeEnd": 1468269337,
+                "metadata_modified": "2016-07-13 04:35:38",
+                "timeEnd": 1468355738,
                 "timeBegin": 1360166400,
                 "resources": {
                     "1767eecc-affc-4929-b484-bd46c5d9d10d": {
                         "id": "1767eecc-affc-4929-b484-bd46c5d9d10d",
                         "name": "travelStayENGLISH.xml",
-                        "created": "2016-07-12 04:35:37",
-                        "last_modified": "2016-07-12T04:35:37"
+                        "created": "2016-07-13 04:35:38",
+                        "last_modified": "2016-07-13T04:35:38"
                     }
                 },
                 "counters": {
@@ -33249,15 +33371,15 @@
                 "name": "58093ba6-4c98-4148-b27a-50ad97d7afca",
                 "title": "臺北市臺北旅遊網-住宿資料(中文)",
                 "organization_id": "379660000E",
-                "metadata_modified": "2016-07-12 04:35:13",
-                "timeEnd": 1468269313,
+                "metadata_modified": "2016-07-13 04:35:15",
+                "timeEnd": 1468355715,
                 "timeBegin": 1326038400,
                 "resources": {
                     "6f4e0b9b-8cb1-4b1d-a5c4-febd90f62469": {
                         "id": "6f4e0b9b-8cb1-4b1d-a5c4-febd90f62469",
                         "name": "travelStayCHINESE.xml",
-                        "created": "2016-07-12 04:35:13",
-                        "last_modified": "2016-07-12T04:35:13"
+                        "created": "2016-07-13 04:35:15",
+                        "last_modified": "2016-07-13T04:35:15"
                     }
                 },
                 "counters": {
@@ -33269,15 +33391,15 @@
                 "name": "85c24fb5-38ad-487e-8acc-46ec0d46ee0e",
                 "title": "臺北市臺北旅遊網-景點資料(英文)",
                 "organization_id": "379660000E",
-                "metadata_modified": "2016-07-11 20:16:09",
-                "timeEnd": 1468239369,
+                "metadata_modified": "2016-07-12 20:16:10",
+                "timeEnd": 1468325770,
                 "timeBegin": 1325606400,
                 "resources": {
                     "b446d576-0e9d-4ff3-9360-d5f907722988": {
                         "id": "b446d576-0e9d-4ff3-9360-d5f907722988",
                         "name": "travellocationENGLISH.xml",
-                        "created": "2016-07-11 20:16:09",
-                        "last_modified": "2016-07-11T20:16:09"
+                        "created": "2016-07-12 20:16:10",
+                        "last_modified": "2016-07-12T20:16:10"
                     }
                 },
                 "counters": {
@@ -33289,15 +33411,15 @@
                 "name": "bd31c976-d3a5-4eed-b8c3-7454bc266afa",
                 "title": "臺北市臺北旅遊網-景點資料(中文)",
                 "organization_id": "379660000E",
-                "metadata_modified": "2016-07-11 20:16:03",
-                "timeEnd": 1468239363,
+                "metadata_modified": "2016-07-12 20:16:04",
+                "timeEnd": 1468325764,
                 "timeBegin": 1360166400,
                 "resources": {
                     "36847f3f-deff-4183-a5bb-800737591de5": {
                         "id": "36847f3f-deff-4183-a5bb-800737591de5",
                         "name": "travellocationCHINESE.xml",
-                        "created": "2016-07-11 20:16:03",
-                        "last_modified": "2016-07-11T20:16:03"
+                        "created": "2016-07-12 20:16:03",
+                        "last_modified": "2016-07-12T20:16:03"
                     }
                 },
                 "counters": {
@@ -36322,6 +36444,66 @@
     },
     "臺北市政府財政局": {
         "datasets": {
+            "560b633f-4ca7-4e37-957a-53879eccf5ea": {
+                "name": "560b633f-4ca7-4e37-957a-53879eccf5ea",
+                "title": "臺北市市有土地參與都市更新案件進度表",
+                "organization_id": "379030000D",
+                "metadata_modified": "2016-07-12 13:55:50",
+                "timeEnd": 1468302950,
+                "timeBegin": 1388419200,
+                "resources": {
+                    "165e83fc-08d7-40ec-a161-49825ba0dd9d": {
+                        "id": "165e83fc-08d7-40ec-a161-49825ba0dd9d",
+                        "name": "10506 臺北市市有土地參與更新案件進度表.csv",
+                        "created": "2016-07-12 13:55:47",
+                        "last_modified": "2016-07-12T13:55:47"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "377f9ac7-521d-4247-b552-0075012d10fe": {
+                "name": "377f9ac7-521d-4247-b552-0075012d10fe",
+                "title": "臺北市市有土地參與都市更新完工或結案案件表",
+                "organization_id": "379030000D",
+                "metadata_modified": "2016-07-12 13:50:44",
+                "timeEnd": 1468302644,
+                "timeBegin": 1461168000,
+                "resources": {
+                    "1a41644f-58b0-4cb2-a81d-c65a24684026": {
+                        "id": "1a41644f-58b0-4cb2-a81d-c65a24684026",
+                        "name": "10506 臺北市市有土地參與都市更新完工或結案案件表.csv",
+                        "created": "2016-07-12 13:39:25",
+                        "last_modified": "2016-07-12T13:39:25"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9a241082-4bd8-49e2-ab56-bcbf8e04f51f": {
+                "name": "9a241082-4bd8-49e2-ab56-bcbf8e04f51f",
+                "title": "臺北市政府財政局主導辦理都市更新案件進度表",
+                "organization_id": "379030000D",
+                "metadata_modified": "2016-07-12 13:48:46",
+                "timeEnd": 1468302526,
+                "timeBegin": 1431446400,
+                "resources": {
+                    "bc0da998-d659-46d4-a4a9-0f79572a9f2a": {
+                        "id": "bc0da998-d659-46d4-a4a9-0f79572a9f2a",
+                        "name": "10506 臺北市政府財政局主導都市更新案件進度表.csv",
+                        "created": "2016-07-12 13:40:20",
+                        "last_modified": "2016-07-12T13:40:20"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "09b12b01-c562-4a0e-9aeb-93312ce57372": {
                 "name": "09b12b01-c562-4a0e-9aeb-93312ce57372",
                 "title": "臺北市政府105年度歲入預算執行情形",
@@ -36415,66 +36597,6 @@
                         "name": "臺北市103-104年度徵起之國稅、縣市稅分成數額表(複分類統計項).csv",
                         "created": "2016-06-22 16:42:23",
                         "last_modified": "2016-06-22T16:42:23"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "377f9ac7-521d-4247-b552-0075012d10fe": {
-                "name": "377f9ac7-521d-4247-b552-0075012d10fe",
-                "title": "臺北市市有土地參與都市更新完工或結案案件表",
-                "organization_id": "379030000D",
-                "metadata_modified": "2016-06-22 11:49:27",
-                "timeEnd": 1466567367,
-                "timeBegin": 1461168000,
-                "resources": {
-                    "1a41644f-58b0-4cb2-a81d-c65a24684026": {
-                        "id": "1a41644f-58b0-4cb2-a81d-c65a24684026",
-                        "name": "10503 臺北市市有土地參與都市更新完工或結案案件表.csv",
-                        "created": "2016-05-09 11:19:35",
-                        "last_modified": "2016-05-09T11:19:35"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "9a241082-4bd8-49e2-ab56-bcbf8e04f51f": {
-                "name": "9a241082-4bd8-49e2-ab56-bcbf8e04f51f",
-                "title": "臺北市政府財政局主導辦理都市更新案件進度表",
-                "organization_id": "379030000D",
-                "metadata_modified": "2016-06-22 11:36:00",
-                "timeEnd": 1466566560,
-                "timeBegin": 1431446400,
-                "resources": {
-                    "bc0da998-d659-46d4-a4a9-0f79572a9f2a": {
-                        "id": "bc0da998-d659-46d4-a4a9-0f79572a9f2a",
-                        "name": "10503 臺北市政府財政局主導都市更新案件進度表.csv",
-                        "created": "2016-05-09 11:21:29",
-                        "last_modified": "2016-05-09T11:21:29"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "560b633f-4ca7-4e37-957a-53879eccf5ea": {
-                "name": "560b633f-4ca7-4e37-957a-53879eccf5ea",
-                "title": "臺北市市有土地參與都市更新案件進度表",
-                "organization_id": "379030000D",
-                "metadata_modified": "2016-06-22 11:19:41",
-                "timeEnd": 1466565581,
-                "timeBegin": 1388419200,
-                "resources": {
-                    "5abd5eb8-fa96-44a8-b2c6-ea958b1dc379": {
-                        "id": "5abd5eb8-fa96-44a8-b2c6-ea958b1dc379",
-                        "name": "10503 臺北市市有土地參與更新案件進度表.csv",
-                        "created": "2016-05-09 11:22:07",
-                        "last_modified": "2016-05-09T11:22:07"
                     }
                 },
                 "counters": {
@@ -37451,15 +37573,15 @@
                 "name": "6aa6532d-652f-4c1b-814a-4646b75407af",
                 "title": "臺北市公眾區免費無線上網熱點資料(新版)",
                 "organization_id": "379730000A",
-                "metadata_modified": "2016-07-12 05:27:02",
-                "timeEnd": 1468272422,
+                "metadata_modified": "2016-07-13 05:27:02",
+                "timeEnd": 1468358822,
                 "timeBegin": 1372348800,
                 "resources": {
                     "b087af42-2c54-4dbf-86c8-427d788779e5": {
                         "id": "b087af42-2c54-4dbf-86c8-427d788779e5",
                         "name": "freeWifi.xml",
-                        "created": "2016-07-12 05:27:02",
-                        "last_modified": "2016-07-12T05:27:02"
+                        "created": "2016-07-13 05:27:02",
+                        "last_modified": "2016-07-13T05:27:02"
                     }
                 },
                 "counters": {
@@ -37471,63 +37593,63 @@
                 "name": "5bc82dc7-f2a2-4351-abc8-c09c8a8d7529",
                 "title": "今日氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2016-07-12 05:20:01",
-                "timeEnd": 1468272001,
+                "metadata_modified": "2016-07-13 05:20:41",
+                "timeEnd": 1468358441,
                 "timeBegin": 0,
                 "resources": {
                     "1f1aaba5-616a-4a33-867d-878142cac5c4": {
                         "id": "1f1aaba5-616a-4a33-867d-878142cac5c4",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:05",
-                        "last_modified": "2016-07-12T05:19:05"
+                        "created": "2016-07-13 05:19:08",
+                        "last_modified": "2016-07-13T05:19:08"
                     },
                     "c3667669-39f8-4b82-bad9-f0f7ca859bf0": {
                         "id": "c3667669-39f8-4b82-bad9-f0f7ca859bf0",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:17",
-                        "last_modified": "2016-07-12T05:19:17"
+                        "created": "2016-07-13 05:19:27",
+                        "last_modified": "2016-07-13T05:19:27"
                     },
                     "c73a9461-91c8-4e5c-b728-86b6feb24ffb": {
                         "id": "c73a9461-91c8-4e5c-b728-86b6feb24ffb",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:24",
-                        "last_modified": "2016-07-12T05:19:24"
+                        "created": "2016-07-13 05:19:37",
+                        "last_modified": "2016-07-13T05:19:37"
                     },
                     "5e5f1d9a-cc42-482d-be4e-6223f4931977": {
                         "id": "5e5f1d9a-cc42-482d-be4e-6223f4931977",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:28",
-                        "last_modified": "2016-07-12T05:19:28"
+                        "created": "2016-07-13 05:19:50",
+                        "last_modified": "2016-07-13T05:19:50"
                     },
                     "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd": {
                         "id": "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:35",
-                        "last_modified": "2016-07-12T05:19:35"
+                        "created": "2016-07-13 05:19:56",
+                        "last_modified": "2016-07-13T05:19:56"
                     },
                     "b35f6ac9-6d99-492a-8773-bee73656c27b": {
                         "id": "b35f6ac9-6d99-492a-8773-bee73656c27b",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:42",
-                        "last_modified": "2016-07-12T05:19:42"
+                        "created": "2016-07-13 05:20:07",
+                        "last_modified": "2016-07-13T05:20:07"
                     },
                     "00fcb626-9296-4ae1-9c87-f019871755c8": {
                         "id": "00fcb626-9296-4ae1-9c87-f019871755c8",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:48",
-                        "last_modified": "2016-07-12T05:19:48"
+                        "created": "2016-07-13 05:20:18",
+                        "last_modified": "2016-07-13T05:20:18"
                     },
                     "7803b298-fdca-4ccc-993f-88ba97ec3c4d": {
                         "id": "7803b298-fdca-4ccc-993f-88ba97ec3c4d",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:54",
-                        "last_modified": "2016-07-12T05:19:54"
+                        "created": "2016-07-13 05:20:29",
+                        "last_modified": "2016-07-13T05:20:29"
                     },
                     "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570": {
                         "id": "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:20:00",
-                        "last_modified": "2016-07-12T05:20:00"
+                        "created": "2016-07-13 05:20:41",
+                        "last_modified": "2016-07-13T05:20:41"
                     }
                 },
                 "counters": {
@@ -37539,15 +37661,15 @@
                 "name": "bceb2963-d2dd-4f2d-929c-67c1c0d48667",
                 "title": "一週氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2016-07-12 05:19:00",
-                "timeEnd": 1468271940,
+                "metadata_modified": "2016-07-13 05:19:00",
+                "timeEnd": 1468358340,
                 "timeBegin": 0,
                 "resources": {
                     "e6831708-02b4-4ef8-98fa-4b4ce53459d9": {
                         "id": "e6831708-02b4-4ef8-98fa-4b4ce53459d9",
                         "name": "weatherReport1.xml",
-                        "created": "2016-07-12 05:19:00",
-                        "last_modified": "2016-07-12T05:19:00"
+                        "created": "2016-07-13 05:19:00",
+                        "last_modified": "2016-07-13T05:19:00"
                     }
                 },
                 "counters": {
@@ -37559,15 +37681,15 @@
                 "name": "203f1657-bb4a-45a7-b25f-279b63136645",
                 "title": "市政網站整合平台之常見問答",
                 "organization_id": "379730000A",
-                "metadata_modified": "2016-07-11 20:48:05",
-                "timeEnd": 1468241285,
+                "metadata_modified": "2016-07-12 20:48:09",
+                "timeEnd": 1468327689,
                 "timeBegin": 0,
                 "resources": {
                     "06badd5c-e0bc-4b55-8646-9fcd4ea7096d": {
                         "id": "06badd5c-e0bc-4b55-8646-9fcd4ea7096d",
                         "name": "taipeiGov1.xml",
-                        "created": "2016-07-11 20:48:05",
-                        "last_modified": "2016-07-11T20:48:05"
+                        "created": "2016-07-12 20:48:09",
+                        "last_modified": "2016-07-12T20:48:09"
                     }
                 },
                 "counters": {
@@ -38854,15 +38976,15 @@
                 "name": "9ebdd4b8-c211-4d28-b99d-f73a34d13867",
                 "title": "翡翠水庫水情資料",
                 "organization_id": "379550000G",
-                "metadata_modified": "2016-07-12 05:30:00",
-                "timeEnd": 1468272600,
+                "metadata_modified": "2016-07-13 05:30:00",
+                "timeEnd": 1468359000,
                 "timeBegin": 0,
                 "resources": {
                     "236f6133-e148-4bbe-adc4-efeee4ac6096": {
                         "id": "236f6133-e148-4bbe-adc4-efeee4ac6096",
                         "name": "feitsuiWater.xml",
-                        "created": "2016-07-12 05:30:00",
-                        "last_modified": "2016-07-12T05:30:00"
+                        "created": "2016-07-13 05:30:00",
+                        "last_modified": "2016-07-13T05:30:00"
                     }
                 },
                 "counters": {
@@ -39165,15 +39287,15 @@
                 "name": "961ca397-4a59-45e8-b312-697f26b059dc",
                 "title": "臺北市水質監測資訊",
                 "organization_id": "379270000K",
-                "metadata_modified": "2016-07-12 05:19:00",
-                "timeEnd": 1468271940,
+                "metadata_modified": "2016-07-13 05:19:07",
+                "timeEnd": 1468358347,
                 "timeBegin": 1398268800,
                 "resources": {
                     "190796c8-7c56-42e0-8068-39242b8ec927": {
                         "id": "190796c8-7c56-42e0-8068-39242b8ec927",
                         "name": "waterQuality.xml",
-                        "created": "2016-07-12 05:19:00",
-                        "last_modified": "2016-07-12T05:19:00"
+                        "created": "2016-07-13 05:19:07",
+                        "last_modified": "2016-07-13T05:19:07"
                     }
                 },
                 "counters": {
@@ -39185,15 +39307,15 @@
                 "name": "75aa4c40-db2a-47b7-8f0a-b10d4ff9788b",
                 "title": "臺北市停水資訊-(大臺北地區)",
                 "organization_id": "379270000K",
-                "metadata_modified": "2016-07-11 20:40:21",
-                "timeEnd": 1468240821,
+                "metadata_modified": "2016-07-12 20:40:20",
+                "timeEnd": 1468327220,
                 "timeBegin": 1325606400,
                 "resources": {
                     "a242ee9b-b954-4ae9-9827-2344c5dfeaea": {
                         "id": "a242ee9b-b954-4ae9-9827-2344c5dfeaea",
                         "name": "stopWater.xml",
-                        "created": "2016-07-11 20:40:21",
-                        "last_modified": "2016-07-11T20:40:21"
+                        "created": "2016-07-12 20:40:20",
+                        "last_modified": "2016-07-12T20:40:20"
                     }
                 },
                 "counters": {
@@ -39512,5 +39634,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1468272758
+    "time_generated": 1468359210
 }
