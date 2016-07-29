@@ -4,8 +4,8 @@
             "datasets": 74,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 32,
-            "resource_recent": 26
+            "resource_total": 33,
+            "resource_recent": 27
         },
         "datasets": {
             "8bfebf6b-a5f7-4a6a-b1d0-b7a0075d3f1b": {
@@ -1390,8 +1390,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "291dce0e-5c6d-4af1-bc05-d42e969fe1d4": {
@@ -1706,8 +1706,8 @@
             "datasets": 41,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2669,
-            "resource_recent": 339
+            "resource_total": 2681,
+            "resource_recent": 337
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -1908,8 +1908,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 157,
-                    "resource_recent": 15
+                    "resource_total": 158,
+                    "resource_recent": 14
                 }
             },
             "ea14c26c-b3e3-45e4-8f61-55437a27d2eb": {
@@ -2963,8 +2963,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 188,
-                    "resource_recent": 18
+                    "resource_total": 190,
+                    "resource_recent": 16
                 }
             },
             "6e5703d6-38ff-4a5c-8f4f-b3f95ea85ef7": {
@@ -3192,8 +3192,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 552,
-                    "resource_recent": 77
+                    "resource_total": 559,
+                    "resource_recent": 78
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -3326,7 +3326,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 88,
+                    "resource_total": 90,
                     "resource_recent": 18
                 }
             },
@@ -5027,11 +5027,11 @@
     },
     "地政局": {
         "counters": {
-            "datasets": 62,
+            "datasets": 60,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1010,
-            "resource_recent": 265
+            "resource_total": 973,
+            "resource_recent": 262
         },
         "datasets": {
             "02b8a777-c885-4fab-8d08-9e78705510af": {
@@ -5371,28 +5371,6 @@
                     "resource_recent": 2
                 }
             },
-            "b52ece8f-f264-4d75-b97d-f27ad185184b": {
-                "name": "country-farmland-statis",
-                "title": "臺南市歷年公辦農村社區土地重劃成果統計表",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2014-06-04T07:15:45.033822",
-                "metadata_modified": "2014-07-01T07:00:52.490290",
-                "timeEnd": 1404169252,
-                "timeBegin": 1401837345,
-                "resources": {
-                    "78c6161f-010d-4a46-ab67-13203cd32e9d": {
-                        "id": "78c6161f-010d-4a46-ab67-13203cd32e9d",
-                        "name": "臺南市歷年公辦農村社區土地重劃成果統計表",
-                        "created": "2014-06-04T15:16:40.771208",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 1
-                }
-            },
             "356e318f-a96e-445e-b1b1-7014e7270435": {
                 "name": "earlystage",
                 "title": "早期農地重劃區農水路更新改善工程辦理地區工程進度",
@@ -5498,50 +5476,6 @@
                 "counters": {
                     "resource_total": 13,
                     "resource_recent": 7
-                }
-            },
-            "5f903b8e-fea0-4010-a9d2-26e4f53d1cd3": {
-                "name": "farm-consolidation-statis",
-                "title": "臺南市歷年辦理農地重劃成果統計表",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2014-06-04T06:33:24.626003",
-                "metadata_modified": "2014-06-12T08:05:46.438115",
-                "timeEnd": 1402531546,
-                "timeBegin": 1401834804,
-                "resources": {
-                    "bb251a5f-72c6-4b2c-8307-58af7febf986": {
-                        "id": "bb251a5f-72c6-4b2c-8307-58af7febf986",
-                        "name": "臺南市歷年辦理農地重劃成果統計表",
-                        "created": "2014-06-04T14:36:05.562401",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 17,
-                    "resource_recent": 1
-                }
-            },
-            "7aab05dd-5eca-4455-a622-648be4d41124": {
-                "name": "farm-road-ditch-improve",
-                "title": "臺南市歷年早期農地重劃區農水路更新改善資料統計表",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2014-06-04T07:18:36.529742",
-                "metadata_modified": "2014-07-01T06:46:00.636741",
-                "timeEnd": 1404168360,
-                "timeBegin": 1401837516,
-                "resources": {
-                    "bba1fb0d-6e92-4bb4-8edf-564b91682689": {
-                        "id": "bba1fb0d-6e92-4bb4-8edf-564b91682689",
-                        "name": "臺南市歷年早期農地重劃區農水路更新改善資料統計表",
-                        "created": "2014-06-04T15:21:01.842531",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 11,
-                    "resource_recent": 2
                 }
             },
             "82daf261-416a-4043-9683-406fdb676e09": {
@@ -6259,6 +6193,28 @@
                 },
                 "counters": {
                     "resource_total": 4,
+                    "resource_recent": 1
+                }
+            },
+            "40f66237-5ea6-4ad1-b82e-da98bb61ddce": {
+                "name": "lkkctg",
+                "title": "歷年公辦農村社區土地重劃成果統計表",
+                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
+                "metadata_created": "2016-07-29T05:58:07.042568",
+                "metadata_modified": "2016-07-29T05:58:57.659927",
+                "timeEnd": 1469771910,
+                "timeBegin": 1469743087,
+                "resources": {
+                    "e270b2dc-7d73-44f8-8f98-9ef722bde0ef": {
+                        "id": "e270b2dc-7d73-44f8-8f98-9ef722bde0ef",
+                        "name": "歷年公辦農村社區土地重劃成果統計表",
+                        "created": "2016-07-29T13:58:30.392020",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
                     "resource_recent": 1
                 }
             },
@@ -8323,8 +8279,8 @@
             "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 336,
-            "resource_recent": 45
+            "resource_total": 337,
+            "resource_recent": 46
         },
         "datasets": {
             "320ca7e7-2267-4ffa-ae1c-90842832c220": {
@@ -8454,8 +8410,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 20,
-                    "resource_recent": 1
+                    "resource_total": 21,
+                    "resource_recent": 2
                 }
             },
             "700c45b5-5bb7-4239-b2d5-bfb95bc87bd6": {
@@ -9249,8 +9205,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 953,
-            "resource_recent": 81
+            "resource_total": 956,
+            "resource_recent": 80
         },
         "datasets": {
             "f360c1dc-39d9-4772-8a66-ba1b57260e3d": {
@@ -9726,8 +9682,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 548,
-                    "resource_recent": 53
+                    "resource_total": 551,
+                    "resource_recent": 52
                 }
             },
             "09e86364-9562-45a0-a8ab-671ffd6ca839": {
@@ -9942,8 +9898,8 @@
             "datasets": 29,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 650,
-            "resource_recent": 55
+            "resource_total": 654,
+            "resource_recent": 59
         },
         "datasets": {
             "d735ccd2-a179-49ec-ac46-ec625e739952": {
@@ -10030,8 +9986,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "2258b277-7daa-4ada-8d90-a05d57d9a2f9": {
@@ -10683,8 +10639,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 5
+                    "resource_total": 6,
+                    "resource_recent": 6
                 }
             },
             "2fc6ae35-1012-4bf8-8d75-dc665dead14c": {
@@ -10719,8 +10675,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 3
+                    "resource_total": 7,
+                    "resource_recent": 5
                 }
             },
             "07d62ea1-56cc-4ecc-baa5-20657531aa5c": {
@@ -20737,7 +20693,7 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 129,
+            "resource_total": 130,
             "resource_recent": 21
         },
         "datasets": {
@@ -21026,7 +20982,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 8,
+                    "resource_total": 9,
                     "resource_recent": 1
                 }
             },
@@ -21180,7 +21136,7 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 83,
+            "resource_total": 84,
             "resource_recent": 12
         },
         "datasets": {
@@ -21231,7 +21187,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 24,
+                    "resource_total": 25,
                     "resource_recent": 2
                 }
             },
@@ -22733,7 +22689,7 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1206,
+            "resource_total": 1207,
             "resource_recent": 63
         },
         "datasets": {
@@ -23321,7 +23277,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 13,
+                    "resource_total": 14,
                     "resource_recent": 11
                 }
             },
@@ -23376,8 +23332,8 @@
             "datasets": 78,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3672,
-            "resource_recent": 239
+            "resource_total": 3667,
+            "resource_recent": 236
         },
         "datasets": {
             "29ef0901-db68-4bc2-824b-73bacd57cd80": {
@@ -23398,8 +23354,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "e6b5dcbc-875e-4cf8-bf92-b7b57a07cba1": {
@@ -23566,14 +23522,21 @@
                 "title": "各類食品抽驗結果",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2016-02-04T06:15:12.737016",
-                "metadata_modified": "2016-02-04T08:47:15.873943",
-                "timeEnd": 1454566576,
+                "metadata_modified": "2016-07-29T00:34:05.422271",
+                "timeEnd": 1469752444,
                 "timeBegin": 1454537712,
                 "resources": {
                     "4bcce996-94be-43eb-adf2-d24622ce053c": {
                         "id": "4bcce996-94be-43eb-adf2-d24622ce053c",
                         "name": "104年度各類食品抽驗結果",
                         "created": "2016-02-04T14:16:16.585486",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "dbb976cf-f181-4a1a-8696-33ef8fd138d2": {
+                        "id": "dbb976cf-f181-4a1a-8696-33ef8fd138d2",
+                        "name": "105年度各類食品抽驗結果(1-6月)",
+                        "created": "2016-07-29T08:34:04.857780",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -23588,14 +23551,21 @@
                 "title": "食品器具、食品容器或包裝、食品用洗潔劑檢驗結果",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2016-02-04T06:22:54.579034",
-                "metadata_modified": "2016-02-04T08:43:52.384990",
-                "timeEnd": 1454567095,
+                "metadata_modified": "2016-07-29T00:28:30.413497",
+                "timeEnd": 1469752109,
                 "timeBegin": 1454538174,
                 "resources": {
                     "7cef47a1-81af-4720-8658-5f91f16410b7": {
                         "id": "7cef47a1-81af-4720-8658-5f91f16410b7",
                         "name": "104年度食品器具、食品容器或包裝、食品用洗潔劑檢驗結果",
                         "created": "2016-02-04T14:24:55.964171",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "8546632a-dc1d-40e2-aaba-6fcaa25bc67d": {
+                        "id": "8546632a-dc1d-40e2-aaba-6fcaa25bc67d",
+                        "name": "105年度食品器具、食品容器或包裝、食品用洗潔劑檢驗結果(1-6月)",
+                        "created": "2016-07-29T08:28:29.775219",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -23828,8 +23798,8 @@
                 "title": "登革熱專區",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-12T07:57:56.612953",
-                "metadata_modified": "2016-05-12T06:06:26.123733",
-                "timeEnd": 1463004386,
+                "metadata_modified": "2016-07-29T03:55:51.200661",
+                "timeEnd": 1469735751,
                 "timeBegin": 1439337476,
                 "resources": {
                     "135bfdd8-21fa-4c14-9d0b-f932b73a1bb1": {
@@ -23843,13 +23813,6 @@
                         "id": "bb8d7a88-e038-4cd0-86af-5f13db418928",
                         "name": "臺南市本土登革熱病例數",
                         "created": "2015-10-07T15:11:04.695762",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0ad8d49d-69ad-46ef-9855-62d64e4442ec": {
-                        "id": "0ad8d49d-69ad-46ef-9855-62d64e4442ec",
-                        "name": "104年登革熱病媒蚊密度調查",
-                        "created": "2015-09-03T10:25:27.680523",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
@@ -23925,8 +23888,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1620,
-                    "resource_recent": 34
+                    "resource_total": 1610,
+                    "resource_recent": 28
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -23934,8 +23897,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-07-27T23:30:27.786166",
-                "timeEnd": 1469635200,
+                "metadata_modified": "2016-07-29T02:59:25.417393",
+                "timeEnd": 1469761124,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -23950,7 +23913,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-07-28T00:00:00"
+                        "last_modified": "2016-07-29T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -23958,10 +23921,17 @@
                         "created": "2016-03-25T18:30:41.763078",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "ade4b1ba-115b-469a-b0b0-5d607f38a79d": {
+                        "id": "ade4b1ba-115b-469a-b0b0-5d607f38a79d",
+                        "name": "105年臺南市本土登革熱病例數--截至2016\/07\/29",
+                        "created": "2016-07-29T10:58:44.764290",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 401,
+                    "resource_total": 402,
                     "resource_recent": 22
                 }
             },
@@ -23970,8 +23940,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-07-27T23:30:41.983657",
-                "timeEnd": 1469635200,
+                "metadata_modified": "2016-07-29T06:31:01.772529",
+                "timeEnd": 1469773860,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -24063,12 +24033,124 @@
                         "name": "臺南市登革熱近12個月登革熱病媒蚊調查資料",
                         "created": "2016-03-29T10:17:36.113250",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-07-28T00:00:00"
+                        "last_modified": "2016-07-29T00:00:00"
+                    },
+                    "ddf9c78c-562b-4c0d-b482-a0488b21db53": {
+                        "id": "ddf9c78c-562b-4c0d-b482-a0488b21db53",
+                        "name": "1050320-0326臺南市登革熱病媒蚊監測密度轉經緯度 ",
+                        "created": "2016-07-29T12:02:41.641465",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6b24a2c9-fe33-4448-b4e0-fb4a5553ffa0": {
+                        "id": "6b24a2c9-fe33-4448-b4e0-fb4a5553ffa0",
+                        "name": "105-0327-0402臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:01:10.360530",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "eb780bb2-3663-4523-8154-2d9de1b74857": {
+                        "id": "eb780bb2-3663-4523-8154-2d9de1b74857",
+                        "name": "105-0403-0409臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:04:10.068841",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "5a0aa577-8155-4e47-aa9c-2682272efbf4": {
+                        "id": "5a0aa577-8155-4e47-aa9c-2682272efbf4",
+                        "name": "105-0410-0416臺南市登革熱病媒蚊監測密度轉經緯度 - ",
+                        "created": "2016-07-29T14:05:43.611674",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "68de30f7-52f3-4d2b-a730-037843a2c746": {
+                        "id": "68de30f7-52f3-4d2b-a730-037843a2c746",
+                        "name": "105-0417-0423臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:09:14.300612",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4e4a63db-29b8-467c-965d-82384b40bbc4": {
+                        "id": "4e4a63db-29b8-467c-965d-82384b40bbc4",
+                        "name": "105-0501-0507臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:12:25.347885",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "7506bbb1-3642-49bb-b71c-4c17926c2ca1": {
+                        "id": "7506bbb1-3642-49bb-b71c-4c17926c2ca1",
+                        "name": "105-0508-0514臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:13:51.986570",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "e145453b-466d-4db9-aa3c-9a820f5d9d17": {
+                        "id": "e145453b-466d-4db9-aa3c-9a820f5d9d17",
+                        "name": "105-0515-0521臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:15:28.279119",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "193fb055-122f-4494-898b-a96158a9cfd3": {
+                        "id": "193fb055-122f-4494-898b-a96158a9cfd3",
+                        "name": "105-0522-0528經緯度",
+                        "created": "2016-07-29T14:17:10.616206",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d6e13bd5-be5b-437a-ba17-8aec92223231": {
+                        "id": "d6e13bd5-be5b-437a-ba17-8aec92223231",
+                        "name": "105-0605-0611臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:19:28.324000",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b40e3b71-5819-44b2-8a2c-a6756c8fec91": {
+                        "id": "b40e3b71-5819-44b2-8a2c-a6756c8fec91",
+                        "name": "105-0612-0618臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:21:19.517693",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "cbd30ad3-48f6-4817-998f-1b8f85f9d166": {
+                        "id": "cbd30ad3-48f6-4817-998f-1b8f85f9d166",
+                        "name": "105-0619-0625臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:23:04.785048",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4539847f-e0d8-4915-845d-ca0f24d5ce82": {
+                        "id": "4539847f-e0d8-4915-845d-ca0f24d5ce82",
+                        "name": "105-0703-0709轉經緯度臺南市登革熱病媒蚊監測密度",
+                        "created": "2016-07-29T14:26:19.749129",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "7d1ebb08-2d1f-4d58-9447-310a9f335fd5": {
+                        "id": "7d1ebb08-2d1f-4d58-9447-310a9f335fd5",
+                        "name": "105-0710-0716轉經緯度臺南市登革熱病媒蚊監測密度",
+                        "created": "2016-07-29T14:29:05.752838",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6d3c4b2f-6d2d-463d-9c7c-466e888592cf": {
+                        "id": "6d3c4b2f-6d2d-463d-9c7c-466e888592cf",
+                        "name": "105-0717-0723臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:30:56.234127",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d1e60af5-254b-4a67-a925-ae718a988ef3": {
+                        "id": "d1e60af5-254b-4a67-a925-ae718a988ef3",
+                        "name": "105-0717-0723臺南市登革熱病媒蚊監測密度轉經緯度",
+                        "created": "2016-07-29T14:31:00.143186",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 557,
-                    "resource_recent": 24
+                    "resource_total": 560,
+                    "resource_recent": 26
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -24264,8 +24346,8 @@
                 "title": "臺南市市售食品抽驗不符合規定明細",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-03-04T06:47:17.725675",
-                "metadata_modified": "2016-02-04T07:21:47.043547",
-                "timeEnd": 1454570397,
+                "metadata_modified": "2016-07-29T00:51:09.158281",
+                "timeEnd": 1469753445,
                 "timeBegin": 1425422837,
                 "resources": {
                     "b1fa950e-1cf2-446d-8901-3c3a250fac1a": {
@@ -24279,6 +24361,13 @@
                         "id": "8cf6522b-a4d5-44af-ade2-2bdd9068000b",
                         "name": "104年7月至9月臺南市市售食品抽驗不符合規定明細列表",
                         "created": "2016-02-04T15:19:57.943722",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b3c1982d-99ee-4726-b576-c5b90dfc24ce": {
+                        "id": "b3c1982d-99ee-4726-b576-c5b90dfc24ce",
+                        "name": "105年4月至6月臺南市市售食品抽驗不符合規定明細列表",
+                        "created": "2016-07-29T08:50:45.978329",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -25796,7 +25885,7 @@
             "datasets": 5,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 389,
+            "resource_total": 391,
             "resource_recent": 14
         },
         "datasets": {
@@ -25832,7 +25921,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 134,
+                    "resource_total": 136,
                     "resource_recent": 6
                 }
             },
@@ -28075,5 +28164,5 @@
             }
         }
     },
-    "time_generated": 1469741458
+    "time_generated": 1469827865
 }
