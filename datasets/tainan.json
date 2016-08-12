@@ -1706,8 +1706,8 @@
             "datasets": 41,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2808,
-            "resource_recent": 316
+            "resource_total": 2821,
+            "resource_recent": 317
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -2659,8 +2659,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 236,
-                    "resource_recent": 33
+                    "resource_total": 237,
+                    "resource_recent": 34
                 }
             },
             "970aa102-b901-439f-9350-2c5fea209764": {
@@ -3055,7 +3055,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 253,
+                    "resource_total": 257,
                     "resource_recent": 21
                 }
             },
@@ -3156,7 +3156,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 227,
+                    "resource_total": 228,
                     "resource_recent": 15
                 }
             },
@@ -3192,7 +3192,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 604,
+                    "resource_total": 611,
                     "resource_recent": 65
                 }
             },
@@ -3775,8 +3775,8 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 93,
-            "resource_recent": 46
+            "resource_total": 95,
+            "resource_recent": 47
         },
         "datasets": {
             "f5ccdd58-8d1a-444e-af27-142c88baebeb": {
@@ -4724,8 +4724,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 68,
-                    "resource_recent": 34
+                    "resource_total": 70,
+                    "resource_recent": 35
                 }
             },
             "4e65bf16-fcc2-44f9-8797-c0457558abe7": {
@@ -5055,11 +5055,11 @@
     },
     "地政局": {
         "counters": {
-            "datasets": 61,
+            "datasets": 49,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 987,
-            "resource_recent": 270
+            "resource_total": 866,
+            "resource_recent": 205
         },
         "datasets": {
             "02b8a777-c885-4fab-8d08-9e78705510af": {
@@ -5067,8 +5067,8 @@
                 "title": "臺南市加密控制點坐標檔",
                 "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
                 "metadata_created": "2015-06-30T08:38:32.018338",
-                "metadata_modified": "2016-08-09T02:46:08.136409",
-                "timeEnd": 1470710718,
+                "metadata_modified": "2016-08-12T00:51:07.313990",
+                "timeEnd": 1470934267,
                 "timeBegin": 1435624712,
                 "resources": {
                     "8661387d-6abc-4c27-afbf-fdecf266c8b8": {
@@ -5324,42 +5324,6 @@
                 "counters": {
                     "resource_total": 21,
                     "resource_recent": 9
-                }
-            },
-            "54d6c0c7-ac03-406e-9499-6d993350232c": {
-                "name": "buyland",
-                "title": "地籍清理代為標售土地公告資訊",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-07-10T09:38:46.166904",
-                "metadata_modified": "2015-07-20T02:17:35.965415",
-                "timeEnd": 1437358606,
-                "timeBegin": 1436492326,
-                "resources": {
-                    "49402632-ec95-4706-aa63-ffb9924d2349": {
-                        "id": "49402632-ec95-4706-aa63-ffb9924d2349",
-                        "name": "104年度第1批(第2次)公告文",
-                        "created": "2015-07-20T10:15:02.563636",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "524a7e74-a85a-49a5-a999-26ddcc11a0db": {
-                        "id": "524a7e74-a85a-49a5-a999-26ddcc11a0db",
-                        "name": "104年度第1批(第2次)公告清冊",
-                        "created": "2015-07-20T10:16:04.714345",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0535710b-4293-4893-b11b-eccf1ce6e748": {
-                        "id": "0535710b-4293-4893-b11b-eccf1ce6e748",
-                        "name": "104年度第1批(第2次)開標結果(公告文及清冊)",
-                        "created": "2015-07-20T10:16:46.193841",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 3
                 }
             },
             "4b012334-58d0-4417-805f-b394595bf6dd": {
@@ -5679,106 +5643,6 @@
                     "resource_recent": 1
                 }
             },
-            "a91bbcae-aa4a-455e-a5ad-6c2a072e9b7d": {
-                "name": "la3du01-sc5",
-                "title": "議會定期大會工作報告",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-09-11T06:31:05.762667",
-                "metadata_modified": "2016-07-26T01:39:59.282385",
-                "timeEnd": 1469497198,
-                "timeBegin": 1441924265,
-                "resources": {
-                    "e6187350-88e7-4555-ab5c-e1e7cc60194b": {
-                        "id": "e6187350-88e7-4555-ab5c-e1e7cc60194b",
-                        "name": "103年度第1屆第8次議會定期工作報告",
-                        "created": "2015-09-11T14:51:00.737484",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "4a7cfb4f-4070-48ed-b49f-1f5b5baeeea6": {
-                        "id": "4a7cfb4f-4070-48ed-b49f-1f5b5baeeea6",
-                        "name": "104年度第2屆第1次議會定期工作報告",
-                        "created": "2015-09-11T14:53:19.805218",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "106090a5-4e68-4bbd-bc03-c72cb6be4742": {
-                        "id": "106090a5-4e68-4bbd-bc03-c72cb6be4742",
-                        "name": "104年度第2屆第2次議會定期工作報告",
-                        "created": "2015-12-28T10:03:32.296774",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d5cc11db-5393-412f-917b-a37d3462ca8e": {
-                        "id": "d5cc11db-5393-412f-917b-a37d3462ca8e",
-                        "name": "105年度第2屆第3次議會定期工作報告",
-                        "created": "2016-07-26T09:39:58.857202",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 9,
-                    "resource_recent": 3
-                }
-            },
-            "54eb8dda-65cb-4614-be06-9e9eb92b00e5": {
-                "name": "la3du04",
-                "title": "地政局年度施政計畫",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-09-03T09:37:29.197080",
-                "metadata_modified": "2016-04-08T08:17:26.078922",
-                "timeEnd": 1460103445,
-                "timeBegin": 1441244249,
-                "resources": {
-                    "c242d5aa-e49d-4ea7-8ca8-76a49836cfcf": {
-                        "id": "c242d5aa-e49d-4ea7-8ca8-76a49836cfcf",
-                        "name": "地政局104年度施政計畫",
-                        "created": "2015-09-10T13:38:44.331616",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "449639d1-2eff-4531-b8a8-3f583218d4de": {
-                        "id": "449639d1-2eff-4531-b8a8-3f583218d4de",
-                        "name": "地政局103年度施政計畫",
-                        "created": "2015-09-11T14:13:04.165903",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "015bd924-155e-4a82-b0e0-e6984b6bcbdf": {
-                        "id": "015bd924-155e-4a82-b0e0-e6984b6bcbdf",
-                        "name": "地政局102年度施政計畫",
-                        "created": "2015-09-11T14:14:47.430916",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "7905cc27-fb31-446c-85c7-5161729bcb5f": {
-                        "id": "7905cc27-fb31-446c-85c7-5161729bcb5f",
-                        "name": "地政局101年度施政計畫",
-                        "created": "2015-09-11T14:15:37.244087",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "295e5537-3bae-4456-9830-7ac6b9a79ae0": {
-                        "id": "295e5537-3bae-4456-9830-7ac6b9a79ae0",
-                        "name": "地政局100年度施政計畫",
-                        "created": "2015-09-11T14:16:12.004964",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "9f2a90d4-d46a-413e-a21e-f07a4ea7bf26": {
-                        "id": "9f2a90d4-d46a-413e-a21e-f07a4ea7bf26",
-                        "name": "地政局105年度施政計畫",
-                        "created": "2016-04-08T16:17:25.253816",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 4
-                }
-            },
             "ecd083b0-3150-4392-8c92-f43921d80f7e": {
                 "name": "land01",
                 "title": "臺南市政府公辦市地重劃執行情形（開發中）",
@@ -5871,119 +5735,6 @@
                 "counters": {
                     "resource_total": 2,
                     "resource_recent": 1
-                }
-            },
-            "7322d9db-74f0-4e96-a3d8-a30eca4a1fac": {
-                "name": "landbuycost",
-                "title": "地籍清理代為標售保管款存入專戶公告",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-07-10T09:59:22.635271",
-                "metadata_modified": "2015-07-10T10:10:29.179281",
-                "timeEnd": 1436523028,
-                "timeBegin": 1436493562,
-                "resources": {
-                    "5c1f80d6-e97f-4b85-ac48-d887901c2ab3": {
-                        "id": "5c1f80d6-e97f-4b85-ac48-d887901c2ab3",
-                        "name": "100年第1批第1次",
-                        "created": "2015-07-10T18:00:02.736578",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "10807fbd-5c22-47b0-8510-098920747850": {
-                        "id": "10807fbd-5c22-47b0-8510-098920747850",
-                        "name": "101年第1批第1次",
-                        "created": "2015-07-10T18:02:58.883384",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "43cb1746-e517-4c86-a180-34bb73b14f0b": {
-                        "id": "43cb1746-e517-4c86-a180-34bb73b14f0b",
-                        "name": "101年第1批第2次",
-                        "created": "2015-07-10T18:04:30.141559",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2beca547-8bcb-49eb-b106-24b4af41f635": {
-                        "id": "2beca547-8bcb-49eb-b106-24b4af41f635",
-                        "name": "100年第1批第2次",
-                        "created": "2015-07-10T18:05:01.080163",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d32c8ead-b8fb-422f-9699-d9dab1ba4e63": {
-                        "id": "d32c8ead-b8fb-422f-9699-d9dab1ba4e63",
-                        "name": "102年第1批第1次",
-                        "created": "2015-07-10T18:05:39.568564",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "eec77071-4815-4a35-ac8f-ce8f0ef0f7d4": {
-                        "id": "eec77071-4815-4a35-ac8f-ce8f0ef0f7d4",
-                        "name": "102年第2批第1次",
-                        "created": "2015-07-10T18:06:15.327524",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "914afbb8-6fa3-45f0-bbe5-d4adff71b4da": {
-                        "id": "914afbb8-6fa3-45f0-bbe5-d4adff71b4da",
-                        "name": "102年第3批第1次",
-                        "created": "2015-07-10T18:06:51.461063",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b2e410e8-9b9f-4814-8795-f303377c7948": {
-                        "id": "b2e410e8-9b9f-4814-8795-f303377c7948",
-                        "name": "102年第4批第1次",
-                        "created": "2015-07-10T18:07:21.467888",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "f0f67788-be30-4b1b-9cc7-33617e5b958d": {
-                        "id": "f0f67788-be30-4b1b-9cc7-33617e5b958d",
-                        "name": "102年第4批第2次",
-                        "created": "2015-07-10T18:07:52.992976",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "41ea2666-f165-4696-bfb4-154673069328": {
-                        "id": "41ea2666-f165-4696-bfb4-154673069328",
-                        "name": "103年第1批",
-                        "created": "2015-07-10T18:08:21.900045",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b99f45a1-43fc-4283-9b02-31c068a67a82": {
-                        "id": "b99f45a1-43fc-4283-9b02-31c068a67a82",
-                        "name": "103年第2批第1次",
-                        "created": "2015-07-10T18:08:55.792433",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "7099d4bb-24e0-48df-97d6-c2649dcfb13b": {
-                        "id": "7099d4bb-24e0-48df-97d6-c2649dcfb13b",
-                        "name": "103年第3批第2次",
-                        "created": "2015-07-10T18:09:25.856931",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "4c3b78bd-1bfd-450d-bb14-8920ec186dd5": {
-                        "id": "4c3b78bd-1bfd-450d-bb14-8920ec186dd5",
-                        "name": "103年第4批第1次",
-                        "created": "2015-07-10T18:09:59.026498",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "9148bcd2-cacc-433a-9ed1-23b31683be94": {
-                        "id": "9148bcd2-cacc-433a-9ed1-23b31683be94",
-                        "name": "103年第5批第1次",
-                        "created": "2015-07-10T18:10:28.681457",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 24,
-                    "resource_recent": 15
                 }
             },
             "5115624b-1015-408e-b770-5cea9ee2aa2d": {
@@ -6275,26 +6026,26 @@
                     "resource_recent": 2
                 }
             },
-            "75dd537b-7b4a-428a-b837-7d3f3d64ad3c": {
-                "name": "personnela10312-csv-utf-8",
-                "title": "臺南市政府地政局編制人員年齡統計表",
+            "1880b504-1e78-4cf3-a11b-f0f377f0eca2": {
+                "name": "par",
+                "title": "臺南市宗地地號屬性資料",
                 "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-06-30T07:46:24.921340",
-                "metadata_modified": "2016-02-03T05:46:57.626647",
-                "timeEnd": 1454472382,
-                "timeBegin": 1435621584,
+                "metadata_created": "2016-08-12T00:53:46.176781",
+                "metadata_modified": "2016-08-12T07:34:43.102064",
+                "timeEnd": 1470965130,
+                "timeBegin": 1470934426,
                 "resources": {
-                    "ff2c2720-57c9-450a-a357-cf058e940f37": {
-                        "id": "ff2c2720-57c9-450a-a357-cf058e940f37",
-                        "name": "臺南市政府地政局編制人員年齡統計表10312",
-                        "created": "2015-06-30T15:49:16.162646",
+                    "2667ed8d-b76c-4639-aee9-852b87871b1d": {
+                        "id": "2667ed8d-b76c-4639-aee9-852b87871b1d",
+                        "name": "臺南市105年度宗地地號屬性資料-1",
+                        "created": "2016-08-12T09:24:37.073307",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
-                    "3f621ccb-caef-40ae-a137-e5ab1c52caee": {
-                        "id": "3f621ccb-caef-40ae-a137-e5ab1c52caee",
-                        "name": "臺南市政府地政局編制人員年齡統計表10412",
-                        "created": "2016-02-03T12:06:22.201519",
+                    "f19413ac-bb25-4a52-a593-f9ff1280ebd3": {
+                        "id": "f19413ac-bb25-4a52-a593-f9ff1280ebd3",
+                        "name": "臺南市105年度宗地地號屬性資料-2",
+                        "created": "2016-08-12T09:25:30.643007",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -6302,185 +6053,6 @@
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
-                }
-            },
-            "cfda48f6-5250-4216-a722-4afba0961040": {
-                "name": "personnelb10312-csv-utf-8",
-                "title": "臺南市政府地政局編制人員官等性別統計",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-06-30T08:50:28.024300",
-                "metadata_modified": "2016-02-03T06:14:05.965708",
-                "timeEnd": 1454480045,
-                "timeBegin": 1435625428,
-                "resources": {
-                    "079f5d1b-e7c2-4987-8a68-36e21dbf2ae4": {
-                        "id": "079f5d1b-e7c2-4987-8a68-36e21dbf2ae4",
-                        "name": "臺南市政府地政局編制人員官等性別統計表10312",
-                        "created": "2015-06-30T16:52:28.003958",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "6c2e4e93-72b4-41d7-befd-f2516929d259": {
-                        "id": "6c2e4e93-72b4-41d7-befd-f2516929d259",
-                        "name": "臺南市政府地政局編制人員官職等性別統計報表10412",
-                        "created": "2016-02-03T14:14:05.624599",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 7,
-                    "resource_recent": 2
-                }
-            },
-            "9520a61f-707c-44e7-92e1-b5848ee8fb8e": {
-                "name": "principlela3du01",
-                "title": "中程施政計畫",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-09-03T06:41:04.638318",
-                "metadata_modified": "2015-09-03T07:38:41.158827",
-                "timeEnd": 1441265920,
-                "timeBegin": 1441233664,
-                "resources": {
-                    "4fe54577-f177-4316-97b4-dd9b2c07f639": {
-                        "id": "4fe54577-f177-4316-97b4-dd9b2c07f639",
-                        "name": "地政局105年度至108年度中程施政計畫",
-                        "created": "2015-09-03T14:43:27.239716",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "e5542b01-4f7e-4f1b-a1b7-a1499969148b": {
-                        "id": "e5542b01-4f7e-4f1b-a1b7-a1499969148b",
-                        "name": "地政局104年度至107年度中程施政計畫",
-                        "created": "2015-09-03T15:01:37.230465",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "117eeb07-a679-4478-a2ca-ef4da46571e7": {
-                        "id": "117eeb07-a679-4478-a2ca-ef4da46571e7",
-                        "name": "地政局103年度至106年度中程施政計畫",
-                        "created": "2015-09-03T15:32:00.392056",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0d683f76-a37d-43c9-90fb-05912cb56de4": {
-                        "id": "0d683f76-a37d-43c9-90fb-05912cb56de4",
-                        "name": "地政局102年度至105年度中程施政計畫",
-                        "created": "2015-09-03T15:35:06.080912",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "9d3655cc-145b-4471-9fe1-f37378cc5955": {
-                        "id": "9d3655cc-145b-4471-9fe1-f37378cc5955",
-                        "name": "地政局101年度至104年度中程施政計畫",
-                        "created": "2015-09-03T15:38:40.926697",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 13,
-                    "resource_recent": 5
-                }
-            },
-            "e9615279-c833-45a6-98ef-f2ac7a7895c9": {
-                "name": "principlela3du02",
-                "title": "地政局及所屬地政事務所辦理國家賠償事件收結情形",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-09-03T07:46:39.739422",
-                "metadata_modified": "2016-07-26T01:35:40.773449",
-                "timeEnd": 1469496940,
-                "timeBegin": 1441237599,
-                "resources": {
-                    "f946ef5b-37d3-4f31-af99-5f576c69cf72": {
-                        "id": "f946ef5b-37d3-4f31-af99-5f576c69cf72",
-                        "name": "地政局及所屬地政事務所104年1月至6月辦理國家賠償事件收結情形表",
-                        "created": "2015-09-03T15:48:28.207062",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "f8a1c902-041d-4771-95f9-f216cfdba737": {
-                        "id": "f8a1c902-041d-4771-95f9-f216cfdba737",
-                        "name": "地政局及所屬地政事務所103年1月至12月辦理國家賠償事件收結情形表",
-                        "created": "2015-09-03T15:52:50.664146",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "36a9222b-ddd2-42c2-bf88-9f5bbc7bf3d6": {
-                        "id": "36a9222b-ddd2-42c2-bf88-9f5bbc7bf3d6",
-                        "name": "地政局及所屬地政事務所103年1月至6月辦理國家賠償事件收結情形表",
-                        "created": "2015-09-03T15:57:21.539869",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "bd843a9d-d7a5-473c-b239-e2fb9410761b": {
-                        "id": "bd843a9d-d7a5-473c-b239-e2fb9410761b",
-                        "name": "地政局及所屬地政事務所104年1月至12月辦理國家賠償事件收結情形表",
-                        "created": "2016-01-27T15:23:18.128336",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "4d5c87cd-5a8c-47a0-bae4-e0a81b50ffca": {
-                        "id": "4d5c87cd-5a8c-47a0-bae4-e0a81b50ffca",
-                        "name": "地政局及所屬地政事務所105年1月至6月辦理國家賠償事件收結情形表",
-                        "created": "2016-07-26T09:35:40.456469",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 2,
-                    "resource_recent": 1
-                }
-            },
-            "a8ae511f-8ca5-436b-bb00-15cc7f7ce045": {
-                "name": "principlela3du03",
-                "title": "地政局施政成果報告",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-09-03T08:44:57.336954",
-                "metadata_modified": "2016-04-08T08:19:11.488648",
-                "timeEnd": 1460103550,
-                "timeBegin": 1441241097,
-                "resources": {
-                    "388d36d0-5c60-4333-998d-2b33e8a4d2cf": {
-                        "id": "388d36d0-5c60-4333-998d-2b33e8a4d2cf",
-                        "name": "地政局103年度施政成果報告",
-                        "created": "2015-09-03T16:45:44.011946",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "9bae4c51-bc5a-4539-8e27-485a83bed510": {
-                        "id": "9bae4c51-bc5a-4539-8e27-485a83bed510",
-                        "name": "地政局102年度施政成果報告",
-                        "created": "2015-09-03T17:06:06.206840",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "22cc8288-5550-4d49-ac62-b06a1ea17f07": {
-                        "id": "22cc8288-5550-4d49-ac62-b06a1ea17f07",
-                        "name": "地政局101年度施政成果報告",
-                        "created": "2015-09-03T17:29:39.986734",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2d616ce1-b651-4158-9532-372d032c117b": {
-                        "id": "2d616ce1-b651-4158-9532-372d032c117b",
-                        "name": "地政局100年度施政成果報告",
-                        "created": "2015-09-03T17:32:37.437592",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "5ccadee2-702f-417a-af12-1c49d3c5b53f": {
-                        "id": "5ccadee2-702f-417a-af12-1c49d3c5b53f",
-                        "name": "地政局104年度施政成果報告",
-                        "created": "2016-04-08T16:19:10.797655",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 7,
-                    "resource_recent": 4
                 }
             },
             "a923a4c2-860e-49c9-869b-b86da0ab45ae": {
@@ -6682,42 +6254,6 @@
                     "resource_recent": 2
                 }
             },
-            "f6366991-aeee-4f69-ad19-968e79154cb2": {
-                "name": "remeasure-range",
-                "title": "臺南市重測區範圍圖",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-06-30T09:21:11.002842",
-                "metadata_modified": "2015-06-30T09:24:43.137885",
-                "timeEnd": 1435656282,
-                "timeBegin": 1435627271,
-                "resources": {
-                    "f706b0f7-46c6-418f-936a-af312c577558": {
-                        "id": "f706b0f7-46c6-418f-936a-af312c577558",
-                        "name": "102年臺南市重測區範圍圖",
-                        "created": "2015-06-30T17:22:08.261075",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b8c4e3b3-9ef5-4f71-a73b-192c6662caf8": {
-                        "id": "b8c4e3b3-9ef5-4f71-a73b-192c6662caf8",
-                        "name": "103年臺南市重測區範圍圖",
-                        "created": "2015-06-30T17:24:06.048989",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "dc25e5c7-24b2-44cd-81fc-e47edd83413d": {
-                        "id": "dc25e5c7-24b2-44cd-81fc-e47edd83413d",
-                        "name": "104年臺南市重測區範圍圖",
-                        "created": "2015-06-30T17:24:42.846394",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 18,
-                    "resource_recent": 6
-                }
-            },
             "0ff451b0-b9f3-4939-b6b1-144e336b893a": {
                 "name": "remeasure-statistics",
                 "title": "臺南市重測區屬性資料",
@@ -6789,49 +6325,6 @@
                 "counters": {
                     "resource_total": 38,
                     "resource_recent": 1
-                }
-            },
-            "368fbd58-f85f-429b-b7dc-42e9ccfa6d7c": {
-                "name": "state",
-                "title": "地籍清理代為標售囑託登記國有公告",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2015-07-10T09:30:44.528363",
-                "metadata_modified": "2015-07-10T09:35:23.287978",
-                "timeEnd": 1436520923,
-                "timeBegin": 1436491844,
-                "resources": {
-                    "ad7a75d2-0766-4b11-bd2f-9e171266774a": {
-                        "id": "ad7a75d2-0766-4b11-bd2f-9e171266774a",
-                        "name": "100年第1批",
-                        "created": "2015-07-10T17:31:35.373200",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0cf87d7d-625a-4d6e-ad49-e37abd48e441": {
-                        "id": "0cf87d7d-625a-4d6e-ad49-e37abd48e441",
-                        "name": "101年第1批",
-                        "created": "2015-07-10T17:33:39.857935",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "da030deb-f423-4f34-b1a6-56099f13cb72": {
-                        "id": "da030deb-f423-4f34-b1a6-56099f13cb72",
-                        "name": "103年第1批",
-                        "created": "2015-07-10T17:34:15.456307",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "1a418b07-ea36-47b1-b8b9-1d73e386f310": {
-                        "id": "1a418b07-ea36-47b1-b8b9-1d73e386f310",
-                        "name": "103年第3批第2次",
-                        "created": "2015-07-10T17:35:23.034622",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 6,
-                    "resource_recent": 4
                 }
             },
             "b7a06623-6773-404a-90f5-f8c557bbab0f": {
@@ -7331,28 +6824,6 @@
                 "counters": {
                     "resource_total": 1,
                     "resource_recent": 1
-                }
-            },
-            "27b22a08-b270-4808-ad40-7b8486b2e9e0": {
-                "name": "tainan-tda",
-                "title": "臺南市農地重劃區成果圖",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2016-07-26T08:35:30.314372",
-                "metadata_modified": "2016-07-26T08:39:33.973602",
-                "timeEnd": 1469522216,
-                "timeBegin": 1469493330,
-                "resources": {
-                    "e239c656-4d47-4901-b4f1-affa3a060d97": {
-                        "id": "e239c656-4d47-4901-b4f1-affa3a060d97",
-                        "name": "臺南市農地重劃區成果圖",
-                        "created": "2016-07-26T16:36:56.521044",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 5
                 }
             },
             "c6fab5d8-8c3a-4e58-ba5b-034ce6e06b4b": {
@@ -8116,280 +7587,6 @@
                 "counters": {
                     "resource_total": 1,
                     "resource_recent": 1
-                }
-            },
-            "3313625b-c055-4063-831c-80f92e875569": {
-                "name": "tn-land-value-13",
-                "title": "臺南市各行政區公告現值等級分配圖",
-                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
-                "metadata_created": "2016-03-28T06:21:05.456720",
-                "metadata_modified": "2016-04-11T08:21:00.717646",
-                "timeEnd": 1460334060,
-                "timeBegin": 1459117265,
-                "resources": {
-                    "da102c67-a600-421e-880a-99bde40dcd8d": {
-                        "id": "da102c67-a600-421e-880a-99bde40dcd8d",
-                        "name": "105年東區",
-                        "created": "2016-04-06T15:13:10.332828",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "c8b18eeb-f684-4e2a-9973-eaf2d7c2b14f": {
-                        "id": "c8b18eeb-f684-4e2a-9973-eaf2d7c2b14f",
-                        "name": "105年南區",
-                        "created": "2016-04-06T15:14:01.448795",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "94f82b66-98c3-4840-bc9e-ca3f7f5b2072": {
-                        "id": "94f82b66-98c3-4840-bc9e-ca3f7f5b2072",
-                        "name": "105年北區",
-                        "created": "2016-04-06T15:14:57.203642",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "e982b109-baf6-4a62-8770-de22d17ca201": {
-                        "id": "e982b109-baf6-4a62-8770-de22d17ca201",
-                        "name": "105年安南區",
-                        "created": "2016-04-06T15:15:51.321170",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "ed971f28-65e1-4168-8768-f1a76276c27f": {
-                        "id": "ed971f28-65e1-4168-8768-f1a76276c27f",
-                        "name": "105年安平區",
-                        "created": "2016-04-06T15:16:37.916966",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "f8a61e77-5f64-4cce-9794-31b50dc9b448": {
-                        "id": "f8a61e77-5f64-4cce-9794-31b50dc9b448",
-                        "name": "105年中西區",
-                        "created": "2016-04-06T15:17:11.651601",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0549f9b1-3df8-4eeb-897f-ac06c8a26e2c": {
-                        "id": "0549f9b1-3df8-4eeb-897f-ac06c8a26e2c",
-                        "name": "105年新營區",
-                        "created": "2016-04-06T15:18:46.196792",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "366971af-f8c2-4bca-b75a-3855687640c4": {
-                        "id": "366971af-f8c2-4bca-b75a-3855687640c4",
-                        "name": "105年鹽水區",
-                        "created": "2016-04-06T15:19:38.624832",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "ccc19431-d22c-4329-b0b4-ec8feda04b81": {
-                        "id": "ccc19431-d22c-4329-b0b4-ec8feda04b81",
-                        "name": "105年白河區",
-                        "created": "2016-04-06T15:22:24.226238",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "ecec23ee-d221-4166-898c-e53587ba6835": {
-                        "id": "ecec23ee-d221-4166-898c-e53587ba6835",
-                        "name": "105年柳營區",
-                        "created": "2016-04-06T15:23:25.120154",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d088fd11-cc28-4152-9a47-3bba3f608266": {
-                        "id": "d088fd11-cc28-4152-9a47-3bba3f608266",
-                        "name": "105年後壁區",
-                        "created": "2016-04-06T15:24:21.055134",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2caeb0cc-7d92-41d5-b472-18be3d19fc4d": {
-                        "id": "2caeb0cc-7d92-41d5-b472-18be3d19fc4d",
-                        "name": "105年東山區",
-                        "created": "2016-04-06T15:27:27.919670",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b0a3dec6-307d-4b4d-b620-389868c45568": {
-                        "id": "b0a3dec6-307d-4b4d-b620-389868c45568",
-                        "name": "105年麻豆區",
-                        "created": "2016-04-06T15:28:19.900615",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "bf88e587-c1fc-4b6f-b84d-d3dbcdafe1cd": {
-                        "id": "bf88e587-c1fc-4b6f-b84d-d3dbcdafe1cd",
-                        "name": "105年下營區",
-                        "created": "2016-04-06T15:29:16.246115",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "e7fe3ef2-fc78-46f0-a845-95afacfdd9b1": {
-                        "id": "e7fe3ef2-fc78-46f0-a845-95afacfdd9b1",
-                        "name": "105年六甲區",
-                        "created": "2016-04-06T15:30:49.629851",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "92c84b01-ee6d-4793-ac87-49c68962d013": {
-                        "id": "92c84b01-ee6d-4793-ac87-49c68962d013",
-                        "name": "105年官田區",
-                        "created": "2016-04-06T15:32:11.547377",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "efd4e5b4-5218-42a5-b582-905b899b2cdc": {
-                        "id": "efd4e5b4-5218-42a5-b582-905b899b2cdc",
-                        "name": "105年大內區",
-                        "created": "2016-04-06T15:33:03.100524",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "0cc17abe-6452-44c7-bb5d-c87484e7529e": {
-                        "id": "0cc17abe-6452-44c7-bb5d-c87484e7529e",
-                        "name": "105年佳里區",
-                        "created": "2016-04-06T15:33:51.317178",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "3d64885a-1836-4983-82a8-3c351c32d288": {
-                        "id": "3d64885a-1836-4983-82a8-3c351c32d288",
-                        "name": "105年西港區",
-                        "created": "2016-04-06T15:34:49.698950",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "cb74f231-c351-4d40-9788-1e64c4c8a0bf": {
-                        "id": "cb74f231-c351-4d40-9788-1e64c4c8a0bf",
-                        "name": "105年七股區",
-                        "created": "2016-04-06T15:35:37.418198",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d6504cd1-bb35-406a-90d6-d1fefd2c6ba8": {
-                        "id": "d6504cd1-bb35-406a-90d6-d1fefd2c6ba8",
-                        "name": "105年將軍區",
-                        "created": "2016-04-06T15:40:07.970517",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "4c35f6a7-ed07-4955-aeb7-dfa9ad82280a": {
-                        "id": "4c35f6a7-ed07-4955-aeb7-dfa9ad82280a",
-                        "name": "105年北門區",
-                        "created": "2016-04-06T15:42:08.581426",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "8c93dec3-c5bc-4a35-a360-39522a288ed3": {
-                        "id": "8c93dec3-c5bc-4a35-a360-39522a288ed3",
-                        "name": "105年學甲區",
-                        "created": "2016-04-06T15:42:49.900197",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d7149746-b40f-4fe6-ba8e-4933fd5fe24d": {
-                        "id": "d7149746-b40f-4fe6-ba8e-4933fd5fe24d",
-                        "name": "105年新化區",
-                        "created": "2016-04-06T15:43:27.398286",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "06a49046-3df8-4bef-bddb-7e040b2a92e4": {
-                        "id": "06a49046-3df8-4bef-bddb-7e040b2a92e4",
-                        "name": "105年善化區",
-                        "created": "2016-04-06T15:44:16.561617",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "704a0541-e6c2-455d-a208-b8e46eccc166": {
-                        "id": "704a0541-e6c2-455d-a208-b8e46eccc166",
-                        "name": "105年新市區",
-                        "created": "2016-04-06T15:44:55.448324",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "adbc0658-9a2e-4b8c-9236-7674407862ed": {
-                        "id": "adbc0658-9a2e-4b8c-9236-7674407862ed",
-                        "name": "105年安定區",
-                        "created": "2016-04-06T15:45:27.859022",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "60010249-7a22-4498-bdd6-d1fb7513f86d": {
-                        "id": "60010249-7a22-4498-bdd6-d1fb7513f86d",
-                        "name": "105年山上區",
-                        "created": "2016-04-06T15:46:02.280423",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d7e49957-862a-4705-a564-8d61203d607d": {
-                        "id": "d7e49957-862a-4705-a564-8d61203d607d",
-                        "name": "105年玉井區",
-                        "created": "2016-04-06T15:46:51.383118",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b6e937a0-ee59-454a-a9d7-72dcd98ce647": {
-                        "id": "b6e937a0-ee59-454a-a9d7-72dcd98ce647",
-                        "name": "105年楠西區",
-                        "created": "2016-04-06T15:47:41.212083",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a33f29a7-3163-468e-91cb-3bc6e0712a74": {
-                        "id": "a33f29a7-3163-468e-91cb-3bc6e0712a74",
-                        "name": "105年南化區",
-                        "created": "2016-04-06T15:48:26.524420",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a0ac45be-3bba-42f4-89fe-4dfd4cce40a2": {
-                        "id": "a0ac45be-3bba-42f4-89fe-4dfd4cce40a2",
-                        "name": "105年左鎮區",
-                        "created": "2016-04-06T15:49:09.373780",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "1d52c750-008d-4ea8-83eb-e257b33250eb": {
-                        "id": "1d52c750-008d-4ea8-83eb-e257b33250eb",
-                        "name": "105年仁德區",
-                        "created": "2016-04-06T15:49:53.343493",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "f6dbe076-e51f-4437-963f-10cdadf1bb15": {
-                        "id": "f6dbe076-e51f-4437-963f-10cdadf1bb15",
-                        "name": "105年歸仁區",
-                        "created": "2016-04-06T15:50:56.749187",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "c78356db-b2f4-4d23-87ca-0463d6588923": {
-                        "id": "c78356db-b2f4-4d23-87ca-0463d6588923",
-                        "name": "105年關廟區",
-                        "created": "2016-04-06T15:51:57.470251",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2c6eb806-4625-4157-a076-16b10fb0fe36": {
-                        "id": "2c6eb806-4625-4157-a076-16b10fb0fe36",
-                        "name": "105年龍崎區",
-                        "created": "2016-04-06T15:52:33.903999",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "b200df62-046e-4e7a-81c3-188535fc7850": {
-                        "id": "b200df62-046e-4e7a-81c3-188535fc7850",
-                        "name": "105年永康區",
-                        "created": "2016-04-06T15:53:08.530792",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 15,
-                    "resource_recent": 13
                 }
             }
         }
@@ -9325,7 +8522,7 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 976,
+            "resource_total": 977,
             "resource_recent": 82
         },
         "datasets": {
@@ -9448,7 +8645,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 162,
+                    "resource_total": 163,
                     "resource_recent": 1
                 }
             },
@@ -11607,8 +10804,8 @@
             "datasets": 78,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 314,
-            "resource_recent": 175
+            "resource_total": 315,
+            "resource_recent": 176
         },
         "datasets": {
             "b52eebe5-f594-4503-b40f-cc0631be8219": {
@@ -19073,8 +18270,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
+                    "resource_total": 2,
+                    "resource_recent": 2
                 }
             },
             "090821a4-c641-4cab-9c14-3259cc91cc2b": {
@@ -19445,8 +18642,8 @@
             "datasets": 48,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 701,
-            "resource_recent": 132
+            "resource_total": 703,
+            "resource_recent": 129
         },
         "datasets": {
             "5717fe92-343a-45ef-a488-8b341a1d2776": {
@@ -20128,8 +19325,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 14,
-                    "resource_recent": 4
+                    "resource_total": 15,
+                    "resource_recent": 1
                 }
             },
             "12850daf-1ec6-4e91-8661-885ec0c1914f": {
@@ -20208,7 +19405,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 17,
+                    "resource_total": 18,
                     "resource_recent": 2
                 }
             },
@@ -21855,8 +21052,8 @@
             "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 189,
-            "resource_recent": 30
+            "resource_total": 191,
+            "resource_recent": 28
         },
         "datasets": {
             "40243c31-26aa-4efe-990b-034f76aaaaa8": {
@@ -21972,7 +21169,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
+                    "resource_total": 2,
                     "resource_recent": 1
                 }
             },
@@ -22126,8 +21323,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 76,
-                    "resource_recent": 5
+                    "resource_total": 77,
+                    "resource_recent": 3
                 }
             },
             "56076e71-af79-44ec-95b2-52f737295134": {
@@ -22225,8 +21422,8 @@
             "datasets": 30,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 368,
-            "resource_recent": 45
+            "resource_total": 370,
+            "resource_recent": 46
         },
         "datasets": {
             "a76cfc8a-164f-4096-96ed-97830f0cf41b": {
@@ -22494,8 +21691,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 55,
-                    "resource_recent": 8
+                    "resource_total": 56,
+                    "resource_recent": 9
                 }
             },
             "4a874879-1e77-410d-abab-9da0f59c172d": {
@@ -22516,7 +21713,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
+                    "resource_total": 5,
                     "resource_recent": 1
                 }
             },
@@ -23644,8 +22841,8 @@
             "datasets": 79,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3722,
-            "resource_recent": 225
+            "resource_total": 3726,
+            "resource_recent": 223
         },
         "datasets": {
             "29ef0901-db68-4bc2-824b-73bacd57cd80": {
@@ -24229,7 +23426,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1629,
+                    "resource_total": 1630,
                     "resource_recent": 28
                 }
             },
@@ -24238,8 +23435,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-08-10T23:30:15.282315",
-                "timeEnd": 1470844800,
+                "metadata_modified": "2016-08-11T23:30:15.411553",
+                "timeEnd": 1470931200,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -24254,7 +23451,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-08-11T00:00:00"
+                        "last_modified": "2016-08-12T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -24272,8 +23469,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 417,
-                    "resource_recent": 23
+                    "resource_total": 419,
+                    "resource_recent": 22
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -25202,8 +24399,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 13,
-                    "resource_recent": 7
+                    "resource_total": 14,
+                    "resource_recent": 6
                 }
             },
             "c7a1ec03-e77e-46ac-ae1f-f021d8988c2e": {
@@ -28526,5 +27723,5 @@
             }
         }
     },
-    "time_generated": 1470951054
+    "time_generated": 1471037455
 }
