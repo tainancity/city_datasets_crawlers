@@ -2660,7 +2660,7 @@
     },
     "警察局": {
         "counters": {
-            "datasets": 3,
+            "datasets": 5,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -2725,6 +2725,50 @@
                         "name": "南投縣政府警察局路口監視器配置",
                         "created": "2014-12-18T16:28:54.058003",
                         "webstore_last_updated": "2014-12-18T16:29:03.668102",
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dac87a99-3a54-4a60-9741-752104845a8e": {
+                "name": "ncpb-05",
+                "title": "南投縣政府警察局業務職掌",
+                "organization_id": "4d4763f8-e574-49f7-a94a-3e2688ad0b07",
+                "metadata_created": "2016-06-15T00:38:34.810887",
+                "metadata_modified": "2016-08-15T04:49:13.859714",
+                "timeEnd": 1471207753,
+                "timeBegin": 1465922314,
+                "resources": {
+                    "9b4ebcfb-3673-4970-83da-b7b1edc524c4": {
+                        "id": "9b4ebcfb-3673-4970-83da-b7b1edc524c4",
+                        "name": "南投縣政府警察局業務職掌",
+                        "created": "2016-06-15T08:39:08.826987",
+                        "webstore_last_updated": "2016-06-15T08:39:16.543826",
+                        "last_modified": "2016-06-15T08:43:53.519476"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "68cff197-9304-40b1-b18c-a3355080f9c3": {
+                "name": "ncpb-06",
+                "title": "南投縣易發生交通肇事案件資料",
+                "organization_id": "4d4763f8-e574-49f7-a94a-3e2688ad0b07",
+                "metadata_created": "2016-06-15T00:46:47.035574",
+                "metadata_modified": "2016-08-15T04:42:54.311532",
+                "timeEnd": 1471207374,
+                "timeBegin": 1465922807,
+                "resources": {
+                    "5259fc07-df88-463f-95b1-6a2bd5d915f8": {
+                        "id": "5259fc07-df88-463f-95b1-6a2bd5d915f8",
+                        "name": "南投縣104年十大易肇事路段(A1及A2)",
+                        "created": "2016-06-15T08:48:01.238204",
+                        "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
@@ -2888,5 +2932,5 @@
             }
         }
     },
-    "time_generated": 1471210326
+    "time_generated": 1471296721
 }

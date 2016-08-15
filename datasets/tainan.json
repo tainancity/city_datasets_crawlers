@@ -1703,11 +1703,11 @@
     },
     "交通局": {
         "counters": {
-            "datasets": 41,
+            "datasets": 42,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2836,
-            "resource_recent": 309
+            "resource_total": 2854,
+            "resource_recent": 313
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -2052,7 +2052,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 24,
+                    "resource_total": 25,
                     "resource_recent": 5
                 }
             },
@@ -2659,8 +2659,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 238,
-                    "resource_recent": 35
+                    "resource_total": 239,
+                    "resource_recent": 31
                 }
             },
             "970aa102-b901-439f-9350-2c5fea209764": {
@@ -2878,8 +2878,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 265,
-                    "resource_recent": 26
+                    "resource_total": 267,
+                    "resource_recent": 28
                 }
             },
             "e7ce6b1c-39b0-4ad1-94c2-bd79ff3fb8df": {
@@ -3055,8 +3055,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 259,
-                    "resource_recent": 23
+                    "resource_total": 260,
+                    "resource_recent": 24
                 }
             },
             "c2872dd5-ae70-4447-9e92-f7079f26e1e7": {
@@ -3091,8 +3091,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 57,
-                    "resource_recent": 4
+                    "resource_total": 59,
+                    "resource_recent": 6
                 }
             },
             "63224a5d-8864-4440-b602-6dda51d39a5c": {
@@ -3156,8 +3156,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 229,
-                    "resource_recent": 15
+                    "resource_total": 231,
+                    "resource_recent": 17
                 }
             },
             "a0bb9ae4-37dc-4292-8d8e-a17027e81994": {
@@ -3192,8 +3192,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 617,
-                    "resource_recent": 56
+                    "resource_total": 626,
+                    "resource_recent": 57
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -3479,6 +3479,42 @@
                 "counters": {
                     "resource_total": 11,
                     "resource_recent": 1
+                }
+            },
+            "88ae2471-d4bf-4384-a6ef-c2f4abc899c8": {
+                "name": "t-bike",
+                "title": "T-Bike 臺南市公共自行車租賃站資訊",
+                "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
+                "metadata_created": "2016-08-15T03:02:08.006207",
+                "metadata_modified": "2016-08-15T03:39:11.131517",
+                "timeEnd": 1471232350,
+                "timeBegin": 1471201328,
+                "resources": {
+                    "a4b1db1b-32ae-47f7-8aed-562a14a22524": {
+                        "id": "a4b1db1b-32ae-47f7-8aed-562a14a22524",
+                        "name": "T-Bike 臺南市公共自行車租賃站資訊 (XML)",
+                        "created": "2016-08-15T11:34:01.670626",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a485cf3d-9405-40cf-9397-b432741e5a60": {
+                        "id": "a485cf3d-9405-40cf-9397-b432741e5a60",
+                        "name": "T-Bike 臺南市公共自行車租賃站資訊 (CSV)",
+                        "created": "2016-08-15T11:38:33.584606",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "7030d030-1011-42f3-a1dc-9aab00b96f53": {
+                        "id": "7030d030-1011-42f3-a1dc-9aab00b96f53",
+                        "name": "T-Bike 臺南市公共自行車租賃站資訊 (JSON)",
+                        "created": "2016-08-15T11:39:10.832058",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "a1083a65-aa21-4263-9b72-04a47f7f2663": {
@@ -3775,8 +3811,8 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 95,
-            "resource_recent": 47
+            "resource_total": 97,
+            "resource_recent": 49
         },
         "datasets": {
             "f5ccdd58-8d1a-444e-af27-142c88baebeb": {
@@ -4724,8 +4760,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 70,
-                    "resource_recent": 35
+                    "resource_total": 72,
+                    "resource_recent": 37
                 }
             },
             "4e65bf16-fcc2-44f9-8797-c0457558abe7": {
@@ -8522,8 +8558,8 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 977,
-            "resource_recent": 82
+            "resource_total": 978,
+            "resource_recent": 81
         },
         "datasets": {
             "f360c1dc-39d9-4772-8a66-ba1b57260e3d": {
@@ -9049,8 +9085,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 159,
-                    "resource_recent": 12
+                    "resource_total": 160,
+                    "resource_recent": 11
                 }
             }
         }
@@ -9060,8 +9096,8 @@
             "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 37,
-            "resource_recent": 16
+            "resource_total": 44,
+            "resource_recent": 17
         },
         "datasets": {
             "c4e5d1a7-4a61-43fc-9e3d-cc007d38f2eb": {
@@ -9069,8 +9105,8 @@
                 "title": "101-105年度新聞及國際關係處施政計畫",
                 "organization_id": "5f29441a-4c57-4b2f-a02a-5f56d7d12e86",
                 "metadata_created": "2015-02-16T08:20:36.651427",
-                "metadata_modified": "2016-07-20T03:57:03.699020",
-                "timeEnd": 1468987023,
+                "metadata_modified": "2016-08-15T07:05:18.730146",
+                "timeEnd": 1471244718,
                 "timeBegin": 1424046036,
                 "resources": {
                     "1c0c1e9c-9dee-4ae0-94a6-de0d3276b8a9": {
@@ -9110,15 +9146,43 @@
                     },
                     "bf57e401-c921-4201-8ecb-eae03b2eca5b": {
                         "id": "bf57e401-c921-4201-8ecb-eae03b2eca5b",
-                        "name": "101年度臺南市政府新聞及國際關係處施政計畫",
+                        "name": "101年度新聞及國際關係處施政計畫",
                         "created": "2016-07-20T11:57:03.380345",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d5be5094-69ff-45cd-a4bf-cb9e2369851a": {
+                        "id": "d5be5094-69ff-45cd-a4bf-cb9e2369851a",
+                        "name": "102年度新聞及國際關係處施政計畫",
+                        "created": "2016-08-15T14:59:40.579755",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3e3c1924-1e3c-4059-80ab-5f2ed0943fb8": {
+                        "id": "3e3c1924-1e3c-4059-80ab-5f2ed0943fb8",
+                        "name": "103年度新聞及國際關係處施政計畫",
+                        "created": "2016-08-15T15:02:35.976656",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "973c65d1-cefe-4a16-a144-09f95f0ed17e": {
+                        "id": "973c65d1-cefe-4a16-a144-09f95f0ed17e",
+                        "name": "104年度新聞及國際關係處施政計畫",
+                        "created": "2016-08-15T15:03:16.637408",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6e18fdb4-2fd4-4355-be9d-fa8332fe6363": {
+                        "id": "6e18fdb4-2fd4-4355-be9d-fa8332fe6363",
+                        "name": "105年度新聞及國際關係處施政計畫",
+                        "created": "2016-08-15T15:05:18.287882",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 8,
-                    "resource_recent": 6
+                    "resource_total": 10,
+                    "resource_recent": 8
                 }
             },
             "d4a6aa79-c96e-4c33-a008-e64f6d259635": {
@@ -9126,8 +9190,8 @@
                 "title": "有線電視公開資料",
                 "organization_id": "5f29441a-4c57-4b2f-a02a-5f56d7d12e86",
                 "metadata_created": "2014-06-05T06:36:58.152264",
-                "metadata_modified": "2014-06-05T06:39:55.732000",
-                "timeEnd": 1401950345,
+                "metadata_modified": "2016-08-15T07:39:10.842865",
+                "timeEnd": 1471246750,
                 "timeBegin": 1401921418,
                 "resources": {
                     "97e2aceb-d1af-4825-b0d8-8c055ac1044b": {
@@ -9136,11 +9200,18 @@
                         "created": "2014-06-05T14:39:05.061396",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "d84a5a08-a462-47d8-b95e-2363c8766d00": {
+                        "id": "d84a5a08-a462-47d8-b95e-2363c8766d00",
+                        "name": "有線電視公開資料",
+                        "created": "2016-08-15T15:39:10.515032",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 1
+                    "resource_total": 11,
+                    "resource_recent": 2
                 }
             },
             "b8c9b309-0a89-40d3-9b70-6116f22d868a": {
@@ -9177,35 +9248,56 @@
                 "title": "新聞及國際關係處中程施政計畫",
                 "organization_id": "5f29441a-4c57-4b2f-a02a-5f56d7d12e86",
                 "metadata_created": "2015-02-17T08:18:37.059825",
-                "metadata_modified": "2016-04-25T06:47:24.287255",
-                "timeEnd": 1461566628,
+                "metadata_modified": "2016-08-15T07:30:00.932382",
+                "timeEnd": 1471246200,
                 "timeBegin": 1424132317,
                 "resources": {
                     "6b85a4f3-bd7f-4772-afb1-ef57757342c4": {
                         "id": "6b85a4f3-bd7f-4772-afb1-ef57757342c4",
-                        "name": "103至106年度臺南市政府新聞及國際關係處中程施政計畫",
+                        "name": "103至106年度新聞及國際關係處中程施政計畫",
                         "created": "2015-02-17T16:24:11.838503",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
                     "345ad0ad-5ee4-4669-94b0-b67a1e9050fb": {
                         "id": "345ad0ad-5ee4-4669-94b0-b67a1e9050fb",
-                        "name": "104至107年度臺南市政府新聞及國際關係處中程施政計畫",
+                        "name": "104至107年度新聞及國際關係處中程施政計畫",
                         "created": "2015-02-17T16:28:22.176118",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
                     "bdfa17cc-e4f4-4b0a-bccb-ddb5bb761848": {
                         "id": "bdfa17cc-e4f4-4b0a-bccb-ddb5bb761848",
-                        "name": "105至108年度臺南市政府新聞及國際關係處中程施政計畫",
+                        "name": "105至108年度新聞及國際關係處中程施政計畫",
                         "created": "2016-04-25T14:43:48.687632",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "c10269a0-9585-4fb5-af55-385c4401a325": {
+                        "id": "c10269a0-9585-4fb5-af55-385c4401a325",
+                        "name": "103至106年度新聞及國際關係處中程施政計畫",
+                        "created": "2016-08-15T15:28:24.252167",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d08ed16d-e893-4e38-a339-1e57d582efcf": {
+                        "id": "d08ed16d-e893-4e38-a339-1e57d582efcf",
+                        "name": "104至107年度新聞及國際關係處中程施政計畫",
+                        "created": "2016-08-15T15:29:12.041753",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "04fece06-fed4-4930-a128-eac517db585a": {
+                        "id": "04fece06-fed4-4930-a128-eac517db585a",
+                        "name": "105至108年度新聞及國際關係處中程施政計畫",
+                        "created": "2016-08-15T15:30:00.577668",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 8,
-                    "resource_recent": 6
+                    "resource_total": 12,
+                    "resource_recent": 4
                 }
             }
         }
@@ -10200,17 +10292,17 @@
             "datasets": 5,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 6,
-            "resource_recent": 5
+            "resource_total": 7,
+            "resource_recent": 6
         },
         "datasets": {
             "78edf667-299c-4267-be52-e690bdd6d1c6": {
                 "name": "database",
-                "title": "臺南市各區原住民族群人口統計",
+                "title": "臺南市105年各區原住民族群人口統計",
                 "organization_id": "ef357986-e616-4faf-b39c-cbaf2beba47a",
                 "metadata_created": "2016-04-27T07:24:21.429306",
-                "metadata_modified": "2016-07-14T02:02:03.307229",
-                "timeEnd": 1468461721,
+                "metadata_modified": "2016-08-15T09:41:14.229744",
+                "timeEnd": 1471254054,
                 "timeBegin": 1461713061,
                 "resources": {
                     "b1ef3321-fad5-47f7-8279-9961ac95fe4e": {
@@ -10278,7 +10370,7 @@
                     },
                     "810a0a40-9d8d-48c1-a278-0f00780d226f": {
                         "id": "810a0a40-9d8d-48c1-a278-0f00780d226f",
-                        "name": "105年06月份臺南市各區現住原住民人口數按性別、原住民身分及族別分",
+                        "name": "105年6月份臺南市各區現住原住民人口數按性別、原住民身分及族別分",
                         "created": "2016-07-14T09:59:49.864861",
                         "webstore_last_updated": null,
                         "last_modified": null
@@ -10294,6 +10386,27 @@
                         "id": "e9777de0-3c68-4bbf-8eac-ee0d561fe2dd",
                         "name": "105年6月份臺南市各區現住原住民人口數按性別、原住民身分及族別--山地原住民",
                         "created": "2016-07-14T10:02:01.722996",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a38d0e53-e9fc-4768-b813-90d5228fadd4": {
+                        "id": "a38d0e53-e9fc-4768-b813-90d5228fadd4",
+                        "name": "臺南市105年7月份各區現住原住民人口數按性別、原住民身分及族別分",
+                        "created": "2016-08-15T17:35:51.621615",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "947d85e5-dd92-4fa5-950e-0a779623ffd2": {
+                        "id": "947d85e5-dd92-4fa5-950e-0a779623ffd2",
+                        "name": "臺南市105年7月份各區　現住原住民人口數按性別、原住民身分及族別分--平地原住民",
+                        "created": "2016-08-15T17:39:56.686137",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "1ce429a6-c196-4ad2-a2a8-e1228cc2dbbe": {
+                        "id": "1ce429a6-c196-4ad2-a2a8-e1228cc2dbbe",
+                        "name": "臺南市105年7月份各區　現住原住民人口數按性別、原住民身分及族別分--山地原住民",
+                        "created": "2016-08-15T17:40:54.785305",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -10343,8 +10456,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "25635d86-78cd-4e9d-ae90-f575dbd65383": {
@@ -10398,8 +10511,8 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 203,
-            "resource_recent": 62
+            "resource_total": 205,
+            "resource_recent": 57
         },
         "datasets": {
             "8b063457-8da8-485f-a2ae-61d7f2d5b351": {
@@ -10578,8 +10691,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 62,
-                    "resource_recent": 8
+                    "resource_total": 64,
+                    "resource_recent": 3
                 }
             },
             "38106dc7-d258-4ced-ad17-4f681655c5a2": {
@@ -10804,8 +10917,8 @@
             "datasets": 78,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 315,
-            "resource_recent": 176
+            "resource_total": 316,
+            "resource_recent": 173
         },
         "datasets": {
             "b52eebe5-f594-4503-b40f-cc0631be8219": {
@@ -18336,8 +18449,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 7,
-                    "resource_recent": 4
+                    "resource_total": 8,
+                    "resource_recent": 1
                 }
             },
             "42bd1fc9-648c-498c-a65f-dbfcc84f283a": {
@@ -18642,7 +18755,7 @@
             "datasets": 48,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 717,
+            "resource_total": 718,
             "resource_recent": 131
         },
         "datasets": {
@@ -19252,7 +19365,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 9,
+                    "resource_total": 10,
                     "resource_recent": 1
                 }
             },
@@ -20964,8 +21077,8 @@
                 "title": "臺南市政府市長及副市長公務禮儀受贈品清冊",
                 "organization_id": "20878b15-642e-4124-97dc-70447265afc6",
                 "metadata_created": "2015-01-27T06:55:30.906834",
-                "metadata_modified": "2016-07-04T05:59:02.588294",
-                "timeEnd": 1467583142,
+                "metadata_modified": "2016-08-15T01:13:33.339934",
+                "timeEnd": 1471194813,
                 "timeBegin": 1422312930,
                 "resources": {
                     "147ff414-e41a-46e4-96bf-4dbd28136cfc": {
@@ -21052,8 +21165,8 @@
             "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 193,
-            "resource_recent": 28
+            "resource_total": 191,
+            "resource_recent": 24
         },
         "datasets": {
             "40243c31-26aa-4efe-990b-034f76aaaaa8": {
@@ -21178,14 +21291,21 @@
                 "title": "臺南市政府稅務局公文處理成績月報表",
                 "organization_id": "e6cbae1d-ee72-49c6-9887-bae38d6f1193",
                 "metadata_created": "2015-07-16T08:43:23.670788",
-                "metadata_modified": "2016-02-04T03:22:42.254772",
-                "timeEnd": 1454527362,
+                "metadata_modified": "2016-08-15T09:04:15.305420",
+                "timeEnd": 1471251700,
                 "timeBegin": 1437007403,
                 "resources": {
                     "84c0659e-23df-4808-9936-339d2b484012": {
                         "id": "84c0659e-23df-4808-9936-339d2b484012",
-                        "name": "台南市政府稅務局公文處理成績月報表",
+                        "name": "台南市政府稅務局公文處理成績月報表(105\/02以前)",
                         "created": "2015-07-16T16:49:36.296895",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "df191cf3-70a2-40f1-8658-0cf741bbc5ee": {
+                        "id": "df191cf3-70a2-40f1-8658-0cf741bbc5ee",
+                        "name": "臺南市政府稅務局公文處理成績月報表(105\/03以後)",
+                        "created": "2016-08-15T17:01:40.951610",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -21222,8 +21342,8 @@
                 "title": "臺南市102年至104年地價稅稅率及稅額計算表",
                 "organization_id": "e6cbae1d-ee72-49c6-9887-bae38d6f1193",
                 "metadata_created": "2015-07-16T07:46:55.942039",
-                "metadata_modified": "2015-07-16T07:50:11.070210",
-                "timeEnd": 1437032991,
+                "metadata_modified": "2016-08-15T09:30:09.391938",
+                "timeEnd": 1471224609,
                 "timeBegin": 1437004015,
                 "resources": {
                     "bde91bfe-435c-409d-993e-f799caf62e37": {
@@ -21235,8 +21355,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
-                    "resource_recent": 1
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "9ffc6692-f8ba-410b-bdea-e7bb2e50d9e6": {
@@ -21301,8 +21421,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 29,
-                    "resource_recent": 7
+                    "resource_total": 30,
+                    "resource_recent": 3
                 }
             },
             "8e346207-fba3-4060-91e7-3ad0c25ef76d": {
@@ -21323,8 +21443,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 78,
-                    "resource_recent": 4
+                    "resource_total": 79,
+                    "resource_recent": 5
                 }
             },
             "56076e71-af79-44ec-95b2-52f737295134": {
@@ -22841,8 +22961,8 @@
             "datasets": 79,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 3739,
-            "resource_recent": 219
+            "resource_total": 3743,
+            "resource_recent": 223
         },
         "datasets": {
             "29ef0901-db68-4bc2-824b-73bacd57cd80": {
@@ -23426,8 +23546,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1634,
-                    "resource_recent": 27
+                    "resource_total": 1636,
+                    "resource_recent": 29
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -23435,8 +23555,8 @@
                 "title": "臺南市本土登革熱病例數",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-10-02T10:39:52.947172",
-                "metadata_modified": "2016-08-13T23:30:13.460886",
-                "timeEnd": 1471104000,
+                "metadata_modified": "2016-08-14T23:30:20.064956",
+                "timeEnd": 1471190400,
                 "timeBegin": 1443753592,
                 "resources": {
                     "7617bfcd-20e2-4f8d-a83b-6f6b479367f9": {
@@ -23451,7 +23571,7 @@
                         "name": "臺南市登革熱近12個月每日確定病例統計",
                         "created": "2016-03-15T15:23:51.559581",
                         "webstore_last_updated": "2016-03-16T00:00:00",
-                        "last_modified": "2016-08-14T00:00:00"
+                        "last_modified": "2016-08-15T00:00:00"
                     },
                     "3915071e-313a-46cb-a623-151c764692ca": {
                         "id": "3915071e-313a-46cb-a623-151c764692ca",
@@ -23469,8 +23589,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 422,
-                    "resource_recent": 21
+                    "resource_total": 424,
+                    "resource_recent": 23
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -23478,8 +23598,8 @@
                 "title": "登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2016-08-08T00:22:53.140279",
-                "timeEnd": 1470615771,
+                "metadata_modified": "2016-08-15T01:39:26.257066",
+                "timeEnd": 1471225157,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -23675,6 +23795,13 @@
                         "id": "b552faf3-bf12-47c2-86c3-3032133ee606",
                         "name": "105-0724-0730臺南市登革熱病媒蚊監測密度",
                         "created": "2016-08-08T08:22:51.670176",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "260d60c1-141e-4574-8a74-b4ee836dfe2d": {
+                        "id": "260d60c1-141e-4574-8a74-b4ee836dfe2d",
+                        "name": "105-0731-0806臺南市登革熱病媒蚊監測密度",
+                        "created": "2016-08-15T09:39:17.407289",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -26639,7 +26766,7 @@
             "datasets": 7,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2,
+            "resource_total": 3,
             "resource_recent": 2
         },
         "datasets": {
@@ -26661,7 +26788,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
+                    "resource_total": 2,
                     "resource_recent": 1
                 }
             },
@@ -27723,5 +27850,5 @@
             }
         }
     },
-    "time_generated": 1471210258
+    "time_generated": 1471296654
 }
