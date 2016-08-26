@@ -2039,7 +2039,7 @@
     },
     "衛生局": {
         "counters": {
-            "datasets": 15,
+            "datasets": 13,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -2097,65 +2097,21 @@
                     "resource_recent": 0
                 }
             },
-            "986025a7-522f-49af-bd4c-6fe09c994628": {
-                "name": "ntshb-06",
-                "title": "油品合格名單",
-                "organization_id": "27408784-8f2d-48f0-a435-5861fd7b26cd",
-                "metadata_created": "2014-09-26T03:54:50.049164",
-                "metadata_modified": "2016-06-28T08:32:54.934238",
-                "timeEnd": 1467073974,
-                "timeBegin": 1411674890,
-                "resources": {
-                    "ac12114d-aabf-4231-ac67-f9e21014a9e5": {
-                        "id": "ac12114d-aabf-4231-ac67-f9e21014a9e5",
-                        "name": "油品合格名單",
-                        "created": "2014-09-26T11:55:23.341661",
-                        "webstore_last_updated": "2014-09-26T11:55:32.910487",
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "f5bb938d-4eb3-48a2-9a33-7d963714e61a": {
-                "name": "ntshb-07",
-                "title": "油品不合格名單",
-                "organization_id": "27408784-8f2d-48f0-a435-5861fd7b26cd",
-                "metadata_created": "2014-09-26T03:57:21.643374",
-                "metadata_modified": "2016-08-18T01:22:44.757147",
-                "timeEnd": 1471454564,
-                "timeBegin": 1411675041,
-                "resources": {
-                    "613b8e61-d034-481a-9db1-b433a75ac5ea": {
-                        "id": "613b8e61-d034-481a-9db1-b433a75ac5ea",
-                        "name": "油品不合格名單",
-                        "created": "2014-09-26T11:57:46.032673",
-                        "webstore_last_updated": "2014-10-21T18:07:15.131972",
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "e2af0604-c868-4467-867c-0ec1776d697a": {
                 "name": "ntshb-08",
                 "title": "南投縣包裝飲用水工廠基本資料表",
                 "organization_id": "27408784-8f2d-48f0-a435-5861fd7b26cd",
                 "metadata_created": "2014-09-26T04:57:27.629266",
-                "metadata_modified": "2016-06-28T06:24:10.402978",
-                "timeEnd": 1467066250,
+                "metadata_modified": "2016-08-26T03:54:38.694445",
+                "timeEnd": 1472183678,
                 "timeBegin": 1411678647,
                 "resources": {
                     "9339a081-745f-4efa-9168-17992bc55f36": {
                         "id": "9339a081-745f-4efa-9168-17992bc55f36",
                         "name": "南投縣包裝飲用水工廠基本資料表",
                         "created": "2014-09-26T12:58:06.068917",
-                        "webstore_last_updated": "2014-10-21T16:55:05.653283",
-                        "last_modified": null
+                        "webstore_last_updated": "2016-08-26T11:54:38.563628",
+                        "last_modified": "2016-08-26T11:54:22.550838"
                     }
                 },
                 "counters": {
@@ -3007,5 +2963,5 @@
             }
         }
     },
-    "time_generated": 1472160700
+    "time_generated": 1472247104
 }
