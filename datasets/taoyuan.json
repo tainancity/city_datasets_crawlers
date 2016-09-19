@@ -9111,7 +9111,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 23,
+            "datasets": 24,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -9318,16 +9318,16 @@
                 "title": "桃園市1999統計報表",
                 "organization_id": "380220000a",
                 "metadata_created": "2015-10-06T03:04:27.898725",
-                "metadata_modified": "2016-08-11T02:07:05.168485",
-                "timeEnd": 1470881224,
+                "metadata_modified": "2016-09-19T07:56:00.037191",
+                "timeEnd": 1474271759,
                 "timeBegin": 1444071867,
                 "resources": {
-                    "78e0fbaf-0eb8-42fa-ab05-f0d6b0ce8a4e": {
-                        "id": "78e0fbaf-0eb8-42fa-ab05-f0d6b0ce8a4e",
-                        "name": "1999",
-                        "created": "2016-07-11T13:55:14.302117",
+                    "49cffe72-9cc0-422b-8879-10e6cb5b79c9": {
+                        "id": "49cffe72-9cc0-422b-8879-10e6cb5b79c9",
+                        "name": "1999.csv",
+                        "created": "2016-09-19T15:55:59",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-08-11T10:07:04"
+                        "last_modified": "2016-09-19T15:55:59"
                     }
                 },
                 "counters": {
@@ -9413,6 +9413,56 @@
                         "created": "2016-06-04T17:18:08.072436",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-04T17:18:08"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "990f841c-29f2-4547-8669-2acef97eff73": {
+                "name": "4d6fd487-4ae1-455e-81cf-0b2d791434d3",
+                "title": "測試資料集用",
+                "organization_id": "380220000a",
+                "metadata_created": "2016-01-18T06:02:34.247037",
+                "metadata_modified": "2016-09-19T10:25:08.721217",
+                "timeEnd": 1474251908,
+                "timeBegin": 1453068154,
+                "resources": {
+                    "0fc7a608-2354-4d6a-8a1e-323746bf660c": {
+                        "id": "0fc7a608-2354-4d6a-8a1e-323746bf660c",
+                        "name": "TestDate&Time",
+                        "created": "2016-04-06T16:26:23",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-04-06T16:25:52"
+                    },
+                    "deefb9da-ebcb-482a-9be7-6fcb9acfdef1": {
+                        "id": "deefb9da-ebcb-482a-9be7-6fcb9acfdef1",
+                        "name": "test",
+                        "created": "2016-04-06T16:35:48",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f89a1c9a-eca9-4e0f-9b60-69476fc1f8f9": {
+                        "id": "f89a1c9a-eca9-4e0f-9b60-69476fc1f8f9",
+                        "name": "123444",
+                        "created": "2016-04-12T11:43:25",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "83a4bce9-239d-4f90-9d17-04a839a5c2ff": {
+                        "id": "83a4bce9-239d-4f90-9d17-04a839a5c2ff",
+                        "name": "test file",
+                        "created": "2016-04-14T16:27:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-04-14T19:08:11"
+                    },
+                    "bfa5d81d-ba9d-4f89-aa59-b92d07188498": {
+                        "id": "bfa5d81d-ba9d-4f89-aa59-b92d07188498",
+                        "name": "測試用",
+                        "created": "2016-04-15T09:26:42",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-04-15T09:26:41"
                     }
                 },
                 "counters": {
@@ -12994,8 +13044,8 @@
                 "title": "105年桃園市四癌篩檢與確診追蹤醫療院所名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-06-24T06:11:15.138858",
-                "metadata_modified": "2016-08-29T03:04:09.832934",
-                "timeEnd": 1472439740,
+                "metadata_modified": "2016-09-19T03:43:55.019044",
+                "timeEnd": 1474227835,
                 "timeBegin": 1466719875,
                 "resources": {
                     "13f222a6-b3fa-44c1-817a-b6cd2b6dabed": {
@@ -20272,5 +20322,5 @@
             }
         }
     },
-    "time_generated": 1474234302
+    "time_generated": 1474320702
 }
