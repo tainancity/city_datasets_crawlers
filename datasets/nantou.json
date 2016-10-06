@@ -1,7 +1,7 @@
 {
     "主計處": {
         "counters": {
-            "datasets": 4,
+            "datasets": 5,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -112,8 +112,8 @@
                 "title": "103年金融財稅統計年報",
                 "organization_id": "aabe212b-0808-44d3-bc07-549819634a8f",
                 "metadata_created": "2015-09-08T03:34:50.807700",
-                "metadata_modified": "2016-06-28T05:46:53.231357",
-                "timeEnd": 1467064013,
+                "metadata_modified": "2016-10-06T03:43:52.735450",
+                "timeEnd": 1475696632,
                 "timeBegin": 1441654490,
                 "resources": {
                     "0170cc9e-cc20-4f00-945d-8dff2c40f818": {
@@ -197,6 +197,105 @@
                         "id": "cce70543-5603-453b-ae64-4a2f8c6a893f",
                         "name": "營業基金及非營業特種基金盈虧（餘絀）",
                         "created": "2015-09-08T11:57:54.810603",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d4212139-a482-4d39-b145-b7dbdbc789f9": {
+                "name": "8f907324-8b75-11e6-a120-005056802a58",
+                "title": "104年金融財稅統計年報",
+                "organization_id": "aabe212b-0808-44d3-bc07-549819634a8f",
+                "metadata_created": "2016-10-06T03:33:56.612292",
+                "metadata_modified": "2016-10-06T03:46:05.925392",
+                "timeEnd": 1475725295,
+                "timeBegin": 1475696036,
+                "resources": {
+                    "ef7e1ce1-97e1-4a49-be99-f7ae67bdd5a9": {
+                        "id": "ef7e1ce1-97e1-4a49-be99-f7ae67bdd5a9",
+                        "name": "01金融機構分布",
+                        "created": "2016-10-06T11:34:58.678063",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "5dee371d-8027-44c9-b3bb-6277fcdf5d0c": {
+                        "id": "5dee371d-8027-44c9-b3bb-6277fcdf5d0c",
+                        "name": "02金融機構存放、款餘額",
+                        "created": "2016-10-06T11:36:56.344600",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d26e3a31-02ec-46cd-945f-8037dd1ef0ca": {
+                        "id": "d26e3a31-02ec-46cd-945f-8037dd1ef0ca",
+                        "name": "03歲入預決算(按來源別分)",
+                        "created": "2016-10-06T11:37:25.596195",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "52c43611-f183-499d-aa83-1c85eec16b24": {
+                        "id": "52c43611-f183-499d-aa83-1c85eec16b24",
+                        "name": "04歲出預決算(按政事別分)",
+                        "created": "2016-10-06T11:37:53.291657",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "8a72c45e-18f6-423d-822e-61dbeeec1dbd": {
+                        "id": "8a72c45e-18f6-423d-822e-61dbeeec1dbd",
+                        "name": "05歷年財政狀況",
+                        "created": "2016-10-06T11:38:21.242527",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "4ceaa961-33b6-4917-855e-ce3405a0076d": {
+                        "id": "4ceaa961-33b6-4917-855e-ce3405a0076d",
+                        "name": "06各項稅捐實徵數",
+                        "created": "2016-10-06T11:38:46.836912",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "13f7d949-d154-469d-9c3c-f6e4eac722a3": {
+                        "id": "13f7d949-d154-469d-9c3c-f6e4eac722a3",
+                        "name": "07各項稅捐納庫數",
+                        "created": "2016-10-06T11:39:16.421268",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "3e22330e-b9db-4110-8806-a53caeac2f1e": {
+                        "id": "3e22330e-b9db-4110-8806-a53caeac2f1e",
+                        "name": "08縣公庫收支",
+                        "created": "2016-10-06T11:39:38.578153",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f5f14b73-86e6-467f-9140-f6fc1722c6f6": {
+                        "id": "f5f14b73-86e6-467f-9140-f6fc1722c6f6",
+                        "name": "09鄉鎮市公庫收支",
+                        "created": "2016-10-06T11:40:07.452038",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "571255ef-8a4a-4513-890f-98753d6ea02d": {
+                        "id": "571255ef-8a4a-4513-890f-98753d6ea02d",
+                        "name": "10各鄉鎮市歲入預決算(按來源別分)",
+                        "created": "2016-10-06T11:40:38.145093",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "69e4b1a6-5b42-4443-9adc-965ed1aeccd8": {
+                        "id": "69e4b1a6-5b42-4443-9adc-965ed1aeccd8",
+                        "name": "11各鄉鎮市歲入預決算(按政事別分)",
+                        "created": "2016-10-06T11:41:09.964678",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2f39a050-5434-4075-94b2-dc0c26b4bf8c": {
+                        "id": "2f39a050-5434-4075-94b2-dc0c26b4bf8c",
+                        "name": "12營業基金及非營業特種基金盈虧（餘絀）",
+                        "created": "2016-10-06T11:41:35.273231",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -2931,5 +3030,5 @@
             }
         }
     },
-    "time_generated": 1475703101
+    "time_generated": 1475789500
 }
