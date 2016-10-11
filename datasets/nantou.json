@@ -2879,13 +2879,35 @@
     },
     "財政處": {
         "counters": {
-            "datasets": 3,
+            "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "5a891741-c23d-4d85-b703-31dca5cd3257": {
+                "name": "7ae5cc8e-8f6d-11e6-8515-005056802a58",
+                "title": "南投縣政府及所轄鄉鎮市公所最新債務訊息",
+                "organization_id": "c45938f8-c482-4ee7-9550-bd7488cf97cf",
+                "metadata_created": "2016-10-11T04:45:54.010158",
+                "metadata_modified": "2016-10-11T07:50:22.706963",
+                "timeEnd": 1476171406,
+                "timeBegin": 1476132354,
+                "resources": {
+                    "234be394-35df-4e9e-a92f-4e92878430df": {
+                        "id": "234be394-35df-4e9e-a92f-4e92878430df",
+                        "name": "南投縣政府及所轄鄉鎮市公所最新債務訊息",
+                        "created": "2016-10-11T14:52:12.115206",
+                        "webstore_last_updated": "2016-10-11T15:36:46.262434",
+                        "last_modified": "2016-10-11T15:26:08.473014"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "5b8996c0-fbf8-4725-8755-1fc2d9fb0ca4": {
                 "name": "dof01",
                 "title": "南投縣菸酒進口業者資料查詢",
@@ -3030,5 +3052,5 @@
             }
         }
     },
-    "time_generated": 1476135109
+    "time_generated": 1476221503
 }
