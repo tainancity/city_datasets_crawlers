@@ -9831,8 +9831,8 @@
                 "title": "測試資料集用",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-01-18T06:02:34.247037",
-                "metadata_modified": "2016-10-19T02:28:08.654470",
-                "timeEnd": 1476844163,
+                "metadata_modified": "2016-10-20T09:06:31.614981",
+                "timeEnd": 1476954466,
                 "timeBegin": 1453068154,
                 "resources": {
                     "477781fb-5c83-42ca-bf64-0a23e53448b1": {
@@ -9855,6 +9855,13 @@
                         "created": "2016-10-19T10:28:52",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-19T10:29:23"
+                    },
+                    "bf933455-e4ca-41e2-9aa8-b1b334a320f6": {
+                        "id": "bf933455-e4ca-41e2-9aa8-b1b334a320f6",
+                        "name": "平均每戶家庭收支-支出 (91-97年).csv",
+                        "created": "2016-10-20T17:07:46",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-10-20T17:07:46"
                     }
                 },
                 "counters": {
@@ -11940,7 +11947,7 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 54,
+            "datasets": 55,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -13793,16 +13800,16 @@
                 "title": "105年病媒蚊密度調查結果",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-22T10:18:04.326566",
-                "metadata_modified": "2016-08-22T10:28:54.756665",
-                "timeEnd": 1471861727,
+                "metadata_modified": "2016-10-20T05:34:01.841262",
+                "timeEnd": 1476935139,
                 "timeBegin": 1471832284,
                 "resources": {
                     "54d84ea9-33ad-4aec-a97c-8f4d8538d40e": {
                         "id": "54d84ea9-33ad-4aec-a97c-8f4d8538d40e",
-                        "name": "105年病媒蚊密度調查結果",
-                        "created": "2016-08-22T18:28:47.492499",
+                        "name": "105年各區里登革熱密調級數.csv",
+                        "created": "2016-08-22T18:28:47",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-08-22T18:28:47"
+                        "last_modified": "2016-10-20T11:45:39"
                     }
                 },
                 "counters": {
@@ -13825,6 +13832,28 @@
                         "created": "2016-08-15T11:07:05.382074",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-15T11:07:05"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f4c9d9b7-461d-4677-8f4a-20d5037204b2": {
+                "name": "f4c9d9b7-461d-4677-8f4a-20d5037204b2",
+                "title": "105年桃園市流感暨肺炎鏈球菌疫苗合約醫療院所名冊",
+                "organization_id": "380140000i",
+                "metadata_created": "2016-10-20T07:34:36.742478",
+                "metadata_modified": "2016-10-20T07:43:09.143707",
+                "timeEnd": 1476949464,
+                "timeBegin": 1476920076,
+                "resources": {
+                    "f8ad0a95-11f8-4af0-afef-38bcadc843ea": {
+                        "id": "f8ad0a95-11f8-4af0-afef-38bcadc843ea",
+                        "name": "105年桃園市流感暨肺炎鏈球菌疫苗合約醫療院所名冊-(opendata)(1051014).csv",
+                        "created": "2016-10-20T15:44:24",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-10-20T15:44:24"
                     }
                 },
                 "counters": {
@@ -20444,16 +20473,16 @@
                 "title": "桃園市105年度青年國際志工服務計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2016-06-13T02:57:27.456457",
-                "metadata_modified": "2016-09-08T08:53:18.279284",
-                "timeEnd": 1473295998,
+                "metadata_modified": "2016-10-20T03:00:40.148438",
+                "timeEnd": 1476932515,
                 "timeBegin": 1465757847,
                 "resources": {
-                    "fafc5680-fb37-4cbd-8f95-7b11014153b5": {
-                        "id": "fafc5680-fb37-4cbd-8f95-7b11014153b5",
+                    "1e1a2179-a30f-440f-8310-ea96ec499807": {
+                        "id": "1e1a2179-a30f-440f-8310-ea96ec499807",
                         "name": "桃園市105年度青年國際志工服務計畫",
-                        "created": "2016-06-16T16:31:04.064467",
+                        "created": "2016-10-20T11:01:55",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-16T16:31:03"
+                        "last_modified": "2016-10-20T11:01:55"
                     }
                 },
                 "counters": {
@@ -20734,5 +20763,5 @@
             }
         }
     },
-    "time_generated": 1476912708
+    "time_generated": 1476999126
 }
