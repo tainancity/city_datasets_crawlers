@@ -2584,8 +2584,8 @@
                 "title": "105年度楊梅區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:36:54.512719",
-                "metadata_modified": "2016-10-21T01:19:51.801122",
-                "timeEnd": 1477012867,
+                "metadata_modified": "2016-10-25T08:52:46.958313",
+                "timeEnd": 1477385642,
                 "timeBegin": 1456083414,
                 "resources": {
                     "4dd2a197-495b-4426-b542-11058facb6ac": {
@@ -2602,12 +2602,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-19T09:20:55"
                     },
-                    "36bf97f2-9506-4d8c-9a31-588c08cda4be": {
-                        "id": "36bf97f2-9506-4d8c-9a31-588c08cda4be",
+                    "cc206258-5006-4796-aa16-c117bfbe63a0": {
+                        "id": "cc206258-5006-4796-aa16-c117bfbe63a0",
                         "name": "105年度楊梅區新舊建號對照資料.csv",
-                        "created": "2016-10-21T09:21:07",
+                        "created": "2016-10-25T16:54:02",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-21T09:21:07"
+                        "last_modified": "2016-10-25T16:54:02"
                     }
                 },
                 "counters": {
@@ -6919,8 +6919,8 @@
                 "title": "桃園市性別統計",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T07:12:29.462302",
-                "metadata_modified": "2016-10-03T08:45:02.698854",
-                "timeEnd": 1475484010,
+                "metadata_modified": "2016-10-25T08:41:32.691220",
+                "timeEnd": 1477356092,
                 "timeBegin": 1443741149,
                 "resources": {
                     "112e3797-7dc6-48d8-851a-360dbf030630": {
@@ -8797,7 +8797,7 @@
     },
     "桃園市政府環境保護局": {
         "counters": {
-            "datasets": 23,
+            "datasets": 24,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -9311,6 +9311,35 @@
                         "created": "2016-01-07T16:26:28.276239",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-07T16:26:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "96d25c03-e713-446e-912c-9a0febc7d5c0": {
+                "name": "96d25c03-e713-446e-912c-9a0febc7d5c0",
+                "title": "桃園市環保志工小隊資料",
+                "organization_id": "380150000i",
+                "metadata_created": "2016-10-25T02:25:55.277161",
+                "metadata_modified": "2016-10-25T02:47:45.498830",
+                "timeEnd": 1477363740,
+                "timeBegin": 1477333555,
+                "resources": {
+                    "7e09e3e2-5228-417f-a185-b009220ebee3": {
+                        "id": "7e09e3e2-5228-417f-a185-b009220ebee3",
+                        "name": "桃園市各區環保志工小隊彙整資料.csv",
+                        "created": "2016-10-25T10:41:55",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-10-25T10:41:55"
+                    },
+                    "87e108a7-8ead-478d-a9a9-458768d93e18": {
+                        "id": "87e108a7-8ead-478d-a9a9-458768d93e18",
+                        "name": "桃園市各區環保志工小隊資料.csv",
+                        "created": "2016-10-25T10:49:00",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-10-25T10:49:00"
                     }
                 },
                 "counters": {
@@ -20777,5 +20806,5 @@
             }
         }
     },
-    "time_generated": 1477344762
+    "time_generated": 1477431281
 }
