@@ -498,7 +498,7 @@
     },
     "交通處": {
         "counters": {
-            "datasets": 10,
+            "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -1509,38 +1509,10 @@
                 "title": "新竹市載運砂石大貨(拖)車進入市區開放行駛路線",
                 "organization_id": "c62fe1ee-d3ef-4742-afda-39811b5a85c8",
                 "metadata_created": "2015-03-09T02:21:32.947506",
-                "metadata_modified": "2016-10-18T11:33:56.482758",
-                "timeEnd": 1476790436,
+                "metadata_modified": "2016-10-26T07:01:08.406467",
+                "timeEnd": 1477436468,
                 "timeBegin": 1425838892,
                 "resources": {
-                    "69e0297c-780f-4a72-9b6a-0085eff765b1": {
-                        "id": "69e0297c-780f-4a72-9b6a-0085eff765b1",
-                        "name": "本市砂石大貨(拖)車行駛路線",
-                        "created": "2015-03-11T16:16:04.992265",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "c44f7b43-5403-4861-8903-0ebd9e3ce1ed": {
-                        "id": "c44f7b43-5403-4861-8903-0ebd9e3ce1ed",
-                        "name": "本市砂石大貨(拖)車行駛路線",
-                        "created": "2015-03-11T16:16:05.238604",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "cc7987ac-edd5-4186-8861-9f6d5b5e3cb1": {
-                        "id": "cc7987ac-edd5-4186-8861-9f6d5b5e3cb1",
-                        "name": "本市砂石大貨(拖)車行駛路線",
-                        "created": "2015-03-11T16:16:05.513247",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "d8a78910-4eba-4fe6-8966-02f0146851a7": {
-                        "id": "d8a78910-4eba-4fe6-8966-02f0146851a7",
-                        "name": "本市砂石大貨(拖)車行駛路線",
-                        "created": "2015-03-11T16:16:05.833341",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
                     "6d7d807a-a864-457e-887f-712046309891": {
                         "id": "6d7d807a-a864-457e-887f-712046309891",
                         "name": "新竹市號誌控制器設置地點一覽表",
@@ -2642,6 +2614,20 @@
                     "resource_total": 0,
                     "resource_recent": 0
                 }
+            },
+            "3acabc3c-ad80-4bbe-8a6a-8f4cf9d8596c": {
+                "name": "traffic-20161026-111114-8715",
+                "title": "新竹市路口號誌箱",
+                "organization_id": "c62fe1ee-d3ef-4742-afda-39811b5a85c8",
+                "metadata_created": "2016-10-26T07:00:51.767070",
+                "metadata_modified": "2016-10-26T07:00:51.936876",
+                "timeEnd": 1477436451,
+                "timeBegin": 1477436451,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
             }
         }
     },
@@ -3014,8 +3000,8 @@
                 "title": "產業及社福外籍勞工人數",
                 "organization_id": "244c7e9b-99da-427a-8551-8ba4fc59de12",
                 "metadata_created": "2016-02-05T00:44:30.382180",
-                "metadata_modified": "2016-10-24T01:13:48.810494",
-                "timeEnd": 1477242828,
+                "metadata_modified": "2016-10-26T06:12:07.864052",
+                "timeEnd": 1477433527,
                 "timeBegin": 1454604270,
                 "resources": {
                     "5033092e-0e26-44ef-bfb8-d4e913baf625": {
@@ -11569,5 +11555,5 @@
             }
         }
     },
-    "time_generated": 1477431300
+    "time_generated": 1477517634
 }
