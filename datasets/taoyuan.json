@@ -1,7 +1,7 @@
 {
     "桃園市政府主計處": {
         "counters": {
-            "datasets": 5,
+            "datasets": 7,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -23,6 +23,28 @@
                         "created": "2016-02-23T08:33:10.775886",
                         "webstore_last_updated": null,
                         "last_modified": "2016-02-23T08:32:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "5a6778e0-f64b-4431-adc1-c15e28fa334c": {
+                "name": "5a6778e0-f64b-4431-adc1-c15e28fa334c",
+                "title": "桃園市104年度總決算附屬單位決算及綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2016-10-27T08:16:03.381512",
+                "metadata_modified": "2016-10-27T08:16:18.692233",
+                "timeEnd": 1477556254,
+                "timeBegin": 1477527363,
+                "resources": {
+                    "06961e67-b477-437d-b8eb-0b6d0dcf1dd1": {
+                        "id": "06961e67-b477-437d-b8eb-0b6d0dcf1dd1",
+                        "name": "104桃園市各附屬單位決算收支(基金來源、用途)決算數.csv",
+                        "created": "2016-10-27T16:17:34",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-10-27T16:17:34"
                     }
                 },
                 "counters": {
@@ -57,8 +79,8 @@
                 "title": "桃園市105年度總預算",
                 "organization_id": "380200000a",
                 "metadata_created": "2016-10-26T06:03:56.966558",
-                "metadata_modified": "2016-10-26T06:51:07.752187",
-                "timeEnd": 1477464742,
+                "metadata_modified": "2016-10-27T04:11:41.253551",
+                "timeEnd": 1477512701,
                 "timeBegin": 1477433036,
                 "resources": {
                     "16bd6546-15c9-49d4-9819-27f38b6e8216": {
@@ -110,6 +132,28 @@
                         "created": "2016-10-17T10:56:45",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-17T10:56:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "da6526c0-000b-4088-87b4-e39a3246e579": {
+                "name": "da6526c0-000b-4088-87b4-e39a3246e579",
+                "title": "桃園市105年度總預算附屬單位預算及綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2016-10-27T03:09:18.750093",
+                "metadata_modified": "2016-10-27T08:12:25.753189",
+                "timeEnd": 1477556021,
+                "timeBegin": 1477508958,
+                "resources": {
+                    "eed82eb1-d251-4b4e-b4b8-62ac579939c2": {
+                        "id": "eed82eb1-d251-4b4e-b4b8-62ac579939c2",
+                        "name": "105桃園市各附屬單位預算收支(基金來源、用途)預算數.csv",
+                        "created": "2016-10-27T16:13:41",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-10-27T16:13:41"
                     }
                 },
                 "counters": {
@@ -901,17 +945,10 @@
                 "title": "105年度大園區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:16:58.013885",
-                "metadata_modified": "2016-10-19T08:16:37.052578",
-                "timeEnd": 1476865072,
+                "metadata_modified": "2016-10-27T01:54:54.732326",
+                "timeEnd": 1477504494,
                 "timeBegin": 1456082218,
                 "resources": {
-                    "6a3ea61d-9ee8-49c8-9101-bc802d110b15": {
-                        "id": "6a3ea61d-9ee8-49c8-9101-bc802d110b15",
-                        "name": "105年度大園區新舊建號對照資料",
-                        "created": "2016-02-22T11:17:27.332419",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-02-22T11:17:10"
-                    },
                     "0267def1-43bd-43e1-b458-c4ce5f788332": {
                         "id": "0267def1-43bd-43e1-b458-c4ce5f788332",
                         "name": "105年度大園區新舊建號對照資料.csv",
@@ -1838,16 +1875,16 @@
                 "title": "105年度大溪區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:18:32.249040",
-                "metadata_modified": "2016-03-16T05:51:59.265197",
-                "timeEnd": 1458078719,
+                "metadata_modified": "2016-10-27T02:02:06.140195",
+                "timeEnd": 1477533801,
                 "timeBegin": 1456082312,
                 "resources": {
                     "46eaadaf-ece7-4154-ab1b-7d66fef8709a": {
                         "id": "46eaadaf-ece7-4154-ab1b-7d66fef8709a",
-                        "name": "105年度大溪區新舊建號對照資料",
+                        "name": "105年度大溪區新舊建號對照資料.csv",
                         "created": "2016-02-22T11:18:55.519456",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-22T11:18:38"
+                        "last_modified": "2016-10-27T10:03:21"
                     }
                 },
                 "counters": {
@@ -2221,16 +2258,16 @@
                 "title": "105年度桃園區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:23:08.422146",
-                "metadata_modified": "2016-03-16T05:54:11.692609",
-                "timeEnd": 1458078851,
+                "metadata_modified": "2016-10-27T02:03:33.335424",
+                "timeEnd": 1477533888,
                 "timeBegin": 1456082588,
                 "resources": {
                     "fc50f886-4fbe-45d8-8326-e4b55d437641": {
                         "id": "fc50f886-4fbe-45d8-8326-e4b55d437641",
-                        "name": "105年度桃園區新舊建號對照資料",
+                        "name": "105年度桃園區新舊建號對照資料.csv",
                         "created": "2016-02-22T11:27:37.569404",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-22T11:25:59"
+                        "last_modified": "2016-10-27T10:04:48"
                     }
                 },
                 "counters": {
@@ -2316,16 +2353,16 @@
                 "title": "105年度中壢區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:22:00.900189",
-                "metadata_modified": "2016-03-16T05:55:07.828484",
-                "timeEnd": 1458078907,
+                "metadata_modified": "2016-10-27T01:57:32.348661",
+                "timeEnd": 1477533527,
                 "timeBegin": 1456082520,
                 "resources": {
                     "316e745b-7596-4a74-a461-d42107ef7c40": {
                         "id": "316e745b-7596-4a74-a461-d42107ef7c40",
-                        "name": "105年度中壢區新舊建號對照資料",
+                        "name": "105年度中壢區新舊建號對照資料.csv",
                         "created": "2016-02-22T11:25:44.112305",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-22T11:25:25"
+                        "last_modified": "2016-10-27T09:58:47"
                     }
                 },
                 "counters": {
@@ -2627,23 +2664,23 @@
                 "title": "105年度楊梅區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:36:54.512719",
-                "metadata_modified": "2016-10-26T05:37:26.733899",
-                "timeEnd": 1477431446,
+                "metadata_modified": "2016-10-27T01:25:00.422496",
+                "timeEnd": 1477531575,
                 "timeBegin": 1456083414,
                 "resources": {
-                    "4dd2a197-495b-4426-b542-11058facb6ac": {
-                        "id": "4dd2a197-495b-4426-b542-11058facb6ac",
-                        "name": "105年度楊梅區新舊建號對照資料",
-                        "created": "2016-02-22T11:42:58.074931",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-02-22T11:42:38"
-                    },
                     "cc206258-5006-4796-aa16-c117bfbe63a0": {
                         "id": "cc206258-5006-4796-aa16-c117bfbe63a0",
                         "name": "105年度楊梅區新舊建號對照資料.csv",
                         "created": "2016-10-25T16:54:02",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-25T16:54:02"
+                    },
+                    "d7676b0e-6fa4-4344-bb03-4170699f484f": {
+                        "id": "d7676b0e-6fa4-4344-bb03-4170699f484f",
+                        "name": "105年度楊梅區新舊建號對照資料.csv",
+                        "created": "2016-10-27T09:26:15",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-10-27T09:26:15"
                     }
                 },
                 "counters": {
@@ -2857,16 +2894,16 @@
                 "title": "105年度龜山區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:38:17.198574",
-                "metadata_modified": "2016-03-16T05:58:51.777373",
-                "timeEnd": 1458079131,
+                "metadata_modified": "2016-10-27T02:00:15.408620",
+                "timeEnd": 1477533690,
                 "timeBegin": 1456083497,
                 "resources": {
                     "fa2d8f74-a0eb-4da3-8209-a4a57e158a30": {
                         "id": "fa2d8f74-a0eb-4da3-8209-a4a57e158a30",
-                        "name": "105年度龜山區新舊建號對照資料",
+                        "name": "105年度龜山區新舊建號對照資料.csv",
                         "created": "2016-02-22T11:44:36.293938",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-22T11:43:18"
+                        "last_modified": "2016-10-27T10:01:30"
                     }
                 },
                 "counters": {
@@ -3415,16 +3452,16 @@
                 "title": "105年度龍潭區新舊建號對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-02-22T03:37:43.331328",
-                "metadata_modified": "2016-03-16T06:02:21.412978",
-                "timeEnd": 1458079341,
+                "metadata_modified": "2016-10-27T02:07:46.779594",
+                "timeEnd": 1477534141,
                 "timeBegin": 1456083463,
                 "resources": {
                     "42de829e-05a1-4f5b-ab0c-89b984cb3dcb": {
                         "id": "42de829e-05a1-4f5b-ab0c-89b984cb3dcb",
-                        "name": "105年度龍潭區新舊建號對照資料",
+                        "name": "105年度龍潭區新舊建號對照資料.csv",
                         "created": "2016-02-22T11:43:43.197218",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-22T11:42:57"
+                        "last_modified": "2016-10-27T10:09:01"
                     }
                 },
                 "counters": {
@@ -9582,7 +9619,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 21,
+            "datasets": 25,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -9625,6 +9662,28 @@
                         "created": "2016-06-01T11:23:33.237636",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T11:23:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "aaf77112-2e52-4590-824b-3973d9594861": {
+                "name": "098b189a-7b11-4cc8-96c2-b00cd6363432",
+                "title": "桃園市官網市政新聞",
+                "organization_id": "380220000a",
+                "metadata_created": "2015-10-02T03:17:34.107938",
+                "metadata_modified": "2016-10-27T07:29:43.170203",
+                "timeEnd": 1477524583,
+                "timeBegin": 1443727054,
+                "resources": {
+                    "676d9a09-0f9e-4c34-b2db-b0b1b8fad490": {
+                        "id": "676d9a09-0f9e-4c34-b2db-b0b1b8fad490",
+                        "name": "市政新聞",
+                        "created": "2015-12-08T12:52:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-09-10T09:45:42"
                     }
                 },
                 "counters": {
@@ -9682,6 +9741,28 @@
                         "created": "2016-10-17T19:12:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-17T19:12:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a5aa63a9-296c-4b85-b628-62889b700057": {
+                "name": "16298c45-0f9d-4b5d-86ff-c910231b5f83",
+                "title": "桃園市官網熱門活動",
+                "organization_id": "380220000a",
+                "metadata_created": "2015-10-02T03:12:17.187406",
+                "metadata_modified": "2016-10-27T07:34:42.152398",
+                "timeEnd": 1477524882,
+                "timeBegin": 1443726737,
+                "resources": {
+                    "3983e8e8-7a67-4bbd-b976-bb0cdb97e2f7": {
+                        "id": "3983e8e8-7a67-4bbd-b976-bb0cdb97e2f7",
+                        "name": "熱門活動",
+                        "created": "2015-12-08T12:47:23",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-09-10T09:35:00"
                     }
                 },
                 "counters": {
@@ -9776,28 +9857,6 @@
                     "resource_recent": 0
                 }
             },
-            "2f72c042-7108-4019-a259-70421b8cb0f2": {
-                "name": "2f72c042-7108-4019-a259-70421b8cb0f2",
-                "title": "測試資料集新增",
-                "organization_id": "380220000a",
-                "metadata_created": "2016-10-26T07:24:35.593396",
-                "metadata_modified": "2016-10-26T09:18:05.940784",
-                "timeEnd": 1477473561,
-                "timeBegin": 1477437875,
-                "resources": {
-                    "f18092c9-4310-42f3-8108-fc7b4046fa50": {
-                        "id": "f18092c9-4310-42f3-8108-fc7b4046fa50",
-                        "name": "105年9月底商業登記異動表內容有控制符號.csv",
-                        "created": "2016-10-26T17:19:21",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-10-26T17:19:21"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "c3a4856e-c882-4d63-8e31-4daa93cde924": {
                 "name": "33779786-64f7-4ac3-acad-59a701ffc243",
                 "title": "104年度桃園市政府資訊中心決算資料",
@@ -9885,11 +9944,11 @@
             },
             "990f841c-29f2-4547-8669-2acef97eff73": {
                 "name": "4d6fd487-4ae1-455e-81cf-0b2d791434d3",
-                "title": "測試資料集用",
+                "title": "10\/27測試資料集用",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-01-18T06:02:34.247037",
-                "metadata_modified": "2016-10-26T01:28:58.398040",
-                "timeEnd": 1477416538,
+                "metadata_modified": "2016-10-27T08:34:40.789098",
+                "timeEnd": 1477528480,
                 "timeBegin": 1453068154,
                 "resources": {
                     "477781fb-5c83-42ca-bf64-0a23e53448b1": {
@@ -9905,20 +9964,6 @@
                         "created": "2016-10-19T09:21:37",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-19T09:21:37"
-                    },
-                    "8bc8b3e3-61f0-4fdf-aa45-91421ec70766": {
-                        "id": "8bc8b3e3-61f0-4fdf-aa45-91421ec70766",
-                        "name": "3.第1屆市議員通訊地址及電話(1050905)--得票排序.csv",
-                        "created": "2016-10-19T10:28:52",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-10-19T10:29:23"
-                    },
-                    "bf933455-e4ca-41e2-9aa8-b1b334a320f6": {
-                        "id": "bf933455-e4ca-41e2-9aa8-b1b334a320f6",
-                        "name": "平均每戶家庭收支-支出 (91-97年).csv",
-                        "created": "2016-10-20T17:07:46",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-10-20T17:07:46"
                     }
                 },
                 "counters": {
@@ -10157,6 +10202,77 @@
                     "resource_recent": 0
                 }
             },
+            "04d16b23-bef1-40fe-a698-40cbab5d01cb": {
+                "name": "95e53e1b-b8f0-46c2-96e8-829c21359631",
+                "title": "桃園市政府機關通訊錄API",
+                "organization_id": "380220000a",
+                "metadata_created": "2016-05-05T03:15:33.170191",
+                "metadata_modified": "2016-10-27T07:35:38.920779",
+                "timeEnd": 1477524938,
+                "timeBegin": 1462389333,
+                "resources": {
+                    "244f398e-d4d0-4f4a-851b-80f9e18f6e40": {
+                        "id": "244f398e-d4d0-4f4a-851b-80f9e18f6e40",
+                        "name": "一級機關",
+                        "created": "2016-05-05T11:16:00",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:16:00"
+                    },
+                    "05fbfbcd-edd7-4117-8f61-cd932096e34f": {
+                        "id": "05fbfbcd-edd7-4117-8f61-cd932096e34f",
+                        "name": "二級機關",
+                        "created": "2016-05-05T11:16:26",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:16:26"
+                    },
+                    "edf8a7ac-57ee-4b15-a19f-cef32cad4166": {
+                        "id": "edf8a7ac-57ee-4b15-a19f-cef32cad4166",
+                        "name": "戶政事務所",
+                        "created": "2016-05-05T11:16:43",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:16:43"
+                    },
+                    "2a04c98a-ed4c-49f9-b2f7-a518e24f06cf": {
+                        "id": "2a04c98a-ed4c-49f9-b2f7-a518e24f06cf",
+                        "name": "地政事務所",
+                        "created": "2016-05-05T11:17:05",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:17:04"
+                    },
+                    "5da0748c-499c-4f44-8ee0-700b95f01579": {
+                        "id": "5da0748c-499c-4f44-8ee0-700b95f01579",
+                        "name": "區公所",
+                        "created": "2016-05-05T11:17:23",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:17:23"
+                    },
+                    "c2fa566c-abb6-43fa-9f71-e26ca3f0029e": {
+                        "id": "c2fa566c-abb6-43fa-9f71-e26ca3f0029e",
+                        "name": "衛生所",
+                        "created": "2016-05-05T11:17:42",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:17:42"
+                    },
+                    "9df4838a-dfef-4c43-a9c6-29d3bcff7402": {
+                        "id": "9df4838a-dfef-4c43-a9c6-29d3bcff7402",
+                        "name": "事業機構",
+                        "created": "2016-05-05T11:18:02",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:18:02"
+                    },
+                    "320fa82b-26f7-4d76-beee-4ec389a20e90": {
+                        "id": "320fa82b-26f7-4d76-beee-4ec389a20e90",
+                        "name": "警察分局、大隊",
+                        "created": "2016-05-05T11:18:23",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-05-05T11:18:23"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "033bb6d2-24f3-4efb-a860-a4953930f9e8": {
                 "name": "993d6220-86ad-4f6f-a6ef-9ad9f7df144e",
                 "title": "2016台灣燈會官網Google Analytics分析資料",
@@ -10236,6 +10352,50 @@
                         "created": "2016-09-10T15:29:24",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-10T15:29:24"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "48d8f589-5980-427d-b086-f360e32369b9": {
+                "name": "a83d6fe8-7472-4f25-927e-4b9bd8b15bbb",
+                "title": "桃園市官網徵才資訊",
+                "organization_id": "380220000a",
+                "metadata_created": "2015-10-02T03:13:58.423155",
+                "metadata_modified": "2016-10-27T07:32:21.324130",
+                "timeEnd": 1477524741,
+                "timeBegin": 1443726838,
+                "resources": {
+                    "c900ce98-0089-47cc-b044-ce87235078b4": {
+                        "id": "c900ce98-0089-47cc-b044-ce87235078b4",
+                        "name": "徵才資訊",
+                        "created": "2015-12-08T12:50:38",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-09-10T09:40:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "81ac9cd3-bce7-4e62-8134-ac89dc54ef3e": {
+                "name": "d3365eb1-0de4-45a1-a6b6-5949be1f47de",
+                "title": "桃園市官網最新消息",
+                "organization_id": "380220000a",
+                "metadata_created": "2015-10-02T03:19:16.335234",
+                "metadata_modified": "2016-10-27T07:34:59.888438",
+                "timeEnd": 1477524899,
+                "timeBegin": 1443727156,
+                "resources": {
+                    "73644460-c76f-4afa-aa30-064bfef291d8": {
+                        "id": "73644460-c76f-4afa-aa30-064bfef291d8",
+                        "name": "最新消息",
+                        "created": "2015-12-08T12:49:12",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-09-10T09:30:31"
                     }
                 },
                 "counters": {
@@ -14169,16 +14329,16 @@
                 "title": "桃園市最新非法營業旅宿名單",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-05-16T09:49:40.809167",
-                "metadata_modified": "2016-09-22T09:12:26.158057",
-                "timeEnd": 1474506746,
+                "metadata_modified": "2016-10-27T06:08:22.509176",
+                "timeEnd": 1477548431,
                 "timeBegin": 1463363380,
                 "resources": {
-                    "e6bba00d-cac9-4c1b-bce2-25e470457e6c": {
-                        "id": "e6bba00d-cac9-4c1b-bce2-25e470457e6c",
-                        "name": "非法營業旅宿名單-至105年8月31日止",
-                        "created": "2016-09-21T14:46:46",
+                    "0bd3e7df-e9c3-4934-8419-ff9dd756051d": {
+                        "id": "0bd3e7df-e9c3-4934-8419-ff9dd756051d",
+                        "name": "非法營業旅宿名單-至105年9月30日止",
+                        "created": "2016-10-27T14:07:11",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-21T14:46:46"
+                        "last_modified": "2016-10-27T14:07:11"
                     }
                 },
                 "counters": {
@@ -17653,7 +17813,7 @@
     },
     "桃園市政府財政局": {
         "counters": {
-            "datasets": 5,
+            "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -17719,42 +17879,6 @@
                         "created": "2015-09-18T10:43:32.845229",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-21T16:30:15"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "c44eb606-a2d9-4b14-888a-95eb9e431ad7": {
-                "name": "c44eb606-a2d9-4b14-888a-95eb9e431ad7",
-                "title": "測試新增資料集功能9\/20",
-                "organization_id": "380030000d",
-                "metadata_created": "2016-09-20T01:15:04.392173",
-                "metadata_modified": "2016-10-26T02:17:25.745340",
-                "timeEnd": 1477448306,
-                "timeBegin": 1474305304,
-                "resources": {
-                    "835a092a-d550-48a4-8091-2cf09af32d4f": {
-                        "id": "835a092a-d550-48a4-8091-2cf09af32d4f",
-                        "name": "第1屆市議員通訊地址及電話(1050905)--得票排序.csv",
-                        "created": "2016-09-20T09:19:21",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-20T09:19:21"
-                    },
-                    "af4e958d-a7dc-4363-89c5-02ce1b1ff785": {
-                        "id": "af4e958d-a7dc-4363-89c5-02ce1b1ff785",
-                        "name": "平均每戶家庭收支-支出 (91-97年).csv",
-                        "created": "2016-10-17T11:08:59",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-10-17T11:08:59"
-                    },
-                    "85275f15-23ad-413a-85dc-645eb884ab0d": {
-                        "id": "85275f15-23ad-413a-85dc-645eb884ab0d",
-                        "name": "test.csv",
-                        "created": "2016-10-26T10:18:26",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-10-26T10:18:26"
                     }
                 },
                 "counters": {
@@ -20743,57 +20867,13 @@
     },
     "桃園捷運公司": {
         "counters": {
-            "datasets": 6,
+            "datasets": 1,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
-            "aaf77112-2e52-4590-824b-3973d9594861": {
-                "name": "098b189a-7b11-4cc8-96c2-b00cd6363432",
-                "title": "桃園市官網市政新聞",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2015-10-02T03:17:34.107938",
-                "metadata_modified": "2016-10-26T07:53:44.981182",
-                "timeEnd": 1477439624,
-                "timeBegin": 1443727054,
-                "resources": {
-                    "676d9a09-0f9e-4c34-b2db-b0b1b8fad490": {
-                        "id": "676d9a09-0f9e-4c34-b2db-b0b1b8fad490",
-                        "name": "市政新聞",
-                        "created": "2015-12-08T12:52:27",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-10T09:45:42"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a5aa63a9-296c-4b85-b628-62889b700057": {
-                "name": "16298c45-0f9d-4b5d-86ff-c910231b5f83",
-                "title": "桃園市官網熱門活動",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2015-10-02T03:12:17.187406",
-                "metadata_modified": "2016-10-26T07:51:42.677787",
-                "timeEnd": 1477439502,
-                "timeBegin": 1443726737,
-                "resources": {
-                    "3983e8e8-7a67-4bbd-b976-bb0cdb97e2f7": {
-                        "id": "3983e8e8-7a67-4bbd-b976-bb0cdb97e2f7",
-                        "name": "熱門活動",
-                        "created": "2015-12-08T12:47:23",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-10T09:35:00"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "207781b8-172d-401c-825a-09331481b2ec": {
                 "name": "207781b8-172d-401c-825a-09331481b2ec",
                 "title": "測試新增資料集10\/26",
@@ -20807,123 +20887,8 @@
                     "resource_total": 0,
                     "resource_recent": 0
                 }
-            },
-            "04d16b23-bef1-40fe-a698-40cbab5d01cb": {
-                "name": "95e53e1b-b8f0-46c2-96e8-829c21359631",
-                "title": "桃園市政府機關通訊錄API",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2016-05-05T03:15:33.170191",
-                "metadata_modified": "2016-10-26T07:56:06.733606",
-                "timeEnd": 1477439766,
-                "timeBegin": 1462389333,
-                "resources": {
-                    "244f398e-d4d0-4f4a-851b-80f9e18f6e40": {
-                        "id": "244f398e-d4d0-4f4a-851b-80f9e18f6e40",
-                        "name": "一級機關",
-                        "created": "2016-05-05T11:16:00",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:16:00"
-                    },
-                    "05fbfbcd-edd7-4117-8f61-cd932096e34f": {
-                        "id": "05fbfbcd-edd7-4117-8f61-cd932096e34f",
-                        "name": "二級機關",
-                        "created": "2016-05-05T11:16:26",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:16:26"
-                    },
-                    "edf8a7ac-57ee-4b15-a19f-cef32cad4166": {
-                        "id": "edf8a7ac-57ee-4b15-a19f-cef32cad4166",
-                        "name": "戶政事務所",
-                        "created": "2016-05-05T11:16:43",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:16:43"
-                    },
-                    "2a04c98a-ed4c-49f9-b2f7-a518e24f06cf": {
-                        "id": "2a04c98a-ed4c-49f9-b2f7-a518e24f06cf",
-                        "name": "地政事務所",
-                        "created": "2016-05-05T11:17:05",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:17:04"
-                    },
-                    "5da0748c-499c-4f44-8ee0-700b95f01579": {
-                        "id": "5da0748c-499c-4f44-8ee0-700b95f01579",
-                        "name": "區公所",
-                        "created": "2016-05-05T11:17:23",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:17:23"
-                    },
-                    "c2fa566c-abb6-43fa-9f71-e26ca3f0029e": {
-                        "id": "c2fa566c-abb6-43fa-9f71-e26ca3f0029e",
-                        "name": "衛生所",
-                        "created": "2016-05-05T11:17:42",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:17:42"
-                    },
-                    "9df4838a-dfef-4c43-a9c6-29d3bcff7402": {
-                        "id": "9df4838a-dfef-4c43-a9c6-29d3bcff7402",
-                        "name": "事業機構",
-                        "created": "2016-05-05T11:18:02",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:18:02"
-                    },
-                    "320fa82b-26f7-4d76-beee-4ec389a20e90": {
-                        "id": "320fa82b-26f7-4d76-beee-4ec389a20e90",
-                        "name": "警察分局、大隊",
-                        "created": "2016-05-05T11:18:23",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:18:23"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "48d8f589-5980-427d-b086-f360e32369b9": {
-                "name": "a83d6fe8-7472-4f25-927e-4b9bd8b15bbb",
-                "title": "桃園市官網徵才資訊",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2015-10-02T03:13:58.423155",
-                "metadata_modified": "2016-10-26T07:55:20.586223",
-                "timeEnd": 1477439720,
-                "timeBegin": 1443726838,
-                "resources": {
-                    "c900ce98-0089-47cc-b044-ce87235078b4": {
-                        "id": "c900ce98-0089-47cc-b044-ce87235078b4",
-                        "name": "徵才資訊",
-                        "created": "2015-12-08T12:50:38",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-10T09:40:01"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "81ac9cd3-bce7-4e62-8134-ac89dc54ef3e": {
-                "name": "d3365eb1-0de4-45a1-a6b6-5949be1f47de",
-                "title": "桃園市官網最新消息",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2015-10-02T03:19:16.335234",
-                "metadata_modified": "2016-10-26T07:52:34.764027",
-                "timeEnd": 1477439554,
-                "timeBegin": 1443727156,
-                "resources": {
-                    "73644460-c76f-4afa-aa30-064bfef291d8": {
-                        "id": "73644460-c76f-4afa-aa30-064bfef291d8",
-                        "name": "最新消息",
-                        "created": "2015-12-08T12:49:12",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-10T09:30:31"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
             }
         }
     },
-    "time_generated": 1477517615
+    "time_generated": 1477604036
 }
