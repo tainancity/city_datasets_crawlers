@@ -1,7 +1,7 @@
 {
     "桃園市政府主計處": {
         "counters": {
-            "datasets": 7,
+            "datasets": 8,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -52,6 +52,42 @@
                     "resource_recent": 0
                 }
             },
+            "5e40c854-0dcd-4897-9d49-f9ffd5c42f19": {
+                "name": "5e40c854-0dcd-4897-9d49-f9ffd5c42f19",
+                "title": "104年度桃園市總決算",
+                "organization_id": "380200000a",
+                "metadata_created": "2016-11-02T02:04:38.661047",
+                "metadata_modified": "2016-11-02T02:55:29.867174",
+                "timeEnd": 1478055405,
+                "timeBegin": 1478023478,
+                "resources": {
+                    "166f67d3-09f1-4b38-bd22-df1b4083964f": {
+                        "id": "166f67d3-09f1-4b38-bd22-df1b4083964f",
+                        "name": "歲入來源別.csv",
+                        "created": "2016-11-02T10:52:58",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-02T10:52:58"
+                    },
+                    "6e158257-edd8-47da-980e-33976e83e49d": {
+                        "id": "6e158257-edd8-47da-980e-33976e83e49d",
+                        "name": "歲出政事別.csv",
+                        "created": "2016-11-02T10:53:19",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-02T10:53:19"
+                    },
+                    "5fa98dc4-2e9d-4bcf-b027-77996e6f0e9e": {
+                        "id": "5fa98dc4-2e9d-4bcf-b027-77996e6f0e9e",
+                        "name": "歲出機關別.csv",
+                        "created": "2016-11-02T10:56:45",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-02T10:56:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "a3f3dcfb-5ee6-4f69-b9e9-cbee1e1cd699": {
                 "name": "7e35fb0d-535c-496f-9545-a5af55f33442",
                 "title": "桃園市家庭現代化設備普及率",
@@ -79,8 +115,8 @@
                 "title": "桃園市105年度總預算",
                 "organization_id": "380200000a",
                 "metadata_created": "2016-10-26T06:03:56.966558",
-                "metadata_modified": "2016-11-01T01:50:11.216163",
-                "timeEnd": 1477936211,
+                "metadata_modified": "2016-11-02T08:52:40.601828",
+                "timeEnd": 1478047960,
                 "timeBegin": 1477433036,
                 "resources": {
                     "16bd6546-15c9-49d4-9819-27f38b6e8216": {
@@ -309,8 +345,8 @@
                 "title": "桃園公共自行車即時服務資料",
                 "organization_id": "380290000h",
                 "metadata_created": "2016-02-26T00:57:28.408443",
-                "metadata_modified": "2016-09-10T07:46:51.477761",
-                "timeEnd": 1473493668,
+                "metadata_modified": "2016-11-02T02:30:50.620428",
+                "timeEnd": 1478053925,
                 "timeBegin": 1456419448,
                 "resources": {
                     "a1b4714b-3b75-4ff8-a8f2-cc377e4eaa0f": {
@@ -318,7 +354,7 @@
                         "name": "桃園公共自行車即時服務資料",
                         "created": "2016-09-10T15:47:48",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-10T15:47:48"
+                        "last_modified": "2016-11-02T10:32:05"
                     }
                 },
                 "counters": {
@@ -4490,16 +4526,16 @@
                 "title": "桃園市地方稅欠稅概況-按納稅義務人性別分",
                 "organization_id": "380260000d",
                 "metadata_created": "2016-02-22T01:44:26.118634",
-                "metadata_modified": "2016-02-23T02:44:15.350241",
-                "timeEnd": 1456195418,
+                "metadata_modified": "2016-11-02T09:46:04.071170",
+                "timeEnd": 1478080039,
                 "timeBegin": 1456076666,
                 "resources": {
                     "0029111b-7092-464f-9828-6a31681168cf": {
                         "id": "0029111b-7092-464f-9828-6a31681168cf",
-                        "name": "桃園市地方稅欠稅概況-按納稅義務人性別分",
-                        "created": "2016-02-22T09:47:15.682912",
+                        "name": "桃園市地方稅欠稅概況-按納稅義務人性別分.csv",
+                        "created": "2016-02-22T09:47:15",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-23T10:43:38"
+                        "last_modified": "2016-11-02T17:47:19"
                     }
                 },
                 "counters": {
@@ -7955,8 +7991,8 @@
                 "title": "桃園市燃氣熱水器技術士清冊",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T02:48:28.468518",
-                "metadata_modified": "2016-10-06T07:45:32.297439",
-                "timeEnd": 1475711132,
+                "metadata_modified": "2016-11-02T05:39:26.516377",
+                "timeEnd": 1478036366,
                 "timeBegin": 1462819708,
                 "resources": {
                     "bb6b7496-8f0d-4ac7-b3b0-f71bceea9c2f": {
@@ -7977,16 +8013,16 @@
                 "title": "桃園市消防水源統計",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T06:51:21.547065",
-                "metadata_modified": "2016-10-05T05:50:21.474045",
-                "timeEnd": 1475617821,
+                "metadata_modified": "2016-11-02T05:52:01.012775",
+                "timeEnd": 1478065958,
                 "timeBegin": 1462834281,
                 "resources": {
-                    "aa7aaeb6-170b-4926-a7dd-b2b1dd6eb09e": {
-                        "id": "aa7aaeb6-170b-4926-a7dd-b2b1dd6eb09e",
-                        "name": "桃園市消防水源統計105年8月.csv",
-                        "created": "2016-09-30T14:40:03",
+                    "00ad488f-e3f1-4385-8fc1-a9571440b37b": {
+                        "id": "00ad488f-e3f1-4385-8fc1-a9571440b37b",
+                        "name": "32896桃園市消防水源統計10509.csv",
+                        "created": "2016-11-02T13:52:38",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T14:40:03"
+                        "last_modified": "2016-11-02T13:52:38"
                     }
                 },
                 "counters": {
@@ -7999,23 +8035,16 @@
                 "title": "桃園市消防安全檢查重大不合格場所",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-19T08:02:25.688642",
-                "metadata_modified": "2016-10-05T05:51:44.071972",
-                "timeEnd": 1475617904,
+                "metadata_modified": "2016-11-02T04:01:19.970715",
+                "timeEnd": 1478059313,
                 "timeBegin": 1445212945,
                 "resources": {
-                    "14322be9-475b-406f-83ba-4a200b49bfcc": {
-                        "id": "14322be9-475b-406f-83ba-4a200b49bfcc",
-                        "name": "桃園市消防安全檢查重大不合格場所",
-                        "created": "2016-01-07T16:06:38",
+                    "ad006117-e695-47b3-845a-1d1a6fa121dc": {
+                        "id": "ad006117-e695-47b3-845a-1d1a6fa121dc",
+                        "name": "25900桃園市消防安全檢查重大不合格場所1051006.csv",
+                        "created": "2016-11-02T12:01:53",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-27T10:55:43"
-                    },
-                    "4d385aa3-aa06-40cb-8b16-0adae13a939c": {
-                        "id": "4d385aa3-aa06-40cb-8b16-0adae13a939c",
-                        "name": "桃園市消防安全檢查重大不合格場所1050707.csv",
-                        "created": "2016-09-21T08:21:10",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-21T08:21:10"
+                        "last_modified": "2016-11-02T12:01:53"
                     }
                 },
                 "counters": {
@@ -8028,16 +8057,16 @@
                 "title": "桃園市火災次數分類及時間",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T07:33:28.574870",
-                "metadata_modified": "2016-10-05T05:41:28.146882",
-                "timeEnd": 1475617288,
+                "metadata_modified": "2016-11-02T05:14:41.060038",
+                "timeEnd": 1478063287,
                 "timeBegin": 1462318408,
                 "resources": {
-                    "45fbfbd9-51d9-453d-9787-39466295d1e9": {
-                        "id": "45fbfbd9-51d9-453d-9787-39466295d1e9",
-                        "name": "桃園市火災次數分類及時間10508.csv",
-                        "created": "2016-09-30T15:54:52",
+                    "4f88a993-ba1f-483d-b541-28c50819b6be": {
+                        "id": "4f88a993-ba1f-483d-b541-28c50819b6be",
+                        "name": "31228桃園市火災次數分類及時間10509.csv",
+                        "created": "2016-11-02T13:08:07",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T15:54:52"
+                        "last_modified": "2016-11-02T13:08:07"
                     }
                 },
                 "counters": {
@@ -8050,8 +8079,8 @@
                 "title": "桃園市較常發生溺水水域一覽表",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:43:56.480315",
-                "metadata_modified": "2016-10-05T06:01:47.235076",
-                "timeEnd": 1475618507,
+                "metadata_modified": "2016-11-02T04:02:48.119195",
+                "timeEnd": 1478059433,
                 "timeBegin": 1444167836,
                 "resources": {
                     "5c7f0064-9415-471e-9db2-cd8deb6bfa53": {
@@ -8060,6 +8089,13 @@
                         "created": "2016-09-09T09:35:16",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-09T09:35:46"
+                    },
+                    "42b717f1-504a-4114-8f1f-4e02ccd8477c": {
+                        "id": "42b717f1-504a-4114-8f1f-4e02ccd8477c",
+                        "name": "25908桃園市較常發生溺水水域一覽表10511.csv",
+                        "created": "2016-11-02T12:03:53",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-02T12:03:53"
                     }
                 },
                 "counters": {
@@ -8072,23 +8108,16 @@
                 "title": "桃園市防焰性能認證合格廠商",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T06:03:50.574149",
-                "metadata_modified": "2016-10-05T05:39:13.134831",
-                "timeEnd": 1475617153,
+                "metadata_modified": "2016-11-02T05:40:40.328949",
+                "timeEnd": 1478065281,
                 "timeBegin": 1462831430,
                 "resources": {
-                    "46b8ebcc-7cc6-4b78-ad9c-55e252b56c63": {
-                        "id": "46b8ebcc-7cc6-4b78-ad9c-55e252b56c63",
-                        "name": "桃園市防焰性能認證合格廠商105q1",
-                        "created": "2016-05-16T11:16:41",
+                    "fe292e8a-553c-4e74-8aad-98f007dea2de": {
+                        "id": "fe292e8a-553c-4e74-8aad-98f007dea2de",
+                        "name": "31494桃園市設置防焰物品場所105q3.csv",
+                        "created": "2016-11-02T13:41:21",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-16T11:16:40"
-                    },
-                    "dc9d6233-4584-4416-a025-130d5a288e8a": {
-                        "id": "dc9d6233-4584-4416-a025-130d5a288e8a",
-                        "name": "桃園市防焰性能認證合格廠商105q2.csv",
-                        "created": "2016-09-30T16:18:18",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T16:18:18"
+                        "last_modified": "2016-11-02T13:41:21"
                     }
                 },
                 "counters": {
@@ -8101,16 +8130,16 @@
                 "title": "桃園市滅火器藥劑更換及充填合格廠商清冊",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:27:08.865893",
-                "metadata_modified": "2016-10-05T08:27:43.948759",
-                "timeEnd": 1475627263,
+                "metadata_modified": "2016-11-02T04:04:05.411258",
+                "timeEnd": 1478059503,
                 "timeBegin": 1444166828,
                 "resources": {
-                    "b1c8ff76-3944-4c76-89e8-b89c48688338": {
-                        "id": "b1c8ff76-3944-4c76-89e8-b89c48688338",
-                        "name": "滅火器藥劑更換及充填合格廠商清冊",
-                        "created": "2015-12-09T10:07:18",
+                    "29b19d7f-364a-47de-a512-1c2bcd666823": {
+                        "id": "29b19d7f-364a-47de-a512-1c2bcd666823",
+                        "name": "25931桃園市滅火器藥劑更換及充填合格廠商清冊1051031.csv",
+                        "created": "2016-11-02T12:05:03",
                         "webstore_last_updated": null,
-                        "last_modified": "2015-12-09T10:07:18"
+                        "last_modified": "2016-11-02T12:05:03"
                     }
                 },
                 "counters": {
@@ -8167,16 +8196,16 @@
                 "title": "桃園市消防安全設備檢修申報",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T05:59:53.301743",
-                "metadata_modified": "2016-10-05T06:04:35.077161",
-                "timeEnd": 1475618675,
+                "metadata_modified": "2016-11-02T05:41:46.590909",
+                "timeEnd": 1478065346,
                 "timeBegin": 1462831193,
                 "resources": {
-                    "dfcb7375-3580-4b68-8dec-18461bafcaaa": {
-                        "id": "dfcb7375-3580-4b68-8dec-18461bafcaaa",
-                        "name": "桃園市消防安全設備檢修申報-104年12月",
-                        "created": "2016-05-10T14:00:18",
+                    "2e005b6f-0a90-481a-95ef-6c092ff0a571": {
+                        "id": "2e005b6f-0a90-481a-95ef-6c092ff0a571",
+                        "name": "31486桃園市消防安全設備檢修申報10506.csv",
+                        "created": "2016-11-02T13:42:26",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-10T14:00:18"
+                        "last_modified": "2016-11-02T13:42:26"
                     }
                 },
                 "counters": {
@@ -8189,16 +8218,16 @@
                 "title": "桃園市起火建築物",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T08:10:11.676777",
-                "metadata_modified": "2016-10-05T05:43:51.133183",
-                "timeEnd": 1475617431,
+                "metadata_modified": "2016-11-02T05:14:26.394699",
+                "timeEnd": 1478063503,
                 "timeBegin": 1462320611,
                 "resources": {
-                    "f25fab03-836e-4cb9-b9b7-77802b34077c": {
-                        "id": "f25fab03-836e-4cb9-b9b7-77802b34077c",
-                        "name": "桃園市起火建築物10508.csv",
-                        "created": "2016-09-30T15:04:30",
+                    "5291fc6c-056a-454d-a565-b49815aa6e9e": {
+                        "id": "5291fc6c-056a-454d-a565-b49815aa6e9e",
+                        "name": "31229桃園市起火建築物10509.csv",
+                        "created": "2016-11-02T13:11:43",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T15:04:30"
+                        "last_modified": "2016-11-02T13:11:43"
                     }
                 },
                 "counters": {
@@ -8211,16 +8240,16 @@
                 "title": "桃園市火災次數按起火原因分",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T07:51:34.967993",
-                "metadata_modified": "2016-10-05T05:40:26.197689",
-                "timeEnd": 1475617226,
+                "metadata_modified": "2016-11-02T05:14:13.104235",
+                "timeEnd": 1478063568,
                 "timeBegin": 1462319494,
                 "resources": {
-                    "11d24c4a-9c84-45f5-8ad0-5a480451c937": {
-                        "id": "11d24c4a-9c84-45f5-8ad0-5a480451c937",
-                        "name": "桃園市火災次數按起火原因分10508.csv",
-                        "created": "2016-09-30T15:59:33",
+                    "74053c65-b60b-45c0-ab67-0389b74f46ca": {
+                        "id": "74053c65-b60b-45c0-ab67-0389b74f46ca",
+                        "name": "31230桃園市火災次數按起火原因分10509.csv",
+                        "created": "2016-11-02T13:12:48",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T15:59:33"
+                        "last_modified": "2016-11-02T13:12:48"
                     }
                 },
                 "counters": {
@@ -8233,16 +8262,16 @@
                 "title": "桃園市消防人力學歷統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:40:15.227427",
-                "metadata_modified": "2016-10-05T08:18:56.016155",
-                "timeEnd": 1475626736,
+                "metadata_modified": "2016-11-02T05:13:54.096381",
+                "timeEnd": 1478063698,
                 "timeBegin": 1462304415,
                 "resources": {
-                    "d2f9dbec-7ba1-413d-a002-2581cbd2c3fc": {
-                        "id": "d2f9dbec-7ba1-413d-a002-2581cbd2c3fc",
-                        "name": "桃園市消防人力學歷統計表-104年",
-                        "created": "2016-05-09T16:04:26",
+                    "4d207bba-7c03-412f-8a8f-2e50f09411be": {
+                        "id": "4d207bba-7c03-412f-8a8f-2e50f09411be",
+                        "name": "31231桃園市消防人力學歷統計表104.csv",
+                        "created": "2016-11-02T13:14:58",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-09T16:04:26"
+                        "last_modified": "2016-11-02T13:14:58"
                     }
                 },
                 "counters": {
@@ -8255,23 +8284,16 @@
                 "title": "桃園市消防安全檢查列管對象",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T05:12:10.230779",
-                "metadata_modified": "2016-10-05T06:02:19.624689",
-                "timeEnd": 1475618539,
+                "metadata_modified": "2016-11-02T05:43:48.038233",
+                "timeEnd": 1478065426,
                 "timeBegin": 1462828330,
                 "resources": {
-                    "0fde5e2e-8a03-4751-9cbf-b6c0fcf866ea": {
-                        "id": "0fde5e2e-8a03-4751-9cbf-b6c0fcf866ea",
-                        "name": " 桃園市消防安全檢查列管對象10412",
-                        "created": "2016-05-16T11:48:41",
+                    "ae3a035a-ab24-4049-afb0-9c0c5d1b33c6": {
+                        "id": "ae3a035a-ab24-4049-afb0-9c0c5d1b33c6",
+                        "name": "31488桃園市消防安全檢查列管對象10506.csv",
+                        "created": "2016-11-02T13:43:46",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-27T11:20:44"
-                    },
-                    "b27ecbaf-d525-42d1-813d-95c19fbbdd48": {
-                        "id": "b27ecbaf-d525-42d1-813d-95c19fbbdd48",
-                        "name": "桃園市消防安全檢查列管對象10412",
-                        "created": "2016-05-27T17:30:47",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-05-27T17:31:08"
+                        "last_modified": "2016-11-02T13:43:46"
                     }
                 },
                 "counters": {
@@ -8284,16 +8306,16 @@
                 "title": "桃園市消防人力年齡統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:37:20.703230",
-                "metadata_modified": "2016-10-06T01:13:08.594937",
-                "timeEnd": 1475687588,
+                "metadata_modified": "2016-11-02T05:19:30.661804",
+                "timeEnd": 1478064032,
                 "timeBegin": 1462304240,
                 "resources": {
-                    "3fcbfb13-b409-4bb5-a2f1-e75489ec2b5d": {
-                        "id": "3fcbfb13-b409-4bb5-a2f1-e75489ec2b5d",
-                        "name": "桃園市消防人力年齡統計表-104年",
-                        "created": "2016-05-09T16:03:45",
+                    "08441097-382c-43d2-9cf9-c76188fea537": {
+                        "id": "08441097-382c-43d2-9cf9-c76188fea537",
+                        "name": "31232桃園市消防人力年齡統計表104.csv",
+                        "created": "2016-11-02T13:20:32",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-18T13:55:55"
+                        "last_modified": "2016-11-02T13:20:32"
                     }
                 },
                 "counters": {
@@ -8306,16 +8328,16 @@
                 "title": "桃園市火災人員死傷財物損失",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T07:45:44.043478",
-                "metadata_modified": "2016-10-05T05:42:58.985231",
-                "timeEnd": 1475617378,
+                "metadata_modified": "2016-11-02T05:20:39.243007",
+                "timeEnd": 1478064079,
                 "timeBegin": 1462319144,
                 "resources": {
-                    "66c9e1ac-6df8-4921-84f5-cf947fc6974c": {
-                        "id": "66c9e1ac-6df8-4921-84f5-cf947fc6974c",
-                        "name": "桃園市火災人員死傷財物損失10508.csv",
-                        "created": "2016-09-30T15:14:07",
+                    "c1c8b6dd-2930-4edc-b843-b647909b3588": {
+                        "id": "c1c8b6dd-2930-4edc-b843-b647909b3588",
+                        "name": "31233桃園市火災人員死傷財物損失10509.csv",
+                        "created": "2016-11-02T13:21:19",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T15:14:07"
+                        "last_modified": "2016-11-02T13:21:19"
                     }
                 },
                 "counters": {
@@ -8328,16 +8350,16 @@
                 "title": "桃園市消防安全設備查察處理",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T05:45:36.922116",
-                "metadata_modified": "2016-10-05T05:50:49.405993",
-                "timeEnd": 1475617849,
+                "metadata_modified": "2016-11-02T05:44:55.345209",
+                "timeEnd": 1478065538,
                 "timeBegin": 1462830336,
                 "resources": {
-                    "23569609-12da-45f4-98f8-90aca9a5b4db": {
-                        "id": "23569609-12da-45f4-98f8-90aca9a5b4db",
-                        "name": "桃園市消防安全設備查察處理105年8月.csv",
-                        "created": "2016-09-30T14:32:26",
+                    "cb572fb7-bb47-40ee-bf3b-130bbf1d9bf0": {
+                        "id": "cb572fb7-bb47-40ee-bf3b-130bbf1d9bf0",
+                        "name": "31489桃園市消防安全設備查察處理10509.csv",
+                        "created": "2016-11-02T13:45:38",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T14:33:05"
+                        "last_modified": "2016-11-02T13:45:38"
                     }
                 },
                 "counters": {
@@ -8350,16 +8372,16 @@
                 "title": "桃園市消防緊急救護急救處置",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T09:19:37.245930",
-                "metadata_modified": "2016-10-05T05:44:31.128577",
-                "timeEnd": 1475617471,
+                "metadata_modified": "2016-11-02T05:21:37.874276",
+                "timeEnd": 1478064145,
                 "timeBegin": 1462324777,
                 "resources": {
-                    "43f053f4-2f39-4ebc-bce5-72942703f603": {
-                        "id": "43f053f4-2f39-4ebc-bce5-72942703f603",
-                        "name": "桃園市消防緊急救護急救處置10508.csv",
-                        "created": "2016-09-30T14:55:12",
+                    "9e581911-5f0c-4f15-b88b-906de2d878f9": {
+                        "id": "9e581911-5f0c-4f15-b88b-906de2d878f9",
+                        "name": "31234桃園市消防緊急救護急救處置10509.csv",
+                        "created": "2016-11-02T13:22:25",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T14:55:12"
+                        "last_modified": "2016-11-02T13:22:25"
                     }
                 },
                 "counters": {
@@ -8372,16 +8394,16 @@
                 "title": "桃園市火災次數按起火處所分",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T07:58:48.200510",
-                "metadata_modified": "2016-10-05T05:42:05.604469",
-                "timeEnd": 1475617325,
+                "metadata_modified": "2016-11-02T05:22:31.557453",
+                "timeEnd": 1478064198,
                 "timeBegin": 1462319928,
                 "resources": {
-                    "2c14b422-fe70-4ad8-b8c7-8ed923b9a68f": {
-                        "id": "2c14b422-fe70-4ad8-b8c7-8ed923b9a68f",
-                        "name": "桃園市火災次數按起火處所分10508.csv",
-                        "created": "2016-09-30T15:51:07",
+                    "35bdf2be-9c79-40d8-bf7d-cadb9b9b2899": {
+                        "id": "35bdf2be-9c79-40d8-bf7d-cadb9b9b2899",
+                        "name": "31235桃園市火災次數按起火處所分10509.csv",
+                        "created": "2016-11-02T13:23:18",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T15:51:07"
+                        "last_modified": "2016-11-02T13:23:18"
                     }
                 },
                 "counters": {
@@ -8394,16 +8416,16 @@
                 "title": "桃園市消防人力性別官等統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:28:02.805089",
-                "metadata_modified": "2016-10-06T00:59:46.440917",
-                "timeEnd": 1475715601,
+                "metadata_modified": "2016-11-02T05:52:59.466533",
+                "timeEnd": 1478064250,
                 "timeBegin": 1462303682,
                 "resources": {
-                    "396aefdb-0c97-4a3a-b9cd-b681ee67b4c8": {
-                        "id": "396aefdb-0c97-4a3a-b9cd-b681ee67b4c8",
-                        "name": "桃園市消防人力性別官等統計表.csv",
-                        "created": "2016-10-06T09:00:01",
+                    "6ade9299-03a5-4f04-8444-6022a9a6ccd1": {
+                        "id": "6ade9299-03a5-4f04-8444-6022a9a6ccd1",
+                        "name": "31236桃園市消防人力性別官等統計表10511.csv",
+                        "created": "2016-11-02T13:24:10",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-06T09:00:01"
+                        "last_modified": "2016-11-02T13:24:10"
                     }
                 },
                 "counters": {
@@ -8416,8 +8438,8 @@
                 "title": "桃園市願意配合推動供氣定型化契約瓦斯行清冊",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T03:10:56.364491",
-                "metadata_modified": "2016-10-05T06:13:48.603743",
-                "timeEnd": 1475619228,
+                "metadata_modified": "2016-11-02T05:35:56.040035",
+                "timeEnd": 1478036156,
                 "timeBegin": 1462821056,
                 "resources": {
                     "c0dbb36b-8ebb-499f-8aa1-5908ed22bab2": {
@@ -8504,16 +8526,16 @@
                 "title": "桃園市地震斷層帶圖資",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-11T07:37:18.385000",
-                "metadata_modified": "2016-10-05T06:14:35.664076",
-                "timeEnd": 1475619275,
+                "metadata_modified": "2016-11-02T05:37:20.149562",
+                "timeEnd": 1478065088,
                 "timeBegin": 1462923438,
                 "resources": {
-                    "90051ba4-d03a-4649-a56a-ce63e33b2e19": {
-                        "id": "90051ba4-d03a-4649-a56a-ce63e33b2e19",
-                        "name": "桃園市活動斷層",
-                        "created": "2016-05-11T15:37:48",
+                    "5f4bc93b-8a5f-4e74-8e89-6c96c46da98f": {
+                        "id": "5f4bc93b-8a5f-4e74-8e89-6c96c46da98f",
+                        "name": "31408桃園市地震斷層帶圖資.kml",
+                        "created": "2016-11-02T13:38:08",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-11T15:37:48"
+                        "last_modified": "2016-11-02T13:38:08"
                     }
                 },
                 "counters": {
@@ -8526,16 +8548,16 @@
                 "title": "桃園市消防分隊駐地位置圖",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:03:50.208942",
-                "metadata_modified": "2016-05-05T03:24:37.569921",
-                "timeEnd": 1462418677,
+                "metadata_modified": "2016-11-02T05:32:26.957786",
+                "timeEnd": 1478064760,
                 "timeBegin": 1462302230,
                 "resources": {
-                    "51007a47-1638-451f-af91-8089bc23354f": {
-                        "id": "51007a47-1638-451f-af91-8089bc23354f",
-                        "name": "桃園市消防分隊駐地位置圖",
-                        "created": "2016-05-04T11:04:38.017780",
+                    "1324561f-5067-4283-a5c8-b3255d8216fb": {
+                        "id": "1324561f-5067-4283-a5c8-b3255d8216fb",
+                        "name": "31238桃園市消防分隊駐地位置圖10511.csv",
+                        "created": "2016-11-02T13:32:40",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-05T11:24:37"
+                        "last_modified": "2016-11-02T13:32:40"
                     }
                 },
                 "counters": {
@@ -8548,21 +8570,21 @@
                 "title": "桃園市政府消防局年度捐贈芳名錄",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:07:07.556225",
-                "metadata_modified": "2016-05-04T08:11:50.173701",
-                "timeEnd": 1462331471,
+                "metadata_modified": "2016-11-02T05:32:54.311436",
+                "timeEnd": 1478035974,
                 "timeBegin": 1462302427,
                 "resources": {
                     "3499a8fb-64de-4c9d-9091-e25f5f97927a": {
                         "id": "3499a8fb-64de-4c9d-9091-e25f5f97927a",
                         "name": "桃園市政府消防局103年捐贈芳名錄",
-                        "created": "2016-05-04T11:09:57.997975",
+                        "created": "2016-05-04T11:09:57",
                         "webstore_last_updated": null,
                         "last_modified": "2016-05-04T11:09:57"
                     },
                     "d72d7c73-cce4-4d51-a638-b5e2890d8f52": {
                         "id": "d72d7c73-cce4-4d51-a638-b5e2890d8f52",
                         "name": "桃園市政府消防局104年捐贈芳名錄",
-                        "created": "2016-05-04T11:11:11.174145",
+                        "created": "2016-05-04T11:11:11",
                         "webstore_last_updated": null,
                         "last_modified": "2016-05-04T11:11:11"
                     }
@@ -8599,16 +8621,16 @@
                 "title": "桃園市消防實用英文",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-13T09:28:28.344782",
-                "metadata_modified": "2016-10-05T06:13:15.551024",
-                "timeEnd": 1475619195,
+                "metadata_modified": "2016-11-02T05:38:44.130478",
+                "timeEnd": 1478065167,
                 "timeBegin": 1463102908,
                 "resources": {
-                    "9e439cd9-44e7-4f49-bd4b-c3a51324d384": {
-                        "id": "9e439cd9-44e7-4f49-bd4b-c3a51324d384",
-                        "name": "消防實用英文",
-                        "created": "2016-05-13T17:29:05",
+                    "1dd68166-82ef-4893-b144-328e76723524": {
+                        "id": "1dd68166-82ef-4893-b144-328e76723524",
+                        "name": "31465桃園市消防實用英文10511.csv",
+                        "created": "2016-11-02T13:39:27",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-13T17:29:05"
+                        "last_modified": "2016-11-02T13:39:27"
                     }
                 },
                 "counters": {
@@ -8650,16 +8672,16 @@
                 "title": "桃園市合法燃氣熱水器承裝業清冊",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:36:37.777366",
-                "metadata_modified": "2016-10-05T08:28:44.201070",
-                "timeEnd": 1475627324,
+                "metadata_modified": "2016-11-02T05:04:18.557293",
+                "timeEnd": 1478063115,
                 "timeBegin": 1444167397,
                 "resources": {
-                    "aac1bb95-b6d9-4917-826f-b4f15b6b1c17": {
-                        "id": "aac1bb95-b6d9-4917-826f-b4f15b6b1c17",
-                        "name": "桃園市合法燃氣熱水器承裝業清冊",
-                        "created": "2015-10-07T13:37:25",
+                    "0b109844-6d69-40cf-aa25-edb597dd7a36": {
+                        "id": "0b109844-6d69-40cf-aa25-edb597dd7a36",
+                        "name": "26034桃園市合法燃氣熱水器承裝業清冊1051005.csv",
+                        "created": "2016-11-02T13:05:15",
                         "webstore_last_updated": null,
-                        "last_modified": "2015-10-07T13:37:26"
+                        "last_modified": "2016-11-02T13:05:15"
                     }
                 },
                 "counters": {
@@ -8672,23 +8694,16 @@
                 "title": "桃園市設置防焰物品場所",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T06:22:57.920991",
-                "metadata_modified": "2016-10-06T07:44:47.892336",
-                "timeEnd": 1475711087,
+                "metadata_modified": "2016-11-02T05:46:12.440375",
+                "timeEnd": 1478065600,
                 "timeBegin": 1462832577,
                 "resources": {
-                    "0486dced-4bcd-47fa-8453-7c2bd50261e5": {
-                        "id": "0486dced-4bcd-47fa-8453-7c2bd50261e5",
-                        "name": "桃園市設置防焰物品場所105q1",
-                        "created": "2016-05-16T15:24:49",
+                    "b3cef43f-fb1b-4ee0-b604-c3130e3b26c5": {
+                        "id": "b3cef43f-fb1b-4ee0-b604-c3130e3b26c5",
+                        "name": "31494桃園市設置防焰物品場所105q3.csv",
+                        "created": "2016-11-02T13:46:40",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-16T15:24:49"
-                    },
-                    "c9532eae-5497-443d-8cb1-c5b60810a570": {
-                        "id": "c9532eae-5497-443d-8cb1-c5b60810a570",
-                        "name": "桃園市設置防焰物品場所105q2.csv",
-                        "created": "2016-09-30T16:21:45",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T16:21:45"
+                        "last_modified": "2016-11-02T13:46:40"
                     }
                 },
                 "counters": {
@@ -8701,8 +8716,8 @@
                 "title": "桃園市消防緊急救護服務",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T09:13:07.516308",
-                "metadata_modified": "2016-10-05T05:48:57.890219",
-                "timeEnd": 1475617737,
+                "metadata_modified": "2016-11-02T05:34:08.357924",
+                "timeEnd": 1478064888,
                 "timeBegin": 1462324387,
                 "resources": {
                     "482e97f9-594a-45f0-8869-d97378e7598d": {
@@ -8711,6 +8726,13 @@
                         "created": "2016-09-30T14:48:58",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-30T14:48:58"
+                    },
+                    "0beed93b-501d-4a8c-b878-3ebbeff43ee6": {
+                        "id": "0beed93b-501d-4a8c-b878-3ebbeff43ee6",
+                        "name": "31240桃園市消防緊急救護服務10509.csv",
+                        "created": "2016-11-02T13:34:48",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-02T13:34:48"
                     }
                 },
                 "counters": {
@@ -8723,8 +8745,8 @@
                 "title": "桃園市政府消防局歷年救護相關資料統計",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T08:56:44.324804",
-                "metadata_modified": "2016-10-14T08:29:02.594850",
-                "timeEnd": 1476433775,
+                "metadata_modified": "2016-11-02T05:35:18.422856",
+                "timeEnd": 1478036118,
                 "timeBegin": 1462323404,
                 "resources": {
                     "97d886b2-b6d4-4800-83f3-ceea7647ded3": {
@@ -8767,16 +8789,16 @@
                 "title": "桃園市消防局消防分隊通訊錄",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:34:04.901858",
-                "metadata_modified": "2016-04-01T01:52:08.683956",
-                "timeEnd": 1459446728,
+                "metadata_modified": "2016-11-02T05:05:37.016811",
+                "timeEnd": 1478063197,
                 "timeBegin": 1444167244,
                 "resources": {
-                    "f881bd34-84e8-4d0e-b2a4-e7f691667657": {
-                        "id": "f881bd34-84e8-4d0e-b2a4-e7f691667657",
-                        "name": "消防局通訊錄1050323",
-                        "created": "2016-03-24T11:35:04.778168",
+                    "17901030-07bc-4775-8fd0-1691631f41a6": {
+                        "id": "17901030-07bc-4775-8fd0-1691631f41a6",
+                        "name": "26060桃園市消防局消防分隊通訊錄10511.csv",
+                        "created": "2016-11-02T13:06:37",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-03-24T11:34:34"
+                        "last_modified": "2016-11-02T13:06:37"
                     }
                 },
                 "counters": {
@@ -8789,8 +8811,8 @@
                 "title": "桃園市狹小巷弄列管清冊",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:38:38.991647",
-                "metadata_modified": "2016-10-05T06:07:13.198414",
-                "timeEnd": 1475618833,
+                "metadata_modified": "2016-11-02T06:04:26.169916",
+                "timeEnd": 1478037866,
                 "timeBegin": 1444167518,
                 "resources": {
                     "182da35c-f39b-4be1-b3f4-db9c4f66877b": {
@@ -8811,16 +8833,16 @@
                 "title": "桃園市防火管理執行情形",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T03:54:59.957566",
-                "metadata_modified": "2016-10-05T05:36:34.305161",
-                "timeEnd": 1475616994,
+                "metadata_modified": "2016-11-02T05:47:10.994594",
+                "timeEnd": 1478065676,
                 "timeBegin": 1462823699,
                 "resources": {
-                    "de3e8fe5-d2f0-42e0-8aa0-584dd3ba1f8b": {
-                        "id": "de3e8fe5-d2f0-42e0-8aa0-584dd3ba1f8b",
-                        "name": "桃園市防火管理執行情形10508.csv",
-                        "created": "2016-09-30T16:33:40",
+                    "4e0f82d1-30d1-4cc8-8f13-f3988d94d703": {
+                        "id": "4e0f82d1-30d1-4cc8-8f13-f3988d94d703",
+                        "name": "31499桃園市防火管理執行情形10509.csv",
+                        "created": "2016-11-02T13:47:56",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-30T16:33:40"
+                        "last_modified": "2016-11-02T13:47:56"
                     }
                 },
                 "counters": {
@@ -8833,16 +8855,16 @@
                 "title": "桃園市義勇消防人員數",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T06:52:38.359005",
-                "metadata_modified": "2016-10-05T06:11:55.435978",
-                "timeEnd": 1475619115,
+                "metadata_modified": "2016-11-02T05:51:01.843398",
+                "timeEnd": 1478065902,
                 "timeBegin": 1462834358,
                 "resources": {
-                    "ad00125f-c3b3-44b3-a083-081f924f668c": {
-                        "id": "ad00125f-c3b3-44b3-a083-081f924f668c",
-                        "name": "桃園市義消人數-104年12月",
-                        "created": "2016-05-16T09:10:26",
+                    "03bd5fbc-3b56-4c5e-84bd-0bce59071aad": {
+                        "id": "03bd5fbc-3b56-4c5e-84bd-0bce59071aad",
+                        "name": "31500桃園市義勇消防人員數10506.csv",
+                        "created": "2016-11-02T13:51:42",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-05-16T09:10:26"
+                        "last_modified": "2016-11-02T13:51:42"
                     }
                 },
                 "counters": {
@@ -8906,8 +8928,8 @@
                 "title": "桃園市政府消防局人民申請案統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:12:49.480926",
-                "metadata_modified": "2016-10-05T05:51:14.673117",
-                "timeEnd": 1475617874,
+                "metadata_modified": "2016-11-02T05:34:42.846261",
+                "timeEnd": 1478036082,
                 "timeBegin": 1462302769,
                 "resources": {
                     "f566adca-2555-46c1-9e0c-a4d1cee4bdbc": {
@@ -14315,91 +14337,91 @@
                 "title": "桃園市101年每月觀光遊憩區遊客人次資料",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-01T07:59:56.955449",
-                "metadata_modified": "2016-06-24T05:44:56.112495",
-                "timeEnd": 1466718296,
+                "metadata_modified": "2016-11-02T09:16:34.764923",
+                "timeEnd": 1478049394,
                 "timeBegin": 1464739196,
                 "resources": {
                     "a1c195d0-708e-40f6-9921-001b9128cc62": {
                         "id": "a1c195d0-708e-40f6-9921-001b9128cc62",
                         "name": "101年12月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:31:48.009950",
+                        "created": "2016-06-01T16:31:48",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-07T09:04:30"
                     },
                     "7e1fc4d9-89b0-43b5-b17b-dcf8c524c79f": {
                         "id": "7e1fc4d9-89b0-43b5-b17b-dcf8c524c79f",
                         "name": "101年11月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:33:35.251361",
+                        "created": "2016-06-01T16:33:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:33:35"
                     },
                     "03fbe8cb-3326-4657-b673-25131fb00c07": {
                         "id": "03fbe8cb-3326-4657-b673-25131fb00c07",
                         "name": "101年10月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:34:09.933939",
+                        "created": "2016-06-01T16:34:09",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:34:09"
                     },
                     "72473ac4-2825-4f80-b212-c8260f9688ab": {
                         "id": "72473ac4-2825-4f80-b212-c8260f9688ab",
                         "name": "101年9月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:34:33.506114",
+                        "created": "2016-06-01T16:34:33",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:34:33"
                     },
                     "09c72f0e-07df-4fcb-ad9c-391084510da6": {
                         "id": "09c72f0e-07df-4fcb-ad9c-391084510da6",
                         "name": "101年8月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:35:23.157121",
+                        "created": "2016-06-01T16:35:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-07T08:59:35"
                     },
                     "38434eb2-b44a-420d-8219-09d51b2ada3b": {
                         "id": "38434eb2-b44a-420d-8219-09d51b2ada3b",
                         "name": "101年7月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:35:45.641093",
+                        "created": "2016-06-01T16:35:45",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-06T13:26:56"
                     },
                     "5159383d-e626-4a51-a1e8-0ae44357ef95": {
                         "id": "5159383d-e626-4a51-a1e8-0ae44357ef95",
                         "name": "101年6月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:35:37.117678",
+                        "created": "2016-06-01T16:35:37",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-06T13:27:10"
                     },
                     "bd808617-e60e-49ff-99d3-a90879e95121": {
                         "id": "bd808617-e60e-49ff-99d3-a90879e95121",
                         "name": "101年5月觀光遊憩區遊客人次報表.",
-                        "created": "2016-06-01T16:36:27.052359",
+                        "created": "2016-06-01T16:36:27",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:36:26"
                     },
                     "0af060c8-929d-4ff2-8eed-46d40ab4f4ad": {
                         "id": "0af060c8-929d-4ff2-8eed-46d40ab4f4ad",
                         "name": "101年4月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:37:05.615430",
+                        "created": "2016-06-01T16:37:05",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:37:05"
                     },
                     "39e78f93-0c3e-4cb3-8007-b158569a1c12": {
                         "id": "39e78f93-0c3e-4cb3-8007-b158569a1c12",
                         "name": "101年3月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:37:18.269415",
+                        "created": "2016-06-01T16:37:18",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:37:17"
                     },
                     "f5304cdc-a3b7-464e-b647-21354c399cf3": {
                         "id": "f5304cdc-a3b7-464e-b647-21354c399cf3",
                         "name": "101年2月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:37:42.699946",
+                        "created": "2016-06-01T16:37:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-07T09:04:16"
                     },
                     "e48e03fd-6693-46c8-b515-70554b069ac0": {
                         "id": "e48e03fd-6693-46c8-b515-70554b069ac0",
                         "name": "101年1月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:39:59.338091",
+                        "created": "2016-06-01T16:39:59",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:39:59"
                     }
@@ -14414,91 +14436,91 @@
                 "title": "桃園市104年每月觀光遊憩區遊客人次資料",
                 "organization_id": "380300000h",
                 "metadata_created": "2015-10-07T03:22:29.624277",
-                "metadata_modified": "2016-02-22T06:12:45.832335",
-                "timeEnd": 1456092765,
+                "metadata_modified": "2016-11-02T09:24:14.414635",
+                "timeEnd": 1478049854,
                 "timeBegin": 1444159349,
                 "resources": {
                     "0c56ed15-41d2-4080-8de6-f16f16bdd311": {
                         "id": "0c56ed15-41d2-4080-8de6-f16f16bdd311",
                         "name": "104年1月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:13:44.266362",
+                        "created": "2016-01-20T11:13:44",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:13:28"
                     },
                     "c9e17742-6d63-452a-ab47-964717568ffa": {
                         "id": "c9e17742-6d63-452a-ab47-964717568ffa",
                         "name": " 104年2月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:14:55.962850",
+                        "created": "2016-01-20T11:14:55",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:14:40"
                     },
                     "c4c749e2-1c79-4ac2-8a9c-6082a79011b4": {
                         "id": "c4c749e2-1c79-4ac2-8a9c-6082a79011b4",
                         "name": "104年3月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:15:25.279036",
+                        "created": "2016-01-20T11:15:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:15:09"
                     },
                     "b9710278-1487-400c-a6af-4503d8586b29": {
                         "id": "b9710278-1487-400c-a6af-4503d8586b29",
                         "name": "104年4月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:15:45.106132",
+                        "created": "2016-01-20T11:15:45",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:15:29"
                     },
                     "1e629a1b-6279-452d-8792-6484701c3594": {
                         "id": "1e629a1b-6279-452d-8792-6484701c3594",
                         "name": "104年5月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:16:08.023299",
+                        "created": "2016-01-20T11:16:08",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:15:52"
                     },
                     "8d00b986-ea46-4a2f-a5f4-9725030e33c5": {
                         "id": "8d00b986-ea46-4a2f-a5f4-9725030e33c5",
                         "name": "104年6月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:16:27.633317",
+                        "created": "2016-01-20T11:16:27",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:16:11"
                     },
                     "434a4bd1-da10-40e6-80ab-889639d779e8": {
                         "id": "434a4bd1-da10-40e6-80ab-889639d779e8",
                         "name": "104年7月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:16:47.721555",
+                        "created": "2016-01-20T11:16:47",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:16:31"
                     },
                     "bdac3375-c8f1-407a-b1e2-bc6f75dcc765": {
                         "id": "bdac3375-c8f1-407a-b1e2-bc6f75dcc765",
                         "name": " 104年8月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:17:09.974061",
+                        "created": "2016-01-20T11:17:09",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:16:54"
                     },
                     "51153ee2-87e9-416c-8d93-c79852f91864": {
                         "id": "51153ee2-87e9-416c-8d93-c79852f91864",
                         "name": " 104年9月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:17:30.417883",
+                        "created": "2016-01-20T11:17:30",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:17:14"
                     },
                     "4d072476-cc30-475d-9dc5-150720fa43e5": {
                         "id": "4d072476-cc30-475d-9dc5-150720fa43e5",
                         "name": "104年10月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:17:50.899401",
+                        "created": "2016-01-20T11:17:50",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:17:35"
                     },
                     "11237cce-b00e-411e-b7f7-602aa93b1ac3": {
                         "id": "11237cce-b00e-411e-b7f7-602aa93b1ac3",
                         "name": "104年11月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-20T11:18:10.739976",
+                        "created": "2016-01-20T11:18:10",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T11:17:54"
                     },
                     "14e34756-5394-41e6-bc85-9ec2b5b0dc0c": {
                         "id": "14e34756-5394-41e6-bc85-9ec2b5b0dc0c",
                         "name": "104年12月觀光遊憩區遊客人次報表",
-                        "created": "2016-01-27T10:22:33.054877",
+                        "created": "2016-01-27T10:22:33",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -14678,8 +14700,8 @@
                 "title": "桃園市105年每月觀光遊憩區遊客人次資料",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-05-17T03:41:30.783453",
-                "metadata_modified": "2016-09-29T01:48:20.074650",
-                "timeEnd": 1475084900,
+                "metadata_modified": "2016-11-02T09:03:12.823487",
+                "timeEnd": 1478048592,
                 "timeBegin": 1463427690,
                 "resources": {
                     "4c76a387-c76d-45a6-be7f-4b1cbf25cbfa": {
@@ -14722,91 +14744,91 @@
                 "title": "桃園市100年每月觀光遊憩區遊客人次資料",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-01T08:08:12.218626",
-                "metadata_modified": "2016-06-27T09:30:28.384247",
-                "timeEnd": 1466991028,
+                "metadata_modified": "2016-11-02T09:06:42.412963",
+                "timeEnd": 1478048802,
                 "timeBegin": 1464739692,
                 "resources": {
                     "4ecdf97b-b878-48bb-9d16-c9d8c873bc91": {
                         "id": "4ecdf97b-b878-48bb-9d16-c9d8c873bc91",
                         "name": "100年12月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:42:42.206774",
+                        "created": "2016-06-01T16:42:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-07T09:05:11"
                     },
                     "6e36f377-dc99-4316-9650-32118ac4a37b": {
                         "id": "6e36f377-dc99-4316-9650-32118ac4a37b",
                         "name": "100年11月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:44:15.284765",
+                        "created": "2016-06-01T16:44:15",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:44:15"
                     },
                     "78d35895-f412-4fe7-aa21-41b9bb184b2c": {
                         "id": "78d35895-f412-4fe7-aa21-41b9bb184b2c",
                         "name": "100年10月觀光遊憩區遊客人次報表.",
-                        "created": "2016-06-01T16:44:39.147735",
+                        "created": "2016-06-01T16:44:39",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:44:39"
                     },
                     "491e2b13-79e8-4da9-8fa8-72056ea3fc1e": {
                         "id": "491e2b13-79e8-4da9-8fa8-72056ea3fc1e",
                         "name": "100年9月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:45:03.824091",
+                        "created": "2016-06-01T16:45:03",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:45:03"
                     },
                     "41ddb63e-9f8b-488e-b65c-d7981e00fe6a": {
                         "id": "41ddb63e-9f8b-488e-b65c-d7981e00fe6a",
                         "name": "100年8月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:45:53.072543",
+                        "created": "2016-06-01T16:45:53",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:45:52"
                     },
                     "ad393347-fb8c-4d13-846d-01b40078bf61": {
                         "id": "ad393347-fb8c-4d13-846d-01b40078bf61",
                         "name": "100年7月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:46:17.010911",
+                        "created": "2016-06-01T16:46:17",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:46:16"
                     },
                     "94cbd861-5cd7-4cb1-bbef-db14e1111986": {
                         "id": "94cbd861-5cd7-4cb1-bbef-db14e1111986",
                         "name": "100年6月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:46:29.148121",
+                        "created": "2016-06-01T16:46:29",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:46:26"
                     },
                     "a1bf299d-069d-4c3b-b4ae-4feb5dd689d7": {
                         "id": "a1bf299d-069d-4c3b-b4ae-4feb5dd689d7",
                         "name": "100年5月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:46:42.668985",
+                        "created": "2016-06-01T16:46:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-07T09:05:23"
                     },
                     "8df8640e-1e99-49e8-b116-b15c9ead2035": {
                         "id": "8df8640e-1e99-49e8-b116-b15c9ead2035",
                         "name": "100年4月觀光遊憩區遊客人次報表.",
-                        "created": "2016-06-01T16:46:55.139076",
+                        "created": "2016-06-01T16:46:55",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:46:53"
                     },
                     "b20a949b-b222-4fe9-8c64-a0e75a43ea42": {
                         "id": "b20a949b-b222-4fe9-8c64-a0e75a43ea42",
                         "name": "100年3月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:47:08.779462",
+                        "created": "2016-06-01T16:47:08",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-07T09:05:34"
                     },
                     "f541efa0-7485-4b80-ae1c-e61904aff994": {
                         "id": "f541efa0-7485-4b80-ae1c-e61904aff994",
                         "name": "100年2月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:47:21.838342",
+                        "created": "2016-06-01T16:47:21",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:47:19"
                     },
                     "94121f0e-7520-4f9c-9709-c636f81743dd": {
                         "id": "94121f0e-7520-4f9c-9709-c636f81743dd",
                         "name": "100年1月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:47:34.275572",
+                        "created": "2016-06-01T16:47:34",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:47:30"
                     }
@@ -15032,91 +15054,91 @@
                 "title": "桃園市102年每月觀光遊憩區遊客人次資料",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-01T08:04:42.981440",
-                "metadata_modified": "2016-06-24T05:37:22.354571",
-                "timeEnd": 1466717842,
+                "metadata_modified": "2016-11-02T09:19:12.587644",
+                "timeEnd": 1478049552,
                 "timeBegin": 1464739482,
                 "resources": {
                     "5dc9d3a1-eae0-4367-b448-143a6eb90140": {
                         "id": "5dc9d3a1-eae0-4367-b448-143a6eb90140",
                         "name": "102年12月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:14:19.749631",
+                        "created": "2016-06-01T16:14:19",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:14:19"
                     },
                     "d80fd1db-8689-4263-bc78-fea71e6a86df": {
                         "id": "d80fd1db-8689-4263-bc78-fea71e6a86df",
                         "name": "102年11月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:15:00.547834",
+                        "created": "2016-06-01T16:15:00",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:15:00"
                     },
                     "851f2abd-834d-4378-9376-a3994f65261b": {
                         "id": "851f2abd-834d-4378-9376-a3994f65261b",
                         "name": "102年10月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:21:27.785441",
+                        "created": "2016-06-01T16:21:27",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:21:27"
                     },
                     "a5b7a363-7e24-4a75-8933-109f83c1a10e": {
                         "id": "a5b7a363-7e24-4a75-8933-109f83c1a10e",
                         "name": "102年9月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:21:53.829062",
+                        "created": "2016-06-01T16:21:53",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:21:53"
                     },
                     "7890dea4-f442-4a46-a3bf-fbee9f96edc4": {
                         "id": "7890dea4-f442-4a46-a3bf-fbee9f96edc4",
                         "name": "102年8月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:22:07.340401",
+                        "created": "2016-06-01T16:22:07",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:22:06"
                     },
                     "ab00d9e3-ee9f-4a58-87d8-b0897eb46ba5": {
                         "id": "ab00d9e3-ee9f-4a58-87d8-b0897eb46ba5",
                         "name": "102年7月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:22:56.273131",
+                        "created": "2016-06-01T16:22:56",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:22:56"
                     },
                     "cbcc491d-608a-438f-a74d-fc2c61d383b7": {
                         "id": "cbcc491d-608a-438f-a74d-fc2c61d383b7",
                         "name": "102年6月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:23:10.457120",
+                        "created": "2016-06-01T16:23:10",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:23:08"
                     },
                     "49b40281-022a-4137-a867-c1b7e1a8de1b": {
                         "id": "49b40281-022a-4137-a867-c1b7e1a8de1b",
                         "name": "102年5月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:23:23.855139",
+                        "created": "2016-06-01T16:23:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-07T08:56:34"
                     },
                     "eab4561c-0238-4959-8b2e-e1d63fe1eb62": {
                         "id": "eab4561c-0238-4959-8b2e-e1d63fe1eb62",
                         "name": "102年4月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:25:35.256356",
+                        "created": "2016-06-01T16:25:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:25:35"
                     },
                     "c852a3c1-ac5e-4418-87e3-3e035357039d": {
                         "id": "c852a3c1-ac5e-4418-87e3-3e035357039d",
                         "name": "102年3月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:26:17.000210",
+                        "created": "2016-06-01T16:26:17",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:26:16"
                     },
                     "b6697992-a0ea-46d2-b00d-ff4c7909e118": {
                         "id": "b6697992-a0ea-46d2-b00d-ff4c7909e118",
                         "name": "102年2月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:27:15.962317",
+                        "created": "2016-06-01T16:27:15",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:27:15"
                     },
                     "04a4a623-3e47-474c-8be5-83e6acdd6d80": {
                         "id": "04a4a623-3e47-474c-8be5-83e6acdd6d80",
                         "name": "102年1月觀光遊憩區遊客人次報表",
-                        "created": "2016-06-01T16:27:42.548781",
+                        "created": "2016-06-01T16:27:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-01T16:27:42"
                     }
@@ -15131,763 +15153,763 @@
                 "title": "桃園市步道調查資料(含KML軌跡檔)",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-28T05:56:36.352683",
-                "metadata_modified": "2016-09-05T08:50:35.688225",
-                "timeEnd": 1473036635,
+                "metadata_modified": "2016-11-02T08:56:03.777285",
+                "timeEnd": 1478048163,
                 "timeBegin": 1467064596,
                 "resources": {
                     "704b4963-d1eb-4b2b-84d0-7683f9ddab9b": {
                         "id": "704b4963-d1eb-4b2b-84d0-7683f9ddab9b",
                         "name": "八德埤塘生態公園環湖步道",
-                        "created": "2016-06-28T14:12:49.765500",
+                        "created": "2016-06-28T14:12:49",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:12:49"
                     },
                     "205dde4a-5548-4274-9e01-7eb865ee97aa": {
                         "id": "205dde4a-5548-4274-9e01-7eb865ee97aa",
                         "name": "內海村海堤步道",
-                        "created": "2016-06-28T14:14:50.747795",
+                        "created": "2016-06-28T14:14:50",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:14:50"
                     },
                     "61107469-781c-4f97-97ad-b1a3967f17e2": {
                         "id": "61107469-781c-4f97-97ad-b1a3967f17e2",
                         "name": "十一指古道",
-                        "created": "2016-06-28T14:15:39.194648",
+                        "created": "2016-06-28T14:15:39",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:15:38"
                     },
                     "f6464980-76cd-4eb2-aa34-e64930ce16d5": {
                         "id": "f6464980-76cd-4eb2-aa34-e64930ce16d5",
                         "name": "大艽芎古道",
-                        "created": "2016-06-28T14:15:47.009812",
+                        "created": "2016-06-28T14:15:47",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:15:46"
                     },
                     "8068482f-d323-4f5f-a4e6-bdd2566565a4": {
                         "id": "8068482f-d323-4f5f-a4e6-bdd2566565a4",
                         "name": "大溪中正公園步道",
-                        "created": "2016-06-28T14:16:02.748758",
+                        "created": "2016-06-28T14:16:02",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:16:02"
                     },
                     "2a8f2357-a4bf-4fcf-883a-dfb7cc0db21e": {
                         "id": "2a8f2357-a4bf-4fcf-883a-dfb7cc0db21e",
                         "name": "大溪河濱公園步道",
-                        "created": "2016-06-28T14:16:12.757191",
+                        "created": "2016-06-28T14:16:12",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:16:12"
                     },
                     "2925b99c-9e5c-46dd-a7f9-6ea094ddbed2": {
                         "id": "2925b99c-9e5c-46dd-a7f9-6ea094ddbed2",
                         "name": "小角仔古道",
-                        "created": "2016-06-28T14:16:52.178896",
+                        "created": "2016-06-28T14:16:52",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:16:51"
                     },
                     "0320078f-10d7-4e61-bfc3-d30b40522b71": {
                         "id": "0320078f-10d7-4e61-bfc3-d30b40522b71",
                         "name": "月眉古道",
-                        "created": "2016-06-28T14:17:01.765573",
+                        "created": "2016-06-28T14:17:01",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:17:00"
                     },
                     "7eef49b7-9699-4e01-ae30-5424a522de82": {
                         "id": "7eef49b7-9699-4e01-ae30-5424a522de82",
                         "name": "打鐵寮古道",
-                        "created": "2016-06-28T14:17:09.977333",
+                        "created": "2016-06-28T14:17:09",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:17:09"
                     },
                     "bb84597f-6cf8-46ef-8807-0ec5bdac7338": {
                         "id": "bb84597f-6cf8-46ef-8807-0ec5bdac7338",
                         "name": "永福龍山寺步道(壽山步道)",
-                        "created": "2016-06-28T14:17:23.476369",
+                        "created": "2016-06-28T14:17:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:17:22"
                     },
                     "f5da21c5-a1b8-4eb7-a630-d4a955165f64": {
                         "id": "f5da21c5-a1b8-4eb7-a630-d4a955165f64",
                         "name": "白石埤(山)古道",
-                        "created": "2016-06-28T14:17:36.360334",
+                        "created": "2016-06-28T14:17:36",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:17:36"
                     },
                     "d5f32206-41b9-4755-92b4-dfd437858a36": {
                         "id": "d5f32206-41b9-4755-92b4-dfd437858a36",
                         "name": "百吉林蔭步道(石龜坑古道)",
-                        "created": "2016-06-28T14:17:49.891777",
+                        "created": "2016-06-28T14:17:49",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:17:49"
                     },
                     "402d4650-6197-4285-b218-8e216bfae144": {
                         "id": "402d4650-6197-4285-b218-8e216bfae144",
                         "name": "尾寮崎古道(田心子古道)",
-                        "created": "2016-06-28T14:18:06.178650",
+                        "created": "2016-06-28T14:18:06",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:18:05"
                     },
                     "f840295e-c349-414b-a957-f8ed8c922361": {
                         "id": "f840295e-c349-414b-a957-f8ed8c922361",
                         "name": "埔頂公園步道",
-                        "created": "2016-06-28T14:18:18.190914",
+                        "created": "2016-06-28T14:18:18",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:18:17"
                     },
                     "8c8156a3-55f2-45c6-876a-d5a4e2ddb704": {
                         "id": "8c8156a3-55f2-45c6-876a-d5a4e2ddb704",
                         "name": "草店尾石板古道(碼頭石板古道)",
-                        "created": "2016-06-28T14:18:36.269900",
+                        "created": "2016-06-28T14:18:36",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:18:35"
                     },
                     "a831ee1f-6709-4c9a-972c-90d34b060c60": {
                         "id": "a831ee1f-6709-4c9a-972c-90d34b060c60",
                         "name": "御成古道",
-                        "created": "2016-06-28T14:19:03.118647",
+                        "created": "2016-06-28T14:19:03",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:19:02"
                     },
                     "e4e06a0e-dc61-4cd1-97b6-e406548d679c": {
                         "id": "e4e06a0e-dc61-4cd1-97b6-e406548d679c",
                         "name": "湳仔溝河濱步道",
-                        "created": "2016-06-28T14:19:26.072865",
+                        "created": "2016-06-28T14:19:26",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:19:25"
                     },
                     "573e2826-016f-4d43-8f82-e06ffed7a21b": {
                         "id": "573e2826-016f-4d43-8f82-e06ffed7a21b",
                         "name": "慈湖步道",
-                        "created": "2016-06-28T14:19:39.367738",
+                        "created": "2016-06-28T14:19:39",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:19:39"
                     },
                     "9ff22805-9ed7-4418-b4cc-c2d3289bcf09": {
                         "id": "9ff22805-9ed7-4418-b4cc-c2d3289bcf09",
                         "name": "頭寮生態步道",
-                        "created": "2016-06-28T14:19:48.520085",
+                        "created": "2016-06-28T14:19:48",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:19:48"
                     },
                     "e2aaf544-a5d8-4378-a835-0e8529582aab": {
                         "id": "e2aaf544-a5d8-4378-a835-0e8529582aab",
                         "name": "總督府步道(湳仔溝古道)",
-                        "created": "2016-06-28T14:20:01.763924",
+                        "created": "2016-06-28T14:20:01",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:20:01"
                     },
                     "e202c33b-254d-4681-baaa-09cdd98d2545": {
                         "id": "e202c33b-254d-4681-baaa-09cdd98d2545",
                         "name": "齋明寺古道",
-                        "created": "2016-06-28T14:20:12.120576",
+                        "created": "2016-06-28T14:20:12",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:20:11"
                     },
                     "783bed8f-b081-4bea-acee-5358e1595a56": {
                         "id": "783bed8f-b081-4bea-acee-5358e1595a56",
                         "name": "舊百吉隧道",
-                        "created": "2016-06-28T14:20:22.514189",
+                        "created": "2016-06-28T14:20:22",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:20:22"
                     },
                     "0255e069-c611-4f57-bb1b-90021faab1d9": {
                         "id": "0255e069-c611-4f57-bb1b-90021faab1d9",
                         "name": "蟠龍崎古道",
-                        "created": "2016-06-28T14:20:33.906649",
+                        "created": "2016-06-28T14:20:33",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:20:33"
                     },
                     "b7a96f3a-ea08-42f1-af51-6372f11b0d73": {
                         "id": "b7a96f3a-ea08-42f1-af51-6372f11b0d73",
                         "name": "士校大池環池步道",
-                        "created": "2016-06-28T14:21:14.059304",
+                        "created": "2016-06-28T14:21:14",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:21:13"
                     },
                     "cbd775c0-0c13-4e46-ac1e-00d01429f7fa": {
                         "id": "cbd775c0-0c13-4e46-ac1e-00d01429f7fa",
                         "name": "老街溪步道",
-                        "created": "2016-06-28T14:21:23.887801",
+                        "created": "2016-06-28T14:21:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:21:23"
                     },
                     "8f4e4f3e-4077-4f39-9647-32b5c0502a38": {
                         "id": "8f4e4f3e-4077-4f39-9647-32b5c0502a38",
                         "name": "青塘園步道",
-                        "created": "2016-06-28T14:21:32.989483",
+                        "created": "2016-06-28T14:21:32",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:21:32"
                     },
                     "91459898-9b6b-4573-b36b-8a9fd64ec093": {
                         "id": "91459898-9b6b-4573-b36b-8a9fd64ec093",
                         "name": "新街溪步道",
-                        "created": "2016-06-28T14:21:40.531261",
+                        "created": "2016-06-28T14:21:40",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:21:40"
                     },
                     "0722bd32-5ace-4884-8153-7f08fdb26251": {
                         "id": "0722bd32-5ace-4884-8153-7f08fdb26251",
                         "name": "石門大圳山仔頂段相思仔步道",
-                        "created": "2016-06-28T14:21:56.505998",
+                        "created": "2016-06-28T14:21:56",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:21:56"
                     },
                     "b226b632-5cf5-4efe-905c-f3393a96c938": {
                         "id": "b226b632-5cf5-4efe-905c-f3393a96c938",
                         "name": "石門大圳社子支渠流蘇步道",
-                        "created": "2016-06-28T14:22:04.864281",
+                        "created": "2016-06-28T14:22:04",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:22:04"
                     },
                     "48d4f3bf-79d1-43a4-844a-3004928370f5": {
                         "id": "48d4f3bf-79d1-43a4-844a-3004928370f5",
                         "name": "石門大圳過嶺支渠櫻花步道",
-                        "created": "2016-06-28T14:22:15.605721",
+                        "created": "2016-06-28T14:22:15",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:22:15"
                     },
                     "4010f5a9-efe4-4744-8828-7a0d72bec544": {
                         "id": "4010f5a9-efe4-4744-8828-7a0d72bec544",
                         "name": "石門大圳鎮興段仙丹花步道",
-                        "created": "2016-06-28T14:22:25.074322",
+                        "created": "2016-06-28T14:22:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:22:24"
                     },
                     "e1ae44fa-3644-4abd-8c12-cc6565ce688e": {
                         "id": "e1ae44fa-3644-4abd-8c12-cc6565ce688e",
                         "name": "東安東社里社子支渠景觀步道",
-                        "created": "2016-06-28T14:22:33.668306",
+                        "created": "2016-06-28T14:22:33",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:22:33"
                     },
                     "fefadfaa-73f9-44e4-9f81-62dc6c0ffdda": {
                         "id": "fefadfaa-73f9-44e4-9f81-62dc6c0ffdda",
                         "name": "東勢里伯公崙綠色廊道",
-                        "created": "2016-06-28T14:22:42.573955",
+                        "created": "2016-06-28T14:22:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:22:42"
                     },
                     "d9457aa9-2893-4e6b-b07a-4cd3cddf9024": {
                         "id": "d9457aa9-2893-4e6b-b07a-4cd3cddf9024",
                         "name": "虎頭山公園步道系統太陽亭步道(黃線)",
-                        "created": "2016-06-28T14:23:15.403192",
+                        "created": "2016-06-28T14:23:15",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:23:14"
                     },
                     "c372d425-33b7-47ec-b99d-0d84d3866709": {
                         "id": "c372d425-33b7-47ec-b99d-0d84d3866709",
                         "name": "虎頭山公園步道系統生態解說步道(綠線)",
-                        "created": "2016-06-28T14:25:48.411408",
+                        "created": "2016-06-28T14:25:48",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:25:47"
                     },
                     "8d943e84-265f-415a-9a0a-01ddc312c93c": {
                         "id": "8d943e84-265f-415a-9a0a-01ddc312c93c",
                         "name": "虎頭山公園步道系統忠烈祠步道(紫線)",
-                        "created": "2016-06-28T14:26:02.808505",
+                        "created": "2016-06-28T14:26:02",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:26:02"
                     },
                     "76e1c4a9-312a-41bf-a31d-2101e9905183": {
                         "id": "76e1c4a9-312a-41bf-a31d-2101e9905183",
                         "name": "虎頭山公園步道系統香菇亭步道(棕線)",
-                        "created": "2016-06-28T14:26:50.080095",
+                        "created": "2016-06-28T14:26:50",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:26:49"
                     },
                     "aacf9bc5-a8d6-412a-a260-bc63400dd164": {
                         "id": "aacf9bc5-a8d6-412a-a260-bc63400dd164",
                         "name": "虎頭山公園步道系統梅園步道(藍線)",
-                        "created": "2016-06-28T14:27:35.373431",
+                        "created": "2016-06-28T14:27:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:27:34"
                     },
                     "a7ee3544-9363-40b2-b50b-6286c55e697d": {
                         "id": "a7ee3544-9363-40b2-b50b-6286c55e697d",
                         "name": "虎頭山公園步道系統賞景健康步道(橙線)",
-                        "created": "2016-06-28T14:27:53.681857",
+                        "created": "2016-06-28T14:27:53",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:27:53"
                     },
                     "d69d41f0-e4c7-42bd-8245-0e7ebcfa5c4d": {
                         "id": "d69d41f0-e4c7-42bd-8245-0e7ebcfa5c4d",
                         "name": "虎頭山公園步道系統櫻花步道(紅線)",
-                        "created": "2016-06-28T14:28:29.270584",
+                        "created": "2016-06-28T14:28:29",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:28:28"
                     },
                     "171b7cc9-8271-41e1-bf5c-1189c6894c15": {
                         "id": "171b7cc9-8271-41e1-bf5c-1189c6894c15",
                         "name": "1-4號生態埤塘步道",
-                        "created": "2016-06-28T14:29:11.636808",
+                        "created": "2016-06-28T14:29:11",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:29:11"
                     },
                     "3d5336dc-c100-4536-b8ca-14de1763790b": {
                         "id": "3d5336dc-c100-4536-b8ca-14de1763790b",
                         "name": "小烏來風景區步道系統水圳古道",
-                        "created": "2016-06-28T14:30:40.323624",
+                        "created": "2016-06-28T14:30:40",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:30:39"
                     },
                     "62677090-2109-4a8e-bec7-8708cfe2b208": {
                         "id": "62677090-2109-4a8e-bec7-8708cfe2b208",
                         "name": "小烏來風景區步道系統水岸綠廊步道",
-                        "created": "2016-06-28T14:33:01.334771",
+                        "created": "2016-06-28T14:33:01",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:33:00"
                     },
                     "2bde722f-13e7-4f65-bd87-4181db360d4a": {
                         "id": "2bde722f-13e7-4f65-bd87-4181db360d4a",
                         "name": "小烏來風景區步道系統好漢坡步道",
-                        "created": "2016-06-28T14:34:44.669238",
+                        "created": "2016-06-28T14:34:44",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:34:44"
                     },
                     "fc6e24ab-562a-43ab-9720-41fd962454ce": {
                         "id": "fc6e24ab-562a-43ab-9720-41fd962454ce",
                         "name": "小烏來風景區步道系統森呼吸步道",
-                        "created": "2016-06-28T14:35:36.655357",
+                        "created": "2016-06-28T14:35:36",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:35:36"
                     },
                     "dac9417c-2e76-4db7-bff2-6dba46de493f": {
                         "id": "dac9417c-2e76-4db7-bff2-6dba46de493f",
                         "name": "小烏來風景區步道系統瀑布底步道(元氣步道)",
-                        "created": "2016-06-28T14:36:23.204616",
+                        "created": "2016-06-28T14:36:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:36:22"
                     },
                     "3f11ed2c-7e20-4635-9b02-efafbe5322cc": {
                         "id": "3f11ed2c-7e20-4635-9b02-efafbe5322cc",
                         "name": "角板山公園步道",
-                        "created": "2016-06-28T14:36:46.368703",
+                        "created": "2016-06-28T14:36:46",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:36:45"
                     },
                     "8c24bb7d-ff05-4b1f-8126-6dc9b414950a": {
                         "id": "8c24bb7d-ff05-4b1f-8126-6dc9b414950a",
                         "name": "拉拉山巴陵古道",
-                        "created": "2016-06-28T14:37:10.477560",
+                        "created": "2016-06-28T14:37:10",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:37:09"
                     },
                     "5851ba26-6cac-4852-abed-ee4193ce478f": {
                         "id": "5851ba26-6cac-4852-abed-ee4193ce478f",
                         "name": "枕頭山古砲台歷史古道",
-                        "created": "2016-06-28T14:37:57.851378",
+                        "created": "2016-06-28T14:37:57",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:37:57"
                     },
                     "1d8e9c7c-ed47-4590-bb8f-0bfe23578bbf": {
                         "id": "1d8e9c7c-ed47-4590-bb8f-0bfe23578bbf",
                         "name": "蝙蝠洞步道",
-                        "created": "2016-06-28T14:38:23.503895",
+                        "created": "2016-06-28T14:38:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:38:22"
                     },
                     "3ad0fa8a-b0a8-40de-a9b4-7ddf1cc097b8": {
                         "id": "3ad0fa8a-b0a8-40de-a9b4-7ddf1cc097b8",
                         "name": "避難步道",
-                        "created": "2016-06-28T14:38:43.020776",
+                        "created": "2016-06-28T14:38:43",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:38:42"
                     },
                     "170db0af-79eb-432f-b4ca-65bab8cbf494": {
                         "id": "170db0af-79eb-432f-b4ca-65bab8cbf494",
                         "name": "鐵木瀑布步道",
-                        "created": "2016-06-28T14:38:55.252639",
+                        "created": "2016-06-28T14:38:55",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:38:54"
                     },
                     "7a1616ef-b801-4435-b4c7-f8a1924b8efb": {
                         "id": "7a1616ef-b801-4435-b4c7-f8a1924b8efb",
                         "name": "永安北岸濱海遊憩區步道",
-                        "created": "2016-06-28T14:39:19.400457",
+                        "created": "2016-06-28T14:39:19",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:39:18"
                     },
                     "47591b6c-f806-4eba-ac8a-2e2ff3efd558": {
                         "id": "47591b6c-f806-4eba-ac8a-2e2ff3efd558",
                         "name": "新屋埤環埤步道",
-                        "created": "2016-06-28T14:39:57.127024",
+                        "created": "2016-06-28T14:39:57",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:39:56"
                     },
                     "6a89862b-decf-4af9-8502-e4e78edd12b9": {
                         "id": "6a89862b-decf-4af9-8502-e4e78edd12b9",
                         "name": "新屋過嶺58號池步道",
-                        "created": "2016-06-28T14:40:08.685830",
+                        "created": "2016-06-28T14:40:08",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:40:08"
                     },
                     "2dbab239-50ea-4330-97f5-e3801b96f328": {
                         "id": "2dbab239-50ea-4330-97f5-e3801b96f328",
                         "name": "老坑保甲古道",
-                        "created": "2016-06-28T14:40:37.413354",
+                        "created": "2016-06-28T14:40:37",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:40:36"
                     },
                     "6d781ebf-3340-4ae2-9e75-22eed3068795": {
                         "id": "6d781ebf-3340-4ae2-9e75-22eed3068795",
                         "name": "秀才5B埤塘公園步道",
-                        "created": "2016-06-28T14:41:35.744124",
+                        "created": "2016-06-28T14:41:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:41:35"
                     },
                     "6f790e3e-277e-4c7c-ab6f-cb88dae5853d": {
                         "id": "6f790e3e-277e-4c7c-ab6f-cb88dae5853d",
                         "name": "秀才登山步道及周邊觀光茶園步道",
-                        "created": "2016-06-28T14:41:49.354734",
+                        "created": "2016-06-28T14:41:49",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:41:48"
                     },
                     "141184e3-e824-4601-972e-aa2e06abd887": {
                         "id": "141184e3-e824-4601-972e-aa2e06abd887",
                         "name": "貴山公園龜山步道",
-                        "created": "2016-06-28T14:42:13.539869",
+                        "created": "2016-06-28T14:42:13",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:42:12"
                     },
                     "5b9b42d6-02ec-4065-9ab3-51a46b115077": {
                         "id": "5b9b42d6-02ec-4065-9ab3-51a46b115077",
                         "name": "福人登山步道",
-                        "created": "2016-06-28T14:42:39.525903",
+                        "created": "2016-06-28T14:42:39",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:42:38"
                     },
                     "2029bde0-9f2c-4f17-966b-3d8d34d39020": {
                         "id": "2029bde0-9f2c-4f17-966b-3d8d34d39020",
                         "name": "大北坑步道系統水土保持園區步道",
-                        "created": "2016-06-28T14:43:19.758718",
+                        "created": "2016-06-28T14:43:19",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:43:18"
                     },
                     "aba353c6-aa3a-4dd8-87d2-0838ee4dd2da": {
                         "id": "aba353c6-aa3a-4dd8-87d2-0838ee4dd2da",
                         "name": "大北坑步道系統江申步道",
-                        "created": "2016-06-28T14:44:07.736185",
+                        "created": "2016-06-28T14:44:07",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:44:07"
                     },
                     "b9041226-5eaf-49a6-8224-076edac3c23f": {
                         "id": "b9041226-5eaf-49a6-8224-076edac3c23f",
                         "name": "大北坑步道系統奉茶亭步道",
-                        "created": "2016-06-28T14:44:35.120674",
+                        "created": "2016-06-28T14:44:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:44:34"
                     },
                     "6d8c2224-c48e-4b35-9226-dc3805cba211": {
                         "id": "6d8c2224-c48e-4b35-9226-dc3805cba211",
                         "name": "大北坑步道系統龍泉步道",
-                        "created": "2016-06-28T14:44:51.699179",
+                        "created": "2016-06-28T14:44:51",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:44:51"
                     },
                     "83937b6c-15eb-4988-88a8-f8b0e060c6fa": {
                         "id": "83937b6c-15eb-4988-88a8-f8b0e060c6fa",
                         "name": "石門山步道系統小粗坑古道",
-                        "created": "2016-06-28T14:45:14.416886",
+                        "created": "2016-06-28T14:45:14",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:45:13"
                     },
                     "949f8a3f-aaef-4b88-8320-72818641aa9d": {
                         "id": "949f8a3f-aaef-4b88-8320-72818641aa9d",
                         "name": "石門山步道系統石門山好漢坡",
-                        "created": "2016-06-28T14:45:32.566129",
+                        "created": "2016-06-28T14:45:32",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:45:31"
                     },
                     "d8d3ab02-8ebc-4c1b-9c11-6222e32bf695": {
                         "id": "d8d3ab02-8ebc-4c1b-9c11-6222e32bf695",
                         "name": " 石門山步道系統石門山景春步道",
-                        "created": "2016-06-28T14:46:08.559172",
+                        "created": "2016-06-28T14:46:08",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:46:07"
                     },
                     "5dc07783-b354-4ff6-87ea-b547815fe083": {
                         "id": "5dc07783-b354-4ff6-87ea-b547815fe083",
                         "name": "石門山步道系統石門山登山步道(主要)",
-                        "created": "2016-06-28T14:46:25.319111",
+                        "created": "2016-06-28T14:46:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:46:24"
                     },
                     "a60fc281-100b-4fee-881d-7d23bf5adbe6": {
                         "id": "a60fc281-100b-4fee-881d-7d23bf5adbe6",
                         "name": "石門山步道系統石門山登山步道(次要)",
-                        "created": "2016-06-28T14:46:53.047273",
+                        "created": "2016-06-28T14:46:53",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:46:52"
                     },
                     "823fc51a-36d9-43ec-ae53-47a715296934": {
                         "id": "823fc51a-36d9-43ec-ae53-47a715296934",
                         "name": "清水坑步道系統打牛崎古道",
-                        "created": "2016-06-28T14:47:20.047600",
+                        "created": "2016-06-28T14:47:20",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:47:18"
                     },
                     "893f08dc-0d42-48c7-9c35-f68a8a76c5f7": {
                         "id": "893f08dc-0d42-48c7-9c35-f68a8a76c5f7",
                         "name": "清水坑步道系統伙房崎古道",
-                        "created": "2016-06-28T14:47:44.929234",
+                        "created": "2016-06-28T14:47:44",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:47:44"
                     },
                     "2eccb383-aec9-4267-9151-48cfec6ed9c3": {
                         "id": "2eccb383-aec9-4267-9151-48cfec6ed9c3",
                         "name": "清水坑步道系統林埤古道",
-                        "created": "2016-06-28T14:48:11.978360",
+                        "created": "2016-06-28T14:48:11",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:48:11"
                     },
                     "71797695-6c0d-476c-8ccd-dde9ed27338b": {
                         "id": "71797695-6c0d-476c-8ccd-dde9ed27338b",
                         "name": "三坑自然生態公園湖畔步道",
-                        "created": "2016-06-28T14:48:32.635106",
+                        "created": "2016-06-28T14:48:32",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:48:31"
                     },
                     "88b2a45b-738f-4902-a90f-3882c6026cd9": {
                         "id": "88b2a45b-738f-4902-a90f-3882c6026cd9",
                         "name": "水資局健康步道",
-                        "created": "2016-06-28T14:48:44.878844",
+                        "created": "2016-06-28T14:48:44",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:48:44"
                     },
                     "b1f88b2e-055d-4dcc-9bf4-56ef0e7961c1": {
                         "id": "b1f88b2e-055d-4dcc-9bf4-56ef0e7961c1",
                         "name": "石門大圳櫻花隧道",
-                        "created": "2016-06-28T14:48:57.950178",
+                        "created": "2016-06-28T14:48:57",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:48:57"
                     },
                     "2c4cf4bb-86a9-46f4-b9c0-06456fcdffb1": {
                         "id": "2c4cf4bb-86a9-46f4-b9c0-06456fcdffb1",
                         "name": "石門水庫(中線)槭林步道",
-                        "created": "2016-06-28T14:49:11.647061",
+                        "created": "2016-06-28T14:49:11",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:49:10"
                     },
                     "df85467d-f8d6-47ea-9a4f-252f96dec655": {
                         "id": "df85467d-f8d6-47ea-9a4f-252f96dec655",
                         "name": "石門水庫(高線)楓林步道",
-                        "created": "2016-06-28T14:49:25.702380",
+                        "created": "2016-06-28T14:49:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:49:25"
                     },
                     "86efb1e0-80c3-43f8-b988-f25e73185804": {
                         "id": "86efb1e0-80c3-43f8-b988-f25e73185804",
                         "name": "石門水庫溪洲公園步道",
-                        "created": "2016-06-28T14:49:41.949393",
+                        "created": "2016-06-28T14:49:41",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:49:41"
                     },
                     "0b8f0b7b-368f-4ebb-9b90-2058238a9853": {
                         "id": "0b8f0b7b-368f-4ebb-9b90-2058238a9853",
                         "name": "石崎步道",
-                        "created": "2016-06-28T14:49:59.686243",
+                        "created": "2016-06-28T14:49:59",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:49:58"
                     },
                     "28525c4d-23c6-4b04-8c35-718da954f6bd": {
                         "id": "28525c4d-23c6-4b04-8c35-718da954f6bd",
                         "name": "百年挑擔石板古道",
-                        "created": "2016-06-28T14:50:18.084391",
+                        "created": "2016-06-28T14:50:18",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:50:17"
                     },
                     "f18a19f7-3fd4-4ee6-9ae2-0e69d64a3713": {
                         "id": "f18a19f7-3fd4-4ee6-9ae2-0e69d64a3713",
                         "name": "百年樟樹步道",
-                        "created": "2016-06-28T14:50:35.339413",
+                        "created": "2016-06-28T14:50:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:50:34"
                     },
                     "1d0bd058-5acd-405c-a66b-a414b2b147b2": {
                         "id": "1d0bd058-5acd-405c-a66b-a414b2b147b2",
                         "name": "背西步道(番子窩)",
-                        "created": "2016-06-28T14:50:49.804048",
+                        "created": "2016-06-28T14:50:49",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:50:48"
                     },
                     "1f46cac4-6659-402a-90cd-16cebbc56a54": {
                         "id": "1f46cac4-6659-402a-90cd-16cebbc56a54",
                         "name": "晨光步道",
-                        "created": "2016-06-28T14:51:04.886899",
+                        "created": "2016-06-28T14:51:04",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:51:04"
                     },
                     "cad2a24a-1560-4a65-8fe3-4801fb0c2d8f": {
                         "id": "cad2a24a-1560-4a65-8fe3-4801fb0c2d8f",
                         "name": "龍潭大池步道",
-                        "created": "2016-06-28T14:51:19.014915",
+                        "created": "2016-06-28T14:51:19",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:51:17"
                     },
                     "addf082e-8814-4a81-acd2-9b94a61b5f6e": {
                         "id": "addf082e-8814-4a81-acd2-9b94a61b5f6e",
                         "name": "大坑桐花步道",
-                        "created": "2016-06-28T14:51:43.079466",
+                        "created": "2016-06-28T14:51:43",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:51:42"
                     },
                     "6b654a20-d340-437c-af07-e974a1e41034": {
                         "id": "6b654a20-d340-437c-af07-e974a1e41034",
                         "name": "大棟山登山步道",
-                        "created": "2016-06-28T14:51:56.115529",
+                        "created": "2016-06-28T14:51:56",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:51:55"
                     },
                     "d1123d0e-8197-4b93-b245-bbc3d0d83668": {
                         "id": "d1123d0e-8197-4b93-b245-bbc3d0d83668",
                         "name": "元德寶宮登山步道",
-                        "created": "2016-06-28T14:52:08.540785",
+                        "created": "2016-06-28T14:52:08",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:52:07"
                     },
                     "14322193-2748-4982-ae6f-8448a2d259ec": {
                         "id": "14322193-2748-4982-ae6f-8448a2d259ec",
                         "name": "北天宮登山步道",
-                        "created": "2016-06-28T14:52:24.641373",
+                        "created": "2016-06-28T14:52:24",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:52:23"
                     },
                     "fada1e19-dff4-4eaf-980b-28c15fa4f157": {
                         "id": "fada1e19-dff4-4eaf-980b-28c15fa4f157",
                         "name": "石雲步道",
-                        "created": "2016-06-28T14:52:42.048234",
+                        "created": "2016-06-28T14:52:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:52:41"
                     },
                     "407de0b8-2f4b-4d7e-9269-78053fd65442": {
                         "id": "407de0b8-2f4b-4d7e-9269-78053fd65442",
                         "name": "虎頭山後山步道(含楓樹坑登山步道)",
-                        "created": "2016-06-28T14:53:01.450225",
+                        "created": "2016-06-28T14:53:01",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:53:00"
                     },
                     "f7c1a2fa-c933-45c5-a14c-ee3f9536b95d": {
                         "id": "f7c1a2fa-c933-45c5-a14c-ee3f9536b95d",
                         "name": "基北步道",
-                        "created": "2016-06-28T14:53:17.606679",
+                        "created": "2016-06-28T14:53:17",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:53:16"
                     },
                     "aabd0700-aa97-4f0f-864d-97b433d74392": {
                         "id": "aabd0700-aa97-4f0f-864d-97b433d74392",
                         "name": "新嶺山步道",
-                        "created": "2016-06-28T14:53:31.244981",
+                        "created": "2016-06-28T14:53:31",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:53:30"
                     },
                     "6ade0ca4-b14b-4957-864a-b1d31de52603": {
                         "id": "6ade0ca4-b14b-4957-864a-b1d31de52603",
                         "name": "福源山登山步道",
-                        "created": "2016-06-28T14:53:46.223349",
+                        "created": "2016-06-28T14:53:46",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:53:45"
                     },
                     "5d75162d-cdf2-45d3-85ac-4042d43dcb5c": {
                         "id": "5d75162d-cdf2-45d3-85ac-4042d43dcb5c",
                         "name": "五酒桶山步道系統六福步道",
-                        "created": "2016-06-28T14:54:11.588496",
+                        "created": "2016-06-28T14:54:11",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:54:10"
                     },
                     "cd53cdb7-bc2d-4ffc-a9c5-3f5cfe37585c": {
                         "id": "cd53cdb7-bc2d-4ffc-a9c5-3f5cfe37585c",
                         "name": "五酒桶山步道系統主要步道",
-                        "created": "2016-06-28T14:54:25.862377",
+                        "created": "2016-06-28T14:54:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:54:25"
                     },
                     "c4d43790-6307-4621-a583-496e5eaab634": {
                         "id": "c4d43790-6307-4621-a583-496e5eaab634",
                         "name": "五酒桶山步道系統知性古道",
-                        "created": "2016-06-28T14:54:41.130144",
+                        "created": "2016-06-28T14:54:41",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:54:40"
                     },
                     "4be464b0-90bf-4d2e-8876-c074193075c2": {
                         "id": "4be464b0-90bf-4d2e-8876-c074193075c2",
                         "name": "五酒桶山步道系統海山之路",
-                        "created": "2016-06-28T14:54:54.737853",
+                        "created": "2016-06-28T14:54:54",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:54:53"
                     },
                     "b4a21932-ee33-4883-a76c-29b0432ab2b5": {
                         "id": "b4a21932-ee33-4883-a76c-29b0432ab2b5",
                         "name": "五酒桶山步道系統營盤坑古道(古名和尚人崎)",
-                        "created": "2016-06-28T14:55:19.676878",
+                        "created": "2016-06-28T14:55:19",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:55:18"
                     },
                     "e848993b-a338-4bd1-b7e5-cdfbd0c47eb9": {
                         "id": "e848993b-a338-4bd1-b7e5-cdfbd0c47eb9",
                         "name": "五酒桶山步道系統環山步道",
-                        "created": "2016-06-28T14:55:35.121720",
+                        "created": "2016-06-28T14:55:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:55:34"
                     },
                     "5df02ab7-4b5d-4b07-8e5d-19321949e0a4": {
                         "id": "5df02ab7-4b5d-4b07-8e5d-19321949e0a4",
                         "name": "大古山步道",
-                        "created": "2016-06-28T14:55:53.672192",
+                        "created": "2016-06-28T14:55:53",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:55:52"
                     },
                     "621c9e38-4fd0-42d7-b653-3ea4ca890a2a": {
                         "id": "621c9e38-4fd0-42d7-b653-3ea4ca890a2a",
                         "name": "羊稠森林步道",
-                        "created": "2016-06-28T14:56:06.993753",
+                        "created": "2016-06-28T14:56:06",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:56:06"
                     },
                     "805a2a77-5e6d-43e7-b89a-49cf984ce18f": {
                         "id": "805a2a77-5e6d-43e7-b89a-49cf984ce18f",
                         "name": "長興休閒埤塘公園步道",
-                        "created": "2016-06-28T14:56:21.689210",
+                        "created": "2016-06-28T14:56:21",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:56:20"
                     },
                     "97b6eb67-b2af-4dd7-9d13-c673c2e19be3": {
                         "id": "97b6eb67-b2af-4dd7-9d13-c673c2e19be3",
                         "name": "橫坑山步道",
-                        "created": "2016-06-28T14:56:36.907067",
+                        "created": "2016-06-28T14:56:36",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:56:35"
                     },
                     "3f780b60-131b-4dfe-ab73-47865b53dfb5": {
                         "id": "3f780b60-131b-4dfe-ab73-47865b53dfb5",
                         "name": "大潭埤塘休閒步道",
-                        "created": "2016-06-28T14:56:56.292011",
+                        "created": "2016-06-28T14:56:56",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:56:55"
                     },
                     "9e538365-9d29-4b85-9169-00318e76d513": {
                         "id": "9e538365-9d29-4b85-9169-00318e76d513",
                         "name": "白沙岬燈塔周邊步道",
-                        "created": "2016-06-28T14:57:10.390700",
+                        "created": "2016-06-28T14:57:10",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:57:09"
                     },
                     "a34e2b34-6421-4c07-a03d-079a271680d3": {
                         "id": "a34e2b34-6421-4c07-a03d-079a271680d3",
                         "name": "崙坪里8-2號池埤塘步道",
-                        "created": "2016-06-28T14:57:24.817371",
+                        "created": "2016-06-28T14:57:24",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T14:57:23"
                     },
                     "9688cad0-3cfd-4dac-8b7a-0223e3445876": {
                         "id": "9688cad0-3cfd-4dac-8b7a-0223e3445876",
                         "name": "桃園市步道調查資料(軌跡檔ALL)",
-                        "created": "2016-06-28T14:57:55.362042",
+                        "created": "2016-06-28T14:57:55",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-28T17:14:52"
                     },
                     "39253e17-aa78-47f6-a361-6917b838008f": {
                         "id": "39253e17-aa78-47f6-a361-6917b838008f",
                         "name": "桃園市步道調查資料0830",
-                        "created": "2016-08-30T11:49:59.609541",
+                        "created": "2016-08-30T11:49:59",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-30T11:49:58"
                     }
@@ -16067,7 +16089,7 @@
     },
     "桃園市政府警察局": {
         "counters": {
-            "datasets": 71,
+            "datasets": 68,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -17216,63 +17238,6 @@
                     "resource_recent": 0
                 }
             },
-            "dd7014af-c552-4b51-a5f5-823620f78aae": {
-                "name": "b2d9c14f-0f11-4424-916e-78de1e7b601f",
-                "title": "桃園市交通事故-一級發布區",
-                "organization_id": "380130000c",
-                "metadata_created": "2015-10-02T02:46:56.515199",
-                "metadata_modified": "2016-03-03T01:07:10.200868",
-                "timeEnd": 1456938430,
-                "timeBegin": 1443725216,
-                "resources": {
-                    "dcb2424f-4a1e-40a6-b1f0-c56e29273b51": {
-                        "id": "dcb2424f-4a1e-40a6-b1f0-c56e29273b51",
-                        "name": "一級發佈區csv",
-                        "created": "2015-12-23T10:31:36.305073",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:31:36"
-                    },
-                    "1da57bef-69f3-48cf-9930-29364be671e4": {
-                        "id": "1da57bef-69f3-48cf-9930-29364be671e4",
-                        "name": "一級發佈區kml",
-                        "created": "2015-12-23T10:31:59.164051",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:31:58"
-                    },
-                    "223e314b-26ee-4c69-8edc-437a2fa377c0": {
-                        "id": "223e314b-26ee-4c69-8edc-437a2fa377c0",
-                        "name": "一級發佈區shapefile",
-                        "created": "2015-12-23T10:32:34.209568",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:32:33"
-                    },
-                    "282de83d-3913-4667-9d2b-ab9ed507e799": {
-                        "id": "282de83d-3913-4667-9d2b-ab9ed507e799",
-                        "name": "一級發佈區geojson",
-                        "created": "2015-12-23T10:33:01.225944",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:33:00"
-                    },
-                    "b7a8ee6b-b924-4d6b-b3f0-7d1d56313c5c": {
-                        "id": "b7a8ee6b-b924-4d6b-b3f0-7d1d56313c5c",
-                        "name": "一級發佈區地理服務",
-                        "created": "2015-12-23T10:33:27.350525",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:33:27"
-                    },
-                    "2e2ae3cb-42b3-4d37-b9d8-0eede05caa52": {
-                        "id": "2e2ae3cb-42b3-4d37-b9d8-0eede05caa52",
-                        "name": "一級發佈區ArcGIS ",
-                        "created": "2015-12-23T10:33:51.386108",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-28T13:56:54"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "00b58536-5d2c-4ec7-a7b2-227aedfffc86": {
                 "name": "b48d6e3a-e5e7-42ed-b166-d7c62e91b8f1",
                 "title": "桃園市刑事案件",
@@ -17622,63 +17587,6 @@
                     "resource_recent": 0
                 }
             },
-            "32e5ca95-7240-4500-959b-c9a27d4a6dd3": {
-                "name": "d0506f04-3529-41b1-b76c-d06b88dd9c7a",
-                "title": "桃園市交通事故-最小統計區",
-                "organization_id": "380130000c",
-                "metadata_created": "2015-10-02T02:44:29.346227",
-                "metadata_modified": "2016-01-06T04:22:56.955321",
-                "timeEnd": 1452025376,
-                "timeBegin": 1443725069,
-                "resources": {
-                    "9b42df3c-e6b6-4df2-82be-e6599a3a6853": {
-                        "id": "9b42df3c-e6b6-4df2-82be-e6599a3a6853",
-                        "name": "最小統計區csv",
-                        "created": "2015-12-23T10:27:23.605490",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:27:23"
-                    },
-                    "921084e6-a464-425a-bde9-7af8a7aa7667": {
-                        "id": "921084e6-a464-425a-bde9-7af8a7aa7667",
-                        "name": "最小統計區kml",
-                        "created": "2015-12-23T10:27:52.188979",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:27:51"
-                    },
-                    "a0bfcf8c-8812-420f-8256-cc05f0997f3e": {
-                        "id": "a0bfcf8c-8812-420f-8256-cc05f0997f3e",
-                        "name": "最小統計區shapefile",
-                        "created": "2015-12-23T10:28:33.542670",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:28:33"
-                    },
-                    "0b0ed64e-3eab-4f2a-960a-888527a07797": {
-                        "id": "0b0ed64e-3eab-4f2a-960a-888527a07797",
-                        "name": "最小統計區geojson",
-                        "created": "2015-12-23T10:29:31.818363",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:29:31"
-                    },
-                    "51bcc9f5-0aa8-4813-8423-d5c166a62c7a": {
-                        "id": "51bcc9f5-0aa8-4813-8423-d5c166a62c7a",
-                        "name": "最小統計區地理服務",
-                        "created": "2015-12-23T10:30:03.256671",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:30:03"
-                    },
-                    "4a1ab815-23a4-470d-9b95-3ad45be38723": {
-                        "id": "4a1ab815-23a4-470d-9b95-3ad45be38723",
-                        "name": "最小統計區ArcGIS ",
-                        "created": "2015-12-23T10:30:34.149078",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-28T13:57:03"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "df6c7371-25e0-4b6c-bcab-04d09830e764": {
                 "name": "dca1b5d4-27df-434e-9bd1-6081ed2e65d0",
                 "title": "桃園市政府警察局103年主管預算表",
@@ -17921,63 +17829,6 @@
                     "resource_recent": 0
                 }
             },
-            "77db9521-e1f9-4f7c-85f7-33d5197c08ca": {
-                "name": "f9d310b6-8f84-479a-b26d-e32e8c0e9b91",
-                "title": "桃園市交通事故-二級發布區",
-                "organization_id": "380130000c",
-                "metadata_created": "2015-10-02T02:48:32.959013",
-                "metadata_modified": "2016-03-03T01:06:31.878819",
-                "timeEnd": 1456938391,
-                "timeBegin": 1443725312,
-                "resources": {
-                    "ead4d89b-90b5-4db3-8525-e514dcb6f699": {
-                        "id": "ead4d89b-90b5-4db3-8525-e514dcb6f699",
-                        "name": "二級發佈區csv",
-                        "created": "2015-12-23T10:34:52.279777",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:34:52"
-                    },
-                    "76c39e8b-71f6-4583-8d0e-4f51b5482887": {
-                        "id": "76c39e8b-71f6-4583-8d0e-4f51b5482887",
-                        "name": "二級發佈區kml",
-                        "created": "2015-12-23T10:35:22.684384",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:35:22"
-                    },
-                    "05b39af9-f5c4-476a-a6fd-255146155e94": {
-                        "id": "05b39af9-f5c4-476a-a6fd-255146155e94",
-                        "name": "二級發佈區shapefile",
-                        "created": "2015-12-23T10:36:08.476388",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:36:08"
-                    },
-                    "e46b5544-2578-4414-9791-c5fbb9f93413": {
-                        "id": "e46b5544-2578-4414-9791-c5fbb9f93413",
-                        "name": "二級發佈區geojson",
-                        "created": "2015-12-23T10:36:37.443934",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:36:37"
-                    },
-                    "44a76784-4d80-42b9-a224-eebce88183bc": {
-                        "id": "44a76784-4d80-42b9-a224-eebce88183bc",
-                        "name": "二級發佈區地理服務",
-                        "created": "2015-12-23T10:37:02.407599",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-23T10:37:02"
-                    },
-                    "5fc78514-cc2c-4167-88f8-f453f80e7aeb": {
-                        "id": "5fc78514-cc2c-4167-88f8-f453f80e7aeb",
-                        "name": "二級發佈區ArcGIS ",
-                        "created": "2015-12-23T10:38:37.005292",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-28T13:56:44"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "d4343eab-492e-444c-b3f0-c267f90d2bb4": {
                 "name": "fb3c9281-eeb6-47e6-a9eb-70ada9413cc7",
                 "title": "桃園市汽車竊盜點位",
@@ -18082,8 +17933,8 @@
                 "title": "桃園市有財產統計表",
                 "organization_id": "380030000d",
                 "metadata_created": "2015-09-18T02:47:49.060557",
-                "metadata_modified": "2016-10-14T06:10:16.081507",
-                "timeEnd": 1476424766,
+                "metadata_modified": "2016-11-02T03:42:22.749540",
+                "timeEnd": 1478029342,
                 "timeBegin": 1442515669,
                 "resources": {
                     "540527bc-a3be-4d5a-b4a8-c1c982d8ee77": {
@@ -18310,17 +18161,17 @@
             },
             "51e24172-8da3-4ec6-9aff-6ec85116ee92": {
                 "name": "f717dca7-1f15-4476-a807-7da3bd9d30e3",
-                "title": "桃園市休閒牧場",
+                "title": "桃園市休閒畜牧場",
                 "organization_id": "380270000g",
                 "metadata_created": "2015-10-07T02:33:25.176275",
-                "metadata_modified": "2016-10-26T08:04:52.129928",
-                "timeEnd": 1477469167,
+                "metadata_modified": "2016-11-02T03:39:34.701942",
+                "timeEnd": 1478029174,
                 "timeBegin": 1444156405,
                 "resources": {
                     "2d28422c-7959-4d4a-ad7f-1dcc4ae3b10f": {
                         "id": "2d28422c-7959-4d4a-ad7f-1dcc4ae3b10f",
                         "name": "桃園市休閒畜牧場",
-                        "created": "2015-12-09T11:17:49.603457",
+                        "created": "2015-12-09T11:17:49",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-26T16:06:07"
                     }
@@ -21081,5 +20932,5 @@
             }
         }
     },
-    "time_generated": 1478035899
+    "time_generated": 1478122397
 }
