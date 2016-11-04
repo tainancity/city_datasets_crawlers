@@ -7574,7 +7574,7 @@
     },
     "桃園市政府水務局": {
         "counters": {
-            "datasets": 10,
+            "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -7906,6 +7906,35 @@
                         "created": "2016-08-08T14:46:25.103963",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-08T14:51:02"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fb3204dc-d9e4-484e-9bfc-59d6a14a89af": {
+                "name": "fb3204dc-d9e4-484e-9bfc-59d6a14a89af",
+                "title": "市管河川主要橋樑計畫洪水位",
+                "organization_id": "380250000g",
+                "metadata_created": "2016-11-04T07:07:08.534496",
+                "metadata_modified": "2016-11-04T08:30:40.179879",
+                "timeEnd": 1478248315,
+                "timeBegin": 1478214428,
+                "resources": {
+                    "367179aa-f437-4ddd-b243-181961bbd8e1": {
+                        "id": "367179aa-f437-4ddd-b243-181961bbd8e1",
+                        "name": "市管河川主要橋樑計畫洪水位-觀音溪.csv",
+                        "created": "2016-11-04T15:10:32",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-04T15:10:32"
+                    },
+                    "d3149258-39a1-4269-9b63-65ce880371d8": {
+                        "id": "d3149258-39a1-4269-9b63-65ce880371d8",
+                        "name": "市管河川主要橋樑計畫洪水位-社子溪.csv",
+                        "created": "2016-11-04T16:26:58",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-04T16:31:55"
                     }
                 },
                 "counters": {
@@ -8533,8 +8562,8 @@
                 "title": "桃園市地震斷層帶圖資",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-11T07:37:18.385000",
-                "metadata_modified": "2016-11-02T05:37:20.149562",
-                "timeEnd": 1478065088,
+                "metadata_modified": "2016-11-04T00:47:47.054032",
+                "timeEnd": 1478191667,
                 "timeBegin": 1462923438,
                 "resources": {
                     "5f4bc93b-8a5f-4e74-8e89-6c96c46da98f": {
@@ -8935,16 +8964,16 @@
                 "title": "桃園市政府消防局人民申請案統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:12:49.480926",
-                "metadata_modified": "2016-11-02T05:34:42.846261",
-                "timeEnd": 1478036082,
+                "metadata_modified": "2016-11-04T00:26:48.900918",
+                "timeEnd": 1478219265,
                 "timeBegin": 1462302769,
                 "resources": {
-                    "f566adca-2555-46c1-9e0c-a4d1cee4bdbc": {
-                        "id": "f566adca-2555-46c1-9e0c-a4d1cee4bdbc",
-                        "name": "桃園市政府消防局人民申請案統計表.csv",
-                        "created": "2016-09-21T08:40:57",
+                    "8b27865f-570e-46f4-a78d-80d1c386a687": {
+                        "id": "8b27865f-570e-46f4-a78d-80d1c386a687",
+                        "name": "31243桃園市政府消防局人民申請案統計表10508.csv",
+                        "created": "2016-11-04T08:27:45",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-21T08:40:57"
+                        "last_modified": "2016-11-04T08:27:45"
                     }
                 },
                 "counters": {
@@ -10033,8 +10062,8 @@
                 "title": "10\/27測試資料集用",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-01-18T06:02:34.247037",
-                "metadata_modified": "2016-10-31T06:26:53.846328",
-                "timeEnd": 1477895289,
+                "metadata_modified": "2016-11-04T02:12:26.687067",
+                "timeEnd": 1478225621,
                 "timeBegin": 1453068154,
                 "resources": {
                     "477781fb-5c83-42ca-bf64-0a23e53448b1": {
@@ -10064,6 +10093,13 @@
                         "created": "2016-10-31T14:27:22",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-31T14:28:09"
+                    },
+                    "f2a6dd19-5b35-4d38-a793-a65b8eb0b804": {
+                        "id": "f2a6dd19-5b35-4d38-a793-a65b8eb0b804",
+                        "name": "平均每戶家庭收支-支出 (91-97年).csv",
+                        "created": "2016-11-04T10:13:16",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-04T10:13:41"
                     }
                 },
                 "counters": {
@@ -11522,16 +11558,16 @@
                 "title": "桃園市社區發展協會名冊",
                 "organization_id": "380120000j",
                 "metadata_created": "2016-06-07T06:58:36.236724",
-                "metadata_modified": "2016-06-14T06:43:03.926869",
-                "timeEnd": 1465857783,
+                "metadata_modified": "2016-11-04T02:37:03.662316",
+                "timeEnd": 1478227079,
                 "timeBegin": 1465253916,
                 "resources": {
-                    "ea81c406-87a5-4b62-8587-b5231bb2dec2": {
-                        "id": "ea81c406-87a5-4b62-8587-b5231bb2dec2",
-                        "name": "本市社區發展協會電話、會址、理事長、附設單位等相關資訊",
-                        "created": "2016-06-13T16:36:35.106968",
+                    "da72e5cd-bce4-4641-96bb-a507708dd1ca": {
+                        "id": "da72e5cd-bce4-4641-96bb-a507708dd1ca",
+                        "name": "桃園市社區發展協會名冊.csv",
+                        "created": "2016-11-04T10:37:59",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-13T16:36:34"
+                        "last_modified": "2016-11-04T10:37:59"
                     }
                 },
                 "counters": {
@@ -16218,16 +16254,16 @@
                 "title": "桃園市政府警察局路口監視器",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T03:44:15.922334",
-                "metadata_modified": "2016-09-23T02:59:57.912434",
-                "timeEnd": 1474599667,
+                "metadata_modified": "2016-11-04T06:52:24.034560",
+                "timeEnd": 1478242327,
                 "timeBegin": 1443642255,
                 "resources": {
                     "b6c7cec3-3d73-478b-8197-276eef534a80": {
                         "id": "b6c7cec3-3d73-478b-8197-276eef534a80",
-                        "name": "監視器1050923.csv",
-                        "created": "2015-10-01T11:44:44.978193",
+                        "name": "桃園市政府警察局路口監視器.csv",
+                        "created": "2015-10-01T11:44:44",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-23T11:01:07"
+                        "last_modified": "2016-11-04T14:52:07"
                     }
                 },
                 "counters": {
@@ -16240,16 +16276,16 @@
                 "title": "桃園市各區現住人口年齡分配",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T01:40:32.202543",
-                "metadata_modified": "2016-01-06T06:14:22.403397",
-                "timeEnd": 1452032062,
+                "metadata_modified": "2016-11-04T03:38:19.254008",
+                "timeEnd": 1478230774,
                 "timeBegin": 1443634832,
                 "resources": {
-                    "8b97713b-5b15-4ba0-a31e-9a13c4d656a4": {
-                        "id": "8b97713b-5b15-4ba0-a31e-9a13c4d656a4",
-                        "name": "本市各區人口年齡分配",
-                        "created": "2015-12-29T10:38:55.257575",
+                    "72163719-e0cd-4ffe-ba8b-cd40a8028496": {
+                        "id": "72163719-e0cd-4ffe-ba8b-cd40a8028496",
+                        "name": "桃園市各區現住人口年齡分配.csv",
+                        "created": "2016-11-04T11:39:34",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-04T14:52:04"
+                        "last_modified": "2016-11-04T11:39:34"
                     }
                 },
                 "counters": {
@@ -16306,16 +16342,16 @@
                 "title": "桃園市各區現住人口性別比例及人口密度",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T01:33:44.879178",
-                "metadata_modified": "2016-01-06T06:13:59.207525",
-                "timeEnd": 1452032039,
+                "metadata_modified": "2016-11-04T02:53:57.087371",
+                "timeEnd": 1478228112,
                 "timeBegin": 1443634424,
                 "resources": {
                     "0652efc5-bbd3-43f6-826d-45b9961dbbd5": {
                         "id": "0652efc5-bbd3-43f6-826d-45b9961dbbd5",
-                        "name": "本市各區現住人口、性別比例及人口密度",
-                        "created": "2016-01-05T09:27:09.131801",
+                        "name": "桃園市各區現住人口性別比例及人口密度.csv",
+                        "created": "2016-01-05T09:27:09",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-05T09:27:08"
+                        "last_modified": "2016-11-04T10:55:12"
                     }
                 },
                 "counters": {
@@ -16357,16 +16393,16 @@
                 "title": "桃園市政府警察局員工總人數",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T03:24:02.056920",
-                "metadata_modified": "2016-01-08T02:57:38.672632",
-                "timeEnd": 1452193058,
+                "metadata_modified": "2016-11-04T06:39:37.864319",
+                "timeEnd": 1478241573,
                 "timeBegin": 1443641042,
                 "resources": {
                     "ecfcd0a0-43cc-4703-abc0-301ce90c21a2": {
                         "id": "ecfcd0a0-43cc-4703-abc0-301ce90c21a2",
-                        "name": "  本局員工總人數",
-                        "created": "2016-01-06T11:23:50.809753",
+                        "name": "桃園市政府警察局員工總人數.csv",
+                        "created": "2016-01-06T11:23:50",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-06T11:23:34"
+                        "last_modified": "2016-11-04T14:39:33"
                     }
                 },
                 "counters": {
@@ -16401,16 +16437,16 @@
                 "title": "桃園市固定式測速照相",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T01:16:22.814585",
-                "metadata_modified": "2016-01-08T03:00:35.270956",
-                "timeEnd": 1452193235,
+                "metadata_modified": "2016-11-04T06:33:38.051457",
+                "timeEnd": 1478241146,
                 "timeBegin": 1443633382,
                 "resources": {
                     "6c002322-c486-4671-91b8-c3a6247c69c9": {
                         "id": "6c002322-c486-4671-91b8-c3a6247c69c9",
-                        "name": "固定式測速照相",
-                        "created": "2015-10-01T09:17:06.209072",
+                        "name": "桃園市固定式測速照相.csv",
+                        "created": "2015-10-01T09:17:06",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-04T13:50:35"
+                        "last_modified": "2016-11-04T14:32:26"
                     }
                 },
                 "counters": {
@@ -16907,16 +16943,16 @@
                 "title": "桃園市境界",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T01:22:43.573441",
-                "metadata_modified": "2016-01-06T06:13:38.486706",
-                "timeEnd": 1452032018,
+                "metadata_modified": "2016-11-04T05:13:13.407179",
+                "timeEnd": 1478236313,
                 "timeBegin": 1443633763,
                 "resources": {
                     "b154c3f6-f3c8-47c3-b502-e6b619ec204b": {
                         "id": "b154c3f6-f3c8-47c3-b502-e6b619ec204b",
-                        "name": "本市邊界",
-                        "created": "2016-01-04T15:12:46.621612",
+                        "name": "桃園市境界.csv",
+                        "created": "2016-01-04T15:12:46",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-04T15:12:46"
+                        "last_modified": "2016-11-04T13:11:53"
                     }
                 },
                 "counters": {
@@ -17162,16 +17198,16 @@
                 "title": "桃園市政府警察局轄區現住人口年齡分配",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T01:47:33.378101",
-                "metadata_modified": "2016-01-08T02:59:15.633812",
-                "timeEnd": 1452193155,
+                "metadata_modified": "2016-11-04T06:44:18.542056",
+                "timeEnd": 1478241821,
                 "timeBegin": 1443635253,
                 "resources": {
                     "b77e2476-e7fb-44dd-ae9a-695061f82a1d": {
                         "id": "b77e2476-e7fb-44dd-ae9a-695061f82a1d",
-                        "name": "本局轄區人口年齡分配",
-                        "created": "2016-01-04T15:03:37.476548",
+                        "name": "桃園市政府警察局轄區現住人口年齡分配.csv",
+                        "created": "2016-01-04T15:03:37",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-04T15:03:37"
+                        "last_modified": "2016-11-04T14:43:41"
                     }
                 },
                 "counters": {
@@ -17316,16 +17352,16 @@
                 "title": "桃園市政府警察局轄區現住人口、性別比例及人口密度",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T01:36:52.305995",
-                "metadata_modified": "2016-01-28T02:29:51.437799",
-                "timeEnd": 1453919391,
+                "metadata_modified": "2016-11-04T07:01:18.205451",
+                "timeEnd": 1478242901,
                 "timeBegin": 1443634612,
                 "resources": {
                     "a3e10e44-f877-48fe-9e2b-3a4d262d601f": {
                         "id": "a3e10e44-f877-48fe-9e2b-3a4d262d601f",
-                        "name": "本局轄區現住人口、性別比例及人口密度",
-                        "created": "2016-01-05T09:24:45.316813",
+                        "name": "桃園市政府警察局轄區現住人口、性別比例及人口密度.csv",
+                        "created": "2016-01-05T09:24:45",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-05T09:24:45"
+                        "last_modified": "2016-11-04T15:01:41"
                     }
                 },
                 "counters": {
@@ -17511,16 +17547,16 @@
                 "title": "桃園市A1及A2類道路交通事故件數－按肇事場所別",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T02:43:14.707093",
-                "metadata_modified": "2016-01-06T06:12:11.170326",
-                "timeEnd": 1452031931,
+                "metadata_modified": "2016-11-04T02:51:06.425131",
+                "timeEnd": 1478226902,
                 "timeBegin": 1443638594,
                 "resources": {
                     "59d3afd4-eb3e-47ba-aa9d-ec01381d0ec4": {
                         "id": "59d3afd4-eb3e-47ba-aa9d-ec01381d0ec4",
-                        "name": "本市A1及A2類道路交通事故-按肇事場所別",
-                        "created": "2016-01-05T10:56:39.703266",
+                        "name": "桃園市A1及A2類道路交通事故件數－按肇事場所別.csv",
+                        "created": "2016-01-05T10:56:39",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-05T10:56:39"
+                        "last_modified": "2016-11-04T10:35:02"
                     }
                 },
                 "counters": {
@@ -17555,16 +17591,16 @@
                 "title": "桃園市十大易肇事路段(口)",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-03-16T03:39:09.888396",
-                "metadata_modified": "2016-10-12T02:21:41.231793",
-                "timeEnd": 1476210101,
+                "metadata_modified": "2016-11-04T02:51:41.996983",
+                "timeEnd": 1478225019,
                 "timeBegin": 1458070749,
                 "resources": {
                     "ac4b4c24-d08f-47c6-9d41-b83fc40645a0": {
                         "id": "ac4b4c24-d08f-47c6-9d41-b83fc40645a0",
-                        "name": "桃園市十大易肇事路段(口)",
+                        "name": "桃園市十大易肇事路段(口).csv",
                         "created": "2016-03-16T18:50:57",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-03-16T18:50:26"
+                        "last_modified": "2016-11-04T10:03:39"
                     }
                 },
                 "counters": {
@@ -17577,16 +17613,16 @@
                 "title": "桃園市政府警察局公務人員－按學歷別",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T03:33:27.363600",
-                "metadata_modified": "2016-01-08T02:57:56.311153",
-                "timeEnd": 1452193076,
+                "metadata_modified": "2016-11-04T05:32:58.420508",
+                "timeEnd": 1478237549,
                 "timeBegin": 1443641607,
                 "resources": {
                     "8f23a876-3ba8-4659-abf3-d17f5fda7bcd": {
                         "id": "8f23a876-3ba8-4659-abf3-d17f5fda7bcd",
-                        "name": "本局公務人員-按學歷別",
-                        "created": "2016-01-06T11:13:17.144530",
+                        "name": "桃園市政府警察局公務人員－按學歷別.csv",
+                        "created": "2016-01-06T11:13:17",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-06T11:13:01"
+                        "last_modified": "2016-11-04T13:32:29"
                     }
                 },
                 "counters": {
@@ -17599,16 +17635,16 @@
                 "title": "桃園市政府警察局公務人員－按性別及年齡別",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T03:26:32.114706",
-                "metadata_modified": "2016-01-08T02:58:36.195413",
-                "timeEnd": 1452193116,
+                "metadata_modified": "2016-11-04T05:27:11.495953",
+                "timeEnd": 1478237218,
                 "timeBegin": 1443641192,
                 "resources": {
                     "869b8391-273c-4ec7-b345-2beea6bb7f91": {
                         "id": "869b8391-273c-4ec7-b345-2beea6bb7f91",
-                        "name": "本局公務人員-按性別及年齡別",
-                        "created": "2016-01-06T10:46:18.797563",
+                        "name": "桃園市政府警察局公務人員－按性別及年齡別.csv",
+                        "created": "2016-01-06T10:46:18",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-06T10:46:02"
+                        "last_modified": "2016-11-04T13:26:58"
                     }
                 },
                 "counters": {
@@ -17753,16 +17789,16 @@
                 "title": "桃園市政府警察局為民服務成果",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T03:08:03.263885",
-                "metadata_modified": "2016-01-08T02:59:45.222674",
-                "timeEnd": 1452193185,
+                "metadata_modified": "2016-11-04T05:35:58.897834",
+                "timeEnd": 1478237779,
                 "timeBegin": 1443640083,
                 "resources": {
                     "a2b0dfd0-ea01-46cd-8665-309f9ac70d41": {
                         "id": "a2b0dfd0-ea01-46cd-8665-309f9ac70d41",
-                        "name": "本市為民服務成果",
-                        "created": "2016-01-06T11:37:52.196056",
+                        "name": "桃園市政府警察局為民服務成果.csv",
+                        "created": "2016-01-06T11:37:52",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-06T11:37:35"
+                        "last_modified": "2016-11-04T13:36:19"
                     }
                 },
                 "counters": {
@@ -17775,16 +17811,16 @@
                 "title": "桃園市政府警察局公務人員－按職等別",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T03:37:22.871584",
-                "metadata_modified": "2016-01-08T02:58:20.083650",
-                "timeEnd": 1452193100,
+                "metadata_modified": "2016-11-04T05:18:02.656247",
+                "timeEnd": 1478236653,
                 "timeBegin": 1443641842,
                 "resources": {
                     "27d94919-a91d-44d1-b9dc-df15f6748ba0": {
                         "id": "27d94919-a91d-44d1-b9dc-df15f6748ba0",
-                        "name": "本局公務人員-按職等別",
-                        "created": "2016-01-06T11:06:32.983052",
+                        "name": "桃園市政府警察局公務人員－按職等別.csv",
+                        "created": "2016-01-06T11:06:32",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-06T11:06:16"
+                        "last_modified": "2016-11-04T13:17:33"
                     }
                 },
                 "counters": {
@@ -20961,5 +20997,5 @@
             }
         }
     },
-    "time_generated": 1478208762
+    "time_generated": 1478295184
 }
