@@ -7031,11 +7031,11 @@
             },
             "4cb90cad-1de8-4dcb-91ed-fed03e7f5b9c": {
                 "name": "25510eb5-8600-40fb-a355-66e512df5e0b",
-                "title": "桃園市第1屆里長通訊錄",
+                "title": "桃園市各區現住原住民統計表",
                 "organization_id": "380020000a",
                 "metadata_created": "2016-08-09T06:11:29.204642",
-                "metadata_modified": "2016-09-13T05:27:51.048521",
-                "timeEnd": 1473744183,
+                "metadata_modified": "2016-11-10T06:15:27.163703",
+                "timeEnd": 1478758527,
                 "timeBegin": 1470694289,
                 "resources": {
                     "b4d3fb23-361f-4692-93a5-887f8c43dba7": {
@@ -7058,6 +7058,13 @@
                         "created": "2016-09-13T13:23:03",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-13T13:23:03"
+                    },
+                    "12392d6b-989c-4b45-9a50-0c055835e815": {
+                        "id": "12392d6b-989c-4b45-9a50-0c055835e815",
+                        "name": "原住民族別.csv",
+                        "created": "2016-11-10T14:15:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-10T14:15:27"
                     }
                 },
                 "counters": {
@@ -7177,51 +7184,51 @@
                 "title": "桃園市各區結離婚統計",
                 "organization_id": "380020000a",
                 "metadata_created": "2016-02-02T01:55:48.871302",
-                "metadata_modified": "2016-09-01T01:50:58.190656",
-                "timeEnd": 1472665858,
+                "metadata_modified": "2016-11-10T08:00:40.417565",
+                "timeEnd": 1478764840,
                 "timeBegin": 1454349348,
                 "resources": {
                     "3e9f6bb6-3531-4f54-aee7-fca697a0dfeb": {
                         "id": "3e9f6bb6-3531-4f54-aee7-fca697a0dfeb",
-                        "name": " 102結婚對數",
-                        "created": "2016-02-02T09:58:08.349097",
+                        "name": "102年結婚對數",
+                        "created": "2016-02-02T09:58:08",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-02T09:57:52"
+                        "last_modified": "2016-11-10T15:56:05"
                     },
                     "b7beda49-4fb7-49e7-ab53-ea61b72ad462": {
                         "id": "b7beda49-4fb7-49e7-ab53-ea61b72ad462",
-                        "name": "102離婚對數",
-                        "created": "2016-02-02T09:58:23.149038",
+                        "name": "102年離婚對數",
+                        "created": "2016-02-02T09:58:23",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-02T09:58:07"
+                        "last_modified": "2016-11-10T15:56:28"
                     },
                     "c9ad2822-8a15-42f3-bacc-0454f2c09380": {
                         "id": "c9ad2822-8a15-42f3-bacc-0454f2c09380",
-                        "name": "103結婚對數 ",
-                        "created": "2016-02-02T09:58:52.498166",
+                        "name": "103年結婚對數",
+                        "created": "2016-02-02T09:58:52",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-02T09:58:50"
+                        "last_modified": "2016-11-10T15:57:07"
                     },
                     "ea8bc9c7-e57c-44a6-b36f-83b96c735746": {
                         "id": "ea8bc9c7-e57c-44a6-b36f-83b96c735746",
-                        "name": "103離婚對數",
-                        "created": "2016-02-02T09:59:19.159878",
+                        "name": "103年離婚對數",
+                        "created": "2016-02-02T09:59:19",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-02T09:59:03"
+                        "last_modified": "2016-11-10T15:58:23"
                     },
                     "47690572-fa4f-4352-ab94-e35dbc633454": {
                         "id": "47690572-fa4f-4352-ab94-e35dbc633454",
-                        "name": "104結婚對數",
-                        "created": "2016-02-02T09:59:34.580856",
+                        "name": "104年結婚對數",
+                        "created": "2016-02-02T09:59:34",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-02T09:59:19"
+                        "last_modified": "2016-11-10T16:00:12"
                     },
                     "b83a3bee-44dc-4dfe-a65e-95dcfa76a29a": {
                         "id": "b83a3bee-44dc-4dfe-a65e-95dcfa76a29a",
-                        "name": "104離婚對數",
-                        "created": "2016-02-02T09:59:51.612897",
+                        "name": "104年離婚對數",
+                        "created": "2016-02-02T09:59:51",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-02T09:59:36"
+                        "last_modified": "2016-11-10T16:00:40"
                     }
                 },
                 "counters": {
@@ -7316,33 +7323,19 @@
             },
             "5decd03c-bed1-4970-a369-112c8e3e5a2d": {
                 "name": "4d6e4865-8d30-4e98-a737-d9f33376fae4",
-                "title": "桃園市人口統計",
+                "title": "桃園市人口與戶籍動態登記",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T07:04:22.788274",
-                "metadata_modified": "2016-10-04T00:33:14.715777",
-                "timeEnd": 1475541264,
+                "metadata_modified": "2016-11-10T07:14:04.948022",
+                "timeEnd": 1478750582,
                 "timeBegin": 1443740662,
                 "resources": {
-                    "eda1e26b-6927-460d-a008-8abaf0d57137": {
-                        "id": "eda1e26b-6927-460d-a008-8abaf0d57137",
-                        "name": "10508原住民人口統計.csv",
-                        "created": "2015-12-09T09:02:42",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-10-03T15:17:21"
-                    },
                     "e336f294-bade-4207-bb70-cedf660ba47e": {
                         "id": "e336f294-bade-4207-bb70-cedf660ba47e",
-                        "name": "10508人口數.csv",
+                        "name": "10510人口數.csv",
                         "created": "2015-12-09T09:04:43",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-03T15:18:06"
-                    },
-                    "0c85d03b-9d05-4c54-ada5-4250980c4cf9": {
-                        "id": "0c85d03b-9d05-4c54-ada5-4250980c4cf9",
-                        "name": "10508里鄰戶人口數.csv",
-                        "created": "2016-06-23T14:17:50",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-10-04T08:34:24"
+                        "last_modified": "2016-11-10T12:03:02"
                     }
                 },
                 "counters": {
@@ -7355,16 +7348,16 @@
                 "title": "桃園市第1屆里長通訊錄",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T05:42:44.567754",
-                "metadata_modified": "2016-08-31T02:56:19.074458",
-                "timeEnd": 1472583379,
+                "metadata_modified": "2016-11-10T07:34:22.748010",
+                "timeEnd": 1478763262,
                 "timeBegin": 1443735764,
                 "resources": {
                     "5f15ca2e-85a2-4668-81fc-751ca5b577a3": {
                         "id": "5f15ca2e-85a2-4668-81fc-751ca5b577a3",
-                        "name": "桃園市第1屆里長通訊錄   ",
-                        "created": "2016-08-26T09:27:33.704104",
+                        "name": "桃園市第1屆里長通訊錄",
+                        "created": "2016-08-26T09:27:33",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-08-26T09:27:33"
+                        "last_modified": "2016-11-10T15:34:22"
                     }
                 },
                 "counters": {
@@ -7472,14 +7465,14 @@
                 "title": "桃園市復興區第1屆區民代表通訊錄",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T06:20:17.798252",
-                "metadata_modified": "2016-09-07T06:06:45.491206",
-                "timeEnd": 1473228405,
+                "metadata_modified": "2016-11-10T07:21:12.528356",
+                "timeEnd": 1478733672,
                 "timeBegin": 1443738017,
                 "resources": {
                     "cd13cd9f-e494-4273-9527-617f87ba7146": {
                         "id": "cd13cd9f-e494-4273-9527-617f87ba7146",
                         "name": "桃園市復興區第1屆區民代表通訊錄",
-                        "created": "2015-10-02T14:21:21.666089",
+                        "created": "2015-10-02T14:21:21",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-07T14:06:45"
                     }
@@ -7516,14 +7509,14 @@
                 "title": "桃園市各役政單位聯絡清冊",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-12-25T05:45:47.420638",
-                "metadata_modified": "2016-03-04T00:31:39.187693",
-                "timeEnd": 1457022699,
+                "metadata_modified": "2016-11-10T07:41:04.940945",
+                "timeEnd": 1478734864,
                 "timeBegin": 1450993547,
                 "resources": {
                     "0b105e3b-3740-4e2a-842c-d07cab9e0137": {
                         "id": "0b105e3b-3740-4e2a-842c-d07cab9e0137",
                         "name": "桃園市各役政聯絡清冊",
-                        "created": "2015-12-25T13:46:23.758205",
+                        "created": "2015-12-25T13:46:23",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-25T13:51:25"
                     }
@@ -7925,8 +7918,8 @@
                 "title": "市管河川主要橋樑計畫洪水位",
                 "organization_id": "380250000g",
                 "metadata_created": "2016-11-04T07:07:08.534496",
-                "metadata_modified": "2016-11-04T08:30:40.179879",
-                "timeEnd": 1478248315,
+                "metadata_modified": "2016-11-10T08:44:40.212269",
+                "timeEnd": 1478767480,
                 "timeBegin": 1478214428,
                 "resources": {
                     "367179aa-f437-4ddd-b243-181961bbd8e1": {
@@ -7941,7 +7934,7 @@
                         "name": "市管河川主要橋樑計畫洪水位-社子溪.csv",
                         "created": "2016-11-04T16:26:58",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-04T16:31:55"
+                        "last_modified": "2016-11-10T16:44:40"
                     }
                 },
                 "counters": {
@@ -7965,21 +7958,14 @@
                 "title": "桃園市政府104年度消費爭議申訴案暨調解案件類型分析",
                 "organization_id": "380430000a",
                 "metadata_created": "2015-10-08T02:30:16.901979",
-                "metadata_modified": "2016-03-31T05:51:31.722956",
-                "timeEnd": 1459403461,
+                "metadata_modified": "2016-11-10T03:45:56.147048",
+                "timeEnd": 1478720756,
                 "timeBegin": 1444242616,
                 "resources": {
-                    "521c48c6-64fe-476c-b851-e0457dc9a298": {
-                        "id": "521c48c6-64fe-476c-b851-e0457dc9a298",
-                        "name": "桃園市政府104年度消費爭議申訴案暨調解案類型分析(104年1~12月)",
-                        "created": "2016-03-31T11:13:33.414170",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-03-31T11:13:02"
-                    },
                     "3b61291a-bb08-4c04-b093-feadbf43bd0c": {
                         "id": "3b61291a-bb08-4c04-b093-feadbf43bd0c",
                         "name": " 桃園市政府104年度消費爭議申訴案暨調解案類型分析",
-                        "created": "2016-03-31T13:49:01.351528",
+                        "created": "2016-03-31T13:49:01",
                         "webstore_last_updated": null,
                         "last_modified": "2016-03-31T13:51:01"
                     }
@@ -7994,21 +7980,14 @@
                 "title": "桃園市政府免費法律諮詢服務時間及地點",
                 "organization_id": "380430000a",
                 "metadata_created": "2015-09-18T03:37:50.961668",
-                "metadata_modified": "2016-04-25T02:47:23.826454",
-                "timeEnd": 1461552438,
+                "metadata_modified": "2016-11-10T02:56:35.060126",
+                "timeEnd": 1478717795,
                 "timeBegin": 1442518670,
                 "resources": {
-                    "8a719319-8b83-44dc-b7bb-fdc468d069cf": {
-                        "id": "8a719319-8b83-44dc-b7bb-fdc468d069cf",
-                        "name": "104年桃園市政府免費法律諮詢服務時間及地點",
-                        "created": "2015-12-18T14:15:03.035521",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-12-18T14:15:02"
-                    },
                     "3a690787-b406-4799-9797-d58eab633c96": {
                         "id": "3a690787-b406-4799-9797-d58eab633c96",
                         "name": "105年桃園市政府免費法律諮詢服務時間及地點",
-                        "created": "2016-04-25T10:47:18.670377",
+                        "created": "2016-04-25T10:47:18",
                         "webstore_last_updated": null,
                         "last_modified": "2016-04-25T10:47:18"
                     }
@@ -11634,8 +11613,8 @@
                 "title": "桃園市締盟城市締結資料",
                 "organization_id": "380010000a",
                 "metadata_created": "2015-10-06T03:18:35.203453",
-                "metadata_modified": "2016-11-08T06:07:29.608335",
-                "timeEnd": 1478585109,
+                "metadata_modified": "2016-11-10T08:57:49.142170",
+                "timeEnd": 1478739469,
                 "timeBegin": 1444072715,
                 "resources": {
                     "3f170597-28f8-4dfa-afc3-d71b549ca877": {
@@ -21000,30 +20979,5 @@
             }
         }
     },
-    "桃園捷運公司": {
-        "counters": {
-            "datasets": 1,
-            "dataset_total": 0,
-            "dataset_recent": 0,
-            "resource_total": 0,
-            "resource_recent": 0
-        },
-        "datasets": {
-            "207781b8-172d-401c-825a-09331481b2ec": {
-                "name": "207781b8-172d-401c-825a-09331481b2ec",
-                "title": "測試新增資料集10\/26",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2016-10-26T07:31:43.434927",
-                "metadata_modified": "2016-10-26T07:34:12.212863",
-                "timeEnd": 1477438452,
-                "timeBegin": 1477438303,
-                "resources": [],
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            }
-        }
-    },
-    "time_generated": 1478727106
+    "time_generated": 1478813509
 }
