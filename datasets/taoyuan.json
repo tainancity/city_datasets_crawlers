@@ -7574,7 +7574,7 @@
     },
     "桃園市政府水務局": {
         "counters": {
-            "datasets": 11,
+            "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -7783,6 +7783,35 @@
                     "resource_recent": 0
                 }
             },
+            "7d4022ff-e968-4764-925b-bdb4a9abea00": {
+                "name": "7d4022ff-e968-4764-925b-bdb4a9abea00",
+                "title": "桃園市政府水務局-年度預算與決算資料",
+                "organization_id": "380250000g",
+                "metadata_created": "2016-11-11T05:41:52.829872",
+                "metadata_modified": "2016-11-11T05:56:41.333206",
+                "timeEnd": 1478843801,
+                "timeBegin": 1478814112,
+                "resources": {
+                    "306a67fd-f2bb-4630-8dd8-6b48d5473057": {
+                        "id": "306a67fd-f2bb-4630-8dd8-6b48d5473057",
+                        "name": "100年度預算與決算資料.csv",
+                        "created": "2016-11-11T13:51:44",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:51:44"
+                    },
+                    "e05f0e67-9ecc-4a8c-83c5-b9150c741a68": {
+                        "id": "e05f0e67-9ecc-4a8c-83c5-b9150c741a68",
+                        "name": "101年度預算與決算資料.csv",
+                        "created": "2016-11-11T13:56:41",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:56:41"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "8fb9680f-e926-45e8-8da9-c4ae63f08358": {
                 "name": "b16d94df-cea5-43be-9382-063228e62791",
                 "title": "桃園市現有雨水下水道系統建設分佈位置",
@@ -7915,26 +7944,75 @@
             },
             "fb3204dc-d9e4-484e-9bfc-59d6a14a89af": {
                 "name": "fb3204dc-d9e4-484e-9bfc-59d6a14a89af",
-                "title": "市管河川主要橋樑計畫洪水位",
+                "title": "桃園市管河川主要橋樑計畫洪水位",
                 "organization_id": "380250000g",
                 "metadata_created": "2016-11-04T07:07:08.534496",
-                "metadata_modified": "2016-11-10T08:44:40.212269",
-                "timeEnd": 1478767480,
+                "metadata_modified": "2016-11-11T05:20:16.994672",
+                "timeEnd": 1478841475,
                 "timeBegin": 1478214428,
                 "resources": {
-                    "367179aa-f437-4ddd-b243-181961bbd8e1": {
-                        "id": "367179aa-f437-4ddd-b243-181961bbd8e1",
-                        "name": "市管河川主要橋樑計畫洪水位-觀音溪.csv",
-                        "created": "2016-11-04T15:10:32",
+                    "41b7a245-12c8-469b-8d4d-2ea713744756": {
+                        "id": "41b7a245-12c8-469b-8d4d-2ea713744756",
+                        "name": "桃園市管河川主要橋樑計畫洪水位-社子溪.csv",
+                        "created": "2016-11-11T11:07:29",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-04T15:10:32"
+                        "last_modified": "2016-11-11T13:17:55"
                     },
-                    "d3149258-39a1-4269-9b63-65ce880371d8": {
-                        "id": "d3149258-39a1-4269-9b63-65ce880371d8",
-                        "name": "市管河川主要橋樑計畫洪水位-社子溪.csv",
-                        "created": "2016-11-04T16:26:58",
+                    "fc2c93ed-08e5-4e0d-8d3b-fe54a2301dd1": {
+                        "id": "fc2c93ed-08e5-4e0d-8d3b-fe54a2301dd1",
+                        "name": "桃園市管河川主要橋樑計畫洪水位-觀音溪.csv",
+                        "created": "2016-11-11T11:09:34",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-10T16:44:40"
+                        "last_modified": "2016-11-11T13:17:50"
+                    },
+                    "191e58cb-491e-437c-a435-9ca778f5225b": {
+                        "id": "191e58cb-491e-437c-a435-9ca778f5225b",
+                        "name": "桃園市管河川主要橋樑計畫洪水位-南崁溪.csv",
+                        "created": "2016-11-11T11:14:30",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:17:46"
+                    },
+                    "c8cc5033-7d20-4e38-bf34-4367239c6b3d": {
+                        "id": "c8cc5033-7d20-4e38-bf34-4367239c6b3d",
+                        "name": "桃園市管河川主要橋樑計畫洪水位-大堀溪.csv",
+                        "created": "2016-11-11T11:15:24",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:17:43"
+                    },
+                    "1ed77f8f-970d-48b0-bfa7-810ecc8fdda6": {
+                        "id": "1ed77f8f-970d-48b0-bfa7-810ecc8fdda6",
+                        "name": "桃園市管河川主要橋樑計畫洪水位-新屋溪.csv",
+                        "created": "2016-11-11T11:16:28",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:17:39"
+                    },
+                    "db53a45a-a1b9-41cc-822a-baf199ab7fdf": {
+                        "id": "db53a45a-a1b9-41cc-822a-baf199ab7fdf",
+                        "name": "桃園市管河川主要橋樑計畫洪水位- 坑子溪.csv",
+                        "created": "2016-11-11T11:20:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:17:35"
+                    },
+                    "e284f4dc-28ef-41a8-a21d-0528973c89ea": {
+                        "id": "e284f4dc-28ef-41a8-a21d-0528973c89ea",
+                        "name": "桃園市管河川主要橋樑計畫洪水位- 老街溪.csv",
+                        "created": "2016-11-11T11:21:58",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:17:09"
+                    },
+                    "a5d8cd5a-f618-4fb6-a663-a0ec4607d3c3": {
+                        "id": "a5d8cd5a-f618-4fb6-a663-a0ec4607d3c3",
+                        "name": "桃園市管河川主要橋樑計畫洪水位- 茄苳溪.csv",
+                        "created": "2016-11-11T11:24:02",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:17:26"
+                    },
+                    "026dec8c-105b-4a6a-96b5-4926c7f64e86": {
+                        "id": "026dec8c-105b-4a6a-96b5-4926c7f64e86",
+                        "name": "桃園市管河川主要橋樑計畫洪水位-富林溪.csv",
+                        "created": "2016-11-11T11:28:29",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-11T13:17:30"
                     }
                 },
                 "counters": {
@@ -9934,16 +10012,16 @@
                 "title": "桃園市1999統計報表",
                 "organization_id": "380220000a",
                 "metadata_created": "2015-10-06T03:04:27.898725",
-                "metadata_modified": "2016-09-19T07:56:00.037191",
-                "timeEnd": 1474271759,
+                "metadata_modified": "2016-11-11T07:06:49.500130",
+                "timeEnd": 1478848009,
                 "timeBegin": 1444071867,
                 "resources": {
-                    "49cffe72-9cc0-422b-8879-10e6cb5b79c9": {
-                        "id": "49cffe72-9cc0-422b-8879-10e6cb5b79c9",
+                    "4f4b1199-8d1b-4304-916e-35a39c945b48": {
+                        "id": "4f4b1199-8d1b-4304-916e-35a39c945b48",
                         "name": "1999.csv",
-                        "created": "2016-09-19T15:55:59",
+                        "created": "2016-11-11T15:06:49",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-19T15:55:59"
+                        "last_modified": "2016-11-11T15:06:49"
                     }
                 },
                 "counters": {
@@ -20979,5 +21057,5 @@
             }
         }
     },
-    "time_generated": 1478813509
+    "time_generated": 1478899900
 }
