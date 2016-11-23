@@ -1676,7 +1676,7 @@
     },
     "社會及勞動處": {
         "counters": {
-            "datasets": 9,
+            "datasets": 8,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -1697,28 +1697,6 @@
                         "name": "南投縣政府各區社會福利服務中心專區",
                         "created": "2014-09-26T15:09:07.650497",
                         "webstore_last_updated": "2014-10-21T18:32:58.400169",
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "1a30d820-7a22-4830-bfff-b3646252532e": {
-                "name": "dosa-02",
-                "title": "兒童及少年福利機構立案",
-                "organization_id": "b5c8ece0-72af-4772-9e19-4870f6c9f791",
-                "metadata_created": "2014-09-26T07:11:33.206667",
-                "metadata_modified": "2016-06-28T07:35:52.574286",
-                "timeEnd": 1467070552,
-                "timeBegin": 1411686693,
-                "resources": {
-                    "26cd36a7-c69c-4185-af57-ca83bd07a7b1": {
-                        "id": "26cd36a7-c69c-4185-af57-ca83bd07a7b1",
-                        "name": "南投縣立案之托嬰中心 ",
-                        "created": "2014-09-26T15:12:00.146195",
-                        "webstore_last_updated": "2014-10-21T18:35:14.195981",
                         "last_modified": null
                     }
                 },
@@ -2646,13 +2624,35 @@
     },
     "計畫處": {
         "counters": {
-            "datasets": 2,
+            "datasets": 3,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "8845ea22-0190-4b28-903b-b4faac074b13": {
+                "name": "4f6f4ee8-b11b-11e6-bad6-005056802a58",
+                "title": "南投縣免費wifi無線網路地點",
+                "organization_id": "ea3e8a38-e429-4ad7-82a3-53091835e8fa",
+                "metadata_created": "2016-11-23T01:24:05.268450",
+                "metadata_modified": "2016-11-23T01:27:08.869084",
+                "timeEnd": 1479864360,
+                "timeBegin": 1479835445,
+                "resources": {
+                    "7cd94b10-05bc-49ed-87b6-c3090f6f329f": {
+                        "id": "7cd94b10-05bc-49ed-87b6-c3090f6f329f",
+                        "name": "南投縣免費wifi無線網路地點",
+                        "created": "2016-11-23T09:25:27.622113",
+                        "webstore_last_updated": "2016-11-23T09:26:00.128670",
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "ee214594-781f-4ef7-a034-9767159b2bb3": {
                 "name": "dop02",
                 "title": "南投縣itaiwan熱點",
@@ -3135,5 +3135,5 @@
             }
         }
     },
-    "time_generated": 1479850307
+    "time_generated": 1479936712
 }

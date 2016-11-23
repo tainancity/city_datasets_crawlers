@@ -3702,7 +3702,7 @@
     },
     "工務處": {
         "counters": {
-            "datasets": 11,
+            "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -4096,29 +4096,44 @@
                     "resource_recent": 0
                 }
             },
-            "9e0aa5f7-e04b-4c82-98de-9ab7ce7d6fff": {
-                "name": "publicwork-20160719-113123-2772",
-                "title": "新竹市政府105年度補助老舊住宅耐震能力評估實施計畫",
-                "organization_id": "fef86665-ed5c-43e5-884c-c0c9a3d7926d",
-                "metadata_created": "2016-07-26T03:24:26.828189",
-                "metadata_modified": "2016-07-26T03:24:26.974787",
-                "timeEnd": 1469474666,
-                "timeBegin": 1469474666,
-                "resources": [],
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "f5194fd8-3c3b-4412-8181-cb6aa4f7da87": {
                 "name": "publicwork-20161118-162948-9962",
                 "title": "新竹市公有道路路燈資料",
                 "organization_id": "fef86665-ed5c-43e5-884c-c0c9a3d7926d",
                 "metadata_created": "2016-11-20T11:07:17.526057",
-                "metadata_modified": "2016-11-20T11:07:17.555911",
-                "timeEnd": 1479611237,
+                "metadata_modified": "2016-11-22T23:57:03.132728",
+                "timeEnd": 1479859022,
                 "timeBegin": 1479611237,
-                "resources": [],
+                "resources": {
+                    "e23a1c18-db48-47c3-86c4-2928fe4cd6df": {
+                        "id": "e23a1c18-db48-47c3-86c4-2928fe4cd6df",
+                        "name": "新竹市公有道路路燈資料",
+                        "created": "2016-11-23T07:56:50.753680",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "03830934-5d96-4fa6-bd88-f2c5132520fd": {
+                        "id": "03830934-5d96-4fa6-bd88-f2c5132520fd",
+                        "name": "新竹市公有道路路燈資料",
+                        "created": "2016-11-23T07:56:52.230310",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "ffbdddf8-f2a1-4f6e-9336-f56d35df6c80": {
+                        "id": "ffbdddf8-f2a1-4f6e-9336-f56d35df6c80",
+                        "name": "新竹市公有道路路燈資料",
+                        "created": "2016-11-23T07:56:55.780919",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "183ea6bc-bf56-453c-a524-ec49b3451fa1": {
+                        "id": "183ea6bc-bf56-453c-a524-ec49b3451fa1",
+                        "name": "新竹市公有道路路燈資料",
+                        "created": "2016-11-23T07:57:02.735856",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -6149,8 +6164,8 @@
                 "title": "新竹市消防局119受理案件即時訊息",
                 "organization_id": "9bbf0efd-7e85-4b52-8fc5-80b2a868fd73",
                 "metadata_created": "2015-04-07T06:20:42.974696",
-                "metadata_modified": "2016-11-22T21:20:57.791831",
-                "timeEnd": 1479820907,
+                "metadata_modified": "2016-11-23T21:25:52.217052",
+                "timeEnd": 1479907601,
                 "timeBegin": 1428358842,
                 "resources": {
                     "f5a7ed58-9980-4eaf-9a35-7ed234c164d4": {
@@ -6158,28 +6173,21 @@
                         "name": "新竹市消防局119受理案件即時訊息",
                         "created": "2016-10-27T23:04:52.115413",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-22T21:21:45"
+                        "last_modified": "2016-11-23T21:26:39"
                     },
                     "0ac19558-62d1-4e24-8717-07cface6c732": {
                         "id": "0ac19558-62d1-4e24-8717-07cface6c732",
                         "name": "新竹市消防局119受理案件即時訊息",
                         "created": "2016-10-27T23:07:11.466592",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-22T21:21:45"
-                    },
-                    "367490a5-ba73-4770-b2de-513058c2d53a": {
-                        "id": "367490a5-ba73-4770-b2de-513058c2d53a",
-                        "name": "新竹市消防局119受理案件即時訊息",
-                        "created": "2016-10-27T23:07:48.969018",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-11-22T21:21:46"
+                        "last_modified": "2016-11-23T21:26:40"
                     },
                     "3ce71a98-1cf1-4536-94e5-84a3af60ced8": {
                         "id": "3ce71a98-1cf1-4536-94e5-84a3af60ced8",
                         "name": "新竹市消防局119受理案件即時訊息",
                         "created": "2016-10-27T23:04:00.903921",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-22T21:21:47"
+                        "last_modified": "2016-11-23T21:26:41"
                     }
                 },
                 "counters": {
@@ -7511,65 +7519,37 @@
                 "title": "新竹市受保護樹木",
                 "organization_id": "33845bac-fd3a-44a5-b732-2846f60717ea",
                 "metadata_created": "2015-01-29T05:15:03.304638",
-                "metadata_modified": "2016-04-12T09:46:48.068351",
-                "timeEnd": 1460454407,
+                "metadata_modified": "2016-11-23T09:05:10.406342",
+                "timeEnd": 1479863145,
                 "timeBegin": 1422479703,
                 "resources": {
-                    "9c6447d4-ce9d-48d9-a006-38b49572b1d0": {
-                        "id": "9c6447d4-ce9d-48d9-a006-38b49572b1d0",
-                        "name": "新竹市受保護樹木",
-                        "created": "2015-01-29T13:52:04.771731",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-03-04T12:16:04"
-                    },
-                    "cd1c2fba-5f9b-4983-a8c5-f0c2d6ead2a6": {
-                        "id": "cd1c2fba-5f9b-4983-a8c5-f0c2d6ead2a6",
-                        "name": "新竹市受保護樹木",
-                        "created": "2015-01-29T13:52:05.006221",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-03-04T12:16:04"
-                    },
-                    "ef808dfa-1caf-4267-a2f7-cd15a3b87c87": {
-                        "id": "ef808dfa-1caf-4267-a2f7-cd15a3b87c87",
-                        "name": "新竹市受保護樹木",
-                        "created": "2015-01-29T13:52:05.295565",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-03-04T12:16:05"
-                    },
-                    "9b0d7011-0c7f-4cb1-9eec-13c2a2b4a4cf": {
-                        "id": "9b0d7011-0c7f-4cb1-9eec-13c2a2b4a4cf",
-                        "name": "新竹市受保護樹木",
-                        "created": "2015-01-29T13:52:05.561637",
-                        "webstore_last_updated": null,
-                        "last_modified": "2015-03-04T12:16:05"
-                    },
                     "f37fdf56-97bf-4e6f-8c84-afb91a59e1ee": {
                         "id": "f37fdf56-97bf-4e6f-8c84-afb91a59e1ee",
                         "name": "新竹市列管老樹清冊",
                         "created": "2016-04-12T17:46:46.121974",
                         "webstore_last_updated": null,
-                        "last_modified": null
+                        "last_modified": "2016-11-23T09:05:43"
                     },
                     "c9b6985c-5dcd-4df9-a8db-053b0790868d": {
                         "id": "c9b6985c-5dcd-4df9-a8db-053b0790868d",
                         "name": "新竹市列管老樹清冊",
                         "created": "2016-04-12T17:46:46.908381",
                         "webstore_last_updated": null,
-                        "last_modified": null
+                        "last_modified": "2016-11-23T09:05:44"
                     },
                     "fb227039-39c1-4241-886b-07b605323269": {
                         "id": "fb227039-39c1-4241-886b-07b605323269",
                         "name": "新竹市列管老樹清冊",
                         "created": "2016-04-12T17:46:47.319540",
                         "webstore_last_updated": null,
-                        "last_modified": null
+                        "last_modified": "2016-11-23T09:05:45"
                     },
                     "a64fe470-7af4-4d67-b5ae-16712a76e09d": {
                         "id": "a64fe470-7af4-4d67-b5ae-16712a76e09d",
                         "name": "新竹市列管老樹清冊",
                         "created": "2016-04-12T17:46:47.710140",
                         "webstore_last_updated": null,
-                        "last_modified": null
+                        "last_modified": "2016-11-23T09:05:45"
                     }
                 },
                 "counters": {
@@ -8152,8 +8132,8 @@
                 "title": "新竹市發展遲緩兒童早期療育單位清單",
                 "organization_id": "8cb68d94-fb0f-4393-adb1-a26e025bb29a",
                 "metadata_created": "2015-01-21T07:49:41.973848",
-                "metadata_modified": "2015-10-13T06:52:43.021205",
-                "timeEnd": 1444690363,
+                "metadata_modified": "2016-11-23T00:20:51.346657",
+                "timeEnd": 1479831651,
                 "timeBegin": 1421797781,
                 "resources": {
                     "a35a254a-cd6a-4acb-ac17-7df7c6099ea7": {
@@ -8539,8 +8519,8 @@
                 "title": "桃竹苗區健保特約兒童復健療育單位",
                 "organization_id": "8cb68d94-fb0f-4393-adb1-a26e025bb29a",
                 "metadata_created": "2015-10-13T06:53:41.442977",
-                "metadata_modified": "2016-07-15T07:21:45.428569",
-                "timeEnd": 1468538505,
+                "metadata_modified": "2016-11-23T00:21:19.426548",
+                "timeEnd": 1479831679,
                 "timeBegin": 1444690421,
                 "resources": {
                     "7ac35b64-23b8-45bd-9bf6-422158cfc5e2": {
@@ -8582,8 +8562,8 @@
                 "title": "桃竹苗區兒童發展聯合評估中心",
                 "organization_id": "8cb68d94-fb0f-4393-adb1-a26e025bb29a",
                 "metadata_created": "2015-10-13T06:53:12.610377",
-                "metadata_modified": "2015-10-14T00:09:35.226241",
-                "timeEnd": 1444781374,
+                "metadata_modified": "2016-11-23T00:20:56.850147",
+                "timeEnd": 1479831656,
                 "timeBegin": 1444690392,
                 "resources": {
                     "f55929bd-ca5d-4e6b-a1f8-e37bbab166d5": {
@@ -8782,10 +8762,39 @@
                 "title": "新竹市街友安置及餐食機構一覽表",
                 "organization_id": "8cb68d94-fb0f-4393-adb1-a26e025bb29a",
                 "metadata_created": "2016-02-25T00:15:23.048027",
-                "metadata_modified": "2016-02-25T00:15:23.076030",
-                "timeEnd": 1456330523,
+                "metadata_modified": "2016-11-23T00:20:45.805639",
+                "timeEnd": 1479860445,
                 "timeBegin": 1456330523,
-                "resources": [],
+                "resources": {
+                    "39bb7105-1994-4250-8948-90ae8e7035f6": {
+                        "id": "39bb7105-1994-4250-8948-90ae8e7035f6",
+                        "name": "新竹市遊民安置及餐食機構一覽表",
+                        "created": "2016-11-23T08:20:44.407481",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "d4f4a58f-7cbe-4e60-a37b-85267bde906a": {
+                        "id": "d4f4a58f-7cbe-4e60-a37b-85267bde906a",
+                        "name": "新竹市遊民安置及餐食機構一覽表",
+                        "created": "2016-11-23T08:20:44.773266",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "8c82ca63-1355-407d-856f-8bd9227c3827": {
+                        "id": "8c82ca63-1355-407d-856f-8bd9227c3827",
+                        "name": "新竹市遊民安置及餐食機構一覽表",
+                        "created": "2016-11-23T08:20:45.134535",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "39dd64e2-1336-46eb-96fe-a64497864eb8": {
+                        "id": "39dd64e2-1336-46eb-96fe-a64497864eb8",
+                        "name": "新竹市遊民安置及餐食機構一覽表",
+                        "created": "2016-11-23T08:20:45.485874",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -11535,5 +11544,5 @@
             }
         }
     },
-    "time_generated": 1479850318
+    "time_generated": 1479936723
 }
