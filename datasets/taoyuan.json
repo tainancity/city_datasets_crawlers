@@ -7875,16 +7875,16 @@
                 "title": "桃園市公告市管區域排水基本資料",
                 "organization_id": "380250000g",
                 "metadata_created": "2015-10-08T06:26:27.738324",
-                "metadata_modified": "2016-03-01T06:03:43.431758",
-                "timeEnd": 1456783423,
+                "metadata_modified": "2016-11-24T08:43:39.645964",
+                "timeEnd": 1479977019,
                 "timeBegin": 1444256787,
                 "resources": {
-                    "784b4dc1-e130-493d-9519-c5e33fd6c0f0": {
-                        "id": "784b4dc1-e130-493d-9519-c5e33fd6c0f0",
-                        "name": "桃園市公告市管區域排水權責範圍",
-                        "created": "2015-12-08T16:37:31.878807",
+                    "0149da23-faf8-4cac-aeca-ec46f0cb0b71": {
+                        "id": "0149da23-faf8-4cac-aeca-ec46f0cb0b71",
+                        "name": "桃園市公告市管區域排水權責範圍.csv",
+                        "created": "2016-11-24T16:42:53",
                         "webstore_last_updated": null,
-                        "last_modified": "2015-12-08T16:37:31"
+                        "last_modified": "2016-11-24T16:43:39"
                     }
                 },
                 "counters": {
@@ -9756,7 +9756,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 26,
+            "datasets": 27,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -9964,16 +9964,16 @@
                 "title": "常見問答",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-10-26T07:24:35.593396",
-                "metadata_modified": "2016-11-18T13:00:08.444833",
-                "timeEnd": 1479474008,
+                "metadata_modified": "2016-11-24T02:51:20.776046",
+                "timeEnd": 1479955880,
                 "timeBegin": 1477437875,
                 "resources": {
                     "9c311f6f-0d18-42f9-bfc1-e1b4c80f86e5": {
                         "id": "9c311f6f-0d18-42f9-bfc1-e1b4c80f86e5",
-                        "name": "Q&A",
+                        "name": "桃園市民眾各項業務常見問答 ",
                         "created": "2016-11-18T21:00:08",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-18T21:00:08"
+                        "last_modified": "2016-11-24T10:51:20"
                     }
                 },
                 "counters": {
@@ -10066,13 +10066,27 @@
                     "resource_recent": 0
                 }
             },
+            "35e16932-4427-46ce-b67f-811e5d569e00": {
+                "name": "35e16932-4427-46ce-b67f-811e5d569e00",
+                "title": "桃園市政建議信箱案件資訊",
+                "organization_id": "380220000a",
+                "metadata_created": "2016-11-24T08:29:57.305852",
+                "metadata_modified": "2016-11-24T08:50:06.760726",
+                "timeEnd": 1479948606,
+                "timeBegin": 1479947397,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "990f841c-29f2-4547-8669-2acef97eff73": {
                 "name": "4d6fd487-4ae1-455e-81cf-0b2d791434d3",
                 "title": "APPS專區",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-01-18T06:02:34.247037",
-                "metadata_modified": "2016-11-18T12:39:22.174712",
-                "timeEnd": 1479471053,
+                "metadata_modified": "2016-11-24T08:00:34.085301",
+                "timeEnd": 1479974433,
                 "timeBegin": 1453068154,
                 "resources": {
                     "477781fb-5c83-42ca-bf64-0a23e53448b1": {
@@ -10098,10 +10112,31 @@
                     },
                     "bb18e759-3eb5-4a62-b3cf-2dcc47bc08e4": {
                         "id": "bb18e759-3eb5-4a62-b3cf-2dcc47bc08e4",
-                        "name": "APP.csv",
+                        "name": "APPS.csv",
                         "created": "2016-11-18T20:10:53",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-18T20:10:53"
+                        "last_modified": "2016-11-24T10:38:49"
+                    },
+                    "271e533a-7ded-42d8-886b-7b7147a6413f": {
+                        "id": "271e533a-7ded-42d8-886b-7b7147a6413f",
+                        "name": "APPS專區",
+                        "created": "2016-11-24T09:54:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-24T09:54:27"
+                    },
+                    "22e75222-50c2-4861-9e89-1691ae983f62": {
+                        "id": "22e75222-50c2-4861-9e89-1691ae983f62",
+                        "name": "APPS專區",
+                        "created": "2016-11-24T10:22:52",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-24T10:22:52"
+                    },
+                    "3cc7e5d4-c2be-4561-92c7-8235b4f873b3": {
+                        "id": "3cc7e5d4-c2be-4561-92c7-8235b4f873b3",
+                        "name": "app.json",
+                        "created": "2016-11-24T16:00:33",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-24T16:00:33"
                     }
                 },
                 "counters": {
@@ -10560,8 +10595,8 @@
                 "title": "網路社群專區",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-10-11T07:38:30.441528",
-                "metadata_modified": "2016-11-21T02:36:10.294576",
-                "timeEnd": 1479695770,
+                "metadata_modified": "2016-11-24T02:45:30.020808",
+                "timeEnd": 1479955411,
                 "timeBegin": 1476142710,
                 "resources": {
                     "6c906ffe-b1c7-4b99-911b-9c307092c580": {
@@ -10569,7 +10604,21 @@
                         "name": "網路社群專區.csv",
                         "created": "2016-11-21T10:36:10",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-21T10:36:10"
+                        "last_modified": "2016-11-24T09:00:20"
+                    },
+                    "0b53c40d-ab82-4949-8cb9-3d4418256eaf": {
+                        "id": "0b53c40d-ab82-4949-8cb9-3d4418256eaf",
+                        "name": "網路社群專區",
+                        "created": "2016-11-24T09:55:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-24T09:55:57"
+                    },
+                    "b3228a73-9a41-423a-bbc7-73493de87a9e": {
+                        "id": "b3228a73-9a41-423a-bbc7-73493de87a9e",
+                        "name": "網路社群專區",
+                        "created": "2016-11-24T10:43:31",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-24T10:43:31"
                     }
                 },
                 "counters": {
@@ -11799,16 +11848,16 @@
                 "title": "動產擔保交易登記統計表",
                 "organization_id": "380170000g",
                 "metadata_created": "2015-12-30T13:41:18.209840",
-                "metadata_modified": "2016-10-17T03:31:04.694613",
-                "timeEnd": 1476675119,
+                "metadata_modified": "2016-11-24T12:47:42.382453",
+                "timeEnd": 1479991635,
                 "timeBegin": 1451454078,
                 "resources": {
-                    "22c80665-18ce-47fd-847e-ae29e9d24ef1": {
-                        "id": "22c80665-18ce-47fd-847e-ae29e9d24ef1",
-                        "name": "105年1月1日至9月30日止動產擔保交易登記統計表.csv",
-                        "created": "2016-10-17T11:31:59",
+                    "8907cb5f-4607-4c9c-a648-185c92638d4b": {
+                        "id": "8907cb5f-4607-4c9c-a648-185c92638d4b",
+                        "name": "105年1月1日至10月31日止動產擔保交易登記統計表.csv",
+                        "created": "2016-11-24T20:47:15",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-17T11:31:59"
+                        "last_modified": "2016-11-24T20:47:15"
                     }
                 },
                 "counters": {
@@ -11821,8 +11870,8 @@
                 "title": "工廠登記家數異動表",
                 "organization_id": "380170000g",
                 "metadata_created": "2015-10-07T01:40:21.455797",
-                "metadata_modified": "2016-10-17T03:37:28.838832",
-                "timeEnd": 1476674255,
+                "metadata_modified": "2016-11-24T12:24:03.516172",
+                "timeEnd": 1479990243,
                 "timeBegin": 1444153221,
                 "resources": {
                     "1c520072-ff9e-4d97-b9d2-77393831431f": {
@@ -11859,6 +11908,13 @@
                         "created": "2016-10-17T11:17:35",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-17T11:17:35"
+                    },
+                    "05aba0a7-7ba7-4ecc-b898-865110f86850": {
+                        "id": "05aba0a7-7ba7-4ecc-b898-865110f86850",
+                        "name": "105年10月底工廠登記異動表.csv",
+                        "created": "2016-11-24T20:24:03",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-24T20:24:03"
                     }
                 },
                 "counters": {
@@ -12010,8 +12066,8 @@
                 "title": "商業登記異動表",
                 "organization_id": "380170000g",
                 "metadata_created": "2015-10-07T01:49:19.722787",
-                "metadata_modified": "2016-10-17T05:11:40.745147",
-                "timeEnd": 1476681170,
+                "metadata_modified": "2016-11-24T12:03:18.784843",
+                "timeEnd": 1479988998,
                 "timeBegin": 1444153759,
                 "resources": {
                     "04894d09-2f87-412d-9010-6b06db16199f": {
@@ -12055,6 +12111,13 @@
                         "created": "2016-10-17T13:12:50",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-17T13:12:50"
+                    },
+                    "de3c4845-d045-4a88-81c5-c0878807df02": {
+                        "id": "de3c4845-d045-4a88-81c5-c0878807df02",
+                        "name": "105年10月底商業登記異動表.csv",
+                        "created": "2016-11-24T20:03:18",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-24T20:03:18"
                     }
                 },
                 "counters": {
@@ -21024,5 +21087,5 @@
             }
         }
     },
-    "time_generated": 1479936702
+    "time_generated": 1480023101
 }
