@@ -10085,8 +10085,8 @@
                 "title": "APPS專區",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-01-18T06:02:34.247037",
-                "metadata_modified": "2016-11-24T08:00:34.085301",
-                "timeEnd": 1479974433,
+                "metadata_modified": "2016-11-25T02:32:11.016776",
+                "timeEnd": 1480041130,
                 "timeBegin": 1453068154,
                 "resources": {
                     "477781fb-5c83-42ca-bf64-0a23e53448b1": {
@@ -10110,33 +10110,26 @@
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-09T17:01:52"
                     },
-                    "bb18e759-3eb5-4a62-b3cf-2dcc47bc08e4": {
-                        "id": "bb18e759-3eb5-4a62-b3cf-2dcc47bc08e4",
-                        "name": "APPS.csv",
-                        "created": "2016-11-18T20:10:53",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T10:38:49"
-                    },
                     "271e533a-7ded-42d8-886b-7b7147a6413f": {
                         "id": "271e533a-7ded-42d8-886b-7b7147a6413f",
-                        "name": "APPS專區",
+                        "name": "APPS專區-JSON檔",
                         "created": "2016-11-24T09:54:27",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T09:54:27"
+                        "last_modified": "2016-11-25T10:18:38"
                     },
                     "22e75222-50c2-4861-9e89-1691ae983f62": {
                         "id": "22e75222-50c2-4861-9e89-1691ae983f62",
-                        "name": "APPS專區",
+                        "name": "桃園市APPS專區",
                         "created": "2016-11-24T10:22:52",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T10:22:52"
+                        "last_modified": "2016-11-25T10:18:05"
                     },
-                    "3cc7e5d4-c2be-4561-92c7-8235b4f873b3": {
-                        "id": "3cc7e5d4-c2be-4561-92c7-8235b4f873b3",
+                    "14691a57-5a6c-424f-b2cb-ea3f55c9b11a": {
+                        "id": "14691a57-5a6c-424f-b2cb-ea3f55c9b11a",
                         "name": "app.json",
-                        "created": "2016-11-24T16:00:33",
+                        "created": "2016-11-25T10:30:59",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T16:00:33"
+                        "last_modified": "2016-11-25T10:32:10"
                     }
                 },
                 "counters": {
@@ -10595,8 +10588,8 @@
                 "title": "網路社群專區",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-10-11T07:38:30.441528",
-                "metadata_modified": "2016-11-24T02:45:30.020808",
-                "timeEnd": 1479955411,
+                "metadata_modified": "2016-11-25T03:30:18.072734",
+                "timeEnd": 1480044617,
                 "timeBegin": 1476142710,
                 "resources": {
                     "6c906ffe-b1c7-4b99-911b-9c307092c580": {
@@ -10606,19 +10599,19 @@
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-24T09:00:20"
                     },
-                    "0b53c40d-ab82-4949-8cb9-3d4418256eaf": {
-                        "id": "0b53c40d-ab82-4949-8cb9-3d4418256eaf",
-                        "name": "網路社群專區",
-                        "created": "2016-11-24T09:55:57",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T09:55:57"
-                    },
                     "b3228a73-9a41-423a-bbc7-73493de87a9e": {
                         "id": "b3228a73-9a41-423a-bbc7-73493de87a9e",
                         "name": "網路社群專區",
                         "created": "2016-11-24T10:43:31",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-24T10:43:31"
+                    },
+                    "d0892ec1-fd04-4fb4-b427-6b1ba6bd7c73": {
+                        "id": "d0892ec1-fd04-4fb4-b427-6b1ba6bd7c73",
+                        "name": "網路社群.json",
+                        "created": "2016-11-25T11:30:17",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-25T11:30:17"
                     }
                 },
                 "counters": {
@@ -11772,7 +11765,7 @@
     },
     "桃園市政府經濟發展局": {
         "counters": {
-            "datasets": 21,
+            "datasets": 23,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -12169,6 +12162,20 @@
                     "resource_recent": 0
                 }
             },
+            "881fea9c-3318-408f-a191-38c7cd88d2fb": {
+                "name": "881fea9c-3318-408f-a191-38c7cd88d2fb",
+                "title": "公司登記異動表",
+                "organization_id": "380170000g",
+                "metadata_created": "2016-11-25T11:56:14.733112",
+                "metadata_modified": "2016-11-25T11:56:15.920100",
+                "timeEnd": 1480046175,
+                "timeBegin": 1480046174,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "de534f0f-14d1-4df9-9eef-f33d79b0b0dc": {
                 "name": "a4a0f7ba-34e4-4ea4-8ff8-190593c568f7",
                 "title": "桃園市特色店家",
@@ -12346,6 +12353,20 @@
                         "last_modified": "2015-12-09T11:09:31"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d743083c-96be-4aed-b7d9-61a33c517708": {
+                "name": "d743083c-96be-4aed-b7d9-61a33c517708",
+                "title": "公司登記異動表",
+                "organization_id": "380170000g",
+                "metadata_created": "2016-11-25T11:56:14.817334",
+                "metadata_modified": "2016-11-25T11:56:15.960803",
+                "timeEnd": 1480046175,
+                "timeBegin": 1480046174,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -20697,10 +20718,18 @@
                 "title": "桃園市105年青年社會參與行動計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2016-06-13T03:39:29.727798",
-                "metadata_modified": "2016-06-13T03:39:39.187626",
-                "timeEnd": 1465760379,
+                "metadata_modified": "2016-11-25T02:32:10.484226",
+                "timeEnd": 1480041130,
                 "timeBegin": 1465760369,
-                "resources": [],
+                "resources": {
+                    "d62c3284-613f-4f2b-8eba-c7e04bb0ad1e": {
+                        "id": "d62c3284-613f-4f2b-8eba-c7e04bb0ad1e",
+                        "name": "桃園市105年青年社會參與行動計畫.txt",
+                        "created": "2016-11-25T10:32:10",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-25T10:32:10"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -20711,10 +20740,18 @@
                 "title": "桃園市政府推展青年志工服務補助作業要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2016-06-13T05:53:39.735815",
-                "metadata_modified": "2016-06-13T05:59:47.472548",
-                "timeEnd": 1465768787,
+                "metadata_modified": "2016-11-25T02:26:20.743143",
+                "timeEnd": 1480040780,
                 "timeBegin": 1465768419,
-                "resources": [],
+                "resources": {
+                    "ea587dee-b0f0-4f74-9255-91adeb6514ee": {
+                        "id": "ea587dee-b0f0-4f74-9255-91adeb6514ee",
+                        "name": "桃園市政府推展青年志工服務補助作業要點.txt",
+                        "created": "2016-11-25T10:26:20",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-25T10:26:20"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -20754,8 +20791,8 @@
                 "title": "桃園市政府促進青年公共參與補助作業要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2016-06-13T05:43:45.881838",
-                "metadata_modified": "2016-06-13T06:17:02.729286",
-                "timeEnd": 1465769822,
+                "metadata_modified": "2016-11-25T01:15:50.189042",
+                "timeEnd": 1480007750,
                 "timeBegin": 1465767825,
                 "resources": [],
                 "counters": {
@@ -20797,8 +20834,8 @@
                 "title": "桃園市105年度青年國際志工服務計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2016-06-13T02:57:27.456457",
-                "metadata_modified": "2016-10-20T03:00:40.148438",
-                "timeEnd": 1476932515,
+                "metadata_modified": "2016-11-25T01:06:54.112533",
+                "timeEnd": 1480036014,
                 "timeBegin": 1465757847,
                 "resources": {
                     "1e1a2179-a30f-440f-8310-ea96ec499807": {
@@ -20806,7 +20843,7 @@
                         "name": "桃園市105年度青年國際志工服務計畫",
                         "created": "2016-10-20T11:01:55",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-20T11:01:55"
+                        "last_modified": "2016-11-25T09:06:54"
                     }
                 },
                 "counters": {
@@ -20876,10 +20913,18 @@
                 "title": "桃園市青年諮詢委員會設置要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2016-06-13T05:07:33.616602",
-                "metadata_modified": "2016-06-13T05:07:48.488296",
-                "timeEnd": 1465765668,
+                "metadata_modified": "2016-11-25T01:44:06.586088",
+                "timeEnd": 1480038246,
                 "timeBegin": 1465765653,
-                "resources": [],
+                "resources": {
+                    "bc0c29ad-61cb-4fc2-b2f7-2023162c3bb5": {
+                        "id": "bc0c29ad-61cb-4fc2-b2f7-2023162c3bb5",
+                        "name": "桃園市青年諮詢委員會設置要點.txt",
+                        "created": "2016-11-25T09:44:06",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-25T09:44:06"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -21087,5 +21132,5 @@
             }
         }
     },
-    "time_generated": 1480023101
+    "time_generated": 1480109504
 }
