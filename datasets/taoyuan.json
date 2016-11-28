@@ -7982,13 +7982,27 @@
     },
     "桃園市政府法務局": {
         "counters": {
-            "datasets": 2,
+            "datasets": 3,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "3c58a4dd-1be6-4d62-aef8-5200cdab2e58": {
+                "name": "3c58a4dd-1be6-4d62-aef8-5200cdab2e58",
+                "title": "test",
+                "organization_id": "380430000a",
+                "metadata_created": "2016-11-02T03:21:53.525566",
+                "metadata_modified": "2016-11-28T08:37:36.453922",
+                "timeEnd": 1480293456,
+                "timeBegin": 1478028113,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "edcadd24-ce13-41b8-b2d3-7d38bdd51840": {
                 "name": "49961cc4-bd29-4ff7-a94a-43b8c2471009",
                 "title": "桃園市政府104年度消費爭議申訴案暨調解案件類型分析",
@@ -9964,8 +9978,8 @@
                 "title": "常見問答",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-10-26T07:24:35.593396",
-                "metadata_modified": "2016-11-24T02:51:20.776046",
-                "timeEnd": 1479955880,
+                "metadata_modified": "2016-11-28T06:02:19.616017",
+                "timeEnd": 1480311365,
                 "timeBegin": 1477437875,
                 "resources": {
                     "9c311f6f-0d18-42f9-bfc1-e1b4c80f86e5": {
@@ -9973,7 +9987,21 @@
                         "name": "桃園市民眾各項業務常見問答 ",
                         "created": "2016-11-18T21:00:08",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T10:51:20"
+                        "last_modified": "2016-11-28T13:36:05"
+                    },
+                    "f040ac4b-903c-4f9a-871b-8010a7f6047f": {
+                        "id": "f040ac4b-903c-4f9a-871b-8010a7f6047f",
+                        "name": "常見問答",
+                        "created": "2016-11-28T13:34:36",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-28T13:34:36"
+                    },
+                    "701e555e-8ce8-4210-9b40-52a9d90e83f0": {
+                        "id": "701e555e-8ce8-4210-9b40-52a9d90e83f0",
+                        "name": "常見問答-1",
+                        "created": "2016-11-28T13:35:06",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-28T13:35:06"
                     }
                 },
                 "counters": {
@@ -10085,8 +10113,8 @@
                 "title": "APPS專區",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-01-18T06:02:34.247037",
-                "metadata_modified": "2016-11-25T02:32:11.016776",
-                "timeEnd": 1480041130,
+                "metadata_modified": "2016-11-28T05:52:41.209272",
+                "timeEnd": 1480311439,
                 "timeBegin": 1453068154,
                 "resources": {
                     "477781fb-5c83-42ca-bf64-0a23e53448b1": {
@@ -10112,24 +10140,24 @@
                     },
                     "271e533a-7ded-42d8-886b-7b7147a6413f": {
                         "id": "271e533a-7ded-42d8-886b-7b7147a6413f",
-                        "name": "APPS專區-JSON檔",
+                        "name": "APPS專區",
                         "created": "2016-11-24T09:54:27",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-25T10:18:38"
+                        "last_modified": "2016-11-28T13:32:40"
                     },
                     "22e75222-50c2-4861-9e89-1691ae983f62": {
                         "id": "22e75222-50c2-4861-9e89-1691ae983f62",
-                        "name": "桃園市APPS專區",
+                        "name": "APPS專區(彙整各式APP應用服務程式)",
                         "created": "2016-11-24T10:22:52",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-25T10:18:05"
+                        "last_modified": "2016-11-28T13:37:19"
                     },
-                    "14691a57-5a6c-424f-b2cb-ea3f55c9b11a": {
-                        "id": "14691a57-5a6c-424f-b2cb-ea3f55c9b11a",
-                        "name": "app.json",
-                        "created": "2016-11-25T10:30:59",
+                    "42cd7f90-818a-480f-8b18-783dd124a98a": {
+                        "id": "42cd7f90-818a-480f-8b18-783dd124a98a",
+                        "name": "APPS專區-1",
+                        "created": "2016-11-28T13:32:33",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-25T10:32:10"
+                        "last_modified": "2016-11-28T13:32:33"
                     }
                 },
                 "counters": {
@@ -10588,30 +10616,37 @@
                 "title": "網路社群專區",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-10-11T07:38:30.441528",
-                "metadata_modified": "2016-11-25T03:30:18.072734",
-                "timeEnd": 1480044617,
+                "metadata_modified": "2016-11-28T06:00:32.095725",
+                "timeEnd": 1480311404,
                 "timeBegin": 1476142710,
                 "resources": {
-                    "6c906ffe-b1c7-4b99-911b-9c307092c580": {
-                        "id": "6c906ffe-b1c7-4b99-911b-9c307092c580",
-                        "name": "網路社群專區.csv",
-                        "created": "2016-11-21T10:36:10",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T09:00:20"
-                    },
                     "b3228a73-9a41-423a-bbc7-73493de87a9e": {
                         "id": "b3228a73-9a41-423a-bbc7-73493de87a9e",
                         "name": "網路社群專區",
                         "created": "2016-11-24T10:43:31",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-24T10:43:31"
+                        "last_modified": "2016-11-28T13:30:40"
                     },
-                    "d0892ec1-fd04-4fb4-b427-6b1ba6bd7c73": {
-                        "id": "d0892ec1-fd04-4fb4-b427-6b1ba6bd7c73",
-                        "name": "網路社群.json",
-                        "created": "2016-11-25T11:30:17",
+                    "79937e3e-0f38-4e51-8186-b0a43b7f907b": {
+                        "id": "79937e3e-0f38-4e51-8186-b0a43b7f907b",
+                        "name": "網路社群專區",
+                        "created": "2016-11-28T13:26:38",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-25T11:30:17"
+                        "last_modified": "2016-11-28T13:36:44"
+                    },
+                    "8c57edb1-d23d-4a89-8606-c0266cdd9f3e": {
+                        "id": "8c57edb1-d23d-4a89-8606-c0266cdd9f3e",
+                        "name": "網路社群專區-1",
+                        "created": "2016-11-28T13:27:26",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-28T13:27:26"
+                    },
+                    "1e46334a-20e4-4cf2-9a19-bc4e3d0c532c": {
+                        "id": "1e46334a-20e4-4cf2-9a19-bc4e3d0c532c",
+                        "name": "網路社群專-2",
+                        "created": "2016-11-28T13:28:34",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-28T13:28:34"
                     }
                 },
                 "counters": {
@@ -14751,16 +14786,30 @@
                 "title": "桃園市最新非法營業旅宿名單",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-05-16T09:49:40.809167",
-                "metadata_modified": "2016-10-27T06:08:22.509176",
-                "timeEnd": 1477548431,
+                "metadata_modified": "2016-11-28T08:50:33.953340",
+                "timeEnd": 1480323012,
                 "timeBegin": 1463363380,
                 "resources": {
-                    "0bd3e7df-e9c3-4934-8419-ff9dd756051d": {
-                        "id": "0bd3e7df-e9c3-4934-8419-ff9dd756051d",
-                        "name": "非法營業旅宿名單-至105年9月30日止",
-                        "created": "2016-10-27T14:07:11",
+                    "60df044b-d851-4093-8259-d70043ef9983": {
+                        "id": "60df044b-d851-4093-8259-d70043ef9983",
+                        "name": "非法營業旅宿名單-至105年10月31日止.csv",
+                        "created": "2016-11-28T15:46:32",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-27T14:07:11"
+                        "last_modified": "2016-11-28T15:46:32"
+                    },
+                    "adb008c2-a344-4206-9167-cb8049c14f39": {
+                        "id": "adb008c2-a344-4206-9167-cb8049c14f39",
+                        "name": "非法營業旅宿名單-至105年10月31日止.csv",
+                        "created": "2016-11-28T15:48:16",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-28T15:48:16"
+                    },
+                    "406d816a-68e6-46a6-9ce0-d7686e39791b": {
+                        "id": "406d816a-68e6-46a6-9ce0-d7686e39791b",
+                        "name": "非法營業旅宿名單-至105年10月31日止.csv",
+                        "created": "2016-11-28T16:50:12",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-28T16:50:12"
                     }
                 },
                 "counters": {
@@ -16312,7 +16361,7 @@
     },
     "桃園市政府警察局": {
         "counters": {
-            "datasets": 48,
+            "datasets": 49,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -16478,16 +16527,16 @@
                 "title": "桃園市A1及A2類道路交通事故統計",
                 "organization_id": "380130000c",
                 "metadata_created": "2015-10-01T02:39:38.092379",
-                "metadata_modified": "2016-10-12T02:04:33.806025",
-                "timeEnd": 1476209073,
+                "metadata_modified": "2016-11-28T06:13:27.334441",
+                "timeEnd": 1480313447,
                 "timeBegin": 1443638378,
                 "resources": {
                     "5bec2e4d-5ee2-4fb8-9698-4c3e8c3f8501": {
                         "id": "5bec2e4d-5ee2-4fb8-9698-4c3e8c3f8501",
-                        "name": "本市A1及A2類道路交通事故統計",
+                        "name": "桃園市A1及A2類道路交通事故統計.csv",
                         "created": "2016-01-05T09:47:48",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-05T09:47:48"
+                        "last_modified": "2016-11-28T14:10:47"
                     }
                 },
                 "counters": {
@@ -16591,19 +16640,19 @@
             },
             "99b80099-45ab-4c05-9081-5f9e6e16a0a1": {
                 "name": "3efc0a14-e8fd-4e8d-b720-a78927aa22aa",
-                "title": "桃園市易發生婦幼被害點位",
+                "title": "桃園市105年易發生婦幼被害點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-01-07T06:33:44.899199",
-                "metadata_modified": "2016-09-01T07:46:39.594158",
-                "timeEnd": 1472715999,
+                "metadata_modified": "2016-11-28T06:18:51.148489",
+                "timeEnd": 1480313829,
                 "timeBegin": 1452119624,
                 "resources": {
                     "85181312-fe58-47c5-ad35-e3324ba4402b": {
                         "id": "85181312-fe58-47c5-ad35-e3324ba4402b",
-                        "name": "桃園市易發生婦幼被害點位",
-                        "created": "2016-01-07T14:34:04.915432",
+                        "name": "105婦幼易被害點位.csv",
+                        "created": "2016-01-07T14:34:04",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-09-01T15:46:39"
+                        "last_modified": "2016-11-28T14:17:09"
                     }
                 },
                 "counters": {
@@ -17080,21 +17129,43 @@
                     "resource_recent": 0
                 }
             },
+            "af256309-2d0f-4599-82bc-b7f7f38b6089": {
+                "name": "af256309-2d0f-4599-82bc-b7f7f38b6089",
+                "title": "桃園市105年交通事故點位",
+                "organization_id": "380130000c",
+                "metadata_created": "2016-11-28T06:58:37.329812",
+                "metadata_modified": "2016-11-28T07:07:06.840883",
+                "timeEnd": 1480316527,
+                "timeBegin": 1480287517,
+                "resources": {
+                    "7dce03ca-6670-420b-8527-950752d031b5": {
+                        "id": "7dce03ca-6670-420b-8527-950752d031b5",
+                        "name": "accident_105.csv",
+                        "created": "2016-11-28T15:02:07",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-11-28T15:02:07"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "56333f25-ea1b-491c-bc25-16bb2dcc18bd": {
                 "name": "af86af68-637d-4a63-8295-f746cfcb719c",
                 "title": "桃園市高再犯危險之性侵害加害人人數統計",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-03-16T03:21:08.277406",
-                "metadata_modified": "2016-10-11T03:50:14.923881",
-                "timeEnd": 1476157884,
+                "metadata_modified": "2016-11-28T06:20:57.732053",
+                "timeEnd": 1480314023,
                 "timeBegin": 1458069668,
                 "resources": {
                     "4e0c4786-cdc7-4687-a1a9-79b16cc0cb45": {
                         "id": "4e0c4786-cdc7-4687-a1a9-79b16cc0cb45",
                         "name": "E0003.csv",
-                        "created": "2016-03-16T18:38:58.870070",
+                        "created": "2016-03-16T18:38:58",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-11T11:51:24"
+                        "last_modified": "2016-11-28T14:20:23"
                     }
                 },
                 "counters": {
@@ -20707,5 +20778,5 @@
             }
         }
     },
-    "time_generated": 1480282301
+    "time_generated": 1480368707
 }
