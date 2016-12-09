@@ -389,16 +389,16 @@
                 "title": "旅行時間偵測站 站間平均行駛車速",
                 "organization_id": "380290000h",
                 "metadata_created": "2015-10-01T07:56:19.233247",
-                "metadata_modified": "2015-12-25T07:37:38.075254",
-                "timeEnd": 1451000258,
+                "metadata_modified": "2016-12-09T01:56:04.506574",
+                "timeEnd": 1481248564,
                 "timeBegin": 1443657379,
                 "resources": {
-                    "3ed69928-5530-42f2-8b13-29ce9b26720f": {
-                        "id": "3ed69928-5530-42f2-8b13-29ce9b26720f",
+                    "5fc5c2f5-3d76-416e-8455-fc3e8c88a4b6": {
+                        "id": "5fc5c2f5-3d76-416e-8455-fc3e8c88a4b6",
                         "name": "旅行時間偵測站-站間各車種平均行駛車速-XML",
-                        "created": "2015-10-01T15:56:49.462018",
+                        "created": "2016-12-09T09:56:04",
                         "webstore_last_updated": null,
-                        "last_modified": "2015-11-19T09:46:54"
+                        "last_modified": "2016-12-09T09:56:04"
                     }
                 },
                 "counters": {
@@ -2106,8 +2106,8 @@
                 "title": "楊梅區基地坐落地上建物對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-12-08T06:32:32.425179",
-                "metadata_modified": "2016-12-08T07:01:49.622599",
-                "timeEnd": 1481179112,
+                "metadata_modified": "2016-12-09T03:13:12.039892",
+                "timeEnd": 1481224392,
                 "timeBegin": 1481149952,
                 "resources": {
                     "504453f2-8eeb-4c7a-a348-d3d43c3e8564": {
@@ -2980,8 +2980,8 @@
                 "title": "新屋區基地坐落地上建物對照資料",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-12-08T06:48:48.731980",
-                "metadata_modified": "2016-12-08T07:00:05.306270",
-                "timeEnd": 1481179821,
+                "metadata_modified": "2016-12-09T03:13:00.986569",
+                "timeEnd": 1481224380,
                 "timeBegin": 1481150928,
                 "resources": {
                     "3ca33f0b-38d5-47f2-8db1-3aee207ad9f2": {
@@ -9807,7 +9807,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 28,
+            "datasets": 30,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -10604,6 +10604,49 @@
                     "resource_recent": 0
                 }
             },
+            "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c": {
+                "name": "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c",
+                "title": "更版測試新增資料集各項功能12\/9",
+                "organization_id": "380220000a",
+                "metadata_created": "2016-12-09T02:19:54.343818",
+                "metadata_modified": "2016-12-09T02:32:14.020559",
+                "timeEnd": 1481250733,
+                "timeBegin": 1481221194,
+                "resources": {
+                    "ed7471b3-ba4a-4227-b9d5-fe6ebeec5ced": {
+                        "id": "ed7471b3-ba4a-4227-b9d5-fe6ebeec5ced",
+                        "name": "105年度新屋區新舊建號對照資料.csv",
+                        "created": "2016-12-09T10:20:51",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-09T10:26:31"
+                    },
+                    "38ce0337-1da9-4a88-a652-fbaae8c35223": {
+                        "id": "38ce0337-1da9-4a88-a652-fbaae8c35223",
+                        "name": "桃園市口腔黏膜篩檢醫療院所名單.csv",
+                        "created": "2016-12-09T10:32:13",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-09T10:32:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a3c54c2c-ede1-49cf-9ad3-811c4d8548e9": {
+                "name": "a3c54c2c-ede1-49cf-9ad3-811c4d8548e9",
+                "title": "12月09日測試詮釋資料相關功能",
+                "organization_id": "380220000a",
+                "metadata_created": "2016-12-09T02:13:24.587984",
+                "metadata_modified": "2016-12-09T02:13:25.940024",
+                "timeEnd": 1481220805,
+                "timeBegin": 1481220804,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "48d8f589-5980-427d-b086-f360e32369b9": {
                 "name": "a83d6fe8-7472-4f25-927e-4b9bd8b15bbb",
                 "title": "桃園市官網徵才資訊",
@@ -10631,8 +10674,8 @@
                 "title": "開放委託研究計劃",
                 "organization_id": "380220000a",
                 "metadata_created": "2016-09-20T01:15:04.392173",
-                "metadata_modified": "2016-12-07T09:06:42.764596",
-                "timeEnd": 1481101602,
+                "metadata_modified": "2016-12-09T01:33:39.495286",
+                "timeEnd": 1481218419,
                 "timeBegin": 1474305304,
                 "resources": {
                     "4416db73-7546-4aee-9502-fb2da9fc769a": {
@@ -20890,52 +20933,5 @@
             }
         }
     },
-    "桃園捷運公司": {
-        "counters": {
-            "datasets": 1,
-            "dataset_total": 0,
-            "dataset_recent": 0,
-            "resource_total": 0,
-            "resource_recent": 0
-        },
-        "datasets": {
-            "207781b8-172d-401c-825a-09331481b2ec": {
-                "name": "207781b8-172d-401c-825a-09331481b2ec",
-                "title": "測試新增資料集10\/26",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2016-10-26T07:31:43.434927",
-                "metadata_modified": "2016-12-02T08:55:58.862976",
-                "timeEnd": 1480668958,
-                "timeBegin": 1477438303,
-                "resources": {
-                    "2692c1cc-5157-4b44-942b-5b5c10fc12d6": {
-                        "id": "2692c1cc-5157-4b44-942b-5b5c10fc12d6",
-                        "name": "桃園市容查報105年09月份結案案件資料.csv",
-                        "created": "2016-11-28T16:46:43",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-11-28T16:46:43"
-                    },
-                    "c6b2f8da-3a47-414a-96df-fe0204ac39fc": {
-                        "id": "c6b2f8da-3a47-414a-96df-fe0204ac39fc",
-                        "name": "公廁建檔基本資料-桃園市.csv",
-                        "created": "2016-11-29T10:47:41",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-12-02T16:55:58"
-                    },
-                    "67d8522c-49c8-41b8-86fb-c9089f92c486": {
-                        "id": "67d8522c-49c8-41b8-86fb-c9089f92c486",
-                        "name": "桃園市容查報105年09月份結案案件資料.csv",
-                        "created": "2016-11-29T10:51:16",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-11-29T10:51:16"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            }
-        }
-    },
-    "time_generated": 1481232707
+    "time_generated": 1481319104
 }
