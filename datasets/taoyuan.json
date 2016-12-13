@@ -9807,7 +9807,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 30,
+            "datasets": 29,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -10597,35 +10597,6 @@
                         "created": "2016-09-10T15:29:24",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-10T15:29:24"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c": {
-                "name": "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c",
-                "title": "更版測試新增資料集各項功能12\/9",
-                "organization_id": "380220000a",
-                "metadata_created": "2016-12-09T02:19:54.343818",
-                "metadata_modified": "2016-12-12T07:08:37.029060",
-                "timeEnd": 1481497717,
-                "timeBegin": 1481221194,
-                "resources": {
-                    "ed7471b3-ba4a-4227-b9d5-fe6ebeec5ced": {
-                        "id": "ed7471b3-ba4a-4227-b9d5-fe6ebeec5ced",
-                        "name": "105年度新屋區新舊建號對照資料.csv",
-                        "created": "2016-12-09T10:20:51",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-12-09T10:26:31"
-                    },
-                    "38ce0337-1da9-4a88-a652-fbaae8c35223": {
-                        "id": "38ce0337-1da9-4a88-a652-fbaae8c35223",
-                        "name": "桃園市口腔黏膜篩檢醫療院所名單.csv",
-                        "created": "2016-12-09T10:32:13",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-12-09T10:32:13"
                     }
                 },
                 "counters": {
@@ -17936,16 +17907,16 @@
                 "title": "桃園觀新藻礁生態系野生動物保護區",
                 "organization_id": "380270000g",
                 "metadata_created": "2015-10-07T02:46:40.494163",
-                "metadata_modified": "2016-01-21T03:31:33.740577",
-                "timeEnd": 1453347029,
+                "metadata_modified": "2016-12-13T10:44:06.582717",
+                "timeEnd": 1481625846,
                 "timeBegin": 1444157200,
                 "resources": {
                     "e787a6c1-adab-4ead-8ccb-d96bb58a5edd": {
                         "id": "e787a6c1-adab-4ead-8ccb-d96bb58a5edd",
-                        "name": "桃園觀新藻礁生態系野生動物野生動物保護區保育計畫書",
-                        "created": "2016-01-21T11:30:29.598764",
+                        "name": "桃園觀新藻礁生態系野生動物野生動物保護區面積資料",
+                        "created": "2016-01-21T11:30:29",
                         "webstore_last_updated": null,
-                        "last_modified": null
+                        "last_modified": "2016-12-13T18:44:06"
                     }
                 },
                 "counters": {
@@ -20933,5 +20904,45 @@
             }
         }
     },
-    "time_generated": 1481578309
+    "桃園捷運公司": {
+        "counters": {
+            "datasets": 1,
+            "dataset_total": 0,
+            "dataset_recent": 0,
+            "resource_total": 0,
+            "resource_recent": 0
+        },
+        "datasets": {
+            "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c": {
+                "name": "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c",
+                "title": "更版測試新增資料集各項功能12\/9",
+                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
+                "metadata_created": "2016-12-09T02:19:54.343818",
+                "metadata_modified": "2016-12-13T06:48:09.351623",
+                "timeEnd": 1481582889,
+                "timeBegin": 1481221194,
+                "resources": {
+                    "ed7471b3-ba4a-4227-b9d5-fe6ebeec5ced": {
+                        "id": "ed7471b3-ba4a-4227-b9d5-fe6ebeec5ced",
+                        "name": "105年度新屋區新舊建號對照資料.csv",
+                        "created": "2016-12-09T10:20:51",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-09T10:26:31"
+                    },
+                    "38ce0337-1da9-4a88-a652-fbaae8c35223": {
+                        "id": "38ce0337-1da9-4a88-a652-fbaae8c35223",
+                        "name": "桃園市口腔黏膜篩檢醫療院所名單.csv",
+                        "created": "2016-12-09T10:32:13",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-09T10:32:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            }
+        }
+    },
+    "time_generated": 1481664710
 }
