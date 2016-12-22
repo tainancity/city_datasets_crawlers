@@ -6140,7 +6140,7 @@
     },
     "桃園市政府教育局": {
         "counters": {
-            "datasets": 13,
+            "datasets": 14,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -6208,6 +6208,20 @@
                         "last_modified": "2015-12-24T11:20:35"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "461395c1-b1cb-4d96-8f5b-ecb50f41b855": {
+                "name": "461395c1-b1cb-4d96-8f5b-ecb50f41b855",
+                "title": "桃園市有游泳池學校一覽表",
+                "organization_id": "380040000e",
+                "metadata_created": "2016-12-22T10:49:04.274094",
+                "metadata_modified": "2016-12-22T10:49:05.366866",
+                "timeEnd": 1482374945,
+                "timeBegin": 1482374944,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -8088,7 +8102,7 @@
     },
     "桃園市政府消防局": {
         "counters": {
-            "datasets": 42,
+            "datasets": 43,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -8725,6 +8739,28 @@
                     "resource_recent": 0
                 }
             },
+            "9815e278-3760-4e72-aa7c-f4718965d3f5": {
+                "name": "9815e278-3760-4e72-aa7c-f4718965d3f5",
+                "title": "桃園市設置游泳池公立國中小學校一覽表",
+                "organization_id": "380320000a",
+                "metadata_created": "2016-12-22T07:46:18.732602",
+                "metadata_modified": "2016-12-22T07:47:12.906707",
+                "timeEnd": 1482392832,
+                "timeBegin": 1482363978,
+                "resources": {
+                    "97b479d5-dfb5-4173-aaeb-a25a079e17d9": {
+                        "id": "97b479d5-dfb5-4173-aaeb-a25a079e17d9",
+                        "name": "桃園市設置游泳池公立國中小學校一覽表10512.csv",
+                        "created": "2016-12-22T15:47:12",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-22T15:47:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "8398058c-1763-42d2-a332-9095fd8035d4": {
                 "name": "988fa08b-9e28-4645-b56a-79789b21e617",
                 "title": "桃園市消防實用英文",
@@ -9187,8 +9223,8 @@
                 "title": "酸雨監測",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-12-24T09:42:29.170659",
-                "metadata_modified": "2016-11-15T03:10:22.798260",
-                "timeEnd": 1479150622,
+                "metadata_modified": "2016-12-22T07:34:16.521877",
+                "timeEnd": 1482391036,
                 "timeBegin": 1450921349,
                 "resources": {
                     "4a9e48ad-97b4-4a83-92f8-8701f7494475": {
@@ -9197,6 +9233,13 @@
                         "created": "2015-12-24T17:55:06",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-20T16:24:31"
+                    },
+                    "8277e1e6-a494-47ac-88ef-5b8b7a249549": {
+                        "id": "8277e1e6-a494-47ac-88ef-5b8b7a249549",
+                        "name": "雨水化學分析資料(104_07-105_06).csv",
+                        "created": "2016-12-22T15:17:16",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-22T15:17:16"
                     }
                 },
                 "counters": {
@@ -17803,13 +17846,35 @@
     },
     "桃園市政府財政局": {
         "counters": {
-            "datasets": 4,
+            "datasets": 5,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "3c4f281a-3020-4cdb-b482-91025e4ac302": {
+                "name": "3c4f281a-3020-4cdb-b482-91025e4ac302",
+                "title": "桃園市菸酒進口業者資料一覽表",
+                "organization_id": "380030000d",
+                "metadata_created": "2016-12-22T07:13:00.210784",
+                "metadata_modified": "2016-12-22T07:16:34.916750",
+                "timeEnd": 1482390994,
+                "timeBegin": 1482361980,
+                "resources": {
+                    "fe850943-2fa2-4356-8d6c-dc2e2bb74c68": {
+                        "id": "fe850943-2fa2-4356-8d6c-dc2e2bb74c68",
+                        "name": "桃園市菸酒進口業者相關資料",
+                        "created": "2016-12-22T15:16:34",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-22T15:16:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "94945c34-cbac-4d22-bec2-c0e027e7499f": {
                 "name": "5a740125-9167-4840-9a2e-67235cc0b6d9",
                 "title": "桃園市政府最新債務訊息",
@@ -20951,5 +21016,5 @@
             }
         }
     },
-    "time_generated": 1482355913
+    "time_generated": 1482442307
 }
