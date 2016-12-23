@@ -17967,7 +17967,7 @@
     },
     "桃園市政府農業局": {
         "counters": {
-            "datasets": 12,
+            "datasets": 14,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -18084,6 +18084,28 @@
                     "resource_recent": 0
                 }
             },
+            "334d8c9d-2160-4105-8e91-b3ef725dc365": {
+                "name": "8d119d78-3b0b-479f-a1f8-f393d4fe7c7a",
+                "title": "桃園市農村再生社區",
+                "organization_id": "380270000g",
+                "metadata_created": "2015-10-07T02:39:52.341938",
+                "metadata_modified": "2016-12-23T05:46:14.094960",
+                "timeEnd": 1482459984,
+                "timeBegin": 1444156792,
+                "resources": {
+                    "2b37336d-3626-4547-9368-4d2f1b02a4ac": {
+                        "id": "2b37336d-3626-4547-9368-4d2f1b02a4ac",
+                        "name": "桃園市農再社區.csv",
+                        "created": "2016-12-23T10:26:24",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-23T10:26:24"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "c6c98715-8be2-4173-890a-1e9041d9d2ce": {
                 "name": "97c10ab4-cb68-46fd-93a3-b394c9df542f",
                 "title": "國家級濕地許厝港濕地",
@@ -18099,6 +18121,28 @@
                         "created": "2015-12-18T14:37:30.867605",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-18T14:37:30"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "077cb0bc-0ff2-46b0-8493-14a1508bc7e6": {
+                "name": "bfe01270-7397-4cac-bc4e-b75ff0cc3fcb",
+                "title": "桃園市高榮野生動物保護區",
+                "organization_id": "380270000g",
+                "metadata_created": "2016-03-02T01:02:48.515818",
+                "metadata_modified": "2016-12-23T05:52:06.055044",
+                "timeEnd": 1482472325,
+                "timeBegin": 1456851768,
+                "resources": {
+                    "90e3d334-666c-424b-a5bb-7b05b6f62d33": {
+                        "id": "90e3d334-666c-424b-a5bb-7b05b6f62d33",
+                        "name": "高榮野生動物保護區",
+                        "created": "2016-12-23T13:23:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-23T13:52:05"
                     }
                 },
                 "counters": {
@@ -20976,45 +21020,5 @@
             }
         }
     },
-    "桃園捷運公司": {
-        "counters": {
-            "datasets": 1,
-            "dataset_total": 0,
-            "dataset_recent": 0,
-            "resource_total": 0,
-            "resource_recent": 0
-        },
-        "datasets": {
-            "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c": {
-                "name": "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c",
-                "title": "更版測試新增資料集各項功能12\/9",
-                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
-                "metadata_created": "2016-12-09T02:19:54.343818",
-                "metadata_modified": "2016-12-19T02:33:57.897464",
-                "timeEnd": 1482086037,
-                "timeBegin": 1481221194,
-                "resources": {
-                    "38ce0337-1da9-4a88-a652-fbaae8c35223": {
-                        "id": "38ce0337-1da9-4a88-a652-fbaae8c35223",
-                        "name": "桃園市口腔黏膜篩檢醫療院所名單.csv",
-                        "created": "2016-12-09T10:32:13",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-12-09T10:32:13"
-                    },
-                    "46005f55-eaff-4566-b729-5d7a1d4cb961": {
-                        "id": "46005f55-eaff-4566-b729-5d7a1d4cb961",
-                        "name": "104年12月底商業登記異動表.csv",
-                        "created": "2016-12-15T08:54:37",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-12-15T08:54:37"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            }
-        }
-    },
-    "time_generated": 1482442307
+    "time_generated": 1482528714
 }
