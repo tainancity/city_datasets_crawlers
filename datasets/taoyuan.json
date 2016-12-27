@@ -17130,7 +17130,7 @@
     },
     "桃園市政府警察局": {
         "counters": {
-            "datasets": 49,
+            "datasets": 50,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -17891,6 +17891,28 @@
                         "created": "2016-06-02T09:06:17",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-26T13:28:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a62820af-09e4-4752-bae1-4bd59a80c712": {
+                "name": "a62820af-09e4-4752-bae1-4bd59a80c712",
+                "title": "桃園市守望相助隊",
+                "organization_id": "380130000c",
+                "metadata_created": "2016-12-27T00:56:43.660869",
+                "metadata_modified": "2016-12-27T00:58:20.994810",
+                "timeEnd": 1482800238,
+                "timeBegin": 1482771403,
+                "resources": {
+                    "1ca9ec9e-2c60-4e6c-98f3-fad675bf4fca": {
+                        "id": "1ca9ec9e-2c60-4e6c-98f3-fad675bf4fca",
+                        "name": "patrol.csv",
+                        "created": "2016-12-27T08:57:18",
+                        "webstore_last_updated": null,
+                        "last_modified": "2016-12-27T08:57:18"
                     }
                 },
                 "counters": {
@@ -21645,5 +21667,5 @@
             }
         }
     },
-    "time_generated": 1482787912
+    "time_generated": 1482874306
 }
