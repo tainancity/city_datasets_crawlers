@@ -976,7 +976,7 @@
     },
     "桃園市政府地政局": {
         "counters": {
-            "datasets": 101,
+            "datasets": 103,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -2357,8 +2357,8 @@
                 "title": "106年桃園市土地公告現值及公告地價",
                 "organization_id": "380160000a",
                 "metadata_created": "2017-01-05T05:51:57.660742",
-                "metadata_modified": "2017-01-05T10:53:45.451119",
-                "timeEnd": 1483613355,
+                "metadata_modified": "2017-01-08T08:12:04.352360",
+                "timeEnd": 1483834324,
                 "timeBegin": 1483566717,
                 "resources": {
                     "16e84fed-75b3-49e2-86f6-2d6cdf078e2c": {
@@ -3363,6 +3363,50 @@
                         "created": "2016-12-26T15:47:50",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-26T15:47:50"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a7ba7dc0-7f56-4c45-b10d-6c9b09896a3c": {
+                "name": "a7ba7dc0-7f56-4c45-b10d-6c9b09896a3c",
+                "title": "中路地區區段徵收開發案範圍地號資料",
+                "organization_id": "380160000a",
+                "metadata_created": "2017-01-08T05:27:16.787836",
+                "metadata_modified": "2017-01-08T08:13:29.309311",
+                "timeEnd": 1483853259,
+                "timeBegin": 1483824436,
+                "resources": {
+                    "595ce989-d7b1-4b09-bdcb-a4b491869741": {
+                        "id": "595ce989-d7b1-4b09-bdcb-a4b491869741",
+                        "name": "中路地區區段徵收開發案範圍地號資料.csv",
+                        "created": "2017-01-08T13:27:39",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-01-08T13:27:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a7d72b2f-d195-4731-9097-e201a2163aed": {
+                "name": "a7d72b2f-d195-4731-9097-e201a2163aed",
+                "title": "八德地區區段徵收開發案範圍地號資料",
+                "organization_id": "380160000a",
+                "metadata_created": "2017-01-08T05:18:49.246326",
+                "metadata_modified": "2017-01-08T08:13:19.095767",
+                "timeEnd": 1483853055,
+                "timeBegin": 1483823929,
+                "resources": {
+                    "29ed05c0-0ec6-45de-8bb7-bcdd095df034": {
+                        "id": "29ed05c0-0ec6-45de-8bb7-bcdd095df034",
+                        "name": "八德地區區段徵收開發案範圍地號資料.csv",
+                        "created": "2017-01-08T13:24:15",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-01-08T13:24:15"
                     }
                 },
                 "counters": {
@@ -22202,5 +22246,5 @@
             }
         }
     },
-    "time_generated": 1483824714
+    "time_generated": 1483911106
 }
