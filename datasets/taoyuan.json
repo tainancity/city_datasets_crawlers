@@ -7959,8 +7959,8 @@
                 "title": "桃園市各區現住原住民統計表",
                 "organization_id": "380020000a",
                 "metadata_created": "2016-08-09T06:11:29.204642",
-                "metadata_modified": "2017-01-09T06:24:56.065490",
-                "timeEnd": 1483943095,
+                "metadata_modified": "2017-02-03T07:03:31.488987",
+                "timeEnd": 1486105411,
                 "timeBegin": 1470694289,
                 "resources": {
                     "b4d3fb23-361f-4692-93a5-887f8c43dba7": {
@@ -7986,10 +7986,10 @@
                     },
                     "12392d6b-989c-4b45-9a50-0c055835e815": {
                         "id": "12392d6b-989c-4b45-9a50-0c055835e815",
-                        "name": "10512原住民族別統計.csv",
+                        "name": "原住民族別統計",
                         "created": "2016-11-10T14:15:27",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-01-09T14:24:55"
+                        "last_modified": "2017-02-03T15:03:31"
                     }
                 },
                 "counters": {
@@ -8024,8 +8024,8 @@
                 "title": "桃園市性別統計",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T07:12:29.462302",
-                "metadata_modified": "2017-01-09T06:35:04.655165",
-                "timeEnd": 1483943704,
+                "metadata_modified": "2017-02-03T06:46:12.129744",
+                "timeEnd": 1486104371,
                 "timeBegin": 1443741149,
                 "resources": {
                     "112e3797-7dc6-48d8-851a-360dbf030630": {
@@ -8093,10 +8093,10 @@
                     },
                     "35ccb39e-5116-4591-bb2e-9166648828d3": {
                         "id": "35ccb39e-5116-4591-bb2e-9166648828d3",
-                        "name": "10512性別統計.csv",
+                        "name": "105年現住人口數按性別及單齡人口",
                         "created": "2016-11-09T12:09:34",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-01-09T14:35:04"
+                        "last_modified": "2017-02-03T14:46:11"
                     }
                 },
                 "counters": {
@@ -8258,16 +8258,16 @@
                 "title": "桃園市人口與戶籍動態登記",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T07:04:22.788274",
-                "metadata_modified": "2017-01-09T06:43:24.194978",
-                "timeEnd": 1483944204,
+                "metadata_modified": "2017-02-03T06:37:43.158114",
+                "timeEnd": 1486103863,
                 "timeBegin": 1443740662,
                 "resources": {
                     "e336f294-bade-4207-bb70-cedf660ba47e": {
                         "id": "e336f294-bade-4207-bb70-cedf660ba47e",
-                        "name": "10512人口數.csv",
+                        "name": "10601人口數",
                         "created": "2015-12-09T09:04:43",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-01-09T14:43:24"
+                        "last_modified": "2017-02-03T14:37:43"
                     }
                 },
                 "counters": {
@@ -11109,7 +11109,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 29,
+            "datasets": 36,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -11174,6 +11174,28 @@
                         "created": "2015-12-08T12:52:27",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-10T09:45:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "104ecac8-f635-40e6-8a47-66d8d72f0274": {
+                "name": "104ecac8-f635-40e6-8a47-66d8d72f0274",
+                "title": "桃園市資料開放平台跳出率",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-03T09:00:26.049764",
+                "metadata_modified": "2017-02-03T09:02:56.685722",
+                "timeEnd": 1486112576,
+                "timeBegin": 1486083626,
+                "resources": {
+                    "e359d9c6-a668-496d-8bc5-a73d7612462c": {
+                        "id": "e359d9c6-a668-496d-8bc5-a73d7612462c",
+                        "name": "跳出率 20160101-20170202.csv",
+                        "created": "2017-02-03T17:02:56",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T17:02:56"
                     }
                 },
                 "counters": {
@@ -11447,6 +11469,28 @@
                     "resource_recent": 0
                 }
             },
+            "382b6030-bc0c-4608-b00a-5d77eb37c609": {
+                "name": "382b6030-bc0c-4608-b00a-5d77eb37c609",
+                "title": "桃園市資料開放平台瀏覽量",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-03T08:52:47.160286",
+                "metadata_modified": "2017-02-03T08:57:47.554134",
+                "timeEnd": 1486112005,
+                "timeBegin": 1486083167,
+                "resources": {
+                    "f5ed8635-1e91-4aff-963e-d15907bedccb": {
+                        "id": "f5ed8635-1e91-4aff-963e-d15907bedccb",
+                        "name": "瀏覽量 20160101-20170202.csv",
+                        "created": "2017-02-03T16:53:25",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T16:53:25"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "990f841c-29f2-4547-8669-2acef97eff73": {
                 "name": "4d6fd487-4ae1-455e-81cf-0b2d791434d3",
                 "title": "APPS專區",
@@ -11504,6 +11548,28 @@
                     "resource_recent": 0
                 }
             },
+            "543ee550-70cc-44fc-b039-538d850355d2": {
+                "name": "543ee550-70cc-44fc-b039-538d850355d2",
+                "title": "桃園市資料開放平台使用者",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-03T09:12:19.703901",
+                "metadata_modified": "2017-02-03T09:12:55.373152",
+                "timeEnd": 1486113175,
+                "timeBegin": 1486084339,
+                "resources": {
+                    "4d7a4002-ff0c-474a-989a-51a4ba78dcf7": {
+                        "id": "4d7a4002-ff0c-474a-989a-51a4ba78dcf7",
+                        "name": "使用者 20160101-20170202.csv",
+                        "created": "2017-02-03T17:12:55",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T17:12:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "46f380ab-ffc4-434a-9aad-20d2d2b32255": {
                 "name": "59a0abcd-92ee-4dbc-b02d-a0117e4503e0",
                 "title": "桃園市公文時效統計表(一般公文)",
@@ -11533,6 +11599,50 @@
                         "created": "2016-11-16T10:35:50",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-16T10:35:50"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "5cbe50a2-9ddd-4c20-ac18-c417eb13b3dd": {
+                "name": "5cbe50a2-9ddd-4c20-ac18-c417eb13b3dd",
+                "title": "桃園市資料開放平台平均工作階段時間長度",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-03T09:16:11.200238",
+                "metadata_modified": "2017-02-03T09:16:27.547665",
+                "timeEnd": 1486113387,
+                "timeBegin": 1486084571,
+                "resources": {
+                    "46a8157b-1271-4479-9f12-1adbf4bacd91": {
+                        "id": "46a8157b-1271-4479-9f12-1adbf4bacd91",
+                        "name": "平均工作階段時間長度 20160101-20170202.csv",
+                        "created": "2017-02-03T17:16:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T17:16:27"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "603b7619-1889-4a90-b719-6cf6852ab3f5": {
+                "name": "603b7619-1889-4a90-b719-6cf6852ab3f5",
+                "title": "桃園市資料開放平台工作階段",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-03T09:18:44.055958",
+                "metadata_modified": "2017-02-03T09:18:54.764723",
+                "timeEnd": 1486113534,
+                "timeBegin": 1486084724,
+                "resources": {
+                    "84c256d9-4c7e-4284-ae88-a1131506f0fa": {
+                        "id": "84c256d9-4c7e-4284-ae88-a1131506f0fa",
+                        "name": "工作階段 20160101-20170202.csv",
+                        "created": "2017-02-03T17:18:54",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T17:18:54"
                     }
                 },
                 "counters": {
@@ -11942,6 +12052,28 @@
                     "resource_recent": 0
                 }
             },
+            "baef89bb-f3b7-4a52-9cde-0b0decf4784c": {
+                "name": "baef89bb-f3b7-4a52-9cde-0b0decf4784c",
+                "title": "桃園市資料開放平台新工作階段",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-03T09:20:34.493917",
+                "metadata_modified": "2017-02-03T09:22:34.018108",
+                "timeEnd": 1486113753,
+                "timeBegin": 1486084834,
+                "resources": {
+                    "d3b2bf19-b496-4685-8744-ad7140a78de4": {
+                        "id": "d3b2bf19-b496-4685-8744-ad7140a78de4",
+                        "name": "新工作階段 20160101-20170202.csv",
+                        "created": "2017-02-03T17:22:33",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T17:22:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "c44eb606-a2d9-4b14-888a-95eb9e431ad7": {
                 "name": "c44eb606-a2d9-4b14-888a-95eb9e431ad7",
                 "title": "開放委託研究計劃",
@@ -11957,6 +12089,28 @@
                         "created": "2016-12-07T17:06:42",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-07T17:06:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cb6d2d07-161f-4256-bb7d-8f610269fca7": {
+                "name": "cb6d2d07-161f-4256-bb7d-8f610269fca7",
+                "title": "桃園市資料開放平台單次工作階段頁數",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-03T09:05:02.070531",
+                "metadata_modified": "2017-02-03T09:05:17.212638",
+                "timeEnd": 1486112717,
+                "timeBegin": 1486083902,
+                "resources": {
+                    "01fbfb18-ec49-4895-ab24-b90b9ed4a816": {
+                        "id": "01fbfb18-ec49-4895-ab24-b90b9ed4a816",
+                        "name": "單次工作階段頁數 20160101-20170202.csv",
+                        "created": "2017-02-03T17:05:17",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T17:05:17"
                     }
                 },
                 "counters": {
@@ -15960,8 +16114,8 @@
                 "title": "風景區管理處-後慈湖、小烏來婚紗攝影申請一覽表",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-13T06:57:16.984102",
-                "metadata_modified": "2017-01-05T06:18:53.327800",
-                "timeEnd": 1483597133,
+                "metadata_modified": "2017-02-03T06:04:34.444232",
+                "timeEnd": 1486101874,
                 "timeBegin": 1465772236,
                 "resources": {
                     "c2734aec-b113-4bbe-bcf9-76388276eadc": {
@@ -16019,6 +16173,13 @@
                         "created": "2017-01-05T14:18:53",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-05T14:18:53"
+                    },
+                    "36b698e5-6ef3-4af4-a308-7e1a0f092c0a": {
+                        "id": "36b698e5-6ef3-4af4-a308-7e1a0f092c0a",
+                        "name": "2017年2月後慈湖、小烏來婚紗攝影申請一覽表.csv",
+                        "created": "2017-02-03T14:04:34",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T14:04:34"
                     }
                 },
                 "counters": {
@@ -16770,8 +16931,8 @@
                 "title": "風景區管理處-轄管場地租借申請一覽表",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-02T02:44:42.582783",
-                "metadata_modified": "2017-01-04T01:23:08.139781",
-                "timeEnd": 1483492987,
+                "metadata_modified": "2017-02-03T06:05:39.654971",
+                "timeEnd": 1486101939,
                 "timeBegin": 1464806682,
                 "resources": {
                     "02fed303-7330-4eb6-abf8-27e7e2e171ab": {
@@ -16829,6 +16990,13 @@
                         "created": "2017-01-04T09:23:07",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-04T09:23:07"
+                    },
+                    "fcd399f9-df36-4cd9-99f1-7e7a51b775df": {
+                        "id": "fcd399f9-df36-4cd9-99f1-7e7a51b775df",
+                        "name": "2017年2月場地申請表.csv",
+                        "created": "2017-02-03T14:05:39",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T14:05:39"
                     }
                 },
                 "counters": {
@@ -21451,8 +21619,8 @@
                 "title": "桃園市都市計畫委員會",
                 "organization_id": "380360000g",
                 "metadata_created": "2015-10-01T03:54:20.292533",
-                "metadata_modified": "2015-12-22T02:06:02.744156",
-                "timeEnd": 1450721162,
+                "metadata_modified": "2017-02-03T07:56:00.083123",
+                "timeEnd": 1486108559,
                 "timeBegin": 1443642860,
                 "resources": {
                     "684f56b5-084d-4b4c-bc1a-682ca61bf19c": {
@@ -21460,7 +21628,7 @@
                         "name": "桃園市都市計畫委員會",
                         "created": "2015-11-30T09:55:17.084271",
                         "webstore_last_updated": null,
-                        "last_modified": "2015-11-30T09:55:30"
+                        "last_modified": "2017-02-03T15:55:59"
                     }
                 },
                 "counters": {
@@ -22867,8 +23035,8 @@
                 "title": "更版測試新增資料集各項功能12\/9",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2016-12-09T02:19:54.343818",
-                "metadata_modified": "2017-01-23T03:53:13.476770",
-                "timeEnd": 1485114793,
+                "metadata_modified": "2017-02-03T08:22:47.491788",
+                "timeEnd": 1486110167,
                 "timeBegin": 1481221194,
                 "resources": {
                     "38ce0337-1da9-4a88-a652-fbaae8c35223": {
@@ -22891,6 +23059,13 @@
                         "created": "2017-01-06T09:33:26",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-06T09:33:26"
+                    },
+                    "40b40887-46ef-4631-84ce-5d294168c205": {
+                        "id": "40b40887-46ef-4631-84ce-5d294168c205",
+                        "name": "蔬果.csv",
+                        "created": "2017-02-03T16:22:47",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T16:22:47"
                     }
                 },
                 "counters": {
@@ -22922,5 +23097,45 @@
             }
         }
     },
-    "time_generated": 1486071138
+    "桃園果菜市場股份有限公司": {
+        "counters": {
+            "datasets": 1,
+            "dataset_total": 0,
+            "dataset_recent": 0,
+            "resource_total": 0,
+            "resource_recent": 0
+        },
+        "datasets": {
+            "a7f4d305-a4d6-443d-8688-9e5070a92126": {
+                "name": "a7f4d305-a4d6-443d-8688-9e5070a92126",
+                "title": "每日蔬果農藥殘毒快速檢驗結果",
+                "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
+                "metadata_created": "2017-02-03T00:41:57.606635",
+                "metadata_modified": "2017-02-03T08:25:11.139120",
+                "timeEnd": 1486103058,
+                "timeBegin": 1486053717,
+                "resources": {
+                    "5dbd299f-8595-4bd0-8980-5bd98dc98f04": {
+                        "id": "5dbd299f-8595-4bd0-8980-5bd98dc98f04",
+                        "name": "1060202檢驗結果.xlsx",
+                        "created": "2017-02-03T14:24:11",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T14:24:11"
+                    },
+                    "2778d9f7-2764-4375-9197-523e1bad9be6": {
+                        "id": "2778d9f7-2764-4375-9197-523e1bad9be6",
+                        "name": "1060203檢驗結果.xlsx",
+                        "created": "2017-02-03T14:24:18",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-03T14:24:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            }
+        }
+    },
+    "time_generated": 1486157515
 }
