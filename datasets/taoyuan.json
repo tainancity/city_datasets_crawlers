@@ -1,7 +1,7 @@
 {
     "桃園市政府主計處": {
         "counters": {
-            "datasets": 12,
+            "datasets": 15,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -52,19 +52,63 @@
                     "resource_recent": 0
                 }
             },
+            "28891f99-138a-478c-8bf1-fb42b7419d06": {
+                "name": "28891f99-138a-478c-8bf1-fb42b7419d06",
+                "title": "桃園市總決算歲出政事別",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-02-10T01:32:24.222497",
+                "metadata_modified": "2017-02-10T02:06:37.868608",
+                "timeEnd": 1486692397,
+                "timeBegin": 1486661544,
+                "resources": {
+                    "2014547b-82cc-4da8-bded-3acaf1886d56": {
+                        "id": "2014547b-82cc-4da8-bded-3acaf1886d56",
+                        "name": "104年桃園市總決算歲出政事別.csv",
+                        "created": "2017-02-10T10:06:37.904900",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-10T10:06:37"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "2e8bb376-8539-4b30-b3ac-ce28e8e02728": {
+                "name": "2e8bb376-8539-4b30-b3ac-ce28e8e02728",
+                "title": "桃園市總決算歲入來源別",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-02-10T01:33:59.583144",
+                "metadata_modified": "2017-02-10T02:09:34.825244",
+                "timeEnd": 1486692574,
+                "timeBegin": 1486661639,
+                "resources": {
+                    "a7d8ebda-9582-4cb6-857b-ab0d335a6f4b": {
+                        "id": "a7d8ebda-9582-4cb6-857b-ab0d335a6f4b",
+                        "name": "104年桃園市總決算歲入來源別.csv",
+                        "created": "2017-02-10T10:09:34",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-10T10:09:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "8d5eb2a4-2d8a-4a80-b832-a9aa12808d2d": {
                 "name": "4315c61e-b979-492b-a95c-5a6c4852c2f1",
                 "title": "桃園市平均每戶家庭收支-收入 (91~97年)",
                 "organization_id": "380200000a",
                 "metadata_created": "2015-10-08T01:17:13.136417",
-                "metadata_modified": "2016-02-23T00:36:07.483349",
-                "timeEnd": 1456187590,
+                "metadata_modified": "2017-02-10T02:23:40.137268",
+                "timeEnd": 1486664620,
                 "timeBegin": 1444238233,
                 "resources": {
                     "b0fe79ac-03d9-42a3-98fb-731310ef89ab": {
                         "id": "b0fe79ac-03d9-42a3-98fb-731310ef89ab",
                         "name": "平均每戶家庭收支-收入 (91~97年)",
-                        "created": "2016-02-23T08:33:10.775886",
+                        "created": "2016-02-23T08:33:10",
                         "webstore_last_updated": null,
                         "last_modified": "2016-02-23T08:32:55"
                     }
@@ -79,8 +123,8 @@
                 "title": "桃園市104年度總決算附屬單位決算及綜計表",
                 "organization_id": "380200000a",
                 "metadata_created": "2016-10-27T08:16:03.381512",
-                "metadata_modified": "2016-11-01T01:51:20.129666",
-                "timeEnd": 1477936280,
+                "metadata_modified": "2017-02-10T04:38:54.842352",
+                "timeEnd": 1486672734,
                 "timeBegin": 1477527363,
                 "resources": {
                     "06961e67-b477-437d-b8eb-0b6d0dcf1dd1": {
@@ -98,11 +142,11 @@
             },
             "5e40c854-0dcd-4897-9d49-f9ffd5c42f19": {
                 "name": "5e40c854-0dcd-4897-9d49-f9ffd5c42f19",
-                "title": "104年度桃園市總決算",
+                "title": "桃園市總決算",
                 "organization_id": "380200000a",
                 "metadata_created": "2016-11-02T02:04:38.661047",
-                "metadata_modified": "2016-11-02T02:55:29.867174",
-                "timeEnd": 1478055405,
+                "metadata_modified": "2017-02-10T01:46:39.452074",
+                "timeEnd": 1486662399,
                 "timeBegin": 1478023478,
                 "resources": {
                     "166f67d3-09f1-4b38-bd22-df1b4083964f": {
@@ -137,16 +181,45 @@
                 "title": "桃園市家庭現代化設備普及率",
                 "organization_id": "380200000a",
                 "metadata_created": "2015-10-08T01:29:01.681633",
-                "metadata_modified": "2016-09-09T05:26:27.917384",
-                "timeEnd": 1473398688,
+                "metadata_modified": "2017-02-10T03:30:15.191557",
+                "timeEnd": 1486697374,
                 "timeBegin": 1444238941,
                 "resources": {
                     "758d3b14-83e9-488a-9653-ef60c7665a48": {
                         "id": "758d3b14-83e9-488a-9653-ef60c7665a48",
                         "name": "桃園市家庭現代化設備普及率.",
-                        "created": "2016-09-09T13:24:48.271341",
+                        "created": "2016-09-09T13:24:48",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-09T13:24:48"
+                    },
+                    "f9dfe679-fc25-4006-aa81-6847da822970": {
+                        "id": "f9dfe679-fc25-4006-aa81-6847da822970",
+                        "name": "桃園市家庭現代化設備普及率104.csv",
+                        "created": "2017-02-10T11:29:34.793072",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-10T11:29:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "80220d81-086b-4a1b-b06b-074fd5665a00": {
+                "name": "80220d81-086b-4a1b-b06b-074fd5665a00",
+                "title": "桃園市總決算歲出機關別",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-02-10T01:50:11.434978",
+                "metadata_modified": "2017-02-10T02:47:46.427624",
+                "timeEnd": 1486692450,
+                "timeBegin": 1486662611,
+                "resources": {
+                    "78cb6553-e65c-4fe7-9466-073152d40145": {
+                        "id": "78cb6553-e65c-4fe7-9466-073152d40145",
+                        "name": "104年桃園市總決算歲出機關別.csv",
+                        "created": "2017-02-10T10:07:30",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-10T10:07:30"
                     }
                 },
                 "counters": {
@@ -224,8 +297,8 @@
                 "title": "桃園市平均每戶家庭收支-支出 (91~97年)",
                 "organization_id": "380200000a",
                 "metadata_created": "2015-10-08T01:20:58.991286",
-                "metadata_modified": "2016-10-17T02:56:02.598754",
-                "timeEnd": 1476673005,
+                "metadata_modified": "2017-02-10T02:30:36.460937",
+                "timeEnd": 1486665036,
                 "timeBegin": 1444238458,
                 "resources": {
                     "d6068cd7-2c04-4edd-93ed-9bf0921edd39": {
@@ -246,8 +319,8 @@
                 "title": "桃園市105年度總預算附屬單位預算及綜計表",
                 "organization_id": "380200000a",
                 "metadata_created": "2016-10-27T03:09:18.750093",
-                "metadata_modified": "2016-11-01T01:52:32.709083",
-                "timeEnd": 1477936352,
+                "metadata_modified": "2017-02-10T04:40:05.587902",
+                "timeEnd": 1486672805,
                 "timeBegin": 1477508958,
                 "resources": {
                     "eed82eb1-d251-4b4e-b4b8-62ac579939c2": {
@@ -268,16 +341,23 @@
                 "title": "桃園市平均每戶家庭收支(98~104年)",
                 "organization_id": "380200000a",
                 "metadata_created": "2015-10-08T01:27:10.447482",
-                "metadata_modified": "2016-09-09T03:45:48.747281",
-                "timeEnd": 1473392657,
+                "metadata_modified": "2017-02-10T03:28:32.866813",
+                "timeEnd": 1486697232,
                 "timeBegin": 1444238830,
                 "resources": {
                     "b067fd52-99e4-4783-bd13-4526f328bd99": {
                         "id": "b067fd52-99e4-4783-bd13-4526f328bd99",
                         "name": "桃園市平均每戶家庭收支(98~104年)",
-                        "created": "2016-09-09T11:44:17.765186",
+                        "created": "2016-09-09T11:44:17",
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-09T11:44:17"
+                    },
+                    "b0c5f338-7c1b-422f-be96-e254975ecee5": {
+                        "id": "b0c5f338-7c1b-422f-be96-e254975ecee5",
+                        "name": "平均每戶家庭收支(98~104年).csv",
+                        "created": "2017-02-10T11:27:12.420619",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-10T11:27:12"
                     }
                 },
                 "counters": {
@@ -11324,8 +11404,8 @@
                 "title": "桃園市資料開放平台跳出率",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-03T09:00:26.049764",
-                "metadata_modified": "2017-02-03T09:02:56.685722",
-                "timeEnd": 1486112576,
+                "metadata_modified": "2017-02-10T02:47:22.074106",
+                "timeEnd": 1486666042,
                 "timeBegin": 1486083626,
                 "resources": {
                     "e359d9c6-a668-496d-8bc5-a73d7612462c": {
@@ -11556,8 +11636,8 @@
                 "title": "桃園市資料開放平台瀏覽量",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-03T08:52:47.160286",
-                "metadata_modified": "2017-02-03T08:57:47.554134",
-                "timeEnd": 1486112005,
+                "metadata_modified": "2017-02-10T02:47:17.070304",
+                "timeEnd": 1486666037,
                 "timeBegin": 1486083167,
                 "resources": {
                     "f5ed8635-1e91-4aff-963e-d15907bedccb": {
@@ -11664,8 +11744,8 @@
                 "title": "桃園市資料開放平台使用者",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-03T09:12:19.703901",
-                "metadata_modified": "2017-02-03T09:12:55.373152",
-                "timeEnd": 1486113175,
+                "metadata_modified": "2017-02-10T02:48:52.084177",
+                "timeEnd": 1486666132,
                 "timeBegin": 1486084339,
                 "resources": {
                     "4d7a4002-ff0c-474a-989a-51a4ba78dcf7": {
@@ -11722,8 +11802,8 @@
                 "title": "桃園市資料開放平台平均工作階段時間長度",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-03T09:16:11.200238",
-                "metadata_modified": "2017-02-03T09:16:27.547665",
-                "timeEnd": 1486113387,
+                "metadata_modified": "2017-02-10T02:49:08.058221",
+                "timeEnd": 1486666148,
                 "timeBegin": 1486084571,
                 "resources": {
                     "46a8157b-1271-4479-9f12-1adbf4bacd91": {
@@ -11744,8 +11824,8 @@
                 "title": "桃園市資料開放平台訪客地理區域：地區",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-06T05:45:49.280045",
-                "metadata_modified": "2017-02-06T05:52:52.931254",
-                "timeEnd": 1486359979,
+                "metadata_modified": "2017-02-10T02:44:31.948195",
+                "timeEnd": 1486665871,
                 "timeBegin": 1486331149,
                 "resources": {
                     "423074f6-12f5-483e-b17e-d37383d406a8": {
@@ -11766,8 +11846,8 @@
                 "title": "桃園市資料開放平台工作階段",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-03T09:18:44.055958",
-                "metadata_modified": "2017-02-03T09:18:54.764723",
-                "timeEnd": 1486113534,
+                "metadata_modified": "2017-02-10T02:49:18.717633",
+                "timeEnd": 1486666158,
                 "timeBegin": 1486084724,
                 "resources": {
                     "84c256d9-4c7e-4284-ae88-a1131506f0fa": {
@@ -11997,8 +12077,8 @@
                 "title": "桃園市資料開放平台客群：年齡層",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-06T05:26:54.632839",
-                "metadata_modified": "2017-02-06T05:27:31.388929",
-                "timeEnd": 1486358851,
+                "metadata_modified": "2017-02-10T02:45:48.764291",
+                "timeEnd": 1486665948,
                 "timeBegin": 1486330014,
                 "resources": {
                     "14e274ab-2676-4418-bcf9-e674e6a50643": {
@@ -12270,8 +12350,8 @@
                 "title": "桃園市資料開放平台訪客地理區域：語言",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-06T05:51:28.883230",
-                "metadata_modified": "2017-02-06T05:51:42.048199",
-                "timeEnd": 1486360301,
+                "metadata_modified": "2017-02-10T02:45:37.933098",
+                "timeEnd": 1486665937,
                 "timeBegin": 1486331488,
                 "resources": {
                     "3c07d474-86bf-46e9-aadd-dbcb3f4f730d": {
@@ -12292,8 +12372,8 @@
                 "title": "桃園市資料開放平台新工作階段",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-03T09:20:34.493917",
-                "metadata_modified": "2017-02-03T09:22:34.018108",
-                "timeEnd": 1486113753,
+                "metadata_modified": "2017-02-10T02:49:28.930333",
+                "timeEnd": 1486666168,
                 "timeBegin": 1486084834,
                 "resources": {
                     "d3b2bf19-b496-4685-8744-ad7140a78de4": {
@@ -12336,8 +12416,8 @@
                 "title": "桃園市資料開放平台單次工作階段頁數",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-03T09:05:02.070531",
-                "metadata_modified": "2017-02-03T09:05:17.212638",
-                "timeEnd": 1486112717,
+                "metadata_modified": "2017-02-10T02:48:41.544946",
+                "timeEnd": 1486666121,
                 "timeBegin": 1486083902,
                 "resources": {
                     "01fbfb18-ec49-4895-ab24-b90b9ed4a816": {
@@ -12380,8 +12460,8 @@
                 "title": "桃園市資料開放平台使用者類型",
                 "organization_id": "380220000a",
                 "metadata_created": "2017-02-06T06:03:55.418186",
-                "metadata_modified": "2017-02-06T06:04:17.136370",
-                "timeEnd": 1486361057,
+                "metadata_modified": "2017-02-10T02:44:59.710469",
+                "timeEnd": 1486665899,
                 "timeBegin": 1486332235,
                 "resources": {
                     "a5c5b52b-9da4-48ea-9bf5-4f728abbe94d": {
@@ -23377,16 +23457,23 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-02-07T23:20:20.169818",
-                "timeEnd": 1486509620,
+                "metadata_modified": "2017-02-09T23:16:14.608326",
+                "timeEnd": 1486682174,
                 "timeBegin": 1486053717,
                 "resources": {
-                    "7236e915-cb49-48d4-81db-b300b99f85ee": {
-                        "id": "7236e915-cb49-48d4-81db-b300b99f85ee",
+                    "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
+                        "id": "125d2b59-73d8-499d-af0d-009bb3a10bbe",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-02-08T07:20:20",
+                        "created": "2017-02-10T07:15:52.884847",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-08T07:20:20"
+                        "last_modified": "2017-02-10T07:15:52"
+                    },
+                    "c9466a51-749e-4b0a-b3b6-23049af4217f": {
+                        "id": "c9466a51-749e-4b0a-b3b6-23049af4217f",
+                        "name": "每日蔬果農藥殘留農藥檢測結果.csv",
+                        "created": "2017-02-10T07:16:14.721614",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-10T07:16:14"
                     }
                 },
                 "counters": {
@@ -23396,5 +23483,5 @@
             }
         }
     },
-    "time_generated": 1486675929
+    "time_generated": 1486762332
 }
