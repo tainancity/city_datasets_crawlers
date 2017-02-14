@@ -5006,7 +5006,7 @@
     },
     "桃園市政府地方稅務局": {
         "counters": {
-            "datasets": 36,
+            "datasets": 39,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -5138,6 +5138,56 @@
                         "created": "2016-05-05T15:11:00",
                         "webstore_last_updated": null,
                         "last_modified": "2016-05-05T15:11:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "32d8e91f-f3fa-410b-b840-484f14e0708f": {
+                "name": "32d8e91f-f3fa-410b-b840-484f14e0708f",
+                "title": "桃園市最近5年契稅綜合統計表",
+                "organization_id": "380260000d",
+                "metadata_created": "2017-02-14T10:28:09.137392",
+                "metadata_modified": "2017-02-14T10:29:29.897270",
+                "timeEnd": 1487039369,
+                "timeBegin": 1487039289,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3380a379-c1f6-4567-b790-19eacfd1104a": {
+                "name": "3380a379-c1f6-4567-b790-19eacfd1104a",
+                "title": "桃園市最近5年契稅綜合統計表",
+                "organization_id": "380260000d",
+                "metadata_created": "2017-02-14T10:28:09.096257",
+                "metadata_modified": "2017-02-14T10:28:10.010368",
+                "timeEnd": 1487039290,
+                "timeBegin": 1487039289,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "36fa9391-3fa5-44e7-9bf6-e7874d0fa20a": {
+                "name": "36fa9391-3fa5-44e7-9bf6-e7874d0fa20a",
+                "title": "稅務機關資訊位置表",
+                "organization_id": "380260000d",
+                "metadata_created": "2017-02-14T02:45:25.804339",
+                "metadata_modified": "2017-02-14T03:00:49.909657",
+                "timeEnd": 1487041249,
+                "timeBegin": 1487011525,
+                "resources": {
+                    "79cd7148-06de-48f3-8ab7-cac2ca364861": {
+                        "id": "79cd7148-06de-48f3-8ab7-cac2ca364861",
+                        "name": "稅務機關位置-稅務局.csv",
+                        "created": "2017-02-14T11:00:49.948577",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T11:00:49"
                     }
                 },
                 "counters": {
@@ -13452,8 +13502,8 @@
                 "title": "105年兒少高風險家庭通報量",
                 "organization_id": "380120000j",
                 "metadata_created": "2017-02-13T03:48:36.834346",
-                "metadata_modified": "2017-02-13T06:05:24.084507",
-                "timeEnd": 1486965835,
+                "metadata_modified": "2017-02-14T02:01:26.025893",
+                "timeEnd": 1487037686,
                 "timeBegin": 1486928916,
                 "resources": {
                     "6ee00454-7061-4ac5-93b8-c379d0fe264e": {
@@ -13463,12 +13513,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-13T11:55:50"
                     },
-                    "f56c7a64-d535-4e0e-93af-2e163fc3c924": {
-                        "id": "f56c7a64-d535-4e0e-93af-2e163fc3c924",
-                        "name": "高風險家庭.csv",
-                        "created": "2017-02-13T14:03:55",
+                    "ffb32e59-b07e-4de2-86d2-a7960579b149": {
+                        "id": "ffb32e59-b07e-4de2-86d2-a7960579b149",
+                        "name": "105年兒少高風險家庭通報量.csv",
+                        "created": "2017-02-14T10:01:26.066803",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-13T14:03:55"
+                        "last_modified": "2017-02-14T10:01:25"
                     }
                 },
                 "counters": {
@@ -13696,7 +13746,7 @@
     },
     "桃園市政府經濟發展局": {
         "counters": {
-            "datasets": 24,
+            "datasets": 30,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -13760,6 +13810,28 @@
                         "created": "2016-10-06T16:29:22",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-06T16:29:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "17538e3e-f21a-44bd-9436-ea5653481973": {
+                "name": "17538e3e-f21a-44bd-9436-ea5653481973",
+                "title": "桃園市集老店",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-02-14T06:38:23.618775",
+                "metadata_modified": "2017-02-14T09:02:43.689325",
+                "timeEnd": 1487054350,
+                "timeBegin": 1487025503,
+                "resources": {
+                    "44898ed8-8dc8-4c38-9301-5b899803d599": {
+                        "id": "44898ed8-8dc8-4c38-9301-5b899803d599",
+                        "name": "經發局市場科桃園市集老店.CSV",
+                        "created": "2017-02-14T14:39:10",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T14:39:10"
                     }
                 },
                 "counters": {
@@ -13882,6 +13954,28 @@
                     "resource_recent": 0
                 }
             },
+            "38d6460c-7afb-47c3-9014-e4eee79262c1": {
+                "name": "38d6460c-7afb-47c3-9014-e4eee79262c1",
+                "title": "桃園市列管攤販集中區",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-02-14T06:32:59.743971",
+                "metadata_modified": "2017-02-14T09:02:30.738461",
+                "timeEnd": 1487054031,
+                "timeBegin": 1487025179,
+                "resources": {
+                    "f2b9d73f-55b1-42a5-9868-a89c67e56209": {
+                        "id": "f2b9d73f-55b1-42a5-9868-a89c67e56209",
+                        "name": "經發局市場科列管攤販集中區.CSV",
+                        "created": "2017-02-14T14:33:51",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T14:33:50"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e49df3fe-0347-4df1-91e5-7cf8fbf20dba": {
                 "name": "46e0dfeb-1877-4888-af25-bce2a25d84ea",
                 "title": "經濟部推薦桃園市工商綜合區總表",
@@ -13955,6 +14049,28 @@
                     "resource_recent": 0
                 }
             },
+            "53de3535-4cab-44ee-823f-1f2c437dd591": {
+                "name": "53de3535-4cab-44ee-823f-1f2c437dd591",
+                "title": "桃園市公營市場",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-02-14T06:23:06.862421",
+                "metadata_modified": "2017-02-14T09:01:31.779734",
+                "timeEnd": 1487053774,
+                "timeBegin": 1487024586,
+                "resources": {
+                    "70b34463-ddd1-4eb6-bccb-f108132b3feb": {
+                        "id": "70b34463-ddd1-4eb6-bccb-f108132b3feb",
+                        "name": "經發局市場科公營市場.CSV",
+                        "created": "2017-02-14T14:29:34",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T14:29:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "34fc32fc-fd25-40a4-8995-991e2fbe5338": {
                 "name": "5b99b88d-c56c-453e-8d32-e9813cfdd770",
                 "title": "桃園市自來水承裝業業者名單",
@@ -13992,6 +14108,28 @@
                         "created": "2016-01-07T13:50:14",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-07T13:49:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6aa03ad2-b436-43d0-a52e-88fc2575b4d3": {
+                "name": "6aa03ad2-b436-43d0-a52e-88fc2575b4d3",
+                "title": "桃園市績優企業",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-02-14T06:49:42.094548",
+                "metadata_modified": "2017-02-14T09:04:18.863910",
+                "timeEnd": 1487055027,
+                "timeBegin": 1487026182,
+                "resources": {
+                    "8b9aad74-6293-430a-9b75-023409d93c51": {
+                        "id": "8b9aad74-6293-430a-9b75-023409d93c51",
+                        "name": "經發局產發科績優企業.CSV",
+                        "created": "2017-02-14T14:50:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T14:50:26"
                     }
                 },
                 "counters": {
@@ -14107,6 +14245,28 @@
                         "created": "2016-03-03T14:04:28",
                         "webstore_last_updated": null,
                         "last_modified": "2016-03-03T14:04:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7fcc9286-dec9-4f73-bbc0-7987da7457ba": {
+                "name": "7fcc9286-dec9-4f73-bbc0-7987da7457ba",
+                "title": "桃園市重大投資成果",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-02-14T06:41:51.026916",
+                "metadata_modified": "2017-02-14T09:03:59.584179",
+                "timeEnd": 1487054528,
+                "timeBegin": 1487025711,
+                "resources": {
+                    "28a4b0a1-78b4-4b18-9a23-285ae98f6327": {
+                        "id": "28a4b0a1-78b4-4b18-9a23-285ae98f6327",
+                        "name": "經發局招商科重大投資成果.CSV",
+                        "created": "2017-02-14T14:42:08",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T14:42:08"
                     }
                 },
                 "counters": {
@@ -14288,6 +14448,28 @@
                         "created": "2015-10-07T09:00:53.001788",
                         "webstore_last_updated": null,
                         "last_modified": "2015-10-07T09:00:53"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d173713b-a48f-45a6-907d-e484510198c3": {
+                "name": "d173713b-a48f-45a6-907d-e484510198c3",
+                "title": "桃園市亮點企業",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-02-14T06:53:06.446311",
+                "metadata_modified": "2017-02-14T09:04:36.467898",
+                "timeEnd": 1487055232,
+                "timeBegin": 1487026386,
+                "resources": {
+                    "757522c5-4d42-49ed-8748-7d95af748b5d": {
+                        "id": "757522c5-4d42-49ed-8748-7d95af748b5d",
+                        "name": "經發局商發科亮點企業.CSV",
+                        "created": "2017-02-14T14:53:52",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T14:53:52"
                     }
                 },
                 "counters": {
@@ -20361,8 +20543,8 @@
                 "title": "桃園市動保園區入園公告",
                 "organization_id": "380270000g",
                 "metadata_created": "2015-10-07T02:36:16.615649",
-                "metadata_modified": "2017-01-06T07:34:38.097464",
-                "timeEnd": 1483688077,
+                "metadata_modified": "2017-02-14T07:34:08.048060",
+                "timeEnd": 1487057648,
                 "timeBegin": 1444156576,
                 "resources": {
                     "5eeddf3d-00c3-485a-b44b-2bd984e66547": {
@@ -20371,6 +20553,27 @@
                         "created": "2017-01-06T15:32:35",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-06T15:34:37"
+                    },
+                    "918fd0a5-cbe4-4b49-a834-c62557d65fc0": {
+                        "id": "918fd0a5-cbe4-4b49-a834-c62557d65fc0",
+                        "name": "20151019~20151231.xls",
+                        "created": "2017-02-14T15:32:06.793503",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T15:32:06"
+                    },
+                    "1e419789-5f62-41c5-9b54-9c6bc85b1ae8": {
+                        "id": "1e419789-5f62-41c5-9b54-9c6bc85b1ae8",
+                        "name": "20160101~20161231.xls",
+                        "created": "2017-02-14T15:33:01.563191",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T15:33:00"
+                    },
+                    "85c83ab9-37d4-482c-a223-5771ab455855": {
+                        "id": "85c83ab9-37d4-482c-a223-5771ab455855",
+                        "name": "20170101~20170214.xls",
+                        "created": "2017-02-14T15:34:08.121709",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-14T15:34:07"
                     }
                 },
                 "counters": {
@@ -23438,32 +23641,10 @@
                 "title": "更版測試新增資料集各項功能12\/9",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2016-12-09T02:19:54.343818",
-                "metadata_modified": "2017-02-08T01:11:16.870818",
-                "timeEnd": 1486487476,
+                "metadata_modified": "2017-02-14T03:06:57.831729",
+                "timeEnd": 1487012817,
                 "timeBegin": 1481221194,
-                "resources": {
-                    "38ce0337-1da9-4a88-a652-fbaae8c35223": {
-                        "id": "38ce0337-1da9-4a88-a652-fbaae8c35223",
-                        "name": "桃園市口腔黏膜篩檢醫療院所名單.csv",
-                        "created": "2016-12-09T10:32:13",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-12-09T10:32:13"
-                    },
-                    "45b0d9ab-d8b7-493b-9a3f-b2776eff7c53": {
-                        "id": "45b0d9ab-d8b7-493b-9a3f-b2776eff7c53",
-                        "name": "公廁建檔基本資料-桃園市.csv",
-                        "created": "2016-12-29T10:24:53",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T10:24:53"
-                    },
-                    "d419a771-fe40-4ab2-871c-bf8e0a00d0b7": {
-                        "id": "d419a771-fe40-4ab2-871c-bf8e0a00d0b7",
-                        "name": "桃園市各區環保志工小隊資料.csv",
-                        "created": "2017-01-06T09:33:26",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-01-06T09:33:26"
-                    }
-                },
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -23507,8 +23688,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-02-09T23:16:14.608326",
-                "timeEnd": 1486682174,
+                "metadata_modified": "2017-02-13T23:29:30.429773",
+                "timeEnd": 1487028570,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -23518,12 +23699,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "c9466a51-749e-4b0a-b3b6-23049af4217f": {
-                        "id": "c9466a51-749e-4b0a-b3b6-23049af4217f",
+                    "e6b39100-2760-4dc3-befb-37ffebd1e409": {
+                        "id": "e6b39100-2760-4dc3-befb-37ffebd1e409",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-02-10T07:16:14.721614",
+                        "created": "2017-02-14T07:29:30.485852",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-10T07:16:14"
+                        "last_modified": "2017-02-14T07:29:30"
                     }
                 },
                 "counters": {
@@ -23533,5 +23714,5 @@
             }
         }
     },
-    "time_generated": 1487021517
+    "time_generated": 1487107917
 }
