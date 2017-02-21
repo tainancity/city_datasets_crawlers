@@ -1009,7 +1009,7 @@
     },
     "桃園市政府原住民族行政局": {
         "counters": {
-            "datasets": 6,
+            "datasets": 7,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -1072,14 +1072,14 @@
                 "title": "桃園市復興區小米園區",
                 "organization_id": "380440000a",
                 "metadata_created": "2017-02-20T09:27:33.673728",
-                "metadata_modified": "2017-02-20T09:29:06.490975",
-                "timeEnd": 1487582946,
+                "metadata_modified": "2017-02-21T00:58:30.788700",
+                "timeEnd": 1487609910,
                 "timeBegin": 1487554053,
                 "resources": {
                     "b13a58fe-2df1-408f-b49d-14361f55b4fb": {
                         "id": "b13a58fe-2df1-408f-b49d-14361f55b4fb",
                         "name": "桃園市復興區小米園區.csv",
-                        "created": "2017-02-20T17:29:06.519490",
+                        "created": "2017-02-20T17:29:06",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T17:29:06"
                     }
@@ -1094,14 +1094,14 @@
                 "title": "桃園市復興區天幕球場",
                 "organization_id": "380440000a",
                 "metadata_created": "2017-02-20T09:30:07.905754",
-                "metadata_modified": "2017-02-20T09:32:41.183785",
-                "timeEnd": 1487583161,
+                "metadata_modified": "2017-02-21T00:58:43.641284",
+                "timeEnd": 1487609923,
                 "timeBegin": 1487554207,
                 "resources": {
                     "095e3fe8-5da8-41e7-ac01-88a0f5c5cb78": {
                         "id": "095e3fe8-5da8-41e7-ac01-88a0f5c5cb78",
                         "name": "桃園市復興區天幕球場.csv",
-                        "created": "2017-02-20T17:32:41.216712",
+                        "created": "2017-02-20T17:32:41",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T17:32:41"
                     }
@@ -1116,10 +1116,18 @@
                 "title": "桃園市都會區原住民族老人日間關懷站資訊",
                 "organization_id": "380440000a",
                 "metadata_created": "2017-02-20T09:33:57.847147",
-                "metadata_modified": "2017-02-20T09:33:58.747306",
-                "timeEnd": 1487554438,
+                "metadata_modified": "2017-02-21T01:19:28.973866",
+                "timeEnd": 1487639969,
                 "timeBegin": 1487554437,
-                "resources": [],
+                "resources": {
+                    "dccf8112-c348-4d19-a8e1-7152c71fd9c1": {
+                        "id": "dccf8112-c348-4d19-a8e1-7152c71fd9c1",
+                        "name": "桃園市都會區原住民族老人日間關懷站.csv",
+                        "created": "2017-02-21T09:19:29.007713",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T09:19:28"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -1140,6 +1148,28 @@
                         "created": "2017-02-20T17:15:21.383044",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T17:15:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dd6455c8-316a-4c24-9126-217937f4615e": {
+                "name": "dd6455c8-316a-4c24-9126-217937f4615e",
+                "title": "桃園市原住民族聚落",
+                "organization_id": "380440000a",
+                "metadata_created": "2017-02-21T00:51:32.074214",
+                "metadata_modified": "2017-02-21T00:57:34.604887",
+                "timeEnd": 1487638320,
+                "timeBegin": 1487609492,
+                "resources": {
+                    "073c154c-8c44-46fe-88c7-370594592f56": {
+                        "id": "073c154c-8c44-46fe-88c7-370594592f56",
+                        "name": "桃園市原住民族聚落.csv",
+                        "created": "2017-02-21T08:52:00",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T08:52:00"
                     }
                 },
                 "counters": {
@@ -4978,7 +5008,7 @@
     },
     "桃園市政府地方稅務局": {
         "counters": {
-            "datasets": 45,
+            "datasets": 46,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -5558,6 +5588,28 @@
                 "timeEnd": 1487187158,
                 "timeBegin": 1487187156,
                 "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9349db4e-01c8-473a-9316-56e37c0fed7e": {
+                "name": "9349db4e-01c8-473a-9316-56e37c0fed7e",
+                "title": "102年房屋稅收稅籍數及實徵數─按里別",
+                "organization_id": "380260000d",
+                "metadata_created": "2017-02-21T09:35:01.435609",
+                "metadata_modified": "2017-02-21T09:36:18.191576",
+                "timeEnd": 1487669778,
+                "timeBegin": 1487640901,
+                "resources": {
+                    "83b8b4bd-277d-4090-94b0-73db737effe2": {
+                        "id": "83b8b4bd-277d-4090-94b0-73db737effe2",
+                        "name": "102年房屋稅稅籍戶數及實徵稅額-按里別.csv",
+                        "created": "2017-02-21T17:36:18.234913",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T17:36:18"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -10439,14 +10491,14 @@
                 "title": "桃園市消防栓座標位置",
                 "organization_id": "380320000a",
                 "metadata_created": "2017-02-20T07:21:13.581775",
-                "metadata_modified": "2017-02-20T07:22:02.304784",
-                "timeEnd": 1487575322,
+                "metadata_modified": "2017-02-21T01:52:31.431306",
+                "timeEnd": 1487613151,
                 "timeBegin": 1487546473,
                 "resources": {
                     "6a3570e3-7d05-4485-8206-33d97bb9953d": {
                         "id": "6a3570e3-7d05-4485-8206-33d97bb9953d",
                         "name": "桃園市消防栓座標位置10602.csv",
-                        "created": "2017-02-20T15:22:02.339238",
+                        "created": "2017-02-20T15:22:02",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T15:22:02"
                     }
@@ -10665,16 +10717,16 @@
                 "title": "桃園市政府消防局人民申請案統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:12:49.480926",
-                "metadata_modified": "2017-01-12T07:57:03.371476",
-                "timeEnd": 1484207803,
+                "metadata_modified": "2017-02-21T02:01:00.780675",
+                "timeEnd": 1487642376,
                 "timeBegin": 1462302769,
                 "resources": {
-                    "ec442f21-dc23-40ff-b317-c74330b4d3fc": {
-                        "id": "ec442f21-dc23-40ff-b317-c74330b4d3fc",
-                        "name": "31243桃園市政府消防局人民申請案統計表10512.csv",
-                        "created": "2017-01-12T15:56:43",
+                    "fb7fd6ec-d717-42e6-b434-d6cad0d17a9b": {
+                        "id": "fb7fd6ec-d717-42e6-b434-d6cad0d17a9b",
+                        "name": "桃園市政府消防局人民申請案統計表10601.csv",
+                        "created": "2017-02-21T09:59:36.199126",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-01-12T15:56:43"
+                        "last_modified": "2017-02-21T09:59:35"
                     }
                 },
                 "counters": {
@@ -15014,7 +15066,7 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 56,
+            "datasets": 67,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -15129,6 +15181,28 @@
                         "created": "2016-08-02T17:12:00.396714",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-02T17:12:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0d5a6b75-dbab-4e07-a964-b8fa7cd214aa": {
+                "name": "0d5a6b75-dbab-4e07-a964-b8fa7cd214aa",
+                "title": "桃園市乳房X光攝影醫院",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:49:30.271787",
+                "metadata_modified": "2017-02-21T07:49:42.298249",
+                "timeEnd": 1487663382,
+                "timeBegin": 1487634570,
+                "resources": {
+                    "f1220a6d-eaa4-4507-92ab-e6ff3dda6779": {
+                        "id": "f1220a6d-eaa4-4507-92ab-e6ff3dda6779",
+                        "name": "桃園市乳房X光攝影醫院.csv",
+                        "created": "2017-02-21T15:49:42.340232",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:49:42"
                     }
                 },
                 "counters": {
@@ -15372,6 +15446,28 @@
                     "resource_recent": 0
                 }
             },
+            "30598d90-63b5-4d79-acda-133f3c1d2dce": {
+                "name": "30598d90-63b5-4d79-acda-133f3c1d2dce",
+                "title": "桃園市大腸直腸癌篩檢確診醫療院所",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T08:03:40.772888",
+                "metadata_modified": "2017-02-21T08:03:55.160986",
+                "timeEnd": 1487664235,
+                "timeBegin": 1487635420,
+                "resources": {
+                    "daa69b88-815c-4fc0-a8ba-a7e9a1c4e368": {
+                        "id": "daa69b88-815c-4fc0-a8ba-a7e9a1c4e368",
+                        "name": "桃園市大腸直腸癌篩檢確診醫療院所.csv",
+                        "created": "2017-02-21T16:03:55.206883",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T16:03:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "91eec88d-a784-46d6-82c9-9dd846edc9f6": {
                 "name": "336d82d3-c470-4390-af9f-2b4322719e7d",
                 "title": "桃園市急救責任醫院",
@@ -15502,13 +15598,35 @@
                     "resource_recent": 0
                 }
             },
+            "4613caf2-e984-4802-89fb-2af5e9f4a9cc": {
+                "name": "4613caf2-e984-4802-89fb-2af5e9f4a9cc",
+                "title": "桃園市子宮頸抹片篩檢確認診斷醫院診所",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:41:43.654737",
+                "metadata_modified": "2017-02-21T07:42:07.494051",
+                "timeEnd": 1487662927,
+                "timeBegin": 1487634103,
+                "resources": {
+                    "28fca7b1-198a-48c1-93a4-b5c4ea153212": {
+                        "id": "28fca7b1-198a-48c1-93a4-b5c4ea153212",
+                        "name": "桃園市子宮頸抹片篩檢確認診斷醫院診所.csv",
+                        "created": "2017-02-21T15:42:07.538215",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:42:07"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "ff49141d-7479-4763-8572-4fcee238cf18": {
                 "name": "462c9f3c-cfde-440a-a8b7-19ea2073b818",
                 "title": "桃園市二代戒菸合約醫療院所(藥局)名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-07-25T09:03:00.081167",
-                "metadata_modified": "2017-02-15T08:01:22.478913",
-                "timeEnd": 1487145682,
+                "metadata_modified": "2017-02-21T07:05:36.623610",
+                "timeEnd": 1487631936,
                 "timeBegin": 1469408580,
                 "resources": {
                     "50a70189-a2c1-4ead-909c-3c4d275de749": {
@@ -15660,6 +15778,28 @@
                     "resource_recent": 0
                 }
             },
+            "57463919-f6ae-409f-94be-036dffd4f8b9": {
+                "name": "57463919-f6ae-409f-94be-036dffd4f8b9",
+                "title": "桃園市定量免疫法糞便潛血檢查醫療院所名單",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T08:00:51.574968",
+                "metadata_modified": "2017-02-21T08:01:08.164161",
+                "timeEnd": 1487664068,
+                "timeBegin": 1487635251,
+                "resources": {
+                    "c121ae11-a2f9-4a8f-8455-b87f00d4dc5d": {
+                        "id": "c121ae11-a2f9-4a8f-8455-b87f00d4dc5d",
+                        "name": "桃園市定量免疫法糞便潛血檢查醫療院所名單.csv",
+                        "created": "2017-02-21T16:01:08.235145",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T16:01:07"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "7e5b90d4-e155-4ef5-babd-535ad259f866": {
                 "name": "645059dd-40b2-40d0-bde8-39735008ac00",
                 "title": "105年桃園市衛政三項長照服務(居家護理、居家復健及喘息服務)合約單位清單",
@@ -15704,21 +15844,65 @@
                     "resource_recent": 0
                 }
             },
+            "6d8fa6ed-6b3b-4379-8e28-f499f2bb252e": {
+                "name": "6d8fa6ed-6b3b-4379-8e28-f499f2bb252e",
+                "title": "桃園市新生兒聽力篩檢初篩及確診醫療院所名單",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:17:07.231508",
+                "metadata_modified": "2017-02-21T07:17:45.752040",
+                "timeEnd": 1487661465,
+                "timeBegin": 1487632627,
+                "resources": {
+                    "bacbf184-9695-44e1-903f-84f22a123ce8": {
+                        "id": "bacbf184-9695-44e1-903f-84f22a123ce8",
+                        "name": "桃園市新生兒聽力篩檢初篩及確診醫療院所名單.csv",
+                        "created": "2017-02-21T15:17:45.807987",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:17:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "741f7dd1-1aa9-48dc-8acc-b38adf7b947d": {
                 "name": "6e2c77e4-e0c1-4e84-a833-83ead155a9c0",
-                "title": "105年度桃園市母嬰親善醫療院所名單",
+                "title": "桃園市母嬰親善醫療院所名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-11-26T09:18:44.120857",
-                "metadata_modified": "2016-06-04T08:31:22.293139",
-                "timeEnd": 1465028985,
+                "metadata_modified": "2017-02-21T07:11:08.124375",
+                "timeEnd": 1487656487,
                 "timeBegin": 1448500724,
                 "resources": {
                     "32b360b3-390b-4e21-88db-e3bdbca36b5f": {
                         "id": "32b360b3-390b-4e21-88db-e3bdbca36b5f",
-                        "name": "105年度桃園市母嬰親善醫療院所名單",
-                        "created": "2016-06-04T16:29:45.427929",
+                        "name": "桃園市母嬰親善醫療院所名單.csv",
+                        "created": "2017-02-21T13:54:47",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-04T16:29:45"
+                        "last_modified": "2017-02-21T13:54:47"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "72dc5407-d82d-4493-b0e9-b92c1bf63418": {
+                "name": "72dc5407-d82d-4493-b0e9-b92c1bf63418",
+                "title": "桃園市乳癌確認診斷醫院",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:56:02.245677",
+                "metadata_modified": "2017-02-21T07:57:05.884171",
+                "timeEnd": 1487663825,
+                "timeBegin": 1487634962,
+                "resources": {
+                    "c3e3a078-54a0-4363-8ac9-f27230ed19f7": {
+                        "id": "c3e3a078-54a0-4363-8ac9-f27230ed19f7",
+                        "name": "桃園市乳癌確認診斷醫院.csv",
+                        "created": "2017-02-21T15:57:05.933053",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:57:05"
                     }
                 },
                 "counters": {
@@ -15750,21 +15934,35 @@
             },
             "f715f3aa-56ab-45a7-8668-82f06e5ed412": {
                 "name": "784b72b0-86e9-4831-b935-2e12c5b2f982",
-                "title": "105年度桃園市無痛大腸鏡計畫醫療院所名單",
+                "title": "桃園市無痛大腸鏡計畫醫療院所名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-06-06T06:57:04.549220",
-                "metadata_modified": "2016-07-22T08:40:19.676551",
-                "timeEnd": 1469148019,
+                "metadata_modified": "2017-02-21T08:18:15.992654",
+                "timeEnd": 1487665095,
                 "timeBegin": 1465167424,
                 "resources": {
                     "dd9e0af8-38d6-41cd-b6c8-e5a0c37498dd": {
                         "id": "dd9e0af8-38d6-41cd-b6c8-e5a0c37498dd",
-                        "name": "105年度桃園市無痛大腸鏡計畫醫療院所名單",
-                        "created": "2016-06-06T14:58:14.973868",
+                        "name": "桃園市無痛大腸鏡計畫醫療院所名單.csv",
+                        "created": "2017-02-21T16:18:15",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-06T14:58:14"
+                        "last_modified": "2017-02-21T16:18:15"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "78e4e9fa-c9a8-4665-b33d-7f0ce777b2ce": {
+                "name": "78e4e9fa-c9a8-4665-b33d-7f0ce777b2ce",
+                "title": "桃園市105年第二季食安聯稽查核結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T01:51:52.642225",
+                "metadata_modified": "2017-02-21T01:51:53.821520",
+                "timeEnd": 1487613113,
+                "timeBegin": 1487613112,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -15871,21 +16069,43 @@
                     "resource_recent": 0
                 }
             },
+            "8406e87a-4b7d-47d7-8bd8-2dbcfa11c3d7": {
+                "name": "8406e87a-4b7d-47d7-8bd8-2dbcfa11c3d7",
+                "title": "桃園市口腔黏膜篩檢醫療院所名單",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:28:57.303002",
+                "metadata_modified": "2017-02-21T07:29:51.236787",
+                "timeEnd": 1487662191,
+                "timeBegin": 1487633337,
+                "resources": {
+                    "e81d6af1-5e08-471c-8a34-4ca992e78d29": {
+                        "id": "e81d6af1-5e08-471c-8a34-4ca992e78d29",
+                        "name": "桃園市口腔黏膜篩檢醫療院所名單.csv",
+                        "created": "2017-02-21T15:29:51.285557",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:29:51"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "3200c9e4-1aba-4d93-b608-9c59fafa58da": {
                 "name": "8486930a-3fbf-46c1-88b5-d944c4f23a7a",
                 "title": "桃園市醫事人員執業人數",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T06:11:42.488803",
-                "metadata_modified": "2016-08-02T07:50:56.371092",
-                "timeEnd": 1470124256,
+                "metadata_modified": "2017-02-21T07:55:32.048286",
+                "timeEnd": 1487663731,
                 "timeBegin": 1444255902,
                 "resources": {
                     "70235332-c9a3-4253-a660-8f082620fa58": {
                         "id": "70235332-c9a3-4253-a660-8f082620fa58",
-                        "name": " 93年-104年醫事人員執業人數",
-                        "created": "2015-10-08T14:12:01.429178",
+                        "name": "桃園市各區醫事人員執業狀況1060221.csv",
+                        "created": "2017-02-21T15:55:31",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-08-02T15:50:56"
+                        "last_modified": "2017-02-21T15:55:31"
                     }
                 },
                 "counters": {
@@ -15920,16 +16140,23 @@
                 "title": "桃園市糖尿病共同照護網醫療院所名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-06-07T01:58:35.716620",
-                "metadata_modified": "2017-02-15T08:08:40.035909",
-                "timeEnd": 1487117320,
+                "metadata_modified": "2017-02-21T06:20:18.631276",
+                "timeEnd": 1487658018,
                 "timeBegin": 1465235915,
                 "resources": {
                     "971362b1-387e-4e09-a4ef-609a7422b263": {
                         "id": "971362b1-387e-4e09-a4ef-609a7422b263",
-                        "name": "105年度桃園市糖尿病共同照護網醫療院所名單",
-                        "created": "2016-06-07T10:07:33",
+                        "name": "桃園市糖尿病共同照護網醫療院所名單.csv",
+                        "created": "2017-02-21T14:20:18",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-07T10:07:32"
+                        "last_modified": "2017-02-21T14:20:18"
+                    },
+                    "a6a5602a-0c7c-4741-9e3f-95a3c9aeb589": {
+                        "id": "a6a5602a-0c7c-4741-9e3f-95a3c9aeb589",
+                        "name": "桃園市糖尿病共同照護網醫療院所名單2.csv",
+                        "created": "2017-02-21T11:54:46.864062",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T11:54:46"
                     }
                 },
                 "counters": {
@@ -16507,16 +16734,16 @@
                 "title": "桃園市勞工健檢指定醫療機構",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T06:07:00.833410",
-                "metadata_modified": "2016-07-22T08:47:05.715333",
-                "timeEnd": 1469148425,
+                "metadata_modified": "2017-02-21T07:34:52.664733",
+                "timeEnd": 1487662492,
                 "timeBegin": 1444255620,
                 "resources": {
                     "d9c1d0ce-fe17-4d77-bcb5-a0903320351c": {
                         "id": "d9c1d0ce-fe17-4d77-bcb5-a0903320351c",
-                        "name": "勞工健檢指定醫療機構 ",
-                        "created": "2016-01-08T13:42:56.146894",
+                        "name": "桃園市勞工健檢指定醫療機構.csv",
+                        "created": "2017-02-21T15:34:52",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-08T13:42:40"
+                        "last_modified": "2017-02-21T15:34:52"
                     }
                 },
                 "counters": {
@@ -16548,19 +16775,19 @@
             },
             "753ed9cb-effb-4397-bfa6-263b19f0cd07": {
                 "name": "cabe2e59-2693-460c-8414-d596a9953b8b",
-                "title": "105年度桃園市健康幸福家庭計畫醫療院所名單",
+                "title": "桃園市健康幸福家庭計畫醫療院所名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-06-04T08:40:27.665713",
-                "metadata_modified": "2016-07-13T06:29:30.403435",
-                "timeEnd": 1468362570,
+                "metadata_modified": "2017-02-21T07:12:58.996802",
+                "timeEnd": 1487658934,
                 "timeBegin": 1465000827,
                 "resources": {
                     "74aad907-7737-4b1c-8c54-64d595e2ae20": {
                         "id": "74aad907-7737-4b1c-8c54-64d595e2ae20",
-                        "name": "105年度桃園市健康幸福家庭計畫醫療院所名單",
-                        "created": "2016-06-04T16:41:07.081285",
+                        "name": "桃園市健康幸福家庭計畫醫療院所名單.csv",
+                        "created": "2017-02-21T14:35:34",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-04T16:41:07"
+                        "last_modified": "2017-02-21T14:35:34"
                     }
                 },
                 "counters": {
@@ -16767,6 +16994,28 @@
                     "resource_recent": 0
                 }
             },
+            "d767982e-badd-4be2-82af-7ffee5802295": {
+                "name": "d767982e-badd-4be2-82af-7ffee5802295",
+                "title": "桃園市口腔癌確認診斷及治療醫院名單",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:00:07.811032",
+                "metadata_modified": "2017-02-21T07:03:22.007739",
+                "timeEnd": 1487660602,
+                "timeBegin": 1487631607,
+                "resources": {
+                    "e6c4d1c9-502b-44e9-99b6-7839af34de20": {
+                        "id": "e6c4d1c9-502b-44e9-99b6-7839af34de20",
+                        "name": "桃園市口腔癌確認診斷及治療醫院名單.csv",
+                        "created": "2017-02-21T15:03:22.046394",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:03:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "f752ce71-5939-4798-8c9b-d9351a9f3921": {
                 "name": "d939016a-8827-41bb-9962-eb937c651959",
                 "title": "桃園市藥商家數",
@@ -16862,21 +17111,43 @@
                     "resource_recent": 0
                 }
             },
+            "e2131fd3-ecb8-4f2c-863b-82a4be274209": {
+                "name": "e2131fd3-ecb8-4f2c-863b-82a4be274209",
+                "title": "桃園市乳癌確認診斷及治療醫院",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:52:59.568492",
+                "metadata_modified": "2017-02-21T07:53:23.960486",
+                "timeEnd": 1487663604,
+                "timeBegin": 1487634779,
+                "resources": {
+                    "0bd5c575-624e-4a60-9316-febc1ae89d97": {
+                        "id": "0bd5c575-624e-4a60-9316-febc1ae89d97",
+                        "name": "桃園市乳癌確認診斷及治療醫院.csv",
+                        "created": "2017-02-21T15:53:24.006316",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:53:23"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "b58ff9ba-fa5a-4205-a56c-3ad06789e180": {
                 "name": "e6d28164-0b4d-4824-8f03-b04e30666caa",
                 "title": "桃園市依法設置哺集乳室名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-06-04T08:13:19.678261",
-                "metadata_modified": "2016-07-22T08:36:04.437092",
-                "timeEnd": 1469147764,
+                "metadata_modified": "2017-02-21T07:07:23.288038",
+                "timeEnd": 1487658591,
                 "timeBegin": 1464999199,
                 "resources": {
                     "4097efc6-ee03-4686-99bb-9937530b989c": {
                         "id": "4097efc6-ee03-4686-99bb-9937530b989c",
-                        "name": "105年度桃園市依法設置哺集乳室名單",
-                        "created": "2016-06-04T16:20:01.841864",
+                        "name": "桃園市依法設置哺集乳室名單.csv",
+                        "created": "2017-02-21T14:29:51",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-04T16:20:02"
+                        "last_modified": "2017-02-21T14:29:51"
                     }
                 },
                 "counters": {
@@ -16899,6 +17170,28 @@
                         "created": "2016-11-09T11:40:56",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-09T11:40:56"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f2ee85e1-bff3-44b0-8ba6-086087c2fed2": {
+                "name": "f2ee85e1-bff3-44b0-8ba6-086087c2fed2",
+                "title": "桃園市子宮頸抹片篩檢醫院診所",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-02-21T07:46:03.355117",
+                "metadata_modified": "2017-02-21T07:46:14.048692",
+                "timeEnd": 1487663174,
+                "timeBegin": 1487634363,
+                "resources": {
+                    "33b1a6e9-46a8-488b-b0da-a8ce8d67d1fd": {
+                        "id": "33b1a6e9-46a8-488b-b0da-a8ce8d67d1fd",
+                        "name": "桃園市子宮頸抹片篩檢醫院診所.csv",
+                        "created": "2017-02-21T15:46:14.098993",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-21T15:46:13"
                     }
                 },
                 "counters": {
@@ -19727,16 +20020,16 @@
                 "title": "桃園市住宅竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-01-07T06:25:14.756212",
-                "metadata_modified": "2016-12-26T05:26:42.129661",
-                "timeEnd": 1482730001,
+                "metadata_modified": "2017-02-21T01:02:30.536814",
+                "timeEnd": 1487638950,
                 "timeBegin": 1452119114,
                 "resources": {
                     "d751df74-86a0-456a-bd45-1e91c438deff": {
                         "id": "d751df74-86a0-456a-bd45-1e91c438deff",
-                        "name": "10511_1.csv",
-                        "created": "2016-11-16T13:55:09",
+                        "name": "10601_1.csv",
+                        "created": "2017-02-21T09:02:30",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-26T13:26:41"
+                        "last_modified": "2017-02-21T09:02:30"
                     }
                 },
                 "counters": {
@@ -19982,16 +20275,16 @@
                 "title": "桃園市自行車竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-06-02T01:05:34.679688",
-                "metadata_modified": "2016-12-26T05:28:44.787374",
-                "timeEnd": 1482730124,
+                "metadata_modified": "2017-02-21T01:01:07.945879",
+                "timeEnd": 1487638867,
                 "timeBegin": 1464800734,
                 "resources": {
                     "8549a09a-169e-48d4-a47c-a64ec3e8e407": {
                         "id": "8549a09a-169e-48d4-a47c-a64ec3e8e407",
-                        "name": "10511_4.csv",
-                        "created": "2016-06-02T09:06:17",
+                        "name": "10601_4.csv",
+                        "created": "2017-02-21T09:01:07",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-26T13:28:44"
+                        "last_modified": "2017-02-21T09:01:07"
                     }
                 },
                 "counters": {
@@ -20237,16 +20530,16 @@
                 "title": "桃園市機車竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-01-07T06:29:53.605911",
-                "metadata_modified": "2016-12-26T05:27:14.148812",
-                "timeEnd": 1482730033,
+                "metadata_modified": "2017-02-21T01:01:55.166163",
+                "timeEnd": 1487638915,
                 "timeBegin": 1452119393,
                 "resources": {
                     "75a851f8-62d0-475a-83cf-9d2a7c5bc059": {
                         "id": "75a851f8-62d0-475a-83cf-9d2a7c5bc059",
-                        "name": "10511_3.csv",
-                        "created": "2016-03-29T10:05:08",
+                        "name": "10601_3.csv",
+                        "created": "2017-02-21T09:01:55",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-26T13:27:13"
+                        "last_modified": "2017-02-21T09:01:55"
                     },
                     "1b312755-c66f-43a5-9ef6-e39734ab38ca": {
                         "id": "1b312755-c66f-43a5-9ef6-e39734ab38ca",
@@ -20646,16 +20939,16 @@
                 "title": "桃園市汽車竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-01-07T06:28:08.203004",
-                "metadata_modified": "2016-12-26T05:30:24.204163",
-                "timeEnd": 1482730224,
+                "metadata_modified": "2017-02-21T01:00:25.781061",
+                "timeEnd": 1487638825,
                 "timeBegin": 1452119288,
                 "resources": {
                     "f2219d56-1ca3-47c6-8dd8-ed9c352d0003": {
                         "id": "f2219d56-1ca3-47c6-8dd8-ed9c352d0003",
-                        "name": "10511_2.csv",
-                        "created": "2016-03-29T10:03:38",
+                        "name": "10601_2.csv",
+                        "created": "2017-02-21T09:00:25",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-26T13:30:24"
+                        "last_modified": "2017-02-21T09:00:25"
                     }
                 },
                 "counters": {
@@ -24099,16 +24392,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-02-18T01:06:50.315455",
-                "timeEnd": 1487380010,
+                "metadata_modified": "2017-02-21T00:18:42.812505",
+                "timeEnd": 1487636322,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "27f65045-27bd-4f22-a942-c1edc2cdcdaf": {
-                        "id": "27f65045-27bd-4f22-a942-c1edc2cdcdaf",
+                    "e40cfad7-45f1-4487-bcc9-99eb27bb34e8": {
+                        "id": "e40cfad7-45f1-4487-bcc9-99eb27bb34e8",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-02-18T09:06:50.371839",
+                        "created": "2017-02-21T08:18:42.879911",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-18T09:06:50"
+                        "last_modified": "2017-02-21T08:18:42"
                     }
                 },
                 "counters": {
@@ -24121,8 +24414,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-02-18T01:06:27.176450",
-                "timeEnd": 1487379987,
+                "metadata_modified": "2017-02-21T00:20:16.493904",
+                "timeEnd": 1487636416,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -24132,12 +24425,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "24b54d7c-f1d6-4494-b88b-e0127d0882d8": {
-                        "id": "24b54d7c-f1d6-4494-b88b-e0127d0882d8",
+                    "944c66b4-04b8-49a5-9751-72995ca74c49": {
+                        "id": "944c66b4-04b8-49a5-9751-72995ca74c49",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-02-18T09:06:27.240137",
+                        "created": "2017-02-21T08:20:16.580691",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-18T09:06:26"
+                        "last_modified": "2017-02-21T08:20:16"
                     }
                 },
                 "counters": {
@@ -24147,5 +24440,5 @@
             }
         }
     },
-    "time_generated": 1487626338
+    "time_generated": 1487712736
 }
