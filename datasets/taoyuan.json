@@ -5008,7 +5008,7 @@
     },
     "桃園市政府地方稅務局": {
         "counters": {
-            "datasets": 53,
+            "datasets": 55,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -5198,6 +5198,28 @@
                         "created": "2016-05-05T15:11:00",
                         "webstore_last_updated": null,
                         "last_modified": "2016-05-05T15:11:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1fa43198-63ff-4a98-a459-a5235973a38a": {
+                "name": "1fa43198-63ff-4a98-a459-a5235973a38a",
+                "title": "105年房屋稅收稅籍數及實徵數─按里別",
+                "organization_id": "380260000d",
+                "metadata_created": "2017-02-23T02:35:11.749118",
+                "metadata_modified": "2017-02-23T02:37:47.656825",
+                "timeEnd": 1487817467,
+                "timeBegin": 1487788511,
+                "resources": {
+                    "b8d01102-37df-4ead-a417-da8a6d4b5d45": {
+                        "id": "b8d01102-37df-4ead-a417-da8a6d4b5d45",
+                        "name": "105年房屋稅稅籍戶數及實徵稅額-按里別.csv",
+                        "created": "2017-02-23T10:37:47.698041",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-23T10:37:47"
                     }
                 },
                 "counters": {
@@ -5842,6 +5864,28 @@
                         "created": "2016-05-05T08:47:22",
                         "webstore_last_updated": null,
                         "last_modified": "2016-05-05T08:47:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b10452e3-1101-47ba-93ed-435ce523fc21": {
+                "name": "b10452e3-1101-47ba-93ed-435ce523fc21",
+                "title": "105年各稅稅籍數及實徵稅額統計表-按區別",
+                "organization_id": "380260000d",
+                "metadata_created": "2017-02-23T02:29:35.924205",
+                "metadata_modified": "2017-02-23T02:31:06.722906",
+                "timeEnd": 1487817066,
+                "timeBegin": 1487788175,
+                "resources": {
+                    "1ac2d53f-027a-43ed-bc0e-40d948e28f89": {
+                        "id": "1ac2d53f-027a-43ed-bc0e-40d948e28f89",
+                        "name": "105年各稅稅籍數及實徵稅額統計-按區別.csv",
+                        "created": "2017-02-23T10:31:06.793654",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-23T10:31:06"
                     }
                 },
                 "counters": {
@@ -14193,8 +14237,8 @@
                 "title": "桃園市締盟城市締結資料",
                 "organization_id": "380010000a",
                 "metadata_created": "2015-10-06T03:18:35.203453",
-                "metadata_modified": "2016-12-07T09:31:56.784261",
-                "timeEnd": 1481103104,
+                "metadata_modified": "2017-02-23T02:20:53.300035",
+                "timeEnd": 1487787653,
                 "timeBegin": 1444072715,
                 "resources": {
                     "8aec0d6c-9143-4f8e-aa15-430a215a9651": {
@@ -14215,8 +14259,8 @@
                 "title": "桃園市政府辦公大樓導覽",
                 "organization_id": "380010000a",
                 "metadata_created": "2015-10-06T03:20:50.653483",
-                "metadata_modified": "2016-10-11T07:52:00.118477",
-                "timeEnd": 1476143520,
+                "metadata_modified": "2017-02-23T09:31:17.472726",
+                "timeEnd": 1487813477,
                 "timeBegin": 1444072850,
                 "resources": {
                     "5fbd77bb-c957-4cde-922a-76f7cb5a10ef": {
@@ -14237,14 +14281,14 @@
                 "title": "桃園市政府川堂及府前廣場場地資訊",
                 "organization_id": "380010000a",
                 "metadata_created": "2015-10-06T03:14:38.491619",
-                "metadata_modified": "2016-03-04T00:24:56.844502",
-                "timeEnd": 1457022296,
+                "metadata_modified": "2017-02-23T09:32:02.525917",
+                "timeEnd": 1487813522,
                 "timeBegin": 1444072478,
                 "resources": {
                     "827bd4fa-65f2-46b8-b435-d08327307970": {
                         "id": "827bd4fa-65f2-46b8-b435-d08327307970",
                         "name": "場地資訊",
-                        "created": "2015-10-06T11:15:08.241295",
+                        "created": "2015-10-06T11:15:08",
                         "webstore_last_updated": null,
                         "last_modified": "2015-10-06T11:15:08"
                     }
@@ -24191,7 +24235,7 @@
     },
     "桃園捷運公司": {
         "counters": {
-            "datasets": 9,
+            "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -24286,6 +24330,28 @@
                     "resource_recent": 0
                 }
             },
+            "7b862054-4c7d-4e03-9c34-45233576bddd": {
+                "name": "7b862054-4c7d-4e03-9c34-45233576bddd",
+                "title": "測試資料集_教育訓練",
+                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
+                "metadata_created": "2017-02-23T03:03:52.353159",
+                "metadata_modified": "2017-02-23T07:40:18.723922",
+                "timeEnd": 1487835400,
+                "timeBegin": 1487790232,
+                "resources": {
+                    "4633f200-657b-4524-a1d5-f495744eb67e": {
+                        "id": "4633f200-657b-4524-a1d5-f495744eb67e",
+                        "name": "雨水化學分析資料(104_07-105_06).csv",
+                        "created": "2017-02-23T15:36:40",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-02-23T15:36:40"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "86270d8b-e42e-47c3-b739-dd3820194b02": {
                 "name": "86270d8b-e42e-47c3-b739-dd3820194b02",
                 "title": "桃園捷運路線車站基本資料",
@@ -24346,17 +24412,17 @@
             },
             "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c": {
                 "name": "a2ce6b17-f5d5-49f5-9c0d-402b394b4f3c",
-                "title": "更版測試新增資料集各項功能12\/9",
+                "title": "測試資料集_教育訓練1",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2016-12-09T02:19:54.343818",
-                "metadata_modified": "2017-02-20T06:45:38.541702",
-                "timeEnd": 1487573138,
+                "metadata_modified": "2017-02-23T03:03:06.254515",
+                "timeEnd": 1487790186,
                 "timeBegin": 1481221194,
                 "resources": {
                     "9b9aceb5-732f-492a-9992-b63ec4152c43": {
                         "id": "9b9aceb5-732f-492a-9992-b63ec4152c43",
                         "name": "錯誤訊息代碼表.xlsx",
-                        "created": "2017-02-20T14:45:38.631834",
+                        "created": "2017-02-20T14:45:38",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T14:45:38"
                     }
@@ -24404,16 +24470,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-02-22T00:21:09.999396",
-                "timeEnd": 1487722870,
+                "metadata_modified": "2017-02-23T03:52:45.687298",
+                "timeEnd": 1487821965,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "4c956e36-571f-4fcc-85ee-419ef60812a3": {
-                        "id": "4c956e36-571f-4fcc-85ee-419ef60812a3",
+                    "34db9316-f97b-4672-a690-f4091ec02569": {
+                        "id": "34db9316-f97b-4672-a690-f4091ec02569",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-02-22T08:21:10.052040",
+                        "created": "2017-02-23T11:52:45.738584",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-22T08:21:09"
+                        "last_modified": "2017-02-23T11:52:45"
                     }
                 },
                 "counters": {
@@ -24426,8 +24492,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-02-22T00:20:45.075235",
-                "timeEnd": 1487722845,
+                "metadata_modified": "2017-02-23T03:53:07.582760",
+                "timeEnd": 1487821987,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -24437,12 +24503,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "1098d10f-0d47-44a6-80bb-9dbabcd3d201": {
-                        "id": "1098d10f-0d47-44a6-80bb-9dbabcd3d201",
+                    "d682f30c-5ec4-4659-8deb-9d2e1d70478e": {
+                        "id": "d682f30c-5ec4-4659-8deb-9d2e1d70478e",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-02-22T08:20:45.159397",
+                        "created": "2017-02-23T11:53:07.680551",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-22T08:20:44"
+                        "last_modified": "2017-02-23T11:53:07"
                     }
                 },
                 "counters": {
@@ -24452,5 +24518,5 @@
             }
         }
     },
-    "time_generated": 1487799126
+    "time_generated": 1487885561
 }
