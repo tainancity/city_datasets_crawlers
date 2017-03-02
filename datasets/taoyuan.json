@@ -8584,7 +8584,7 @@
     },
     "桃園市政府民政局": {
         "counters": {
-            "datasets": 17,
+            "datasets": 19,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -8615,11 +8615,11 @@
             },
             "4cb90cad-1de8-4dcb-91ed-fed03e7f5b9c": {
                 "name": "25510eb5-8600-40fb-a355-66e512df5e0b",
-                "title": "桃園市各區現住原住民統計表",
+                "title": "桃園市原住民人口數",
                 "organization_id": "380020000a",
                 "metadata_created": "2016-08-09T06:11:29.204642",
-                "metadata_modified": "2017-02-03T07:03:31.488987",
-                "timeEnd": 1486105411,
+                "metadata_modified": "2017-03-02T05:50:34.578358",
+                "timeEnd": 1488427260,
                 "timeBegin": 1470694289,
                 "resources": {
                     "b4d3fb23-361f-4692-93a5-887f8c43dba7": {
@@ -8643,12 +8643,19 @@
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-13T13:23:03"
                     },
-                    "12392d6b-989c-4b45-9a50-0c055835e815": {
-                        "id": "12392d6b-989c-4b45-9a50-0c055835e815",
-                        "name": "原住民族別統計",
-                        "created": "2016-11-10T14:15:27",
+                    "3092697a-abd0-4dbe-b6ce-b7acf44eb550": {
+                        "id": "3092697a-abd0-4dbe-b6ce-b7acf44eb550",
+                        "name": "106年1月原住民人口數",
+                        "created": "2017-03-02T12:00:32",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-03T15:03:31"
+                        "last_modified": "2017-03-02T12:00:32"
+                    },
+                    "4ee9f29b-b454-4edd-8b29-b972f129d00d": {
+                        "id": "4ee9f29b-b454-4edd-8b29-b972f129d00d",
+                        "name": "106年2月原住民人口數",
+                        "created": "2017-03-02T12:01:00",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T12:01:00"
                     }
                 },
                 "counters": {
@@ -8680,11 +8687,11 @@
             },
             "f7315d10-6fea-48ba-b4ce-70b124d6ec96": {
                 "name": "2eb12321-0f6a-4493-bf46-2a1ade6d35e0",
-                "title": "桃園市性別統計",
+                "title": "桃園市各區人口年齡層統計",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T07:12:29.462302",
-                "metadata_modified": "2017-02-03T06:46:12.129744",
-                "timeEnd": 1486104371,
+                "metadata_modified": "2017-03-02T03:41:52.378718",
+                "timeEnd": 1488426112,
                 "timeBegin": 1443741149,
                 "resources": {
                     "112e3797-7dc6-48d8-851a-360dbf030630": {
@@ -8756,6 +8763,13 @@
                         "created": "2016-11-09T12:09:34",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-03T14:46:11"
+                    },
+                    "566c1da1-637e-4e91-8e6a-aba473f1cffb": {
+                        "id": "566c1da1-637e-4e91-8e6a-aba473f1cffb",
+                        "name": "106年2月各區人口年齡層統計",
+                        "created": "2017-03-02T11:41:52.436668",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:41:52"
                     }
                 },
                 "counters": {
@@ -8912,13 +8926,105 @@
                     "resource_recent": 0
                 }
             },
+            "a91fc824-5b1b-44f0-ae9b-166e3ddb0d79": {
+                "name": "4939a84b-2808-42c0-bc3c-08362ef905b6",
+                "title": "區里界線",
+                "organization_id": "380020000a",
+                "metadata_created": "2016-02-25T08:50:23.126806",
+                "metadata_modified": "2017-03-02T06:48:18.954785",
+                "timeEnd": 1488437299,
+                "timeBegin": 1456361423,
+                "resources": {
+                    "ca92381c-920e-4c8c-8981-ca56303e8c52": {
+                        "id": "ca92381c-920e-4c8c-8981-ca56303e8c52",
+                        "name": "桃園市_鄉鎮市區界線.dbf",
+                        "created": "2017-03-02T11:28:21",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:28:21"
+                    },
+                    "339731da-db98-4512-a590-0e2d3e862691": {
+                        "id": "339731da-db98-4512-a590-0e2d3e862691",
+                        "name": "桃園市_鄉鎮市區界線.prj",
+                        "created": "2017-03-02T11:28:32",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:28:32"
+                    },
+                    "582bda6d-807d-47b1-812c-b86c4c594847": {
+                        "id": "582bda6d-807d-47b1-812c-b86c4c594847",
+                        "name": "桃園市_鄉鎮市區界線.shp",
+                        "created": "2017-03-02T11:28:48",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:28:47"
+                    },
+                    "51f948f6-e66b-4804-8c3c-f6b14d3e9c22": {
+                        "id": "51f948f6-e66b-4804-8c3c-f6b14d3e9c22",
+                        "name": "桃園市_鄉鎮市區界線.shx",
+                        "created": "2017-03-02T11:28:56",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:28:56"
+                    },
+                    "9d048000-57fa-41f9-92f0-964841db0467": {
+                        "id": "9d048000-57fa-41f9-92f0-964841db0467",
+                        "name": "村(里)名稱",
+                        "created": "2017-03-02T11:29:44",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:29:44"
+                    },
+                    "aa4cc5f9-0a71-492f-89ff-875b2157673b": {
+                        "id": "aa4cc5f9-0a71-492f-89ff-875b2157673b",
+                        "name": "桃園市_村里界線.dbf",
+                        "created": "2017-03-02T11:29:58",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:29:58"
+                    },
+                    "a68893c2-b631-4d57-9969-b77bb8bda896": {
+                        "id": "a68893c2-b631-4d57-9969-b77bb8bda896",
+                        "name": "桃園市_村里界線.prj",
+                        "created": "2017-03-02T11:30:11",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:30:11"
+                    },
+                    "598b8190-d0ed-486b-ba66-87d6ae5ef7aa": {
+                        "id": "598b8190-d0ed-486b-ba66-87d6ae5ef7aa",
+                        "name": "桃園市_村里界線.shp",
+                        "created": "2017-03-02T11:30:21",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:30:21"
+                    },
+                    "4a76c95c-32bf-4df7-a296-71e6e1ac94a5": {
+                        "id": "4a76c95c-32bf-4df7-a296-71e6e1ac94a5",
+                        "name": "桃園市_村里界線.shx",
+                        "created": "2017-03-02T11:30:30",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:30:30"
+                    },
+                    "3461baaa-59ba-44e4-857f-5741c03b790b": {
+                        "id": "3461baaa-59ba-44e4-857f-5741c03b790b",
+                        "name": "村里名稱.csv",
+                        "created": "2017-03-02T14:13:03.826731",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T14:13:03"
+                    },
+                    "4edc4935-7d39-4cef-a790-72ec63747306": {
+                        "id": "4edc4935-7d39-4cef-a790-72ec63747306",
+                        "name": "替代字對照表.pdf",
+                        "created": "2017-03-02T14:48:19.020417",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T14:48:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "5decd03c-bed1-4970-a369-112c8e3e5a2d": {
                 "name": "4d6e4865-8d30-4e98-a737-d9f33376fae4",
                 "title": "桃園市人口與戶籍動態登記",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T07:04:22.788274",
-                "metadata_modified": "2017-02-03T06:37:43.158114",
-                "timeEnd": 1486103863,
+                "metadata_modified": "2017-03-02T03:50:32.736036",
+                "timeEnd": 1488426632,
                 "timeBegin": 1443740662,
                 "resources": {
                     "e336f294-bade-4207-bb70-cedf660ba47e": {
@@ -8927,6 +9033,13 @@
                         "created": "2015-12-09T09:04:43",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-03T14:37:43"
+                    },
+                    "3f188716-9825-4e42-a997-d964d917608c": {
+                        "id": "3f188716-9825-4e42-a997-d964d917608c",
+                        "name": "106年2月人口與戶籍動態登記",
+                        "created": "2017-03-02T11:50:32.788554",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T11:50:32"
                     }
                 },
                 "counters": {
@@ -8971,6 +9084,28 @@
                         "created": "2016-05-13T11:59:37.709539",
                         "webstore_last_updated": null,
                         "last_modified": "2016-05-13T11:59:37"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4853bc59-006e-40d4-baff-81f0664e8ad2": {
+                "name": "86535666-78fa-487a-8d64-5250f85c5dde",
+                "title": "桃園市政府民政局附屬機關清冊",
+                "organization_id": "380020000a",
+                "metadata_created": "2015-10-02T05:39:29.593799",
+                "metadata_modified": "2017-03-02T05:50:21.948530",
+                "timeEnd": 1488432649,
+                "timeBegin": 1443735569,
+                "resources": {
+                    "06b9f50f-6f7f-44cb-ba54-370ab469502b": {
+                        "id": "06b9f50f-6f7f-44cb-ba54-370ab469502b",
+                        "name": "桃園市政府民政局附屬機關清冊",
+                        "created": "2017-03-02T13:30:49",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-02T13:30:49"
                     }
                 },
                 "counters": {
@@ -15262,7 +15397,7 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 66,
+            "datasets": 65,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -15408,97 +15543,75 @@
             },
             "26c3cb65-5a34-4ce8-b907-70104aa2b7c2": {
                 "name": "0e53fae3-5c5f-4398-8943-8336b37fe6ae",
-                "title": "桃園市護理之家一覽表",
+                "title": "桃園市護理之家",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T03:25:11.430840",
-                "metadata_modified": "2016-08-12T09:18:00.318900",
-                "timeEnd": 1470964680,
+                "metadata_modified": "2017-03-02T04:38:36.192481",
+                "timeEnd": 1488400716,
                 "timeBegin": 1444245911,
                 "resources": {
                     "45592eb8-9050-4bf4-b408-e0c28a456d1a": {
                         "id": "45592eb8-9050-4bf4-b408-e0c28a456d1a",
                         "name": "護理之家csv",
-                        "created": "2015-12-24T13:53:35.663695",
+                        "created": "2015-12-24T13:53:35",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T13:53:35"
                     },
                     "bfece5d0-38cd-482c-9288-d03bf6babd3a": {
                         "id": "bfece5d0-38cd-482c-9288-d03bf6babd3a",
                         "name": "護理之家kml",
-                        "created": "2015-12-24T13:53:54.943792",
+                        "created": "2015-12-24T13:53:54",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T13:53:54"
                     },
                     "82052211-4060-4848-9980-23204eb48958": {
                         "id": "82052211-4060-4848-9980-23204eb48958",
                         "name": "護理之家shapefile",
-                        "created": "2015-12-24T13:54:39.143512",
+                        "created": "2015-12-24T13:54:39",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T13:54:38"
                     },
                     "11fa2af1-e49a-4731-959b-672fffb10020": {
                         "id": "11fa2af1-e49a-4731-959b-672fffb10020",
                         "name": "護理之家ArcGIS ",
-                        "created": "2015-12-24T13:55:02.231722",
+                        "created": "2015-12-24T13:55:02",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-28T13:56:18"
                     },
                     "9fe91b03-8b9b-4d94-8ba0-5f458b52366b": {
                         "id": "9fe91b03-8b9b-4d94-8ba0-5f458b52366b",
                         "name": "護理之家geojson",
-                        "created": "2015-12-24T13:55:23.294209",
+                        "created": "2015-12-24T13:55:23",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T13:55:23"
                     },
                     "11ebbf6e-6cbf-4db1-9d66-8e7f8b39ac73": {
                         "id": "11ebbf6e-6cbf-4db1-9d66-8e7f8b39ac73",
                         "name": "護理之家地理服務",
-                        "created": "2015-12-24T13:55:42.121997",
+                        "created": "2015-12-24T13:55:42",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T13:55:41"
                     },
                     "66d2bf79-d8b2-4836-aafa-b35c252038be": {
                         "id": "66d2bf79-d8b2-4836-aafa-b35c252038be",
                         "name": "103年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:15:33.162013",
+                        "created": "2016-07-28T14:15:33",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T14:15:32"
                     },
                     "e8a144f6-042b-4205-913c-3d84bd97962e": {
                         "id": "e8a144f6-042b-4205-913c-3d84bd97962e",
                         "name": "104年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:15:59.476780",
+                        "created": "2016-07-28T14:15:59",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T14:15:59"
                     },
                     "0c897b06-0b56-4098-baff-d8f320a5768b": {
                         "id": "0c897b06-0b56-4098-baff-d8f320a5768b",
                         "name": " 105年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:16:23.899966",
+                        "created": "2016-07-28T14:16:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T14:16:23"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "5250db42-f193-4a32-8f53-c685cddd9654": {
-                "name": "165f9c5a-4dea-4a16-88fa-840c15e88930",
-                "title": "105年桃園市新生兒聽力篩檢初篩及確診醫院",
-                "organization_id": "380140000i",
-                "metadata_created": "2015-11-23T02:39:16.835665",
-                "metadata_modified": "2016-07-22T08:37:58.713636",
-                "timeEnd": 1469147878,
-                "timeBegin": 1448217556,
-                "resources": {
-                    "843b7b73-00ab-4b13-8d3e-f85f63c22985": {
-                        "id": "843b7b73-00ab-4b13-8d3e-f85f63c22985",
-                        "name": "105年度桃園市新生兒聽力篩檢初篩及確診醫療院所名單",
-                        "created": "2016-06-04T16:34:15.523634",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-06-04T16:34:15"
                     }
                 },
                 "counters": {
@@ -15566,73 +15679,73 @@
             },
             "40fefc6b-938b-4f29-b892-e826d9eaf6a0": {
                 "name": "2ec10eb1-8d9f-4a85-840d-1282ff536c1b",
-                "title": "桃園市產後護理機構一覽表",
+                "title": "桃園市產後護理之家",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T03:19:56.675352",
-                "metadata_modified": "2016-07-28T06:14:25.495272",
-                "timeEnd": 1469686455,
+                "metadata_modified": "2017-03-02T04:40:40.909830",
+                "timeEnd": 1488400840,
                 "timeBegin": 1444245596,
                 "resources": {
                     "9f2e1fa4-c489-417f-b7fc-47912bc5cb76": {
                         "id": "9f2e1fa4-c489-417f-b7fc-47912bc5cb76",
                         "name": "產後護理之家kml",
-                        "created": "2015-12-24T10:35:25.912901",
+                        "created": "2015-12-24T10:35:25",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T10:35:25"
                     },
                     "89d7a41c-fdbc-4667-ba00-691fa13460af": {
                         "id": "89d7a41c-fdbc-4667-ba00-691fa13460af",
                         "name": "產後護理之家shapefile",
-                        "created": "2015-12-24T10:35:46.543814",
+                        "created": "2015-12-24T10:35:46",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T10:35:46"
                     },
                     "1f8c9486-7850-4f0d-bd36-4055b9759ea9": {
                         "id": "1f8c9486-7850-4f0d-bd36-4055b9759ea9",
                         "name": "產後護理之家ArcGIS ",
-                        "created": "2015-12-24T10:36:22.534940",
+                        "created": "2015-12-24T10:36:22",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-28T13:55:57"
                     },
                     "9c8db9f0-5c96-4f6b-8ce4-2b63be166809": {
                         "id": "9c8db9f0-5c96-4f6b-8ce4-2b63be166809",
                         "name": "產後護理之家geojson",
-                        "created": "2015-12-24T10:36:45.539722",
+                        "created": "2015-12-24T10:36:45",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T10:36:45"
                     },
                     "c8a13c7e-7688-4fc3-a514-fabdc8423083": {
                         "id": "c8a13c7e-7688-4fc3-a514-fabdc8423083",
                         "name": "產後護理之家地理服務",
-                        "created": "2015-12-24T10:37:06.791261",
+                        "created": "2015-12-24T10:37:06",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T10:37:06"
                     },
                     "a449c5e8-ef57-42c5-8ff8-b5d1c73cd0c7": {
                         "id": "a449c5e8-ef57-42c5-8ff8-b5d1c73cd0c7",
                         "name": "產後護理之家csv",
-                        "created": "2015-12-28T11:57:34.341584",
+                        "created": "2015-12-28T11:57:34",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-28T11:57:34"
                     },
                     "0db295c6-4503-4196-907b-b1bcc9c7c4be": {
                         "id": "0db295c6-4503-4196-907b-b1bcc9c7c4be",
                         "name": "103年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T13:56:57.972467",
+                        "created": "2016-07-28T13:56:57",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T13:56:57"
                     },
                     "6d90cea8-710d-4106-af81-c64e0f72fac3": {
                         "id": "6d90cea8-710d-4106-af81-c64e0f72fac3",
                         "name": "104年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:10:25.090140",
+                        "created": "2016-07-28T14:10:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T14:10:24"
                     },
                     "10665ae9-9b82-4615-9f47-ed401beb269e": {
                         "id": "10665ae9-9b82-4615-9f47-ed401beb269e",
                         "name": "105年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:14:15.936436",
+                        "created": "2016-07-28T14:14:15",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T14:14:15"
                     }
@@ -15869,80 +15982,80 @@
             },
             "0cb25c34-45e5-46d2-addd-73739160b86d": {
                 "name": "552e6fae-3d70-44a2-84e8-c51bb2d2716c",
-                "title": "桃園市居家護理所一覽表",
+                "title": "桃園市居家護理所",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T03:16:25.539300",
-                "metadata_modified": "2016-07-28T05:49:44.770198",
-                "timeEnd": 1469684974,
+                "metadata_modified": "2017-03-02T04:39:27.208137",
+                "timeEnd": 1488400767,
                 "timeBegin": 1444245385,
                 "resources": {
                     "979c95f0-e8ab-4d9f-a506-a1d245345fd8": {
                         "id": "979c95f0-e8ab-4d9f-a506-a1d245345fd8",
                         "name": "居家護理所csv",
-                        "created": "2016-01-11T10:27:58.717696",
+                        "created": "2016-01-11T10:27:58",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-11T10:27:42"
                     },
                     "bbe84d31-e7cf-4cf3-a742-669c85c82995": {
                         "id": "bbe84d31-e7cf-4cf3-a742-669c85c82995",
                         "name": "居家護理所kml",
-                        "created": "2016-01-11T10:28:53.616406",
+                        "created": "2016-01-11T10:28:53",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-11T10:28:37"
                     },
                     "78cf663e-c335-4b13-a408-43845b905b56": {
                         "id": "78cf663e-c335-4b13-a408-43845b905b56",
                         "name": "居家護理所shapeile",
-                        "created": "2016-01-11T10:29:28.301696",
+                        "created": "2016-01-11T10:29:28",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-11T10:29:12"
                     },
                     "a68752db-5504-4f14-b1ff-1158fb285eef": {
                         "id": "a68752db-5504-4f14-b1ff-1158fb285eef",
                         "name": "居家護理所geojson",
-                        "created": "2016-01-11T10:29:53.889405",
+                        "created": "2016-01-11T10:29:53",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-11T10:29:37"
                     },
                     "b995d464-639b-4463-92d7-104a86d86a37": {
                         "id": "b995d464-639b-4463-92d7-104a86d86a37",
                         "name": "居家護理所地理服務",
-                        "created": "2016-01-11T10:30:57.524199",
+                        "created": "2016-01-11T10:30:57",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-11T10:30:41"
                     },
                     "14b5f440-5b5d-451d-80a8-48367832828c": {
                         "id": "14b5f440-5b5d-451d-80a8-48367832828c",
                         "name": "居家護理所ArcGIS",
-                        "created": "2016-01-11T10:31:29.816057",
+                        "created": "2016-01-11T10:31:29",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-11T10:31:13"
                     },
                     "5d857ffb-106a-407c-b080-c620da49e06d": {
                         "id": "5d857ffb-106a-407c-b080-c620da49e06d",
                         "name": " 104年居家護理所一覽表",
-                        "created": "2016-01-14T10:24:40.171537",
+                        "created": "2016-01-14T10:24:40",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-14T10:24:23"
                     },
                     "5829d311-14da-4088-809c-458eadf0cc08": {
                         "id": "5829d311-14da-4088-809c-458eadf0cc08",
                         "name": " 103年桃園市居家護理所一覽表",
-                        "created": "2016-07-28T13:48:40.151935",
+                        "created": "2016-07-28T13:48:40",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T13:48:39"
                     },
                     "91ca2c98-b934-42b7-8ac7-5894bb5467e7": {
                         "id": "91ca2c98-b934-42b7-8ac7-5894bb5467e7",
                         "name": " 104年桃園市居家護理所一覽表",
-                        "created": "2016-07-28T13:49:07.597550",
+                        "created": "2016-07-28T13:49:07",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T13:49:07"
                     },
                     "8ca7d0df-6163-47a6-9162-c978201a2435": {
                         "id": "8ca7d0df-6163-47a6-9162-c978201a2435",
                         "name": "105年桃園市居家護理所一覽表",
-                        "created": "2016-07-28T13:49:34.667693",
+                        "created": "2016-07-28T13:49:34",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T13:49:34"
                     }
@@ -15998,17 +16111,17 @@
             },
             "7e5b90d4-e155-4ef5-babd-535ad259f866": {
                 "name": "645059dd-40b2-40d0-bde8-39735008ac00",
-                "title": "105年桃園市衛政三項長照服務(居家護理、居家復健及喘息服務)合約單位清單",
+                "title": "桃園市衛政三項長照服務(居家護理、居家復健及喘息服務)合約單位",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-07-28T12:53:10.585506",
-                "metadata_modified": "2016-08-16T08:38:46.952522",
-                "timeEnd": 1471307926,
+                "metadata_modified": "2017-03-02T04:33:17.446736",
+                "timeEnd": 1488400397,
                 "timeBegin": 1469681590,
                 "resources": {
                     "be6586c4-7573-48fb-b660-398aaba96509": {
                         "id": "be6586c4-7573-48fb-b660-398aaba96509",
                         "name": "105年桃園市衛政三項長照服務(居家護理、居家復健及喘息服務)合約單位清單",
-                        "created": "2016-07-28T20:54:46.717724",
+                        "created": "2016-07-28T20:54:46",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T20:54:46"
                     }
@@ -16045,14 +16158,14 @@
                 "title": "桃園市新生兒聽力篩檢初篩及確診醫療院所名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-02-21T07:17:07.231508",
-                "metadata_modified": "2017-02-21T07:17:45.752040",
-                "timeEnd": 1487661465,
+                "metadata_modified": "2017-03-02T06:11:27.855429",
+                "timeEnd": 1488406287,
                 "timeBegin": 1487632627,
                 "resources": {
                     "bacbf184-9695-44e1-903f-84f22a123ce8": {
                         "id": "bacbf184-9695-44e1-903f-84f22a123ce8",
                         "name": "桃園市新生兒聽力篩檢初篩及確診醫療院所名單.csv",
-                        "created": "2017-02-21T15:17:45.807987",
+                        "created": "2017-02-21T15:17:45",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-21T15:17:45"
                     }
@@ -16384,17 +16497,17 @@
             },
             "d8be9cc8-da76-4ad1-b8fb-8dde27363ef8": {
                 "name": "8dc77b95-62d4-484d-97d1-2c7e9c0dba8d",
-                "title": "桃園市社區巡迴復健場次時間及地點",
+                "title": "社區復健服務據點",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-07-28T13:06:00.209784",
-                "metadata_modified": "2016-08-17T07:17:15.524677",
-                "timeEnd": 1471418229,
+                "metadata_modified": "2017-03-02T04:36:57.733501",
+                "timeEnd": 1488400617,
                 "timeBegin": 1469682360,
                 "resources": {
                     "3108df58-fb39-4c74-ab34-4686242588c9": {
                         "id": "3108df58-fb39-4c74-ab34-4686242588c9",
                         "name": "復興區巡迴醫療地點時間",
-                        "created": "2016-08-17T15:17:09.440049",
+                        "created": "2016-08-17T15:17:09",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-17T15:17:09"
                     }
@@ -24440,16 +24553,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-02-28T01:10:43.722802",
-                "timeEnd": 1488244243,
+                "metadata_modified": "2017-03-02T01:44:22.456288",
+                "timeEnd": 1488419062,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "04130b4c-980c-4735-a345-fb59bbe46eb0": {
-                        "id": "04130b4c-980c-4735-a345-fb59bbe46eb0",
+                    "e97a3a8b-cff4-4be1-ac4b-df8c60dbec01": {
+                        "id": "e97a3a8b-cff4-4be1-ac4b-df8c60dbec01",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-02-28T09:10:43.775705",
+                        "created": "2017-03-02T09:44:22.509208",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-28T09:10:43"
+                        "last_modified": "2017-03-02T09:44:22"
                     }
                 },
                 "counters": {
@@ -24462,8 +24575,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-02-28T01:11:13.271083",
-                "timeEnd": 1488244273,
+                "metadata_modified": "2017-03-02T01:43:59.514359",
+                "timeEnd": 1488419039,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -24473,12 +24586,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "6547bb65-45f8-4265-b509-f82021c0778f": {
-                        "id": "6547bb65-45f8-4265-b509-f82021c0778f",
+                    "9a5f5746-67e5-4a39-9561-76f192e4b3a3": {
+                        "id": "9a5f5746-67e5-4a39-9561-76f192e4b3a3",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-02-28T09:11:13.336606",
+                        "created": "2017-03-02T09:43:59.588394",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-28T09:11:13"
+                        "last_modified": "2017-03-02T09:43:59"
                     }
                 },
                 "counters": {
@@ -24488,5 +24601,5 @@
             }
         }
     },
-    "time_generated": 1488403948
+    "time_generated": 1488490354
 }
