@@ -14386,16 +14386,16 @@
                 "title": "桃園市締盟城市締結資料",
                 "organization_id": "380010000a",
                 "metadata_created": "2015-10-06T03:18:35.203453",
-                "metadata_modified": "2017-02-23T02:20:53.300035",
-                "timeEnd": 1487787653,
+                "metadata_modified": "2017-03-03T03:30:10.798051",
+                "timeEnd": 1488511310,
                 "timeBegin": 1444072715,
                 "resources": {
-                    "8aec0d6c-9143-4f8e-aa15-430a215a9651": {
-                        "id": "8aec0d6c-9143-4f8e-aa15-430a215a9651",
+                    "2de84242-81a8-42c5-92dc-0f22328d5907": {
+                        "id": "2de84242-81a8-42c5-92dc-0f22328d5907",
                         "name": "桃園市締盟城市締結資料.csv",
-                        "created": "2016-12-07T17:31:44",
+                        "created": "2017-03-03T11:21:50",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-07T17:31:44"
+                        "last_modified": "2017-03-03T11:21:50"
                     }
                 },
                 "counters": {
@@ -17513,8 +17513,8 @@
                 "title": "風景區管理處-後慈湖、小烏來婚紗攝影申請一覽表",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-13T06:57:16.984102",
-                "metadata_modified": "2017-02-06T01:18:28.143988",
-                "timeEnd": 1486343907,
+                "metadata_modified": "2017-03-03T06:33:34.579173",
+                "timeEnd": 1488522814,
                 "timeBegin": 1465772236,
                 "resources": {
                     "c2734aec-b113-4bbe-bcf9-76388276eadc": {
@@ -17579,6 +17579,13 @@
                         "created": "2017-02-06T09:18:27",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-06T09:18:27"
+                    },
+                    "a0ad8998-2976-444a-9f55-f327c4d54574": {
+                        "id": "a0ad8998-2976-444a-9f55-f327c4d54574",
+                        "name": "2017年3月後慈湖、小烏來婚紗攝影申請一覽表.csv",
+                        "created": "2017-03-03T14:33:34.649396",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-03T14:33:34"
                     }
                 },
                 "counters": {
@@ -18330,8 +18337,8 @@
                 "title": "風景區管理處-轄管場地租借申請一覽表",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-02T02:44:42.582783",
-                "metadata_modified": "2017-02-06T01:17:26.007983",
-                "timeEnd": 1486343845,
+                "metadata_modified": "2017-03-03T06:34:35.552677",
+                "timeEnd": 1488522875,
                 "timeBegin": 1464806682,
                 "resources": {
                     "02fed303-7330-4eb6-abf8-27e7e2e171ab": {
@@ -18396,6 +18403,13 @@
                         "created": "2017-02-06T09:17:25",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-06T09:17:25"
+                    },
+                    "bc285333-0d5f-46b9-9a05-3cf00237da55": {
+                        "id": "bc285333-0d5f-46b9-9a05-3cf00237da55",
+                        "name": "2017年3月場地申請表.csv",
+                        "created": "2017-03-03T14:34:35.618871",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-03T14:34:35"
                     }
                 },
                 "counters": {
@@ -24362,7 +24376,7 @@
     },
     "桃園捷運公司": {
         "counters": {
-            "datasets": 8,
+            "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -24374,16 +24388,16 @@
                 "title": "桃園捷運車站設施資料",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2017-02-20T08:51:25.249451",
-                "metadata_modified": "2017-02-20T09:09:48.426879",
-                "timeEnd": 1487581301,
+                "metadata_modified": "2017-03-03T06:16:09.083210",
+                "timeEnd": 1488521766,
                 "timeBegin": 1487551885,
                 "resources": {
                     "702dc864-3c4b-4f46-b848-d6304b67c1f2": {
                         "id": "702dc864-3c4b-4f46-b848-d6304b67c1f2",
                         "name": "StationFacilityList.xml",
-                        "created": "2017-02-20T17:01:41",
+                        "created": "2017-03-03T14:16:06",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-20T17:01:41"
+                        "last_modified": "2017-03-03T14:16:06"
                     }
                 },
                 "counters": {
@@ -24396,16 +24410,60 @@
                 "title": "桃園捷運營運路線車站基本資料",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2017-02-20T09:08:47.430285",
-                "metadata_modified": "2017-02-20T09:09:10.758393",
-                "timeEnd": 1487581750,
+                "metadata_modified": "2017-03-03T09:33:09.886374",
+                "timeEnd": 1488504789,
                 "timeBegin": 1487552927,
                 "resources": {
                     "8dd85293-b0ce-48b4-a6e0-7def5a979f38": {
                         "id": "8dd85293-b0ce-48b4-a6e0-7def5a979f38",
                         "name": "StationOfRouteList.xml",
-                        "created": "2017-02-20T17:09:10.810637",
+                        "created": "2017-02-20T17:09:10",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T17:09:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "27c76dfa-eeea-43d2-99dc-4e37378503fe": {
+                "name": "27c76dfa-eeea-43d2-99dc-4e37378503fe",
+                "title": "桃園捷運站別時刻表資料",
+                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
+                "metadata_created": "2017-03-03T06:29:16.751277",
+                "metadata_modified": "2017-03-03T09:32:04.850539",
+                "timeEnd": 1488522603,
+                "timeBegin": 1488493756,
+                "resources": {
+                    "08f338f7-f14a-4087-97fe-ecc3d79816f8": {
+                        "id": "08f338f7-f14a-4087-97fe-ecc3d79816f8",
+                        "name": "GeneralStationTimeTableList.xml",
+                        "created": "2017-03-03T14:30:03",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-03T14:30:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "38061551-b85d-4c66-87b5-274b3363cbd0": {
+                "name": "38061551-b85d-4c66-87b5-274b3363cbd0",
+                "title": "桃園捷運路線發車班距頻率資料",
+                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
+                "metadata_created": "2017-03-03T06:45:48.263263",
+                "metadata_modified": "2017-03-03T09:29:17.441136",
+                "timeEnd": 1488523577,
+                "timeBegin": 1488494748,
+                "resources": {
+                    "dd502082-485e-4f80-b170-0e6e3c08f48a": {
+                        "id": "dd502082-485e-4f80-b170-0e6e3c08f48a",
+                        "name": "FrequencyList.xml",
+                        "created": "2017-03-03T14:46:17",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-03T14:46:17"
                     }
                 },
                 "counters": {
@@ -24418,8 +24476,8 @@
                 "title": "桃園捷運路網資料",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2017-01-04T05:17:56.189478",
-                "metadata_modified": "2017-02-20T08:48:11.767647",
-                "timeEnd": 1487580491,
+                "metadata_modified": "2017-03-03T09:34:30.122764",
+                "timeEnd": 1488504870,
                 "timeBegin": 1483478276,
                 "resources": {
                     "8b5e6dda-f702-4d37-aefd-ac0e7c1dd9d4": {
@@ -24450,6 +24508,28 @@
                         "created": "2017-02-20T16:47:30",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T16:47:30"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6d6772b8-4231-43ac-9a10-9758cbdc2e14": {
+                "name": "6d6772b8-4231-43ac-9a10-9758cbdc2e14",
+                "title": "桃園捷運首末班車時刻表",
+                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
+                "metadata_created": "2017-03-03T06:38:35.372440",
+                "metadata_modified": "2017-03-03T09:30:59.158617",
+                "timeEnd": 1488523148,
+                "timeBegin": 1488494315,
+                "resources": {
+                    "8e13b3b4-f4ab-4e6e-a8f4-9f28bb54a631": {
+                        "id": "8e13b3b4-f4ab-4e6e-a8f4-9f28bb54a631",
+                        "name": "FirstLastTimetableList.xml",
+                        "created": "2017-03-03T14:39:08",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-03T14:39:08"
                     }
                 },
                 "counters": {
@@ -24536,6 +24616,28 @@
                     "resource_total": 0,
                     "resource_recent": 0
                 }
+            },
+            "be1d7c55-a34b-48f0-9a52-ca3148a84a6d": {
+                "name": "be1d7c55-a34b-48f0-9a52-ca3148a84a6d",
+                "title": "桃園捷運起迄站間票價資料",
+                "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
+                "metadata_created": "2017-03-03T06:55:22.173138",
+                "metadata_modified": "2017-03-03T09:27:40.850487",
+                "timeEnd": 1488524162,
+                "timeBegin": 1488495322,
+                "resources": {
+                    "0315f539-e235-438d-b38f-515c72e36010": {
+                        "id": "0315f539-e235-438d-b38f-515c72e36010",
+                        "name": "ODFareList.xml",
+                        "created": "2017-03-03T14:56:02",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-03T14:56:02"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
             }
         }
     },
@@ -24553,16 +24655,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-03-02T01:44:22.456288",
-                "timeEnd": 1488419062,
+                "metadata_modified": "2017-03-03T01:05:59.270984",
+                "timeEnd": 1488503159,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "e97a3a8b-cff4-4be1-ac4b-df8c60dbec01": {
-                        "id": "e97a3a8b-cff4-4be1-ac4b-df8c60dbec01",
+                    "4941673c-42e6-415c-8795-2664ccfabaf7": {
+                        "id": "4941673c-42e6-415c-8795-2664ccfabaf7",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-03-02T09:44:22.509208",
+                        "created": "2017-03-03T09:05:59.324228",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-02T09:44:22"
+                        "last_modified": "2017-03-03T09:05:59"
                     }
                 },
                 "counters": {
@@ -24575,8 +24677,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-03-02T01:43:59.514359",
-                "timeEnd": 1488419039,
+                "metadata_modified": "2017-03-03T01:06:23.351494",
+                "timeEnd": 1488503183,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -24586,12 +24688,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "9a5f5746-67e5-4a39-9561-76f192e4b3a3": {
-                        "id": "9a5f5746-67e5-4a39-9561-76f192e4b3a3",
+                    "035c29ed-972a-4fc5-bfd5-d4cf6aed6942": {
+                        "id": "035c29ed-972a-4fc5-bfd5-d4cf6aed6942",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-03-02T09:43:59.588394",
+                        "created": "2017-03-03T09:06:23.423671",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-02T09:43:59"
+                        "last_modified": "2017-03-03T09:06:23"
                     }
                 },
                 "counters": {
@@ -24601,5 +24703,5 @@
             }
         }
     },
-    "time_generated": 1488490354
+    "time_generated": 1488576717
 }
