@@ -8853,8 +8853,8 @@
                 "title": "桃園市各區里集會場所名冊",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T05:29:50.213532",
-                "metadata_modified": "2017-01-09T06:06:45.098655",
-                "timeEnd": 1483942004,
+                "metadata_modified": "2017-03-07T06:31:31.682870",
+                "timeEnd": 1488868291,
                 "timeBegin": 1443734990,
                 "resources": {
                     "276f8830-7678-495d-a61d-24a48798f5f8": {
@@ -8885,13 +8885,6 @@
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-18T11:35:13"
                     },
-                    "e5e7a7ac-5bec-4c2a-ac0e-3222e1497ecf": {
-                        "id": "e5e7a7ac-5bec-4c2a-ac0e-3222e1497ecf",
-                        "name": "桃園區",
-                        "created": "2016-02-22T09:17:34",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-11-18T11:30:28"
-                    },
                     "f1e76448-20ac-43da-a63f-46c660d4b9b2": {
                         "id": "f1e76448-20ac-43da-a63f-46c660d4b9b2",
                         "name": "楊梅區",
@@ -8919,6 +8912,13 @@
                         "created": "2016-02-22T09:22:29",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-18T11:41:55"
+                    },
+                    "8a8058e6-ae99-4d32-a872-5f8096632ae1": {
+                        "id": "8a8058e6-ae99-4d32-a872-5f8096632ae1",
+                        "name": "桃園區里集會所",
+                        "created": "2017-03-07T14:31:31.766340",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-07T14:31:31"
                     }
                 },
                 "counters": {
@@ -15397,7 +15397,7 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 65,
+            "datasets": 67,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -15951,6 +15951,35 @@
                         "created": "2017-02-15T16:01:22",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-15T16:01:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "47080b53-b7db-4b5e-b4bb-20c8227ff52a": {
+                "name": "47080b53-b7db-4b5e-b4bb-20c8227ff52a",
+                "title": "桃園市政府衛生局106年抽驗食品不合格名單",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-07T08:04:37.568599",
+                "metadata_modified": "2017-03-07T08:05:31.162498",
+                "timeEnd": 1488873931,
+                "timeBegin": 1488845077,
+                "resources": {
+                    "00e627f2-d42c-48ef-a58d-a95f7e800a6b": {
+                        "id": "00e627f2-d42c-48ef-a58d-a95f7e800a6b",
+                        "name": "桃園市政府衛生局106年1月份抽驗食品不合格名單.csv",
+                        "created": "2017-03-07T16:05:02.237445",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-07T16:05:02"
+                    },
+                    "ee92a8fb-a8e3-47d6-b610-a2e58bba4692": {
+                        "id": "ee92a8fb-a8e3-47d6-b610-a2e58bba4692",
+                        "name": "桃園市政府衛生局106年2月抽驗食品不合格名單.csv",
+                        "created": "2017-03-07T16:05:31.206922",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-07T16:05:31"
                     }
                 },
                 "counters": {
@@ -16712,6 +16741,35 @@
                         "created": "2016-08-25T11:00:59.761971",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-25T11:00:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a08bb407-ee65-4077-b0ad-d31818c7371d": {
+                "name": "a08bb407-ee65-4077-b0ad-d31818c7371d",
+                "title": "桃園市政府衛生局106年抽驗食品合格名單",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-07T07:54:24.954676",
+                "metadata_modified": "2017-03-07T07:55:53.643322",
+                "timeEnd": 1488873353,
+                "timeBegin": 1488844464,
+                "resources": {
+                    "d3e0c0a3-7479-44ca-ad70-10316cf8432d": {
+                        "id": "d3e0c0a3-7479-44ca-ad70-10316cf8432d",
+                        "name": "桃園市政府衛生局106年1月份抽驗食品合格名單.csv",
+                        "created": "2017-03-07T15:55:22.882160",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-07T15:55:22"
+                    },
+                    "c94c690e-9fd5-42c1-95bf-ae97a248b5d2": {
+                        "id": "c94c690e-9fd5-42c1-95bf-ae97a248b5d2",
+                        "name": "桃園市政府衛生局106年2月抽驗合格名單.csv",
+                        "created": "2017-03-07T15:55:53.691144",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-07T15:55:53"
                     }
                 },
                 "counters": {
@@ -21234,16 +21292,16 @@
                 "title": "桃園市政府最新債務訊息",
                 "organization_id": "380030000d",
                 "metadata_created": "2015-10-06T06:31:55.032531",
-                "metadata_modified": "2017-02-09T02:17:00.634569",
-                "timeEnd": 1486606620,
+                "metadata_modified": "2017-03-07T01:53:42.461641",
+                "timeEnd": 1488851622,
                 "timeBegin": 1444084315,
                 "resources": {
                     "32f83756-29c9-4b93-8ed2-f1048c273671": {
                         "id": "32f83756-29c9-4b93-8ed2-f1048c273671",
-                        "name": "債務資料 106.1.csv",
-                        "created": "2017-02-09T10:17:00",
+                        "name": "債務資料 106.2.csv",
+                        "created": "2017-03-07T09:53:42",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-09T10:17:00"
+                        "last_modified": "2017-03-07T09:53:42"
                     }
                 },
                 "counters": {
@@ -21640,16 +21698,16 @@
                 "title": "桃園市珍貴樹木資料",
                 "organization_id": "380270000g",
                 "metadata_created": "2015-10-07T02:13:38.430917",
-                "metadata_modified": "2015-12-18T06:38:41.343593",
-                "timeEnd": 1450420718,
+                "metadata_modified": "2017-03-07T08:27:45.135728",
+                "timeEnd": 1488875265,
                 "timeBegin": 1444155218,
                 "resources": {
                     "475d7ece-32b8-4b5f-a31a-910d58aac908": {
                         "id": "475d7ece-32b8-4b5f-a31a-910d58aac908",
-                        "name": " 桃園市珍貴樹木資料",
-                        "created": "2015-12-18T14:38:38.950988",
+                        "name": "桃園市珍貴樹木資料.csv",
+                        "created": "2017-03-07T16:27:45",
                         "webstore_last_updated": null,
-                        "last_modified": "2015-12-18T14:38:38"
+                        "last_modified": "2017-03-07T16:27:45"
                     }
                 },
                 "counters": {
@@ -24409,16 +24467,16 @@
                 "title": "桃園捷運車站設施資料",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2017-02-20T08:51:25.249451",
-                "metadata_modified": "2017-03-03T06:16:09.083210",
-                "timeEnd": 1488521766,
+                "metadata_modified": "2017-03-07T07:56:32.679364",
+                "timeEnd": 1488873369,
                 "timeBegin": 1487551885,
                 "resources": {
                     "702dc864-3c4b-4f46-b848-d6304b67c1f2": {
                         "id": "702dc864-3c4b-4f46-b848-d6304b67c1f2",
                         "name": "StationFacilityList.xml",
-                        "created": "2017-03-03T14:16:06",
+                        "created": "2017-03-07T15:56:09",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-03T14:16:06"
+                        "last_modified": "2017-03-07T15:56:09"
                     }
                 },
                 "counters": {
@@ -24724,5 +24782,5 @@
             }
         }
     },
-    "time_generated": 1488835925
+    "time_generated": 1488922317
 }

@@ -237,15 +237,15 @@
                 "name": "6556e1e8-c908-42d5-b984-b3f7337b139b",
                 "title": "臺北捷運列車到站站名",
                 "organization_id": "379620000M",
-                "metadata_modified": "2017-03-07 05:15:02",
-                "timeEnd": 1488834902,
+                "metadata_modified": "2017-03-08 01:59:37",
+                "timeEnd": 1488909577,
                 "timeBegin": 1435593600,
                 "resources": {
                     "55ec6d6e-dc5c-4268-a725-d04cc262172b": {
                         "id": "55ec6d6e-dc5c-4268-a725-d04cc262172b",
                         "name": "apiIn.json",
-                        "created": "2017-03-07 05:15:02",
-                        "last_modified": "2017-03-07T05:15:02"
+                        "created": "2017-03-08 01:59:37",
+                        "last_modified": "2017-03-08T01:59:37"
                     }
                 },
                 "counters": {
@@ -2993,6 +2993,46 @@
     },
     "臺北市政府主計處": {
         "datasets": {
+            "143bad3f-195e-49d4-aff2-c802a2a98fc3": {
+                "name": "143bad3f-195e-49d4-aff2-c802a2a98fc3",
+                "title": "營造工程物價指數",
+                "organization_id": "379200000A",
+                "metadata_modified": "2017-03-07 09:37:01",
+                "timeEnd": 1488850621,
+                "timeBegin": 1488816000,
+                "resources": {
+                    "ce2c4078-3fb2-4d53-ab66-4da12a967c35": {
+                        "id": "ce2c4078-3fb2-4d53-ab66-4da12a967c35",
+                        "name": "營造工程物價指數.zip",
+                        "created": "2017-03-07 09:35:55",
+                        "last_modified": "2017-03-07T09:35:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "14454151-0f38-4c12-91a3-d3f4f253d765": {
+                "name": "14454151-0f38-4c12-91a3-d3f4f253d765",
+                "title": "消費者物價指數",
+                "organization_id": "379200000A",
+                "metadata_modified": "2017-03-07 09:33:52",
+                "timeEnd": 1488850432,
+                "timeBegin": 1488816000,
+                "resources": {
+                    "58ce9af7-f602-4665-936d-c6036ac9f19c": {
+                        "id": "58ce9af7-f602-4665-936d-c6036ac9f19c",
+                        "name": "消費者物價指數.zip",
+                        "created": "2017-03-07 09:30:48",
+                        "last_modified": "2017-03-07T09:30:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "eddd8f27-d2e9-40c3-89d0-7195268cc578": {
                 "name": "eddd8f27-d2e9-40c3-89d0-7195268cc578",
                 "title": "106年度臺北市附屬單位預算",
@@ -3024,46 +3064,6 @@
                         "name": "特收基金.pdf",
                         "created": "2017-03-03 10:21:58",
                         "last_modified": "2017-03-03T10:21:58"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "143bad3f-195e-49d4-aff2-c802a2a98fc3": {
-                "name": "143bad3f-195e-49d4-aff2-c802a2a98fc3",
-                "title": "營造工程物價指數",
-                "organization_id": "379200000A",
-                "metadata_modified": "2017-02-08 09:10:00",
-                "timeEnd": 1486516200,
-                "timeBegin": 1486483200,
-                "resources": {
-                    "796c222a-e774-4c37-b325-8f589cfe5ca5": {
-                        "id": "796c222a-e774-4c37-b325-8f589cfe5ca5",
-                        "name": "營造工程物價指數.zip",
-                        "created": "2017-02-08 09:08:30",
-                        "last_modified": "2017-02-08T09:08:30"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "14454151-0f38-4c12-91a3-d3f4f253d765": {
-                "name": "14454151-0f38-4c12-91a3-d3f4f253d765",
-                "title": "消費者物價指數",
-                "organization_id": "379200000A",
-                "metadata_modified": "2017-02-08 09:08:39",
-                "timeEnd": 1486516119,
-                "timeBegin": 1486483200,
-                "resources": {
-                    "91cc732c-d914-445b-85a3-839382c4d92f": {
-                        "id": "91cc732c-d914-445b-85a3-839382c4d92f",
-                        "name": "消費者物價指數.zip",
-                        "created": "2017-02-08 09:07:40",
-                        "last_modified": "2017-02-08T09:07:40"
                     }
                 },
                 "counters": {
@@ -6100,214 +6100,12 @@
     },
     "臺北市政府人事處": {
         "datasets": {
-            "abd80a1c-eb3a-4c99-bbb4-4c671a060050": {
-                "name": "abd80a1c-eb3a-4c99-bbb4-4c671a060050",
-                "title": "臺北市政府各一級機關暨列席議會二級機關首長名錄",
-                "organization_id": "379210000A",
-                "metadata_modified": "2017-02-24 19:52:33",
-                "timeEnd": 1487937153,
-                "timeBegin": 1439827200,
-                "resources": {
-                    "8b5618a6-14e4-4f98-95f1-4511464bd4c7": {
-                        "id": "8b5618a6-14e4-4f98-95f1-4511464bd4c7",
-                        "name": "臺北市政府各一級機關暨列席議會二級機關首長名錄_1060216.doc",
-                        "created": "2017-02-24 19:52:31",
-                        "last_modified": "2017-02-24T19:52:31"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "268cd629-c4fa-48ac-95e5-b9677ec12f27": {
-                "name": "268cd629-c4fa-48ac-95e5-b9677ec12f27",
-                "title": "臺北市政府暨所屬機關學校現有員工人數統計",
-                "organization_id": "379210000A",
-                "metadata_modified": "2017-02-24 19:51:00",
-                "timeEnd": 1487937060,
-                "timeBegin": 1439827200,
-                "resources": {
-                    "73af05f8-66f3-4a72-aa0f-419dcd579a2b": {
-                        "id": "73af05f8-66f3-4a72-aa0f-419dcd579a2b",
-                        "name": "10408員工總表.xls",
-                        "created": "2015-12-03 17:20:45",
-                        "last_modified": "2015-12-03T17:20:45"
-                    },
-                    "5bcfa6d0-1d2c-4d89-8601-63e58a5b9fec": {
-                        "id": "5bcfa6d0-1d2c-4d89-8601-63e58a5b9fec",
-                        "name": "10409員工總表.xls",
-                        "created": "2015-12-03 17:21:20",
-                        "last_modified": "2015-12-03T17:21:20"
-                    },
-                    "de377b38-10cd-4bbb-90a9-22c90a306fe4": {
-                        "id": "de377b38-10cd-4bbb-90a9-22c90a306fe4",
-                        "name": "10410員工總表.xls",
-                        "created": "2015-12-03 17:21:52",
-                        "last_modified": "2015-12-03T17:21:52"
-                    },
-                    "c291f1f9-ce4d-4f87-9b52-067152db126a": {
-                        "id": "c291f1f9-ce4d-4f87-9b52-067152db126a",
-                        "name": "10411員工人數統計表.xls",
-                        "created": "2015-12-31 10:56:06",
-                        "last_modified": "2015-12-31T10:56:06"
-                    },
-                    "828e1e8c-1125-4454-afa1-057426a84e4f": {
-                        "id": "828e1e8c-1125-4454-afa1-057426a84e4f",
-                        "name": "10412員工總表.xls",
-                        "created": "2016-02-02 16:35:49",
-                        "last_modified": "2016-02-02T16:35:49"
-                    },
-                    "60c33206-8a26-47a1-b142-9486980ddb59": {
-                        "id": "60c33206-8a26-47a1-b142-9486980ddb59",
-                        "name": "10501員工總表.xls",
-                        "created": "2016-03-09 17:47:00",
-                        "last_modified": "2016-03-09T17:47:00"
-                    },
-                    "14e3b431-58e2-418d-937a-2b1128cae65d": {
-                        "id": "14e3b431-58e2-418d-937a-2b1128cae65d",
-                        "name": "10502員工總表.xls",
-                        "created": "2016-03-10 11:52:38",
-                        "last_modified": "2016-03-10T11:52:38"
-                    },
-                    "e759b0a6-31d3-4244-9972-d9362002867f": {
-                        "id": "e759b0a6-31d3-4244-9972-d9362002867f",
-                        "name": "10503員工統計表.xls",
-                        "created": "2016-04-14 17:42:57",
-                        "last_modified": "2016-04-14T17:42:57"
-                    },
-                    "d3bb24d3-ed7d-46e2-a465-edde93a5f311": {
-                        "id": "d3bb24d3-ed7d-46e2-a465-edde93a5f311",
-                        "name": "10504員工總表.xls",
-                        "created": "2016-05-23 10:55:18",
-                        "last_modified": "2016-05-23T10:55:18"
-                    },
-                    "69d58a03-e69c-4a1b-afdd-258fd81d88a0": {
-                        "id": "69d58a03-e69c-4a1b-afdd-258fd81d88a0",
-                        "name": "10505員工總表.xls",
-                        "created": "2016-06-29 16:08:16",
-                        "last_modified": "2016-06-29T16:08:16"
-                    },
-                    "47ac3c0d-7fa2-494f-9379-f2eba39174ca": {
-                        "id": "47ac3c0d-7fa2-494f-9379-f2eba39174ca",
-                        "name": "10506員工總表.xls",
-                        "created": "2016-08-01 13:49:29",
-                        "last_modified": "2016-08-01T13:49:29"
-                    },
-                    "8c93931d-c962-47a7-88e6-e8c0e78fdbf9": {
-                        "id": "8c93931d-c962-47a7-88e6-e8c0e78fdbf9",
-                        "name": "10507員工總表.xls",
-                        "created": "2016-09-01 10:25:00",
-                        "last_modified": "2016-09-01T10:25:00"
-                    },
-                    "e2cc154a-321c-4985-a403-2579a9320a8e": {
-                        "id": "e2cc154a-321c-4985-a403-2579a9320a8e",
-                        "name": "10508員工總表.xls",
-                        "created": "2016-09-30 09:27:44",
-                        "last_modified": "2016-09-30T09:27:44"
-                    },
-                    "24efeb96-b857-42c6-8d85-cdb4b2d70fc2": {
-                        "id": "24efeb96-b857-42c6-8d85-cdb4b2d70fc2",
-                        "name": "10509員工總表.xls",
-                        "created": "2016-10-27 10:20:09",
-                        "last_modified": "2016-10-27T10:20:09"
-                    },
-                    "18d74913-6d11-444f-9334-795b2e72dfe3": {
-                        "id": "18d74913-6d11-444f-9334-795b2e72dfe3",
-                        "name": "10510員工總表.xls",
-                        "created": "2016-11-29 16:07:22",
-                        "last_modified": "2016-11-29T16:07:22"
-                    },
-                    "bad7f1c3-ece2-41b7-b897-9eaeba51edb8": {
-                        "id": "bad7f1c3-ece2-41b7-b897-9eaeba51edb8",
-                        "name": "10511員工總表.xls",
-                        "created": "2017-01-05 09:59:34",
-                        "last_modified": "2017-01-05T09:59:34"
-                    },
-                    "b931bb8c-648a-4d74-9096-126260bb4fa2": {
-                        "id": "b931bb8c-648a-4d74-9096-126260bb4fa2",
-                        "name": "10512員工總表.xls",
-                        "created": "2017-01-25 16:24:33",
-                        "last_modified": "2017-01-25T16:24:33"
-                    },
-                    "4bc742b1-2a1b-4503-ae07-f196b73948f1": {
-                        "id": "4bc742b1-2a1b-4503-ae07-f196b73948f1",
-                        "name": "10601員工總表.xls",
-                        "created": "2017-02-24 19:50:57",
-                        "last_modified": "2017-02-24T19:50:57"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "124aedce-5452-4476-a1dd-1b2afc64f8d2": {
-                "name": "124aedce-5452-4476-a1dd-1b2afc64f8d2",
-                "title": "提高女性主管比例",
-                "organization_id": "379210000A",
-                "metadata_modified": "2017-02-22 19:50:45",
-                "timeEnd": 1487764246,
-                "timeBegin": 0,
-                "resources": {
-                    "d5f7cd1b-8499-4ca2-b591-64061483e31e": {
-                        "id": "d5f7cd1b-8499-4ca2-b591-64061483e31e",
-                        "name": "10512主管分析.xls",
-                        "created": "2017-02-22 19:50:46",
-                        "last_modified": "2017-02-22T19:50:46"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "54f9cc83-695b-410d-8596-5ea1b568ab4a": {
-                "name": "54f9cc83-695b-410d-8596-5ea1b568ab4a",
-                "title": "優惠商店",
-                "organization_id": "379210000A",
-                "metadata_modified": "2017-02-21 11:31:19",
-                "timeEnd": 1487647879,
-                "timeBegin": 1440086400,
-                "resources": {
-                    "d5909ba2-be14-4241-993b-f54a35ba899b": {
-                        "id": "d5909ba2-be14-4241-993b-f54a35ba899b",
-                        "name": "http:\/\/eserver.dgpa.gov.tw\/store\/store-list.aspx?id=48",
-                        "created": "2015-08-19 15:10:18",
-                        "last_modified": "2015-08-19T15:10:18"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "30e7ae11-3708-417f-b484-48696b0236d5": {
-                "name": "30e7ae11-3708-417f-b484-48696b0236d5",
-                "title": "本府各機關任務編組檢討",
-                "organization_id": "379210000A",
-                "metadata_modified": "2017-02-08 11:42:50",
-                "timeEnd": 1486525370,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "dcc49c1d-0407-4465-9807-8b4338f51fa3": {
-                        "id": "dcc49c1d-0407-4465-9807-8b4338f51fa3",
-                        "name": "府層級任務編組.xls",
-                        "created": "2017-02-08 11:42:49",
-                        "last_modified": "2017-02-08T11:42:49"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "025761db-2be8-4820-a094-72510e1df707": {
                 "name": "025761db-2be8-4820-a094-72510e1df707",
                 "title": "獎懲月報表",
                 "organization_id": "379210000A",
-                "metadata_modified": "2017-02-08 10:48:56",
-                "timeEnd": 1486522136,
+                "metadata_modified": "2017-03-07 10:22:15",
+                "timeEnd": 1488853335,
                 "timeBegin": 1439481600,
                 "resources": {
                     "eaccd3cc-5dd2-480c-b463-d03562387c2e": {
@@ -6579,6 +6377,214 @@
                         "name": "1月份月報.xlsx",
                         "created": "2017-02-08 10:48:51",
                         "last_modified": "2017-02-08T10:48:51"
+                    },
+                    "e24b01e4-a1a6-4c38-8be6-b54368fd75d6": {
+                        "id": "e24b01e4-a1a6-4c38-8be6-b54368fd75d6",
+                        "name": "2月份月報.xlsx",
+                        "created": "2017-03-07 10:22:10",
+                        "last_modified": "2017-03-07T10:22:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "abd80a1c-eb3a-4c99-bbb4-4c671a060050": {
+                "name": "abd80a1c-eb3a-4c99-bbb4-4c671a060050",
+                "title": "臺北市政府各一級機關暨列席議會二級機關首長名錄",
+                "organization_id": "379210000A",
+                "metadata_modified": "2017-02-24 19:52:33",
+                "timeEnd": 1487937153,
+                "timeBegin": 1439827200,
+                "resources": {
+                    "8b5618a6-14e4-4f98-95f1-4511464bd4c7": {
+                        "id": "8b5618a6-14e4-4f98-95f1-4511464bd4c7",
+                        "name": "臺北市政府各一級機關暨列席議會二級機關首長名錄_1060216.doc",
+                        "created": "2017-02-24 19:52:31",
+                        "last_modified": "2017-02-24T19:52:31"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "268cd629-c4fa-48ac-95e5-b9677ec12f27": {
+                "name": "268cd629-c4fa-48ac-95e5-b9677ec12f27",
+                "title": "臺北市政府暨所屬機關學校現有員工人數統計",
+                "organization_id": "379210000A",
+                "metadata_modified": "2017-02-24 19:51:00",
+                "timeEnd": 1487937060,
+                "timeBegin": 1439827200,
+                "resources": {
+                    "73af05f8-66f3-4a72-aa0f-419dcd579a2b": {
+                        "id": "73af05f8-66f3-4a72-aa0f-419dcd579a2b",
+                        "name": "10408員工總表.xls",
+                        "created": "2015-12-03 17:20:45",
+                        "last_modified": "2015-12-03T17:20:45"
+                    },
+                    "5bcfa6d0-1d2c-4d89-8601-63e58a5b9fec": {
+                        "id": "5bcfa6d0-1d2c-4d89-8601-63e58a5b9fec",
+                        "name": "10409員工總表.xls",
+                        "created": "2015-12-03 17:21:20",
+                        "last_modified": "2015-12-03T17:21:20"
+                    },
+                    "de377b38-10cd-4bbb-90a9-22c90a306fe4": {
+                        "id": "de377b38-10cd-4bbb-90a9-22c90a306fe4",
+                        "name": "10410員工總表.xls",
+                        "created": "2015-12-03 17:21:52",
+                        "last_modified": "2015-12-03T17:21:52"
+                    },
+                    "c291f1f9-ce4d-4f87-9b52-067152db126a": {
+                        "id": "c291f1f9-ce4d-4f87-9b52-067152db126a",
+                        "name": "10411員工人數統計表.xls",
+                        "created": "2015-12-31 10:56:06",
+                        "last_modified": "2015-12-31T10:56:06"
+                    },
+                    "828e1e8c-1125-4454-afa1-057426a84e4f": {
+                        "id": "828e1e8c-1125-4454-afa1-057426a84e4f",
+                        "name": "10412員工總表.xls",
+                        "created": "2016-02-02 16:35:49",
+                        "last_modified": "2016-02-02T16:35:49"
+                    },
+                    "60c33206-8a26-47a1-b142-9486980ddb59": {
+                        "id": "60c33206-8a26-47a1-b142-9486980ddb59",
+                        "name": "10501員工總表.xls",
+                        "created": "2016-03-09 17:47:00",
+                        "last_modified": "2016-03-09T17:47:00"
+                    },
+                    "14e3b431-58e2-418d-937a-2b1128cae65d": {
+                        "id": "14e3b431-58e2-418d-937a-2b1128cae65d",
+                        "name": "10502員工總表.xls",
+                        "created": "2016-03-10 11:52:38",
+                        "last_modified": "2016-03-10T11:52:38"
+                    },
+                    "e759b0a6-31d3-4244-9972-d9362002867f": {
+                        "id": "e759b0a6-31d3-4244-9972-d9362002867f",
+                        "name": "10503員工統計表.xls",
+                        "created": "2016-04-14 17:42:57",
+                        "last_modified": "2016-04-14T17:42:57"
+                    },
+                    "d3bb24d3-ed7d-46e2-a465-edde93a5f311": {
+                        "id": "d3bb24d3-ed7d-46e2-a465-edde93a5f311",
+                        "name": "10504員工總表.xls",
+                        "created": "2016-05-23 10:55:18",
+                        "last_modified": "2016-05-23T10:55:18"
+                    },
+                    "69d58a03-e69c-4a1b-afdd-258fd81d88a0": {
+                        "id": "69d58a03-e69c-4a1b-afdd-258fd81d88a0",
+                        "name": "10505員工總表.xls",
+                        "created": "2016-06-29 16:08:16",
+                        "last_modified": "2016-06-29T16:08:16"
+                    },
+                    "47ac3c0d-7fa2-494f-9379-f2eba39174ca": {
+                        "id": "47ac3c0d-7fa2-494f-9379-f2eba39174ca",
+                        "name": "10506員工總表.xls",
+                        "created": "2016-08-01 13:49:29",
+                        "last_modified": "2016-08-01T13:49:29"
+                    },
+                    "8c93931d-c962-47a7-88e6-e8c0e78fdbf9": {
+                        "id": "8c93931d-c962-47a7-88e6-e8c0e78fdbf9",
+                        "name": "10507員工總表.xls",
+                        "created": "2016-09-01 10:25:00",
+                        "last_modified": "2016-09-01T10:25:00"
+                    },
+                    "e2cc154a-321c-4985-a403-2579a9320a8e": {
+                        "id": "e2cc154a-321c-4985-a403-2579a9320a8e",
+                        "name": "10508員工總表.xls",
+                        "created": "2016-09-30 09:27:44",
+                        "last_modified": "2016-09-30T09:27:44"
+                    },
+                    "24efeb96-b857-42c6-8d85-cdb4b2d70fc2": {
+                        "id": "24efeb96-b857-42c6-8d85-cdb4b2d70fc2",
+                        "name": "10509員工總表.xls",
+                        "created": "2016-10-27 10:20:09",
+                        "last_modified": "2016-10-27T10:20:09"
+                    },
+                    "18d74913-6d11-444f-9334-795b2e72dfe3": {
+                        "id": "18d74913-6d11-444f-9334-795b2e72dfe3",
+                        "name": "10510員工總表.xls",
+                        "created": "2016-11-29 16:07:22",
+                        "last_modified": "2016-11-29T16:07:22"
+                    },
+                    "bad7f1c3-ece2-41b7-b897-9eaeba51edb8": {
+                        "id": "bad7f1c3-ece2-41b7-b897-9eaeba51edb8",
+                        "name": "10511員工總表.xls",
+                        "created": "2017-01-05 09:59:34",
+                        "last_modified": "2017-01-05T09:59:34"
+                    },
+                    "b931bb8c-648a-4d74-9096-126260bb4fa2": {
+                        "id": "b931bb8c-648a-4d74-9096-126260bb4fa2",
+                        "name": "10512員工總表.xls",
+                        "created": "2017-01-25 16:24:33",
+                        "last_modified": "2017-01-25T16:24:33"
+                    },
+                    "4bc742b1-2a1b-4503-ae07-f196b73948f1": {
+                        "id": "4bc742b1-2a1b-4503-ae07-f196b73948f1",
+                        "name": "10601員工總表.xls",
+                        "created": "2017-02-24 19:50:57",
+                        "last_modified": "2017-02-24T19:50:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "124aedce-5452-4476-a1dd-1b2afc64f8d2": {
+                "name": "124aedce-5452-4476-a1dd-1b2afc64f8d2",
+                "title": "提高女性主管比例",
+                "organization_id": "379210000A",
+                "metadata_modified": "2017-02-22 19:50:45",
+                "timeEnd": 1487764246,
+                "timeBegin": 0,
+                "resources": {
+                    "d5f7cd1b-8499-4ca2-b591-64061483e31e": {
+                        "id": "d5f7cd1b-8499-4ca2-b591-64061483e31e",
+                        "name": "10512主管分析.xls",
+                        "created": "2017-02-22 19:50:46",
+                        "last_modified": "2017-02-22T19:50:46"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "54f9cc83-695b-410d-8596-5ea1b568ab4a": {
+                "name": "54f9cc83-695b-410d-8596-5ea1b568ab4a",
+                "title": "優惠商店",
+                "organization_id": "379210000A",
+                "metadata_modified": "2017-02-21 11:31:19",
+                "timeEnd": 1487647879,
+                "timeBegin": 1440086400,
+                "resources": {
+                    "d5909ba2-be14-4241-993b-f54a35ba899b": {
+                        "id": "d5909ba2-be14-4241-993b-f54a35ba899b",
+                        "name": "http:\/\/eserver.dgpa.gov.tw\/store\/store-list.aspx?id=48",
+                        "created": "2015-08-19 15:10:18",
+                        "last_modified": "2015-08-19T15:10:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "30e7ae11-3708-417f-b484-48696b0236d5": {
+                "name": "30e7ae11-3708-417f-b484-48696b0236d5",
+                "title": "本府各機關任務編組檢討",
+                "organization_id": "379210000A",
+                "metadata_modified": "2017-02-08 11:42:50",
+                "timeEnd": 1486525370,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "dcc49c1d-0407-4465-9807-8b4338f51fa3": {
+                        "id": "dcc49c1d-0407-4465-9807-8b4338f51fa3",
+                        "name": "府層級任務編組.xls",
+                        "created": "2017-02-08 11:42:49",
+                        "last_modified": "2017-02-08T11:42:49"
                     }
                 },
                 "counters": {
@@ -7783,6 +7789,614 @@
     },
     "臺北市政府兵役局": {
         "datasets": {
+            "26a9959e-b0e8-478b-afd2-d32cc62a7e04": {
+                "name": "26a9959e-b0e8-478b-afd2-d32cc62a7e04",
+                "title": "常備兵役役男家屬安家費暨三節生活扶助金統計表",
+                "organization_id": "379710000A",
+                "metadata_modified": "2017-03-07 13:05:18",
+                "timeEnd": 1488863118,
+                "timeBegin": 1431964800,
+                "resources": {
+                    "5ae0d6d8-d542-450e-b7ce-ab0379d0ad1d": {
+                        "id": "5ae0d6d8-d542-450e-b7ce-ab0379d0ad1d",
+                        "name": "104年4月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 12:01:14",
+                        "last_modified": "2015-08-11T12:01:14"
+                    },
+                    "19d1039e-0665-4493-bd32-8318223a07a3": {
+                        "id": "19d1039e-0665-4493-bd32-8318223a07a3",
+                        "name": "104年5月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 12:01:44",
+                        "last_modified": "2015-08-11T12:01:44"
+                    },
+                    "eb421f80-eda2-43dd-b629-a6b2170e7ffc": {
+                        "id": "eb421f80-eda2-43dd-b629-a6b2170e7ffc",
+                        "name": "104年6月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 12:03:15",
+                        "last_modified": "2015-08-11T12:03:15"
+                    },
+                    "79e39885-989c-4dee-8ce9-d0de07625575": {
+                        "id": "79e39885-989c-4dee-8ce9-d0de07625575",
+                        "name": "104年7月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 12:03:41",
+                        "last_modified": "2015-08-11T12:03:41"
+                    },
+                    "204095ec-9247-45d3-af30-7dbe0b9af06a": {
+                        "id": "204095ec-9247-45d3-af30-7dbe0b9af06a",
+                        "name": "104年8月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-10-08 14:52:26",
+                        "last_modified": "2015-10-08T14:52:26"
+                    },
+                    "341920d1-9963-4f93-b4de-561010344d20": {
+                        "id": "341920d1-9963-4f93-b4de-561010344d20",
+                        "name": "104年9月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-10-08 14:53:07",
+                        "last_modified": "2015-10-08T14:53:07"
+                    },
+                    "b500a835-8ff0-4978-b3d4-a279c4723810": {
+                        "id": "b500a835-8ff0-4978-b3d4-a279c4723810",
+                        "name": "104年10月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-11-09 12:01:49",
+                        "last_modified": "2015-11-09T12:01:49"
+                    },
+                    "9c6c0667-ada9-4cb1-8b40-de6f15f454e7": {
+                        "id": "9c6c0667-ada9-4cb1-8b40-de6f15f454e7",
+                        "name": "104年11月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-12-08 12:22:12",
+                        "last_modified": "2015-12-08T12:22:12"
+                    },
+                    "71950f1a-6e22-448d-a8ee-dc14a9cbf0be": {
+                        "id": "71950f1a-6e22-448d-a8ee-dc14a9cbf0be",
+                        "name": "104年12月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-01-08 12:26:00",
+                        "last_modified": "2016-01-08T12:26:00"
+                    },
+                    "376134e1-6b3d-4176-b6f3-abfcbc55e091": {
+                        "id": "376134e1-6b3d-4176-b6f3-abfcbc55e091",
+                        "name": "105年1月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-02-15 10:07:05",
+                        "last_modified": "2016-02-15T10:07:05"
+                    },
+                    "1bc4c6d4-2f63-4fd4-89fd-436aee3d5f6d": {
+                        "id": "1bc4c6d4-2f63-4fd4-89fd-436aee3d5f6d",
+                        "name": "105年2月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-03-04 16:10:54",
+                        "last_modified": "2016-03-04T16:10:54"
+                    },
+                    "c938c665-f82e-495e-bc58-f0c35d633d13": {
+                        "id": "c938c665-f82e-495e-bc58-f0c35d633d13",
+                        "name": "105年3月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-04-07 15:34:15",
+                        "last_modified": "2016-04-07T15:34:15"
+                    },
+                    "37c5b0cc-c2d2-464c-93f3-edbac8cb1b08": {
+                        "id": "37c5b0cc-c2d2-464c-93f3-edbac8cb1b08",
+                        "name": "105年4月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-05-10 14:20:48",
+                        "last_modified": "2016-05-10T14:20:48"
+                    },
+                    "5378007c-9b75-440e-bc41-f8445d5410b4": {
+                        "id": "5378007c-9b75-440e-bc41-f8445d5410b4",
+                        "name": "105年5月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-06-04 15:07:03",
+                        "last_modified": "2016-06-04T15:07:03"
+                    },
+                    "63066b17-49ee-4e16-ad58-a22485dd8dcd": {
+                        "id": "63066b17-49ee-4e16-ad58-a22485dd8dcd",
+                        "name": "105年6月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-07-06 09:37:10",
+                        "last_modified": "2016-07-06T09:37:10"
+                    },
+                    "5fe6e2dc-8c11-4731-8b16-ca13d59adec8": {
+                        "id": "5fe6e2dc-8c11-4731-8b16-ca13d59adec8",
+                        "name": "105年7月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-08-08 09:48:06",
+                        "last_modified": "2016-08-08T09:48:06"
+                    },
+                    "5f2a1f26-778b-4789-9c40-6c98793fff11": {
+                        "id": "5f2a1f26-778b-4789-9c40-6c98793fff11",
+                        "name": "105年8月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-09-09 09:45:21",
+                        "last_modified": "2016-09-09T09:45:21"
+                    },
+                    "9d1d9c23-fa48-4cab-b07b-5a5e4078dbdb": {
+                        "id": "9d1d9c23-fa48-4cab-b07b-5a5e4078dbdb",
+                        "name": "105年9月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-10-11 16:00:02",
+                        "last_modified": "2016-10-11T16:00:02"
+                    },
+                    "2ea05153-c821-4ef7-bebb-932582e2ef76": {
+                        "id": "2ea05153-c821-4ef7-bebb-932582e2ef76",
+                        "name": "105年10月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-11-07 14:44:59",
+                        "last_modified": "2016-11-07T14:44:59"
+                    },
+                    "6cd8b8ff-9852-4ad4-a0b4-f0ee014137ff": {
+                        "id": "6cd8b8ff-9852-4ad4-a0b4-f0ee014137ff",
+                        "name": "105年11月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-12-12 10:46:18",
+                        "last_modified": "2016-12-12T10:46:18"
+                    },
+                    "fc890fd3-1d9f-499d-92ab-e0724b1caa46": {
+                        "id": "fc890fd3-1d9f-499d-92ab-e0724b1caa46",
+                        "name": "105年12月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2017-01-04 15:40:53",
+                        "last_modified": "2017-01-04T15:40:53"
+                    },
+                    "2e72243e-8817-4593-9706-ece5091320d3": {
+                        "id": "2e72243e-8817-4593-9706-ece5091320d3",
+                        "name": "106年01月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2017-02-13 10:13:26",
+                        "last_modified": "2017-02-13T10:13:26"
+                    },
+                    "9eb745d9-bf02-4646-b478-ce7875713c53": {
+                        "id": "9eb745d9-bf02-4646-b478-ce7875713c53",
+                        "name": "106年02月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2017-03-07 13:05:18",
+                        "last_modified": "2017-03-07T13:05:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "960d2e19-f2db-4cff-b303-30bb638a5abd": {
+                "name": "960d2e19-f2db-4cff-b303-30bb638a5abd",
+                "title": "替代役役男家屬安家費暨三節生活扶助金統計表",
+                "organization_id": "379710000A",
+                "metadata_modified": "2017-03-07 13:04:47",
+                "timeEnd": 1488863087,
+                "timeBegin": 1431964800,
+                "resources": {
+                    "c4806736-1f4a-43c3-8a1c-1ea152d4c705": {
+                        "id": "c4806736-1f4a-43c3-8a1c-1ea152d4c705",
+                        "name": "104年4月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 14:49:57",
+                        "last_modified": "2015-08-11T14:49:57"
+                    },
+                    "e1160ce2-d249-4fdb-99ac-97ee1c4a304b": {
+                        "id": "e1160ce2-d249-4fdb-99ac-97ee1c4a304b",
+                        "name": "104年5月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 14:50:39",
+                        "last_modified": "2015-08-11T14:50:39"
+                    },
+                    "84477375-b01d-4894-9653-77003304fac3": {
+                        "id": "84477375-b01d-4894-9653-77003304fac3",
+                        "name": "104年6月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 14:51:22",
+                        "last_modified": "2015-08-11T14:51:22"
+                    },
+                    "cc26646f-eaad-401e-ae54-ce2253308a37": {
+                        "id": "cc26646f-eaad-401e-ae54-ce2253308a37",
+                        "name": "104年7月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-08-11 14:51:57",
+                        "last_modified": "2015-08-11T14:51:57"
+                    },
+                    "6075e1f7-5300-47d9-899c-a8681d62010a": {
+                        "id": "6075e1f7-5300-47d9-899c-a8681d62010a",
+                        "name": "104年8月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-09-09 12:36:59",
+                        "last_modified": "2015-09-09T12:36:59"
+                    },
+                    "97438f4d-b3be-4607-9f06-6fd846f56b6c": {
+                        "id": "97438f4d-b3be-4607-9f06-6fd846f56b6c",
+                        "name": "104年9月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-11-09 12:03:25",
+                        "last_modified": "2015-11-09T12:03:25"
+                    },
+                    "d20ad35b-5b5f-4968-9902-c44fa71a147f": {
+                        "id": "d20ad35b-5b5f-4968-9902-c44fa71a147f",
+                        "name": "104年10月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-11-09 12:03:57",
+                        "last_modified": "2015-11-09T12:03:57"
+                    },
+                    "866d56ab-5488-4c14-98ed-47ba08a890cd": {
+                        "id": "866d56ab-5488-4c14-98ed-47ba08a890cd",
+                        "name": "104年11月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2015-12-08 12:21:31",
+                        "last_modified": "2015-12-08T12:21:31"
+                    },
+                    "c759d980-56b3-4137-b92e-71b986ff5a96": {
+                        "id": "c759d980-56b3-4137-b92e-71b986ff5a96",
+                        "name": "104年12月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-01-08 13:46:09",
+                        "last_modified": "2016-01-08T13:46:09"
+                    },
+                    "f94cb776-b07e-4036-870b-c5a194ad6e85": {
+                        "id": "f94cb776-b07e-4036-870b-c5a194ad6e85",
+                        "name": "105年1月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-02-15 09:45:36",
+                        "last_modified": "2016-02-15T09:45:36"
+                    },
+                    "dff53d7c-9c9f-465f-a4b0-224cb8d953be": {
+                        "id": "dff53d7c-9c9f-465f-a4b0-224cb8d953be",
+                        "name": "105年2月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-04-07 16:49:48",
+                        "last_modified": "2016-04-07T16:49:48"
+                    },
+                    "86feca96-dff4-4bd3-819d-778b920ddda9": {
+                        "id": "86feca96-dff4-4bd3-819d-778b920ddda9",
+                        "name": "105年3月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-04-07 16:50:24",
+                        "last_modified": "2016-04-07T16:50:24"
+                    },
+                    "74e3918b-d8ce-470a-8e5e-3c3739625bc6": {
+                        "id": "74e3918b-d8ce-470a-8e5e-3c3739625bc6",
+                        "name": "105年4月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-05-10 14:18:43",
+                        "last_modified": "2016-05-10T14:18:43"
+                    },
+                    "f56be6c7-0d93-48fb-8abc-f6bea0138430": {
+                        "id": "f56be6c7-0d93-48fb-8abc-f6bea0138430",
+                        "name": "105年5月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-06-04 15:38:51",
+                        "last_modified": "2016-06-04T15:38:51"
+                    },
+                    "3c5cc43d-48f3-46b6-90b2-aba7f7ff9c0d": {
+                        "id": "3c5cc43d-48f3-46b6-90b2-aba7f7ff9c0d",
+                        "name": "105年6月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-07-06 09:38:22",
+                        "last_modified": "2016-07-06T09:38:22"
+                    },
+                    "11d4e004-00fa-4494-9856-24c5fbdeb18f": {
+                        "id": "11d4e004-00fa-4494-9856-24c5fbdeb18f",
+                        "name": "105年7月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-08-08 09:48:53",
+                        "last_modified": "2016-08-08T09:48:53"
+                    },
+                    "be1e4356-7d78-4bba-837c-4cea79b94c37": {
+                        "id": "be1e4356-7d78-4bba-837c-4cea79b94c37",
+                        "name": "105年8月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-09-09 09:46:43",
+                        "last_modified": "2016-09-09T09:46:43"
+                    },
+                    "d86ae89b-acf1-4980-97d1-b53219ecaf16": {
+                        "id": "d86ae89b-acf1-4980-97d1-b53219ecaf16",
+                        "name": "105年9月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-11-07 14:47:48",
+                        "last_modified": "2016-11-07T14:47:48"
+                    },
+                    "8d001421-b950-402f-a345-0a1787582691": {
+                        "id": "8d001421-b950-402f-a345-0a1787582691",
+                        "name": "105年10月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-11-07 14:48:35",
+                        "last_modified": "2016-11-07T14:48:35"
+                    },
+                    "87cb9afa-d051-420d-8425-2ecabc59a18b": {
+                        "id": "87cb9afa-d051-420d-8425-2ecabc59a18b",
+                        "name": "105年11月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2016-12-12 10:45:44",
+                        "last_modified": "2016-12-12T10:45:44"
+                    },
+                    "c0c6577d-89a1-4351-be3d-b6b4d08ea51f": {
+                        "id": "c0c6577d-89a1-4351-be3d-b6b4d08ea51f",
+                        "name": "105年12月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2017-01-04 15:41:41",
+                        "last_modified": "2017-01-04T15:41:41"
+                    },
+                    "c2a2e834-a441-49ee-9681-4bb12ce3d3db": {
+                        "id": "c2a2e834-a441-49ee-9681-4bb12ce3d3db",
+                        "name": "106年01月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2017-02-13 10:14:06",
+                        "last_modified": "2017-02-13T10:14:06"
+                    },
+                    "2682823e-23d8-4ce6-8339-2dd7de07befe": {
+                        "id": "2682823e-23d8-4ce6-8339-2dd7de07befe",
+                        "name": "106年02月替代役役男家屬安家費暨三節生活扶助金統計.csv",
+                        "created": "2017-03-07 13:04:47",
+                        "last_modified": "2017-03-07T13:04:47"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4199d58b-5ace-4750-aa2a-a841ee1cdf32": {
+                "name": "4199d58b-5ace-4750-aa2a-a841ee1cdf32",
+                "title": "軍人公墓(忠靈祠)葬厝表",
+                "organization_id": "379710000A",
+                "metadata_modified": "2017-03-07 12:14:03",
+                "timeEnd": 1488860043,
+                "timeBegin": 1431964800,
+                "resources": {
+                    "a6ff2c68-0113-40b2-8cbf-ed526d77f7aa": {
+                        "id": "a6ff2c68-0113-40b2-8cbf-ed526d77f7aa",
+                        "name": "104年4月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-08-11 15:50:39",
+                        "last_modified": "2015-08-11T15:50:39"
+                    },
+                    "4b1719e5-a598-4cfd-9057-27081c897f49": {
+                        "id": "4b1719e5-a598-4cfd-9057-27081c897f49",
+                        "name": "104年5月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-08-11 15:51:14",
+                        "last_modified": "2015-08-11T15:51:14"
+                    },
+                    "f236135a-14f9-43d6-a9fb-db6f51ace44b": {
+                        "id": "f236135a-14f9-43d6-a9fb-db6f51ace44b",
+                        "name": "104年6月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-08-11 15:51:39",
+                        "last_modified": "2015-08-11T15:51:39"
+                    },
+                    "a3078e44-488d-4f94-acd0-42d65b6f9e23": {
+                        "id": "a3078e44-488d-4f94-acd0-42d65b6f9e23",
+                        "name": "104年7月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-10-08 16:30:02",
+                        "last_modified": "2015-10-08T16:30:02"
+                    },
+                    "60ae8aff-11c7-42af-8fa0-c31ea4b031a4": {
+                        "id": "60ae8aff-11c7-42af-8fa0-c31ea4b031a4",
+                        "name": "104年8月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-10-08 16:30:50",
+                        "last_modified": "2015-10-08T16:30:50"
+                    },
+                    "0d0343ab-2744-447a-a016-af20e706da8e": {
+                        "id": "0d0343ab-2744-447a-a016-af20e706da8e",
+                        "name": "104年9月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-10-08 16:31:22",
+                        "last_modified": "2015-10-08T16:31:22"
+                    },
+                    "c94cfa8a-29a9-4a8e-b362-32d1c9584002": {
+                        "id": "c94cfa8a-29a9-4a8e-b362-32d1c9584002",
+                        "name": "104年10月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-12-08 12:25:36",
+                        "last_modified": "2015-12-08T12:25:36"
+                    },
+                    "9fba3c3a-0876-4ad8-a917-e5b0b9e51bb2": {
+                        "id": "9fba3c3a-0876-4ad8-a917-e5b0b9e51bb2",
+                        "name": "104年11月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2015-12-08 12:26:21",
+                        "last_modified": "2015-12-08T12:26:21"
+                    },
+                    "a13a0337-b0fe-4652-9a76-c063f0c13a66": {
+                        "id": "a13a0337-b0fe-4652-9a76-c063f0c13a66",
+                        "name": "104年12月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-01-14 16:39:11",
+                        "last_modified": "2016-01-14T16:39:11"
+                    },
+                    "c88c1f6c-e2a3-42b4-ac26-35311d5a3d74": {
+                        "id": "c88c1f6c-e2a3-42b4-ac26-35311d5a3d74",
+                        "name": "105年1月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-02-15 09:06:45",
+                        "last_modified": "2016-02-15T09:06:45"
+                    },
+                    "401b3239-6801-4efe-a1cf-3dcc6010ca45": {
+                        "id": "401b3239-6801-4efe-a1cf-3dcc6010ca45",
+                        "name": "105年2月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-04-14 09:07:15",
+                        "last_modified": "2016-04-14T09:07:15"
+                    },
+                    "883ace55-77f4-4e2b-842d-086c19447827": {
+                        "id": "883ace55-77f4-4e2b-842d-086c19447827",
+                        "name": "105年3月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-04-14 09:08:20",
+                        "last_modified": "2016-04-14T09:08:20"
+                    },
+                    "973e15f7-3933-452b-a9db-938bae25098a": {
+                        "id": "973e15f7-3933-452b-a9db-938bae25098a",
+                        "name": "105年4月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-06-04 14:41:54",
+                        "last_modified": "2016-06-04T14:41:54"
+                    },
+                    "e230b845-83d9-4da9-9cef-6d51687bff4e": {
+                        "id": "e230b845-83d9-4da9-9cef-6d51687bff4e",
+                        "name": "105年5月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-07-05 16:48:44",
+                        "last_modified": "2016-07-05T16:48:44"
+                    },
+                    "f45cdfca-cbb0-4ec4-b8c0-e4c23250576b": {
+                        "id": "f45cdfca-cbb0-4ec4-b8c0-e4c23250576b",
+                        "name": "105年6月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-07-05 16:49:20",
+                        "last_modified": "2016-07-05T16:49:20"
+                    },
+                    "117e3943-11ad-4245-9689-59ec3de822cd": {
+                        "id": "117e3943-11ad-4245-9689-59ec3de822cd",
+                        "name": "105年7月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-08-08 09:27:32",
+                        "last_modified": "2016-08-08T09:27:32"
+                    },
+                    "35376b38-a08c-4b6a-aa39-340d9da181f3": {
+                        "id": "35376b38-a08c-4b6a-aa39-340d9da181f3",
+                        "name": "105年8月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-09-09 09:47:42",
+                        "last_modified": "2016-09-09T09:47:42"
+                    },
+                    "8e16b107-b5e4-4ab4-a5d8-2f02a88f0604": {
+                        "id": "8e16b107-b5e4-4ab4-a5d8-2f02a88f0604",
+                        "name": "105年9月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-10-11 14:50:46",
+                        "last_modified": "2016-10-11T14:50:46"
+                    },
+                    "91601c0d-fa6d-4459-b278-a5c3317917ea": {
+                        "id": "91601c0d-fa6d-4459-b278-a5c3317917ea",
+                        "name": "105年10月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-11-07 14:49:53",
+                        "last_modified": "2016-11-07T14:49:53"
+                    },
+                    "c2aa8b34-9d63-426a-be6f-67c1e1527eef": {
+                        "id": "c2aa8b34-9d63-426a-be6f-67c1e1527eef",
+                        "name": "105年11月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2016-12-12 10:44:51",
+                        "last_modified": "2016-12-12T10:44:51"
+                    },
+                    "4cab3d3a-b567-4f44-9325-2137713b5fb1": {
+                        "id": "4cab3d3a-b567-4f44-9325-2137713b5fb1",
+                        "name": "105年12月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2017-01-11 15:42:48",
+                        "last_modified": "2017-01-11T15:42:48"
+                    },
+                    "438bc2d6-3db2-4adf-b865-96114b84f22d": {
+                        "id": "438bc2d6-3db2-4adf-b865-96114b84f22d",
+                        "name": "106年01月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2017-02-13 10:10:23",
+                        "last_modified": "2017-02-13T10:10:23"
+                    },
+                    "a0d7b667-06a2-4164-8ccf-7db1ff9d60db": {
+                        "id": "a0d7b667-06a2-4164-8ccf-7db1ff9d60db",
+                        "name": "106年02月軍人公墓(忠靈祠)葬厝表.csv",
+                        "created": "2017-03-07 12:14:03",
+                        "last_modified": "2017-03-07T12:14:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a244b6e4-dec8-4654-87c7-7e19609ff4d4": {
+                "name": "a244b6e4-dec8-4654-87c7-7e19609ff4d4",
+                "title": "列管後備軍人動態統計表",
+                "organization_id": "379710000A",
+                "metadata_modified": "2017-03-07 12:13:32",
+                "timeEnd": 1488860012,
+                "timeBegin": 1431964800,
+                "resources": {
+                    "0f14190a-fd54-417c-87fe-b7ed6bcd5e48": {
+                        "id": "0f14190a-fd54-417c-87fe-b7ed6bcd5e48",
+                        "name": "104年4月列管後備軍人動態統計.csv",
+                        "created": "2015-09-09 11:56:49",
+                        "last_modified": "2015-09-09T11:56:49"
+                    },
+                    "2d2f7c1b-f2b2-4efe-a356-11fc366d4692": {
+                        "id": "2d2f7c1b-f2b2-4efe-a356-11fc366d4692",
+                        "name": "104年5月列管後備軍人動態統計.csv",
+                        "created": "2015-09-09 11:57:20",
+                        "last_modified": "2015-09-09T11:57:20"
+                    },
+                    "bd80d221-1b82-4b39-aba6-88d4eaddd7d5": {
+                        "id": "bd80d221-1b82-4b39-aba6-88d4eaddd7d5",
+                        "name": "104年6月列管後備軍人動態統計.csv",
+                        "created": "2015-09-09 11:57:49",
+                        "last_modified": "2015-09-09T11:57:49"
+                    },
+                    "e5d4e086-9ddd-4a3e-847b-a66700bade23": {
+                        "id": "e5d4e086-9ddd-4a3e-847b-a66700bade23",
+                        "name": "104年7月列管後備軍人動態統計.csv",
+                        "created": "2015-11-11 09:34:08",
+                        "last_modified": "2015-11-11T09:34:08"
+                    },
+                    "ccd4cb7e-71b8-4b33-a63a-804754b87687": {
+                        "id": "ccd4cb7e-71b8-4b33-a63a-804754b87687",
+                        "name": "104年8月列管後備軍人動態統計.csv",
+                        "created": "2015-11-11 09:35:11",
+                        "last_modified": "2015-11-11T09:35:11"
+                    },
+                    "6c80e487-908b-4ef3-843b-252bd3e590c5": {
+                        "id": "6c80e487-908b-4ef3-843b-252bd3e590c5",
+                        "name": "104年9月列管後備軍人動態統計.csv",
+                        "created": "2015-11-11 09:35:54",
+                        "last_modified": "2015-11-11T09:35:54"
+                    },
+                    "636db399-343f-4e12-accf-04dc4d543a86": {
+                        "id": "636db399-343f-4e12-accf-04dc4d543a86",
+                        "name": "104年10月列管後備軍人動態統計.csv",
+                        "created": "2015-11-11 09:36:41",
+                        "last_modified": "2015-11-11T09:36:41"
+                    },
+                    "6a8d63cf-3f0a-4e8e-8522-e61f46e6c622": {
+                        "id": "6a8d63cf-3f0a-4e8e-8522-e61f46e6c622",
+                        "name": "104年11月列管後備軍人動態統計.csv",
+                        "created": "2016-01-14 16:48:58",
+                        "last_modified": "2016-01-14T16:48:58"
+                    },
+                    "6ac8ad7b-e6a2-447d-87bb-b46d13a439fb": {
+                        "id": "6ac8ad7b-e6a2-447d-87bb-b46d13a439fb",
+                        "name": "104年12月列管後備軍人動態統計.csv",
+                        "created": "2016-01-14 16:49:42",
+                        "last_modified": "2016-01-14T16:49:42"
+                    },
+                    "efaeadd8-6194-4d92-8c9b-1fccce1f0f3b": {
+                        "id": "efaeadd8-6194-4d92-8c9b-1fccce1f0f3b",
+                        "name": "105年1月列管後備軍人動態統計.csv",
+                        "created": "2016-02-15 09:23:01",
+                        "last_modified": "2016-02-15T09:23:01"
+                    },
+                    "019566e0-ca93-49ee-b049-19fe7a17b74d": {
+                        "id": "019566e0-ca93-49ee-b049-19fe7a17b74d",
+                        "name": "105年2月列管後備軍人動態統計.csv",
+                        "created": "2016-04-14 09:06:11",
+                        "last_modified": "2016-04-14T09:06:11"
+                    },
+                    "380fb46b-ef09-4786-859e-7e086b3d92fd": {
+                        "id": "380fb46b-ef09-4786-859e-7e086b3d92fd",
+                        "name": "105年3月列管後備軍人動態統計.csv",
+                        "created": "2016-04-14 09:09:32",
+                        "last_modified": "2016-04-14T09:09:32"
+                    },
+                    "427befa0-8026-4fb8-9d9c-5b4c76017293": {
+                        "id": "427befa0-8026-4fb8-9d9c-5b4c76017293",
+                        "name": "105年4月列管後備軍人動態統計.csv",
+                        "created": "2016-05-10 14:00:14",
+                        "last_modified": "2016-05-10T14:00:14"
+                    },
+                    "6b033304-c78a-4eeb-990e-db8ce434b6ae": {
+                        "id": "6b033304-c78a-4eeb-990e-db8ce434b6ae",
+                        "name": "105年5月列管後備軍人動態統計.csv",
+                        "created": "2016-06-15 10:16:20",
+                        "last_modified": "2016-06-15T10:16:20"
+                    },
+                    "ea1070a9-de73-49c9-90be-ee2889ea926a": {
+                        "id": "ea1070a9-de73-49c9-90be-ee2889ea926a",
+                        "name": "105年6月列管後備軍人動態統計.csv",
+                        "created": "2016-07-14 14:48:03",
+                        "last_modified": "2016-07-14T14:48:03"
+                    },
+                    "2874ef29-a3e0-478d-9a7c-64ecf56e6073": {
+                        "id": "2874ef29-a3e0-478d-9a7c-64ecf56e6073",
+                        "name": "105年7月列管後備軍人動態統計.csv",
+                        "created": "2016-08-09 09:26:42",
+                        "last_modified": "2016-08-09T09:26:42"
+                    },
+                    "bd6624f8-c72b-43fc-af69-97b17ef0cf46": {
+                        "id": "bd6624f8-c72b-43fc-af69-97b17ef0cf46",
+                        "name": "105年8月列管後備軍人動態統計.csv",
+                        "created": "2016-09-09 09:48:36",
+                        "last_modified": "2016-09-09T09:48:36"
+                    },
+                    "6ab8d48d-7500-47b6-957e-8a22b7406173": {
+                        "id": "6ab8d48d-7500-47b6-957e-8a22b7406173",
+                        "name": "105年9月列管後備軍人動態統計.csv",
+                        "created": "2016-11-07 14:50:43",
+                        "last_modified": "2016-11-07T14:50:43"
+                    },
+                    "4af6df77-1a44-487b-b945-90539d33e4d3": {
+                        "id": "4af6df77-1a44-487b-b945-90539d33e4d3",
+                        "name": "105年10月列管後備軍人動態統計.csv",
+                        "created": "2016-11-07 14:51:40",
+                        "last_modified": "2016-11-07T14:51:40"
+                    },
+                    "aea9615c-a6e9-449f-a23f-736482daa20d": {
+                        "id": "aea9615c-a6e9-449f-a23f-736482daa20d",
+                        "name": "105年11月列管後備軍人動態統計.csv",
+                        "created": "2016-12-12 10:43:58",
+                        "last_modified": "2016-12-12T10:43:58"
+                    },
+                    "41bde19a-3296-4308-97ed-58f72753a032": {
+                        "id": "41bde19a-3296-4308-97ed-58f72753a032",
+                        "name": "105年12月列管後備軍人動態統計.csv",
+                        "created": "2017-01-11 15:44:19",
+                        "last_modified": "2017-01-11T15:44:19"
+                    },
+                    "452508b7-ee24-4176-a5c2-cc7e2370d251": {
+                        "id": "452508b7-ee24-4176-a5c2-cc7e2370d251",
+                        "name": "106年01月列管後備軍人動態統計表.csv",
+                        "created": "2017-02-13 10:12:19",
+                        "last_modified": "2017-02-13T10:12:19"
+                    },
+                    "f0ce970c-5a0e-44ce-9a4d-151ff3ac4378": {
+                        "id": "f0ce970c-5a0e-44ce-9a4d-151ff3ac4378",
+                        "name": "106年02月列管後備軍人動態統計表.csv",
+                        "created": "2017-03-07 12:13:32",
+                        "last_modified": "2017-03-07T12:13:32"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "09eb9ecb-4469-4a44-a680-241ab74c582f": {
                 "name": "09eb9ecb-4469-4a44-a680-241ab74c582f",
                 "title": "役男徵兵檢查體位判等因素分析統計表",
@@ -8999,590 +9613,6 @@
                     "resource_recent": 0
                 }
             },
-            "960d2e19-f2db-4cff-b303-30bb638a5abd": {
-                "name": "960d2e19-f2db-4cff-b303-30bb638a5abd",
-                "title": "替代役役男家屬安家費暨三節生活扶助金統計表",
-                "organization_id": "379710000A",
-                "metadata_modified": "2017-02-13 10:14:06",
-                "timeEnd": 1486952046,
-                "timeBegin": 1431964800,
-                "resources": {
-                    "c4806736-1f4a-43c3-8a1c-1ea152d4c705": {
-                        "id": "c4806736-1f4a-43c3-8a1c-1ea152d4c705",
-                        "name": "104年4月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 14:49:57",
-                        "last_modified": "2015-08-11T14:49:57"
-                    },
-                    "e1160ce2-d249-4fdb-99ac-97ee1c4a304b": {
-                        "id": "e1160ce2-d249-4fdb-99ac-97ee1c4a304b",
-                        "name": "104年5月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 14:50:39",
-                        "last_modified": "2015-08-11T14:50:39"
-                    },
-                    "84477375-b01d-4894-9653-77003304fac3": {
-                        "id": "84477375-b01d-4894-9653-77003304fac3",
-                        "name": "104年6月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 14:51:22",
-                        "last_modified": "2015-08-11T14:51:22"
-                    },
-                    "cc26646f-eaad-401e-ae54-ce2253308a37": {
-                        "id": "cc26646f-eaad-401e-ae54-ce2253308a37",
-                        "name": "104年7月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 14:51:57",
-                        "last_modified": "2015-08-11T14:51:57"
-                    },
-                    "6075e1f7-5300-47d9-899c-a8681d62010a": {
-                        "id": "6075e1f7-5300-47d9-899c-a8681d62010a",
-                        "name": "104年8月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-09-09 12:36:59",
-                        "last_modified": "2015-09-09T12:36:59"
-                    },
-                    "97438f4d-b3be-4607-9f06-6fd846f56b6c": {
-                        "id": "97438f4d-b3be-4607-9f06-6fd846f56b6c",
-                        "name": "104年9月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-11-09 12:03:25",
-                        "last_modified": "2015-11-09T12:03:25"
-                    },
-                    "d20ad35b-5b5f-4968-9902-c44fa71a147f": {
-                        "id": "d20ad35b-5b5f-4968-9902-c44fa71a147f",
-                        "name": "104年10月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-11-09 12:03:57",
-                        "last_modified": "2015-11-09T12:03:57"
-                    },
-                    "866d56ab-5488-4c14-98ed-47ba08a890cd": {
-                        "id": "866d56ab-5488-4c14-98ed-47ba08a890cd",
-                        "name": "104年11月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-12-08 12:21:31",
-                        "last_modified": "2015-12-08T12:21:31"
-                    },
-                    "c759d980-56b3-4137-b92e-71b986ff5a96": {
-                        "id": "c759d980-56b3-4137-b92e-71b986ff5a96",
-                        "name": "104年12月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-01-08 13:46:09",
-                        "last_modified": "2016-01-08T13:46:09"
-                    },
-                    "f94cb776-b07e-4036-870b-c5a194ad6e85": {
-                        "id": "f94cb776-b07e-4036-870b-c5a194ad6e85",
-                        "name": "105年1月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-02-15 09:45:36",
-                        "last_modified": "2016-02-15T09:45:36"
-                    },
-                    "dff53d7c-9c9f-465f-a4b0-224cb8d953be": {
-                        "id": "dff53d7c-9c9f-465f-a4b0-224cb8d953be",
-                        "name": "105年2月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-04-07 16:49:48",
-                        "last_modified": "2016-04-07T16:49:48"
-                    },
-                    "86feca96-dff4-4bd3-819d-778b920ddda9": {
-                        "id": "86feca96-dff4-4bd3-819d-778b920ddda9",
-                        "name": "105年3月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-04-07 16:50:24",
-                        "last_modified": "2016-04-07T16:50:24"
-                    },
-                    "74e3918b-d8ce-470a-8e5e-3c3739625bc6": {
-                        "id": "74e3918b-d8ce-470a-8e5e-3c3739625bc6",
-                        "name": "105年4月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-05-10 14:18:43",
-                        "last_modified": "2016-05-10T14:18:43"
-                    },
-                    "f56be6c7-0d93-48fb-8abc-f6bea0138430": {
-                        "id": "f56be6c7-0d93-48fb-8abc-f6bea0138430",
-                        "name": "105年5月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-06-04 15:38:51",
-                        "last_modified": "2016-06-04T15:38:51"
-                    },
-                    "3c5cc43d-48f3-46b6-90b2-aba7f7ff9c0d": {
-                        "id": "3c5cc43d-48f3-46b6-90b2-aba7f7ff9c0d",
-                        "name": "105年6月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-07-06 09:38:22",
-                        "last_modified": "2016-07-06T09:38:22"
-                    },
-                    "11d4e004-00fa-4494-9856-24c5fbdeb18f": {
-                        "id": "11d4e004-00fa-4494-9856-24c5fbdeb18f",
-                        "name": "105年7月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-08-08 09:48:53",
-                        "last_modified": "2016-08-08T09:48:53"
-                    },
-                    "be1e4356-7d78-4bba-837c-4cea79b94c37": {
-                        "id": "be1e4356-7d78-4bba-837c-4cea79b94c37",
-                        "name": "105年8月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-09-09 09:46:43",
-                        "last_modified": "2016-09-09T09:46:43"
-                    },
-                    "d86ae89b-acf1-4980-97d1-b53219ecaf16": {
-                        "id": "d86ae89b-acf1-4980-97d1-b53219ecaf16",
-                        "name": "105年9月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-11-07 14:47:48",
-                        "last_modified": "2016-11-07T14:47:48"
-                    },
-                    "8d001421-b950-402f-a345-0a1787582691": {
-                        "id": "8d001421-b950-402f-a345-0a1787582691",
-                        "name": "105年10月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-11-07 14:48:35",
-                        "last_modified": "2016-11-07T14:48:35"
-                    },
-                    "87cb9afa-d051-420d-8425-2ecabc59a18b": {
-                        "id": "87cb9afa-d051-420d-8425-2ecabc59a18b",
-                        "name": "105年11月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-12-12 10:45:44",
-                        "last_modified": "2016-12-12T10:45:44"
-                    },
-                    "c0c6577d-89a1-4351-be3d-b6b4d08ea51f": {
-                        "id": "c0c6577d-89a1-4351-be3d-b6b4d08ea51f",
-                        "name": "105年12月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2017-01-04 15:41:41",
-                        "last_modified": "2017-01-04T15:41:41"
-                    },
-                    "c2a2e834-a441-49ee-9681-4bb12ce3d3db": {
-                        "id": "c2a2e834-a441-49ee-9681-4bb12ce3d3db",
-                        "name": "106年01月替代役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2017-02-13 10:14:06",
-                        "last_modified": "2017-02-13T10:14:06"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "26a9959e-b0e8-478b-afd2-d32cc62a7e04": {
-                "name": "26a9959e-b0e8-478b-afd2-d32cc62a7e04",
-                "title": "常備兵役役男家屬安家費暨三節生活扶助金統計表",
-                "organization_id": "379710000A",
-                "metadata_modified": "2017-02-13 10:13:27",
-                "timeEnd": 1486952007,
-                "timeBegin": 1431964800,
-                "resources": {
-                    "5ae0d6d8-d542-450e-b7ce-ab0379d0ad1d": {
-                        "id": "5ae0d6d8-d542-450e-b7ce-ab0379d0ad1d",
-                        "name": "104年4月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 12:01:14",
-                        "last_modified": "2015-08-11T12:01:14"
-                    },
-                    "19d1039e-0665-4493-bd32-8318223a07a3": {
-                        "id": "19d1039e-0665-4493-bd32-8318223a07a3",
-                        "name": "104年5月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 12:01:44",
-                        "last_modified": "2015-08-11T12:01:44"
-                    },
-                    "eb421f80-eda2-43dd-b629-a6b2170e7ffc": {
-                        "id": "eb421f80-eda2-43dd-b629-a6b2170e7ffc",
-                        "name": "104年6月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 12:03:15",
-                        "last_modified": "2015-08-11T12:03:15"
-                    },
-                    "79e39885-989c-4dee-8ce9-d0de07625575": {
-                        "id": "79e39885-989c-4dee-8ce9-d0de07625575",
-                        "name": "104年7月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-08-11 12:03:41",
-                        "last_modified": "2015-08-11T12:03:41"
-                    },
-                    "204095ec-9247-45d3-af30-7dbe0b9af06a": {
-                        "id": "204095ec-9247-45d3-af30-7dbe0b9af06a",
-                        "name": "104年8月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-10-08 14:52:26",
-                        "last_modified": "2015-10-08T14:52:26"
-                    },
-                    "341920d1-9963-4f93-b4de-561010344d20": {
-                        "id": "341920d1-9963-4f93-b4de-561010344d20",
-                        "name": "104年9月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-10-08 14:53:07",
-                        "last_modified": "2015-10-08T14:53:07"
-                    },
-                    "b500a835-8ff0-4978-b3d4-a279c4723810": {
-                        "id": "b500a835-8ff0-4978-b3d4-a279c4723810",
-                        "name": "104年10月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-11-09 12:01:49",
-                        "last_modified": "2015-11-09T12:01:49"
-                    },
-                    "9c6c0667-ada9-4cb1-8b40-de6f15f454e7": {
-                        "id": "9c6c0667-ada9-4cb1-8b40-de6f15f454e7",
-                        "name": "104年11月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2015-12-08 12:22:12",
-                        "last_modified": "2015-12-08T12:22:12"
-                    },
-                    "71950f1a-6e22-448d-a8ee-dc14a9cbf0be": {
-                        "id": "71950f1a-6e22-448d-a8ee-dc14a9cbf0be",
-                        "name": "104年12月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-01-08 12:26:00",
-                        "last_modified": "2016-01-08T12:26:00"
-                    },
-                    "376134e1-6b3d-4176-b6f3-abfcbc55e091": {
-                        "id": "376134e1-6b3d-4176-b6f3-abfcbc55e091",
-                        "name": "105年1月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-02-15 10:07:05",
-                        "last_modified": "2016-02-15T10:07:05"
-                    },
-                    "1bc4c6d4-2f63-4fd4-89fd-436aee3d5f6d": {
-                        "id": "1bc4c6d4-2f63-4fd4-89fd-436aee3d5f6d",
-                        "name": "105年2月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-03-04 16:10:54",
-                        "last_modified": "2016-03-04T16:10:54"
-                    },
-                    "c938c665-f82e-495e-bc58-f0c35d633d13": {
-                        "id": "c938c665-f82e-495e-bc58-f0c35d633d13",
-                        "name": "105年3月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-04-07 15:34:15",
-                        "last_modified": "2016-04-07T15:34:15"
-                    },
-                    "37c5b0cc-c2d2-464c-93f3-edbac8cb1b08": {
-                        "id": "37c5b0cc-c2d2-464c-93f3-edbac8cb1b08",
-                        "name": "105年4月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-05-10 14:20:48",
-                        "last_modified": "2016-05-10T14:20:48"
-                    },
-                    "5378007c-9b75-440e-bc41-f8445d5410b4": {
-                        "id": "5378007c-9b75-440e-bc41-f8445d5410b4",
-                        "name": "105年5月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-06-04 15:07:03",
-                        "last_modified": "2016-06-04T15:07:03"
-                    },
-                    "63066b17-49ee-4e16-ad58-a22485dd8dcd": {
-                        "id": "63066b17-49ee-4e16-ad58-a22485dd8dcd",
-                        "name": "105年6月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-07-06 09:37:10",
-                        "last_modified": "2016-07-06T09:37:10"
-                    },
-                    "5fe6e2dc-8c11-4731-8b16-ca13d59adec8": {
-                        "id": "5fe6e2dc-8c11-4731-8b16-ca13d59adec8",
-                        "name": "105年7月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-08-08 09:48:06",
-                        "last_modified": "2016-08-08T09:48:06"
-                    },
-                    "5f2a1f26-778b-4789-9c40-6c98793fff11": {
-                        "id": "5f2a1f26-778b-4789-9c40-6c98793fff11",
-                        "name": "105年8月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-09-09 09:45:21",
-                        "last_modified": "2016-09-09T09:45:21"
-                    },
-                    "9d1d9c23-fa48-4cab-b07b-5a5e4078dbdb": {
-                        "id": "9d1d9c23-fa48-4cab-b07b-5a5e4078dbdb",
-                        "name": "105年9月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-10-11 16:00:02",
-                        "last_modified": "2016-10-11T16:00:02"
-                    },
-                    "2ea05153-c821-4ef7-bebb-932582e2ef76": {
-                        "id": "2ea05153-c821-4ef7-bebb-932582e2ef76",
-                        "name": "105年10月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-11-07 14:44:59",
-                        "last_modified": "2016-11-07T14:44:59"
-                    },
-                    "6cd8b8ff-9852-4ad4-a0b4-f0ee014137ff": {
-                        "id": "6cd8b8ff-9852-4ad4-a0b4-f0ee014137ff",
-                        "name": "105年11月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2016-12-12 10:46:18",
-                        "last_modified": "2016-12-12T10:46:18"
-                    },
-                    "fc890fd3-1d9f-499d-92ab-e0724b1caa46": {
-                        "id": "fc890fd3-1d9f-499d-92ab-e0724b1caa46",
-                        "name": "105年12月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2017-01-04 15:40:53",
-                        "last_modified": "2017-01-04T15:40:53"
-                    },
-                    "2e72243e-8817-4593-9706-ece5091320d3": {
-                        "id": "2e72243e-8817-4593-9706-ece5091320d3",
-                        "name": "106年01月常備兵役役男家屬安家費暨三節生活扶助金統計.csv",
-                        "created": "2017-02-13 10:13:26",
-                        "last_modified": "2017-02-13T10:13:26"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a244b6e4-dec8-4654-87c7-7e19609ff4d4": {
-                "name": "a244b6e4-dec8-4654-87c7-7e19609ff4d4",
-                "title": "列管後備軍人動態統計表",
-                "organization_id": "379710000A",
-                "metadata_modified": "2017-02-13 10:12:19",
-                "timeEnd": 1486951939,
-                "timeBegin": 1431964800,
-                "resources": {
-                    "0f14190a-fd54-417c-87fe-b7ed6bcd5e48": {
-                        "id": "0f14190a-fd54-417c-87fe-b7ed6bcd5e48",
-                        "name": "104年4月列管後備軍人動態統計.csv",
-                        "created": "2015-09-09 11:56:49",
-                        "last_modified": "2015-09-09T11:56:49"
-                    },
-                    "2d2f7c1b-f2b2-4efe-a356-11fc366d4692": {
-                        "id": "2d2f7c1b-f2b2-4efe-a356-11fc366d4692",
-                        "name": "104年5月列管後備軍人動態統計.csv",
-                        "created": "2015-09-09 11:57:20",
-                        "last_modified": "2015-09-09T11:57:20"
-                    },
-                    "bd80d221-1b82-4b39-aba6-88d4eaddd7d5": {
-                        "id": "bd80d221-1b82-4b39-aba6-88d4eaddd7d5",
-                        "name": "104年6月列管後備軍人動態統計.csv",
-                        "created": "2015-09-09 11:57:49",
-                        "last_modified": "2015-09-09T11:57:49"
-                    },
-                    "e5d4e086-9ddd-4a3e-847b-a66700bade23": {
-                        "id": "e5d4e086-9ddd-4a3e-847b-a66700bade23",
-                        "name": "104年7月列管後備軍人動態統計.csv",
-                        "created": "2015-11-11 09:34:08",
-                        "last_modified": "2015-11-11T09:34:08"
-                    },
-                    "ccd4cb7e-71b8-4b33-a63a-804754b87687": {
-                        "id": "ccd4cb7e-71b8-4b33-a63a-804754b87687",
-                        "name": "104年8月列管後備軍人動態統計.csv",
-                        "created": "2015-11-11 09:35:11",
-                        "last_modified": "2015-11-11T09:35:11"
-                    },
-                    "6c80e487-908b-4ef3-843b-252bd3e590c5": {
-                        "id": "6c80e487-908b-4ef3-843b-252bd3e590c5",
-                        "name": "104年9月列管後備軍人動態統計.csv",
-                        "created": "2015-11-11 09:35:54",
-                        "last_modified": "2015-11-11T09:35:54"
-                    },
-                    "636db399-343f-4e12-accf-04dc4d543a86": {
-                        "id": "636db399-343f-4e12-accf-04dc4d543a86",
-                        "name": "104年10月列管後備軍人動態統計.csv",
-                        "created": "2015-11-11 09:36:41",
-                        "last_modified": "2015-11-11T09:36:41"
-                    },
-                    "6a8d63cf-3f0a-4e8e-8522-e61f46e6c622": {
-                        "id": "6a8d63cf-3f0a-4e8e-8522-e61f46e6c622",
-                        "name": "104年11月列管後備軍人動態統計.csv",
-                        "created": "2016-01-14 16:48:58",
-                        "last_modified": "2016-01-14T16:48:58"
-                    },
-                    "6ac8ad7b-e6a2-447d-87bb-b46d13a439fb": {
-                        "id": "6ac8ad7b-e6a2-447d-87bb-b46d13a439fb",
-                        "name": "104年12月列管後備軍人動態統計.csv",
-                        "created": "2016-01-14 16:49:42",
-                        "last_modified": "2016-01-14T16:49:42"
-                    },
-                    "efaeadd8-6194-4d92-8c9b-1fccce1f0f3b": {
-                        "id": "efaeadd8-6194-4d92-8c9b-1fccce1f0f3b",
-                        "name": "105年1月列管後備軍人動態統計.csv",
-                        "created": "2016-02-15 09:23:01",
-                        "last_modified": "2016-02-15T09:23:01"
-                    },
-                    "019566e0-ca93-49ee-b049-19fe7a17b74d": {
-                        "id": "019566e0-ca93-49ee-b049-19fe7a17b74d",
-                        "name": "105年2月列管後備軍人動態統計.csv",
-                        "created": "2016-04-14 09:06:11",
-                        "last_modified": "2016-04-14T09:06:11"
-                    },
-                    "380fb46b-ef09-4786-859e-7e086b3d92fd": {
-                        "id": "380fb46b-ef09-4786-859e-7e086b3d92fd",
-                        "name": "105年3月列管後備軍人動態統計.csv",
-                        "created": "2016-04-14 09:09:32",
-                        "last_modified": "2016-04-14T09:09:32"
-                    },
-                    "427befa0-8026-4fb8-9d9c-5b4c76017293": {
-                        "id": "427befa0-8026-4fb8-9d9c-5b4c76017293",
-                        "name": "105年4月列管後備軍人動態統計.csv",
-                        "created": "2016-05-10 14:00:14",
-                        "last_modified": "2016-05-10T14:00:14"
-                    },
-                    "6b033304-c78a-4eeb-990e-db8ce434b6ae": {
-                        "id": "6b033304-c78a-4eeb-990e-db8ce434b6ae",
-                        "name": "105年5月列管後備軍人動態統計.csv",
-                        "created": "2016-06-15 10:16:20",
-                        "last_modified": "2016-06-15T10:16:20"
-                    },
-                    "ea1070a9-de73-49c9-90be-ee2889ea926a": {
-                        "id": "ea1070a9-de73-49c9-90be-ee2889ea926a",
-                        "name": "105年6月列管後備軍人動態統計.csv",
-                        "created": "2016-07-14 14:48:03",
-                        "last_modified": "2016-07-14T14:48:03"
-                    },
-                    "2874ef29-a3e0-478d-9a7c-64ecf56e6073": {
-                        "id": "2874ef29-a3e0-478d-9a7c-64ecf56e6073",
-                        "name": "105年7月列管後備軍人動態統計.csv",
-                        "created": "2016-08-09 09:26:42",
-                        "last_modified": "2016-08-09T09:26:42"
-                    },
-                    "bd6624f8-c72b-43fc-af69-97b17ef0cf46": {
-                        "id": "bd6624f8-c72b-43fc-af69-97b17ef0cf46",
-                        "name": "105年8月列管後備軍人動態統計.csv",
-                        "created": "2016-09-09 09:48:36",
-                        "last_modified": "2016-09-09T09:48:36"
-                    },
-                    "6ab8d48d-7500-47b6-957e-8a22b7406173": {
-                        "id": "6ab8d48d-7500-47b6-957e-8a22b7406173",
-                        "name": "105年9月列管後備軍人動態統計.csv",
-                        "created": "2016-11-07 14:50:43",
-                        "last_modified": "2016-11-07T14:50:43"
-                    },
-                    "4af6df77-1a44-487b-b945-90539d33e4d3": {
-                        "id": "4af6df77-1a44-487b-b945-90539d33e4d3",
-                        "name": "105年10月列管後備軍人動態統計.csv",
-                        "created": "2016-11-07 14:51:40",
-                        "last_modified": "2016-11-07T14:51:40"
-                    },
-                    "aea9615c-a6e9-449f-a23f-736482daa20d": {
-                        "id": "aea9615c-a6e9-449f-a23f-736482daa20d",
-                        "name": "105年11月列管後備軍人動態統計.csv",
-                        "created": "2016-12-12 10:43:58",
-                        "last_modified": "2016-12-12T10:43:58"
-                    },
-                    "41bde19a-3296-4308-97ed-58f72753a032": {
-                        "id": "41bde19a-3296-4308-97ed-58f72753a032",
-                        "name": "105年12月列管後備軍人動態統計.csv",
-                        "created": "2017-01-11 15:44:19",
-                        "last_modified": "2017-01-11T15:44:19"
-                    },
-                    "452508b7-ee24-4176-a5c2-cc7e2370d251": {
-                        "id": "452508b7-ee24-4176-a5c2-cc7e2370d251",
-                        "name": "106年01月列管後備軍人動態統計表.csv",
-                        "created": "2017-02-13 10:12:19",
-                        "last_modified": "2017-02-13T10:12:19"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "4199d58b-5ace-4750-aa2a-a841ee1cdf32": {
-                "name": "4199d58b-5ace-4750-aa2a-a841ee1cdf32",
-                "title": "軍人公墓(忠靈祠)葬厝表",
-                "organization_id": "379710000A",
-                "metadata_modified": "2017-02-13 10:10:23",
-                "timeEnd": 1486951823,
-                "timeBegin": 1431964800,
-                "resources": {
-                    "a6ff2c68-0113-40b2-8cbf-ed526d77f7aa": {
-                        "id": "a6ff2c68-0113-40b2-8cbf-ed526d77f7aa",
-                        "name": "104年4月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-08-11 15:50:39",
-                        "last_modified": "2015-08-11T15:50:39"
-                    },
-                    "4b1719e5-a598-4cfd-9057-27081c897f49": {
-                        "id": "4b1719e5-a598-4cfd-9057-27081c897f49",
-                        "name": "104年5月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-08-11 15:51:14",
-                        "last_modified": "2015-08-11T15:51:14"
-                    },
-                    "f236135a-14f9-43d6-a9fb-db6f51ace44b": {
-                        "id": "f236135a-14f9-43d6-a9fb-db6f51ace44b",
-                        "name": "104年6月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-08-11 15:51:39",
-                        "last_modified": "2015-08-11T15:51:39"
-                    },
-                    "a3078e44-488d-4f94-acd0-42d65b6f9e23": {
-                        "id": "a3078e44-488d-4f94-acd0-42d65b6f9e23",
-                        "name": "104年7月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-10-08 16:30:02",
-                        "last_modified": "2015-10-08T16:30:02"
-                    },
-                    "60ae8aff-11c7-42af-8fa0-c31ea4b031a4": {
-                        "id": "60ae8aff-11c7-42af-8fa0-c31ea4b031a4",
-                        "name": "104年8月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-10-08 16:30:50",
-                        "last_modified": "2015-10-08T16:30:50"
-                    },
-                    "0d0343ab-2744-447a-a016-af20e706da8e": {
-                        "id": "0d0343ab-2744-447a-a016-af20e706da8e",
-                        "name": "104年9月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-10-08 16:31:22",
-                        "last_modified": "2015-10-08T16:31:22"
-                    },
-                    "c94cfa8a-29a9-4a8e-b362-32d1c9584002": {
-                        "id": "c94cfa8a-29a9-4a8e-b362-32d1c9584002",
-                        "name": "104年10月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-12-08 12:25:36",
-                        "last_modified": "2015-12-08T12:25:36"
-                    },
-                    "9fba3c3a-0876-4ad8-a917-e5b0b9e51bb2": {
-                        "id": "9fba3c3a-0876-4ad8-a917-e5b0b9e51bb2",
-                        "name": "104年11月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2015-12-08 12:26:21",
-                        "last_modified": "2015-12-08T12:26:21"
-                    },
-                    "a13a0337-b0fe-4652-9a76-c063f0c13a66": {
-                        "id": "a13a0337-b0fe-4652-9a76-c063f0c13a66",
-                        "name": "104年12月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-01-14 16:39:11",
-                        "last_modified": "2016-01-14T16:39:11"
-                    },
-                    "c88c1f6c-e2a3-42b4-ac26-35311d5a3d74": {
-                        "id": "c88c1f6c-e2a3-42b4-ac26-35311d5a3d74",
-                        "name": "105年1月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-02-15 09:06:45",
-                        "last_modified": "2016-02-15T09:06:45"
-                    },
-                    "401b3239-6801-4efe-a1cf-3dcc6010ca45": {
-                        "id": "401b3239-6801-4efe-a1cf-3dcc6010ca45",
-                        "name": "105年2月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-04-14 09:07:15",
-                        "last_modified": "2016-04-14T09:07:15"
-                    },
-                    "883ace55-77f4-4e2b-842d-086c19447827": {
-                        "id": "883ace55-77f4-4e2b-842d-086c19447827",
-                        "name": "105年3月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-04-14 09:08:20",
-                        "last_modified": "2016-04-14T09:08:20"
-                    },
-                    "973e15f7-3933-452b-a9db-938bae25098a": {
-                        "id": "973e15f7-3933-452b-a9db-938bae25098a",
-                        "name": "105年4月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-06-04 14:41:54",
-                        "last_modified": "2016-06-04T14:41:54"
-                    },
-                    "e230b845-83d9-4da9-9cef-6d51687bff4e": {
-                        "id": "e230b845-83d9-4da9-9cef-6d51687bff4e",
-                        "name": "105年5月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-07-05 16:48:44",
-                        "last_modified": "2016-07-05T16:48:44"
-                    },
-                    "f45cdfca-cbb0-4ec4-b8c0-e4c23250576b": {
-                        "id": "f45cdfca-cbb0-4ec4-b8c0-e4c23250576b",
-                        "name": "105年6月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-07-05 16:49:20",
-                        "last_modified": "2016-07-05T16:49:20"
-                    },
-                    "117e3943-11ad-4245-9689-59ec3de822cd": {
-                        "id": "117e3943-11ad-4245-9689-59ec3de822cd",
-                        "name": "105年7月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-08-08 09:27:32",
-                        "last_modified": "2016-08-08T09:27:32"
-                    },
-                    "35376b38-a08c-4b6a-aa39-340d9da181f3": {
-                        "id": "35376b38-a08c-4b6a-aa39-340d9da181f3",
-                        "name": "105年8月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-09-09 09:47:42",
-                        "last_modified": "2016-09-09T09:47:42"
-                    },
-                    "8e16b107-b5e4-4ab4-a5d8-2f02a88f0604": {
-                        "id": "8e16b107-b5e4-4ab4-a5d8-2f02a88f0604",
-                        "name": "105年9月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-10-11 14:50:46",
-                        "last_modified": "2016-10-11T14:50:46"
-                    },
-                    "91601c0d-fa6d-4459-b278-a5c3317917ea": {
-                        "id": "91601c0d-fa6d-4459-b278-a5c3317917ea",
-                        "name": "105年10月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-11-07 14:49:53",
-                        "last_modified": "2016-11-07T14:49:53"
-                    },
-                    "c2aa8b34-9d63-426a-be6f-67c1e1527eef": {
-                        "id": "c2aa8b34-9d63-426a-be6f-67c1e1527eef",
-                        "name": "105年11月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2016-12-12 10:44:51",
-                        "last_modified": "2016-12-12T10:44:51"
-                    },
-                    "4cab3d3a-b567-4f44-9325-2137713b5fb1": {
-                        "id": "4cab3d3a-b567-4f44-9325-2137713b5fb1",
-                        "name": "105年12月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2017-01-11 15:42:48",
-                        "last_modified": "2017-01-11T15:42:48"
-                    },
-                    "438bc2d6-3db2-4adf-b865-96114b84f22d": {
-                        "id": "438bc2d6-3db2-4adf-b865-96114b84f22d",
-                        "name": "106年01月軍人公墓(忠靈祠)葬厝表.csv",
-                        "created": "2017-02-13 10:10:23",
-                        "last_modified": "2017-02-13T10:10:23"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "ffbbcf56-9e86-4028-9849-acf07f093c44": {
                 "name": "ffbbcf56-9e86-4028-9849-acf07f093c44",
                 "title": "役男徵集概況統計表",
@@ -10484,6 +10514,72 @@
     },
     "臺北市政府地政局": {
         "datasets": {
+            "a9a97996-3a55-46c8-9076-e5ebdefad6dc": {
+                "name": "a9a97996-3a55-46c8-9076-e5ebdefad6dc",
+                "title": "實價周報",
+                "organization_id": "379700000A",
+                "metadata_modified": "2017-03-08 05:30:56",
+                "timeEnd": 1488922256,
+                "timeBegin": false,
+                "resources": {
+                    "51839ac9-6454-49f2-aaf2-abd05c5405c8": {
+                        "id": "51839ac9-6454-49f2-aaf2-abd05c5405c8",
+                        "name": "realPrice.xml",
+                        "created": "2017-03-08 05:30:56",
+                        "last_modified": "2017-03-08T05:30:56"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b42a53f3-91a1-461d-8145-4840e0fbb221": {
+                "name": "b42a53f3-91a1-461d-8145-4840e0fbb221",
+                "title": "市地重劃",
+                "organization_id": "379700000A",
+                "metadata_modified": "2017-03-07 14:00:42",
+                "timeEnd": 1488866442,
+                "timeBegin": 0,
+                "resources": {
+                    "875e01d7-67fb-4fed-9ea5-ebaf0a5537cb": {
+                        "id": "875e01d7-67fb-4fed-9ea5-ebaf0a5537cb",
+                        "name": "自辦市地重劃範圍圖.zip",
+                        "created": "2017-03-07 13:49:14",
+                        "last_modified": "2017-03-07T13:49:14"
+                    },
+                    "f6c5e58d-a0c9-4e54-839c-06b28877492b": {
+                        "id": "f6c5e58d-a0c9-4e54-839c-06b28877492b",
+                        "name": "公辦市地重劃範圍圖.zip",
+                        "created": "2017-03-07 14:00:41",
+                        "last_modified": "2017-03-07T14:00:41"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1ab43adf-5f81-4601-84af-47a39f267b93": {
+                "name": "1ab43adf-5f81-4601-84af-47a39f267b93",
+                "title": "區段徵收",
+                "organization_id": "379700000A",
+                "metadata_modified": "2017-03-07 11:48:39",
+                "timeEnd": 1488858519,
+                "timeBegin": 0,
+                "resources": {
+                    "5f4f15c9-41ec-4056-ad7f-287a88105708": {
+                        "id": "5f4f15c9-41ec-4056-ad7f-287a88105708",
+                        "name": "區段徵收範圍圖.zip",
+                        "created": "2017-03-07 11:48:31",
+                        "last_modified": "2017-03-07T11:48:31"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "13308a5e-db63-4023-acf9-831cdda25bbf": {
                 "name": "13308a5e-db63-4023-acf9-831cdda25bbf",
                 "title": "臺北市公有非公用可供公務機關使用土地數值地籍圖",
@@ -10503,26 +10599,6 @@
                         "name": "LANDshp_20170302.zip",
                         "created": "2017-03-03 09:32:38",
                         "last_modified": "2017-03-03T09:32:38"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a9a97996-3a55-46c8-9076-e5ebdefad6dc": {
-                "name": "a9a97996-3a55-46c8-9076-e5ebdefad6dc",
-                "title": "實價周報",
-                "organization_id": "379700000A",
-                "metadata_modified": "2017-03-01 05:23:03",
-                "timeEnd": 1488316983,
-                "timeBegin": false,
-                "resources": {
-                    "51839ac9-6454-49f2-aaf2-abd05c5405c8": {
-                        "id": "51839ac9-6454-49f2-aaf2-abd05c5405c8",
-                        "name": "realPrice.xml",
-                        "created": "2017-03-01 05:23:03",
-                        "last_modified": "2017-03-01T05:23:03"
                     }
                 },
                 "counters": {
@@ -10766,52 +10842,6 @@
                         "name": "105臺北市文山區、中正區已登記公私有土地筆數面積統計表.csv",
                         "created": "2017-01-20 13:32:58",
                         "last_modified": "2017-01-20T13:32:58"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "b42a53f3-91a1-461d-8145-4840e0fbb221": {
-                "name": "b42a53f3-91a1-461d-8145-4840e0fbb221",
-                "title": "市地重劃",
-                "organization_id": "379700000A",
-                "metadata_modified": "2017-01-18 17:50:12",
-                "timeEnd": 1484733012,
-                "timeBegin": 0,
-                "resources": {
-                    "3e2b0ab0-bbe7-4eb8-983f-1b378a9c9bbb": {
-                        "id": "3e2b0ab0-bbe7-4eb8-983f-1b378a9c9bbb",
-                        "name": "市地重劃_公辦.zip",
-                        "created": "2016-12-30 16:31:59",
-                        "last_modified": "2016-12-30T16:31:59"
-                    },
-                    "cbc04a6e-f9fa-44e9-9f00-b4d1e856d4e9": {
-                        "id": "cbc04a6e-f9fa-44e9-9f00-b4d1e856d4e9",
-                        "name": "市地重劃_自辦.zip",
-                        "created": "2016-12-30 16:32:36",
-                        "last_modified": "2016-12-30T16:32:36"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "1ab43adf-5f81-4601-84af-47a39f267b93": {
-                "name": "1ab43adf-5f81-4601-84af-47a39f267b93",
-                "title": "區段徵收",
-                "organization_id": "379700000A",
-                "metadata_modified": "2017-01-18 17:50:04",
-                "timeEnd": 1484733004,
-                "timeBegin": 0,
-                "resources": {
-                    "9c6c7fe5-23c1-4522-9830-35ea16590160": {
-                        "id": "9c6c7fe5-23c1-4522-9830-35ea16590160",
-                        "name": "區段徵收.7z",
-                        "created": "2016-12-30 10:12:38",
-                        "last_modified": "2016-12-30T10:12:38"
                     }
                 },
                 "counters": {
@@ -11699,15 +11729,15 @@
                 "name": "4d29818c-a3ee-425d-b88a-22ac0c24c712",
                 "title": "臺北市今日施工資訊",
                 "organization_id": "379110000G",
-                "metadata_modified": "2017-03-07 05:24:00",
-                "timeEnd": 1488835440,
+                "metadata_modified": "2017-03-08 05:24:00",
+                "timeEnd": 1488921840,
                 "timeBegin": 1403452800,
                 "resources": {
                     "201d8ae8-dffc-4d17-ae1f-e58d8a95b162": {
                         "id": "201d8ae8-dffc-4d17-ae1f-e58d8a95b162",
                         "name": "construction.json",
-                        "created": "2017-03-07 05:24:00",
-                        "last_modified": "2017-03-07T05:24:00"
+                        "created": "2017-03-08 05:24:00",
+                        "last_modified": "2017-03-08T05:24:00"
                     },
                     "58bc550d-4033-4727-a1a5-989b54a59d38": {
                         "id": "58bc550d-4033-4727-a1a5-989b54a59d38",
@@ -15527,123 +15557,123 @@
                 "name": "ac589468-529b-4636-a9b2-ab57ae41cbcb",
                 "title": "學習型機構",
                 "organization_id": "379040000E",
-                "metadata_modified": "2017-03-06 20:46:04",
-                "timeEnd": 1488804364,
+                "metadata_modified": "2017-03-07 20:45:59",
+                "timeEnd": 1488890759,
                 "timeBegin": 0,
                 "resources": {
                     "11f11d42-bdd8-45d0-9493-8134b2e494e9": {
                         "id": "11f11d42-bdd8-45d0-9493-8134b2e494e9",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:03",
-                        "last_modified": "2017-03-06T20:44:03"
+                        "created": "2017-03-07 20:44:02",
+                        "last_modified": "2017-03-07T20:44:02"
                     },
                     "24c9f8fe-88db-4a6e-895c-498fbc94df94": {
                         "id": "24c9f8fe-88db-4a6e-895c-498fbc94df94",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:14",
-                        "last_modified": "2017-03-06T20:44:14"
+                        "created": "2017-03-07 20:44:13",
+                        "last_modified": "2017-03-07T20:44:13"
                     },
                     "c79ed7d6-050b-45d3-9835-634694b57661": {
                         "id": "c79ed7d6-050b-45d3-9835-634694b57661",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:22",
-                        "last_modified": "2017-03-06T20:44:22"
+                        "created": "2017-03-07 20:44:18",
+                        "last_modified": "2017-03-07T20:44:18"
                     },
                     "b41472da-e34e-4a76-924a-5417c0c007ee": {
                         "id": "b41472da-e34e-4a76-924a-5417c0c007ee",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:31",
-                        "last_modified": "2017-03-06T20:44:31"
+                        "created": "2017-03-07 20:44:24",
+                        "last_modified": "2017-03-07T20:44:24"
                     },
                     "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd": {
                         "id": "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:35",
-                        "last_modified": "2017-03-06T20:44:35"
+                        "created": "2017-03-07 20:44:30",
+                        "last_modified": "2017-03-07T20:44:30"
                     },
                     "1f892a80-a776-4ea5-9b00-c94d459de674": {
                         "id": "1f892a80-a776-4ea5-9b00-c94d459de674",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:41",
-                        "last_modified": "2017-03-06T20:44:41"
+                        "created": "2017-03-07 20:44:36",
+                        "last_modified": "2017-03-07T20:44:36"
                     },
                     "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3": {
                         "id": "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:47",
-                        "last_modified": "2017-03-06T20:44:47"
+                        "created": "2017-03-07 20:44:44",
+                        "last_modified": "2017-03-07T20:44:44"
                     },
                     "9548a823-a337-4106-82eb-7d2b2279a96c": {
                         "id": "9548a823-a337-4106-82eb-7d2b2279a96c",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:44:57",
-                        "last_modified": "2017-03-06T20:44:57"
+                        "created": "2017-03-07 20:44:51",
+                        "last_modified": "2017-03-07T20:44:51"
                     },
                     "2391e09e-df95-457d-ab71-72beea2bce4d": {
                         "id": "2391e09e-df95-457d-ab71-72beea2bce4d",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:06",
-                        "last_modified": "2017-03-06T20:45:06"
+                        "created": "2017-03-07 20:45:01",
+                        "last_modified": "2017-03-07T20:45:01"
                     },
                     "7e42ce18-2c4b-440b-989c-8e32969ad180": {
                         "id": "7e42ce18-2c4b-440b-989c-8e32969ad180",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:10",
-                        "last_modified": "2017-03-06T20:45:10"
+                        "created": "2017-03-07 20:45:06",
+                        "last_modified": "2017-03-07T20:45:06"
                     },
                     "404988b2-d0b9-4a7f-ae04-30aee13f6025": {
                         "id": "404988b2-d0b9-4a7f-ae04-30aee13f6025",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:17",
-                        "last_modified": "2017-03-06T20:45:17"
+                        "created": "2017-03-07 20:45:10",
+                        "last_modified": "2017-03-07T20:45:10"
                     },
                     "74e7d540-3538-4bdb-b5ae-ffb45d03d45d": {
                         "id": "74e7d540-3538-4bdb-b5ae-ffb45d03d45d",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:25",
-                        "last_modified": "2017-03-06T20:45:25"
+                        "created": "2017-03-07 20:45:19",
+                        "last_modified": "2017-03-07T20:45:19"
                     },
                     "b395d4a4-090a-4223-b0e3-b99b0cf40549": {
                         "id": "b395d4a4-090a-4223-b0e3-b99b0cf40549",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:31",
-                        "last_modified": "2017-03-06T20:45:31"
+                        "created": "2017-03-07 20:45:26",
+                        "last_modified": "2017-03-07T20:45:26"
                     },
                     "edc33c48-cd9f-425d-82d1-d0677baa160a": {
                         "id": "edc33c48-cd9f-425d-82d1-d0677baa160a",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:38",
-                        "last_modified": "2017-03-06T20:45:38"
+                        "created": "2017-03-07 20:45:31",
+                        "last_modified": "2017-03-07T20:45:31"
                     },
                     "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64": {
                         "id": "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:42",
-                        "last_modified": "2017-03-06T20:45:42"
+                        "created": "2017-03-07 20:45:37",
+                        "last_modified": "2017-03-07T20:45:37"
                     },
                     "0a1e7957-7699-452c-8020-bf11a5408fc8": {
                         "id": "0a1e7957-7699-452c-8020-bf11a5408fc8",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:48",
-                        "last_modified": "2017-03-06T20:45:48"
+                        "created": "2017-03-07 20:45:41",
+                        "last_modified": "2017-03-07T20:45:41"
                     },
                     "e5ac12f2-239c-4175-9f2e-1cd510ac308c": {
                         "id": "e5ac12f2-239c-4175-9f2e-1cd510ac308c",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:52",
-                        "last_modified": "2017-03-06T20:45:52"
+                        "created": "2017-03-07 20:45:46",
+                        "last_modified": "2017-03-07T20:45:46"
                     },
                     "990479f4-82aa-4365-8c19-8c8c2afb15bb": {
                         "id": "990479f4-82aa-4365-8c19-8c8c2afb15bb",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:45:57",
-                        "last_modified": "2017-03-06T20:45:57"
+                        "created": "2017-03-07 20:45:53",
+                        "last_modified": "2017-03-07T20:45:53"
                     },
                     "ed83db24-f206-4ff0-9135-a0a8d65ace31": {
                         "id": "ed83db24-f206-4ff0-9135-a0a8d65ace31",
                         "name": "eduagency.json",
-                        "created": "2017-03-06 20:46:03",
-                        "last_modified": "2017-03-06T20:46:03"
+                        "created": "2017-03-07 20:45:58",
+                        "last_modified": "2017-03-07T20:45:58"
                     }
                 },
                 "counters": {
@@ -18637,17 +18667,30 @@
                 "name": "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6",
                 "title": "臺北市文化快遞資訊",
                 "organization_id": "379590000E",
-                "metadata_modified": "2017-03-06 11:50:02",
-                "timeEnd": 1488772202,
+                "metadata_modified": "2017-03-07 11:50:02",
+                "timeEnd": 1488858602,
                 "timeBegin": 1325606400,
                 "resources": {
                     "35aa3c53-28fb-423c-91b6-2c22432d0d70": {
                         "id": "35aa3c53-28fb-423c-91b6-2c22432d0d70",
                         "name": "culture.xml",
-                        "created": "2017-03-06 11:50:01",
-                        "last_modified": "2017-03-06T11:50:01"
+                        "created": "2017-03-07 11:50:01",
+                        "last_modified": "2017-03-07T11:50:01"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "586245d6-7509-4fe5-a581-3bdb5d201164": {
+                "name": "586245d6-7509-4fe5-a581-3bdb5d201164",
+                "title": "索多瑪之夜",
+                "organization_id": "379590000E",
+                "metadata_modified": "2017-03-07 09:13:27",
+                "timeEnd": 1488849207,
+                "timeBegin": 0,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -18657,8 +18700,21 @@
                 "name": "aed420eb-f310-4afd-afb1-ddae506f620f",
                 "title": "愛麗絲的兔子洞",
                 "organization_id": "379590000E",
-                "metadata_modified": "2017-02-24 09:51:12",
-                "timeEnd": 1487901072,
+                "metadata_modified": "2017-03-07 09:12:10",
+                "timeEnd": 1488849130,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c1b568cf-c508-499e-9583-04e45f8c98bb": {
+                "name": "c1b568cf-c508-499e-9583-04e45f8c98bb",
+                "title": "楊茂林回顧展",
+                "organization_id": "379590000E",
+                "metadata_modified": "2017-03-07 08:59:57",
+                "timeEnd": 1488848397,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -22320,7 +22376,7 @@
             }
         },
         "counters": {
-            "datasets": 275,
+            "datasets": 277,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -22333,15 +22389,15 @@
                 "name": "86672d20-9c69-4c24-859b-078862c4e699",
                 "title": "臺北市已立案宗教團體點位資料",
                 "organization_id": "379020000A",
-                "metadata_modified": "2017-03-06 19:44:03",
-                "timeEnd": 1488800643,
+                "metadata_modified": "2017-03-07 19:44:02",
+                "timeEnd": 1488887042,
                 "timeBegin": 1380643200,
                 "resources": {
                     "2aac2df3-e768-448c-8f06-181d7b424690": {
                         "id": "2aac2df3-e768-448c-8f06-181d7b424690",
                         "name": "religion.xml",
-                        "created": "2017-03-06 19:44:03",
-                        "last_modified": "2017-03-06T19:44:03"
+                        "created": "2017-03-07 19:44:02",
+                        "last_modified": "2017-03-07T19:44:02"
                     }
                 },
                 "counters": {
@@ -23500,15 +23556,15 @@
                 "name": "b6aa4716-aa07-4aac-9ffc-57df0f1f529f",
                 "title": "臺北市列管營業場所消防安全檢查結果",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-03-06 19:42:40",
-                "timeEnd": 1488800560,
+                "metadata_modified": "2017-03-07 19:43:49",
+                "timeEnd": 1488887029,
                 "timeBegin": 1404057600,
                 "resources": {
                     "1316a13a-39cd-4db5-b663-930638f244c5": {
                         "id": "1316a13a-39cd-4db5-b663-930638f244c5",
                         "name": "openplace.json",
-                        "created": "2017-03-06 19:42:40",
-                        "last_modified": "2017-03-06T19:42:40"
+                        "created": "2017-03-07 19:43:48",
+                        "last_modified": "2017-03-07T19:43:48"
                     }
                 },
                 "counters": {
@@ -23520,15 +23576,15 @@
                 "name": "3a45616d-c4b3-4676-b28c-24e5c9c90bd0",
                 "title": "臺北市政府燃氣熱水器承裝業名冊",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-03-06 19:28:02",
-                "timeEnd": 1488799682,
+                "metadata_modified": "2017-03-07 19:28:00",
+                "timeEnd": 1488886080,
                 "timeBegin": 1370880000,
                 "resources": {
                     "f6bb8bb9-c5b6-4851-a837-695d202d4ccb": {
                         "id": "f6bb8bb9-c5b6-4851-a837-695d202d4ccb",
                         "name": "boiler.json",
-                        "created": "2017-03-06 19:28:02",
-                        "last_modified": "2017-03-06T19:28:02"
+                        "created": "2017-03-07 19:28:00",
+                        "last_modified": "2017-03-07T19:28:00"
                     }
                 },
                 "counters": {
@@ -23926,15 +23982,455 @@
                 "name": "119efc37-541b-4aca-a16a-7ba210aafa1f",
                 "title": "臺北市垃圾清運點位資訊",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-03-06 19:22:01",
-                "timeEnd": 1488799321,
+                "metadata_modified": "2017-03-07 19:22:01",
+                "timeEnd": 1488885721,
                 "timeBegin": 1355673600,
                 "resources": {
                     "aa9c657c-ea6f-4062-a645-b6c973d45564": {
                         "id": "aa9c657c-ea6f-4062-a645-b6c973d45564",
                         "name": "garbage.xml",
-                        "created": "2017-03-06 19:22:01",
-                        "last_modified": "2017-03-06T19:22:01"
+                        "created": "2017-03-07 19:22:01",
+                        "last_modified": "2017-03-07T19:22:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a2947e06-966d-468b-870f-8e1020603321": {
+                "name": "a2947e06-966d-468b-870f-8e1020603321",
+                "title": "臺北市政府環境保護局污染源稽查(查核)處分概況月報表",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-07 14:29:08",
+                "timeEnd": 1488868148,
+                "timeBegin": 1438099200,
+                "resources": {
+                    "ed9b16eb-c40a-43f7-b85c-71172267273d": {
+                        "id": "ed9b16eb-c40a-43f7-b85c-71172267273d",
+                        "name": "104年1月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-08-03 14:13:54",
+                        "last_modified": "2015-08-03T14:13:54"
+                    },
+                    "255c80b8-9c86-4d0f-a90d-84da9f46cfe6": {
+                        "id": "255c80b8-9c86-4d0f-a90d-84da9f46cfe6",
+                        "name": "104年2月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-08-03 14:14:05",
+                        "last_modified": "2015-08-03T14:14:05"
+                    },
+                    "a3a29a38-51f8-4cdd-922f-cec4126df70b": {
+                        "id": "a3a29a38-51f8-4cdd-922f-cec4126df70b",
+                        "name": "104年3月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-08-03 14:14:22",
+                        "last_modified": "2015-08-03T14:14:22"
+                    },
+                    "bb61f5c1-a544-408e-9ec5-17957b852209": {
+                        "id": "bb61f5c1-a544-408e-9ec5-17957b852209",
+                        "name": "104年4月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-08-03 14:14:44",
+                        "last_modified": "2015-08-03T14:14:44"
+                    },
+                    "8029390d-67c1-46cd-a00b-bc61445b2181": {
+                        "id": "8029390d-67c1-46cd-a00b-bc61445b2181",
+                        "name": "104年5月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-08-03 14:14:58",
+                        "last_modified": "2015-08-03T14:14:58"
+                    },
+                    "dd5becd6-78e5-4c61-97ea-c7457e79560e": {
+                        "id": "dd5becd6-78e5-4c61-97ea-c7457e79560e",
+                        "name": "104年6月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-08-03 14:15:14",
+                        "last_modified": "2015-08-03T14:15:14"
+                    },
+                    "4f53830f-75e3-4588-b42f-1d7ac4786171": {
+                        "id": "4f53830f-75e3-4588-b42f-1d7ac4786171",
+                        "name": "104年7月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-09-07 14:29:39",
+                        "last_modified": "2015-09-07T14:29:39"
+                    },
+                    "e8297d98-cdc4-4afd-a286-d39cf3cb9707": {
+                        "id": "e8297d98-cdc4-4afd-a286-d39cf3cb9707",
+                        "name": "104年8月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-10-16 17:07:53",
+                        "last_modified": "2015-10-16T17:07:53"
+                    },
+                    "33eba4c3-d0a0-496e-85c9-cac7cc7ada73": {
+                        "id": "33eba4c3-d0a0-496e-85c9-cac7cc7ada73",
+                        "name": "104年9月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
+                        "created": "2015-10-29 16:44:49",
+                        "last_modified": "2015-10-29T16:44:49"
+                    },
+                    "75e6c1d0-992e-4e3f-b4f6-397779dffa2d": {
+                        "id": "75e6c1d0-992e-4e3f-b4f6-397779dffa2d",
+                        "name": "104年10月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
+                        "created": "2015-12-01 15:08:23",
+                        "last_modified": "2015-12-01T15:08:23"
+                    },
+                    "e5dbf742-d692-4b92-a162-469de278edc9": {
+                        "id": "e5dbf742-d692-4b92-a162-469de278edc9",
+                        "name": "104年11月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
+                        "created": "2016-02-25 12:37:49",
+                        "last_modified": "2016-02-25T12:37:49"
+                    },
+                    "bbf7f337-7637-4870-9e26-5314824d4aec": {
+                        "id": "bbf7f337-7637-4870-9e26-5314824d4aec",
+                        "name": "104年12月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
+                        "created": "2016-02-25 12:38:06",
+                        "last_modified": "2016-02-25T12:38:06"
+                    },
+                    "bcd12cff-bab1-426f-b210-0bf2c370fd58": {
+                        "id": "bcd12cff-bab1-426f-b210-0bf2c370fd58",
+                        "name": "105年01月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
+                        "created": "2016-02-25 12:38:20",
+                        "last_modified": "2016-02-25T12:38:20"
+                    },
+                    "4ff5c51a-5e0a-47a1-8443-a0f21ace2e03": {
+                        "id": "4ff5c51a-5e0a-47a1-8443-a0f21ace2e03",
+                        "name": "105年02月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
+                        "created": "2016-06-01 11:16:19",
+                        "last_modified": "2016-06-01T11:16:19"
+                    },
+                    "f3b98656-bc55-45c9-8a26-9778b640de00": {
+                        "id": "f3b98656-bc55-45c9-8a26-9778b640de00",
+                        "name": "105年03月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
+                        "created": "2016-06-01 11:16:35",
+                        "last_modified": "2016-06-01T11:16:35"
+                    },
+                    "9c5dd592-14c3-430b-a8ee-ddbe8a83281c": {
+                        "id": "9c5dd592-14c3-430b-a8ee-ddbe8a83281c",
+                        "name": "105年04月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
+                        "created": "2016-06-01 11:16:51",
+                        "last_modified": "2016-06-01T11:16:51"
+                    },
+                    "01264869-e15d-4b79-9cb1-5294aeab0b25": {
+                        "id": "01264869-e15d-4b79-9cb1-5294aeab0b25",
+                        "name": "105年5月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:13:35",
+                        "last_modified": "2017-02-13T09:13:35"
+                    },
+                    "82f92147-7d25-4588-89c8-bfd446c625fa": {
+                        "id": "82f92147-7d25-4588-89c8-bfd446c625fa",
+                        "name": "105年6月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:14:00",
+                        "last_modified": "2017-02-13T09:14:00"
+                    },
+                    "e1d1258f-1745-4f4f-ac6d-134fc6be5e18": {
+                        "id": "e1d1258f-1745-4f4f-ac6d-134fc6be5e18",
+                        "name": "105年7月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:14:14",
+                        "last_modified": "2017-02-13T09:14:14"
+                    },
+                    "65659473-de9f-45b3-b30a-a5e6816f7b3f": {
+                        "id": "65659473-de9f-45b3-b30a-a5e6816f7b3f",
+                        "name": "105年8月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:14:32",
+                        "last_modified": "2017-02-13T09:14:32"
+                    },
+                    "8697900b-7430-44ae-ae27-79ee8cea0cdd": {
+                        "id": "8697900b-7430-44ae-ae27-79ee8cea0cdd",
+                        "name": "105年9月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:15:05",
+                        "last_modified": "2017-02-13T09:15:05"
+                    },
+                    "5a27f392-b5b1-4d3f-ac3f-5a2acf53e315": {
+                        "id": "5a27f392-b5b1-4d3f-ac3f-5a2acf53e315",
+                        "name": "105年10月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:15:48",
+                        "last_modified": "2017-02-13T09:15:48"
+                    },
+                    "73780906-44ea-4f50-98ac-f43df6ad6a37": {
+                        "id": "73780906-44ea-4f50-98ac-f43df6ad6a37",
+                        "name": "105年11月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:16:14",
+                        "last_modified": "2017-02-13T09:16:14"
+                    },
+                    "4b844bd5-9141-488e-b309-c982ec4d2243": {
+                        "id": "4b844bd5-9141-488e-b309-c982ec4d2243",
+                        "name": "105年12月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-02-13 09:16:41",
+                        "last_modified": "2017-02-13T09:16:41"
+                    },
+                    "3fe0c145-4351-4ac3-bbd6-406dd9d994d8": {
+                        "id": "3fe0c145-4351-4ac3-bbd6-406dd9d994d8",
+                        "name": "106年1月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
+                        "created": "2017-03-07 14:28:19",
+                        "last_modified": "2017-03-07T14:28:19"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9e5784d3-cb9b-4d0e-add9-87c7f61accdb": {
+                "name": "9e5784d3-cb9b-4d0e-add9-87c7f61accdb",
+                "title": "臺北市公害陳情案件受理統計月報表",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-07 14:26:56",
+                "timeEnd": 1488868016,
+                "timeBegin": 1438099200,
+                "resources": {
+                    "bf037a88-8d7f-47d8-bf1c-707444aa24ab": {
+                        "id": "bf037a88-8d7f-47d8-bf1c-707444aa24ab",
+                        "name": "104年1月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-08-03 14:02:46",
+                        "last_modified": "2015-08-03T14:02:46"
+                    },
+                    "b535b548-2fd0-471e-8662-cc497cb013aa": {
+                        "id": "b535b548-2fd0-471e-8662-cc497cb013aa",
+                        "name": "104年2月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-08-03 14:02:57",
+                        "last_modified": "2015-08-03T14:02:57"
+                    },
+                    "9c31c55c-b020-4dca-80e7-071b944a0553": {
+                        "id": "9c31c55c-b020-4dca-80e7-071b944a0553",
+                        "name": "104年3月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-08-03 14:03:09",
+                        "last_modified": "2015-08-03T14:03:09"
+                    },
+                    "d7ca4be4-0204-4518-9c89-189f3148581b": {
+                        "id": "d7ca4be4-0204-4518-9c89-189f3148581b",
+                        "name": "104年4月 臺北市公害陳情案件受理統計.xlsb",
+                        "created": "2015-08-03 14:03:51",
+                        "last_modified": "2015-08-03T14:03:51"
+                    },
+                    "9454e06c-9db6-47d9-af36-b49963ce2831": {
+                        "id": "9454e06c-9db6-47d9-af36-b49963ce2831",
+                        "name": "104年5月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-08-03 14:04:39",
+                        "last_modified": "2015-08-03T14:04:39"
+                    },
+                    "1e218afa-580b-403d-9f67-a579f2d70ad3": {
+                        "id": "1e218afa-580b-403d-9f67-a579f2d70ad3",
+                        "name": "104年6月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-08-03 14:05:10",
+                        "last_modified": "2015-08-03T14:05:10"
+                    },
+                    "6f2388ff-4b8b-4597-8785-e978bbce67d3": {
+                        "id": "6f2388ff-4b8b-4597-8785-e978bbce67d3",
+                        "name": "104年7月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-09-07 14:26:51",
+                        "last_modified": "2015-09-07T14:26:51"
+                    },
+                    "910b0369-1b3e-4b7d-b360-f4a2ef819a7a": {
+                        "id": "910b0369-1b3e-4b7d-b360-f4a2ef819a7a",
+                        "name": "104年8月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-10-16 17:06:54",
+                        "last_modified": "2015-10-16T17:06:54"
+                    },
+                    "25076d3e-2c00-4a46-b7f1-7f8a34ab972d": {
+                        "id": "25076d3e-2c00-4a46-b7f1-7f8a34ab972d",
+                        "name": "104年9月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-10-29 16:42:40",
+                        "last_modified": "2015-10-29T16:42:40"
+                    },
+                    "4a4db695-cfb7-40c0-af8a-321d8639ee14": {
+                        "id": "4a4db695-cfb7-40c0-af8a-321d8639ee14",
+                        "name": "104年10月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2015-12-01 15:11:40",
+                        "last_modified": "2015-12-01T15:11:40"
+                    },
+                    "c63ef728-fbd2-48bb-904a-eab05a4b2df3": {
+                        "id": "c63ef728-fbd2-48bb-904a-eab05a4b2df3",
+                        "name": "104年11月 臺北市公害陳情案件受理統計.xls",
+                        "created": "2016-02-25 12:41:04",
+                        "last_modified": "2016-02-25T12:41:04"
+                    },
+                    "c1145c79-4998-44b8-b8e3-a2d427b986b1": {
+                        "id": "c1145c79-4998-44b8-b8e3-a2d427b986b1",
+                        "name": "104年12月 臺北市公害陳情案件受理統計.xlsx",
+                        "created": "2016-02-25 12:41:18",
+                        "last_modified": "2016-02-25T12:41:18"
+                    },
+                    "92aec5e3-8bcc-423e-b6f1-f5ee80c9f0e9": {
+                        "id": "92aec5e3-8bcc-423e-b6f1-f5ee80c9f0e9",
+                        "name": "105年1月 臺北市公害陳情案件受理統計.xlsx",
+                        "created": "2016-02-25 12:41:30",
+                        "last_modified": "2016-02-25T12:41:30"
+                    },
+                    "82493bed-710e-4bcd-9dfd-03751ae934a9": {
+                        "id": "82493bed-710e-4bcd-9dfd-03751ae934a9",
+                        "name": "105年2月 臺北市公害陳情案件受理統計.xlsx",
+                        "created": "2016-06-01 11:05:48",
+                        "last_modified": "2016-06-01T11:05:48"
+                    },
+                    "65b9df29-3edc-4488-95f7-dea73541b097": {
+                        "id": "65b9df29-3edc-4488-95f7-dea73541b097",
+                        "name": "105年3月 臺北市公害陳情案件受理統計.xlsx",
+                        "created": "2016-06-01 11:14:32",
+                        "last_modified": "2016-06-01T11:14:32"
+                    },
+                    "a93374f8-a026-4fa7-8e96-79341780aa28": {
+                        "id": "a93374f8-a026-4fa7-8e96-79341780aa28",
+                        "name": "105年4月 臺北市公害陳情案件受理統計.xlsx",
+                        "created": "2016-06-01 11:14:51",
+                        "last_modified": "2016-06-01T11:14:51"
+                    },
+                    "4ce02b95-c12e-4c59-a814-ddf7a6e100ef": {
+                        "id": "4ce02b95-c12e-4c59-a814-ddf7a6e100ef",
+                        "name": "105年5月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:01:15",
+                        "last_modified": "2017-02-13T09:01:15"
+                    },
+                    "fa12dffd-7adc-43a6-90fd-6fafd024bb35": {
+                        "id": "fa12dffd-7adc-43a6-90fd-6fafd024bb35",
+                        "name": "105年6月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:01:41",
+                        "last_modified": "2017-02-13T09:01:41"
+                    },
+                    "353b14d8-601c-45bc-91cb-6caceb5459c2": {
+                        "id": "353b14d8-601c-45bc-91cb-6caceb5459c2",
+                        "name": "105年7月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:01:55",
+                        "last_modified": "2017-02-13T09:01:55"
+                    },
+                    "e8cc5fe1-2c46-436d-b9b7-5160e1872b65": {
+                        "id": "e8cc5fe1-2c46-436d-b9b7-5160e1872b65",
+                        "name": "105年8月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:02:09",
+                        "last_modified": "2017-02-13T09:02:09"
+                    },
+                    "a68c693f-4715-4fe7-85a1-73bcb3803dfa": {
+                        "id": "a68c693f-4715-4fe7-85a1-73bcb3803dfa",
+                        "name": "105年9月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:02:23",
+                        "last_modified": "2017-02-13T09:02:23"
+                    },
+                    "e1bf285a-4b1f-4041-b3c7-7a6a13e0e9f4": {
+                        "id": "e1bf285a-4b1f-4041-b3c7-7a6a13e0e9f4",
+                        "name": "105年10月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:02:57",
+                        "last_modified": "2017-02-13T09:02:57"
+                    },
+                    "60f7d82c-677b-4cbb-92da-0860ed8e9454": {
+                        "id": "60f7d82c-677b-4cbb-92da-0860ed8e9454",
+                        "name": "105年11月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:04:58",
+                        "last_modified": "2017-02-13T09:04:58"
+                    },
+                    "c9b6afdd-fc9e-402e-ba84-d1f988df9728": {
+                        "id": "c9b6afdd-fc9e-402e-ba84-d1f988df9728",
+                        "name": "105年12月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-02-13 09:05:37",
+                        "last_modified": "2017-02-13T09:05:37"
+                    },
+                    "cba1eba4-0c6f-4386-8c1b-c359bb1b1bc1": {
+                        "id": "cba1eba4-0c6f-4386-8c1b-c359bb1b1bc1",
+                        "name": "106年1月臺北市公害陳情案件受理統計.ods",
+                        "created": "2017-03-07 14:26:04",
+                        "last_modified": "2017-03-07T14:26:04"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a835f3ba-7f50-4b0d-91a6-9df128632d1c": {
+                "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
+                "title": "臺北市行人專用清潔箱",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-07 14:25:10",
+                "timeEnd": 1488867910,
+                "timeBegin": 1432137600,
+                "resources": {
+                    "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
+                        "id": "97cc923a-e9ee-4adc-8c3d-335567dc15d3",
+                        "name": "士林區行人專用清潔箱.csv",
+                        "created": "2017-03-07 14:24:16",
+                        "last_modified": "2017-03-07T14:24:16"
+                    },
+                    "5fa14e06-018b-4851-8316-1ff324384f79": {
+                        "id": "5fa14e06-018b-4851-8316-1ff324384f79",
+                        "name": "大同區行人專用清潔箱.csv",
+                        "created": "2016-11-16 08:55:18",
+                        "last_modified": "2016-11-16T08:55:18"
+                    },
+                    "f40cd66c-afba-4409-9289-e677b6b8d00e": {
+                        "id": "f40cd66c-afba-4409-9289-e677b6b8d00e",
+                        "name": "大安區行人專用清潔箱.csv",
+                        "created": "2017-02-08 08:45:27",
+                        "last_modified": "2017-02-08T08:45:27"
+                    },
+                    "33b2c4c5-9870-4ee9-b280-a3a297c56a22": {
+                        "id": "33b2c4c5-9870-4ee9-b280-a3a297c56a22",
+                        "name": "中山區行人專用清潔箱.csv",
+                        "created": "2017-03-07 14:24:25",
+                        "last_modified": "2017-03-07T14:24:25"
+                    },
+                    "0b544701-fb47-4fa9-90f1-15b1987da0f5": {
+                        "id": "0b544701-fb47-4fa9-90f1-15b1987da0f5",
+                        "name": "中正區行人專用清潔箱.csv",
+                        "created": "2017-01-03 16:34:01",
+                        "last_modified": "2017-01-03T16:34:01"
+                    },
+                    "37eac6d1-6569-43c9-9fcf-fc676417c2cd": {
+                        "id": "37eac6d1-6569-43c9-9fcf-fc676417c2cd",
+                        "name": "內湖區行人專用清潔箱.csv",
+                        "created": "2017-01-13 15:30:10",
+                        "last_modified": "2017-01-13T15:30:10"
+                    },
+                    "46647394-d47f-4a4d-b0f0-14a60ac2aade": {
+                        "id": "46647394-d47f-4a4d-b0f0-14a60ac2aade",
+                        "name": "文山區行人專用清潔箱.csv",
+                        "created": "2016-11-11 15:09:12",
+                        "last_modified": "2016-11-11T15:09:12"
+                    },
+                    "05d67de9-a034-4177-9f53-10d6f79e02cf": {
+                        "id": "05d67de9-a034-4177-9f53-10d6f79e02cf",
+                        "name": "北投區行人專用清潔箱.csv",
+                        "created": "2017-02-18 16:36:41",
+                        "last_modified": "2017-02-18T16:36:41"
+                    },
+                    "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc": {
+                        "id": "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc",
+                        "name": "松山區行人專用清潔箱.csv",
+                        "created": "2017-02-07 08:34:35",
+                        "last_modified": "2017-02-07T08:34:35"
+                    },
+                    "8cbb344b-83d2-4176-9abd-d84508e7dc73": {
+                        "id": "8cbb344b-83d2-4176-9abd-d84508e7dc73",
+                        "name": "信義區行人專用清潔箱.csv",
+                        "created": "2016-09-05 09:29:22",
+                        "last_modified": "2016-09-05T09:29:22"
+                    },
+                    "7b955414-f460-4472-b1a8-44819f74dc86": {
+                        "id": "7b955414-f460-4472-b1a8-44819f74dc86",
+                        "name": "南港區行人專用清潔箱.csv",
+                        "created": "2016-10-24 14:52:44",
+                        "last_modified": "2016-10-24T14:52:44"
+                    },
+                    "5697d81f-7c9d-43fc-a202-ae8804bbd34b": {
+                        "id": "5697d81f-7c9d-43fc-a202-ae8804bbd34b",
+                        "name": "萬華區行人專用清潔箱.csv",
+                        "created": "2016-07-29 11:30:33",
+                        "last_modified": "2016-07-29T11:30:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "73bcd54c-bb76-40f1-a943-93342a6b82b1": {
+                "name": "73bcd54c-bb76-40f1-a943-93342a6b82b1",
+                "title": "臺北市再生家具",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-07 14:23:29",
+                "timeEnd": 1488867809,
+                "timeBegin": 1431360000,
+                "resources": {
+                    "8e7d2004-bdcf-45e7-8937-1815f47e6db4": {
+                        "id": "8e7d2004-bdcf-45e7-8937-1815f47e6db4",
+                        "name": "再生家具.csv",
+                        "created": "2017-03-07 14:20:43",
+                        "last_modified": "2017-03-07T14:20:43"
+                    },
+                    "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2": {
+                        "id": "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2",
+                        "name": "再生家具相關資訊.csv",
+                        "created": "2016-06-16 09:13:22",
+                        "last_modified": "2016-06-16T09:13:22"
                     }
                 },
                 "counters": {
@@ -24004,92 +24500,6 @@
                     "resource_recent": 0
                 }
             },
-            "a835f3ba-7f50-4b0d-91a6-9df128632d1c": {
-                "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
-                "title": "臺北市行人專用清潔箱",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-03 10:55:59",
-                "timeEnd": 1488509759,
-                "timeBegin": 1432137600,
-                "resources": {
-                    "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
-                        "id": "97cc923a-e9ee-4adc-8c3d-335567dc15d3",
-                        "name": "士林區行人專用清潔箱.csv",
-                        "created": "2017-02-20 08:23:44",
-                        "last_modified": "2017-02-20T08:23:44"
-                    },
-                    "5fa14e06-018b-4851-8316-1ff324384f79": {
-                        "id": "5fa14e06-018b-4851-8316-1ff324384f79",
-                        "name": "大同區行人專用清潔箱.csv",
-                        "created": "2016-11-16 08:55:18",
-                        "last_modified": "2016-11-16T08:55:18"
-                    },
-                    "f40cd66c-afba-4409-9289-e677b6b8d00e": {
-                        "id": "f40cd66c-afba-4409-9289-e677b6b8d00e",
-                        "name": "大安區行人專用清潔箱.csv",
-                        "created": "2017-02-08 08:45:27",
-                        "last_modified": "2017-02-08T08:45:27"
-                    },
-                    "33b2c4c5-9870-4ee9-b280-a3a297c56a22": {
-                        "id": "33b2c4c5-9870-4ee9-b280-a3a297c56a22",
-                        "name": "中山區行人專用清潔箱.csv",
-                        "created": "2017-01-11 10:14:11",
-                        "last_modified": "2017-01-11T10:14:11"
-                    },
-                    "0b544701-fb47-4fa9-90f1-15b1987da0f5": {
-                        "id": "0b544701-fb47-4fa9-90f1-15b1987da0f5",
-                        "name": "中正區行人專用清潔箱.csv",
-                        "created": "2017-01-03 16:34:01",
-                        "last_modified": "2017-01-03T16:34:01"
-                    },
-                    "37eac6d1-6569-43c9-9fcf-fc676417c2cd": {
-                        "id": "37eac6d1-6569-43c9-9fcf-fc676417c2cd",
-                        "name": "內湖區行人專用清潔箱.csv",
-                        "created": "2017-01-13 15:30:10",
-                        "last_modified": "2017-01-13T15:30:10"
-                    },
-                    "46647394-d47f-4a4d-b0f0-14a60ac2aade": {
-                        "id": "46647394-d47f-4a4d-b0f0-14a60ac2aade",
-                        "name": "文山區行人專用清潔箱.csv",
-                        "created": "2016-11-11 15:09:12",
-                        "last_modified": "2016-11-11T15:09:12"
-                    },
-                    "05d67de9-a034-4177-9f53-10d6f79e02cf": {
-                        "id": "05d67de9-a034-4177-9f53-10d6f79e02cf",
-                        "name": "北投區行人專用清潔箱.csv",
-                        "created": "2017-02-18 16:36:41",
-                        "last_modified": "2017-02-18T16:36:41"
-                    },
-                    "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc": {
-                        "id": "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc",
-                        "name": "松山區行人專用清潔箱.csv",
-                        "created": "2017-02-07 08:34:35",
-                        "last_modified": "2017-02-07T08:34:35"
-                    },
-                    "8cbb344b-83d2-4176-9abd-d84508e7dc73": {
-                        "id": "8cbb344b-83d2-4176-9abd-d84508e7dc73",
-                        "name": "信義區行人專用清潔箱.csv",
-                        "created": "2016-09-05 09:29:22",
-                        "last_modified": "2016-09-05T09:29:22"
-                    },
-                    "7b955414-f460-4472-b1a8-44819f74dc86": {
-                        "id": "7b955414-f460-4472-b1a8-44819f74dc86",
-                        "name": "南港區行人專用清潔箱.csv",
-                        "created": "2016-10-24 14:52:44",
-                        "last_modified": "2016-10-24T14:52:44"
-                    },
-                    "5697d81f-7c9d-43fc-a202-ae8804bbd34b": {
-                        "id": "5697d81f-7c9d-43fc-a202-ae8804bbd34b",
-                        "name": "萬華區行人專用清潔箱.csv",
-                        "created": "2016-07-29 11:30:33",
-                        "last_modified": "2016-07-29T11:30:33"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "0f9f0347-3c58-46a2-ad52-13c5e01aa05c": {
                 "name": "0f9f0347-3c58-46a2-ad52-13c5e01aa05c",
                 "title": "臺北市張貼板欄核准地點一覽表",
@@ -24103,32 +24513,6 @@
                         "name": "臺北市張貼廣告板欄核准地點一覽表.csv",
                         "created": "2016-06-02 15:37:54",
                         "last_modified": "2016-06-02T15:37:54"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "73bcd54c-bb76-40f1-a943-93342a6b82b1": {
-                "name": "73bcd54c-bb76-40f1-a943-93342a6b82b1",
-                "title": "臺北市再生家具",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-02 11:11:42",
-                "timeEnd": 1488424302,
-                "timeBegin": 1431360000,
-                "resources": {
-                    "8e7d2004-bdcf-45e7-8937-1815f47e6db4": {
-                        "id": "8e7d2004-bdcf-45e7-8937-1815f47e6db4",
-                        "name": "再生家具.csv",
-                        "created": "2017-03-02 11:09:03",
-                        "last_modified": "2017-03-02T11:09:03"
-                    },
-                    "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2": {
-                        "id": "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2",
-                        "name": "再生家具相關資訊.csv",
-                        "created": "2016-06-16 09:13:22",
-                        "last_modified": "2016-06-16T09:13:22"
                     }
                 },
                 "counters": {
@@ -24949,322 +25333,6 @@
                         "name": "105年第4季臺北市機動車輛排放空氣污染物檢查、檢驗告發情形.ods",
                         "created": "2017-02-13 09:23:30",
                         "last_modified": "2017-02-13T09:23:30"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a2947e06-966d-468b-870f-8e1020603321": {
-                "name": "a2947e06-966d-468b-870f-8e1020603321",
-                "title": "臺北市政府環境保護局污染源稽查(查核)處分概況月報表",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-02-13 09:18:14",
-                "timeEnd": 1486948694,
-                "timeBegin": 1438099200,
-                "resources": {
-                    "ed9b16eb-c40a-43f7-b85c-71172267273d": {
-                        "id": "ed9b16eb-c40a-43f7-b85c-71172267273d",
-                        "name": "104年1月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-08-03 14:13:54",
-                        "last_modified": "2015-08-03T14:13:54"
-                    },
-                    "255c80b8-9c86-4d0f-a90d-84da9f46cfe6": {
-                        "id": "255c80b8-9c86-4d0f-a90d-84da9f46cfe6",
-                        "name": "104年2月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-08-03 14:14:05",
-                        "last_modified": "2015-08-03T14:14:05"
-                    },
-                    "a3a29a38-51f8-4cdd-922f-cec4126df70b": {
-                        "id": "a3a29a38-51f8-4cdd-922f-cec4126df70b",
-                        "name": "104年3月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-08-03 14:14:22",
-                        "last_modified": "2015-08-03T14:14:22"
-                    },
-                    "bb61f5c1-a544-408e-9ec5-17957b852209": {
-                        "id": "bb61f5c1-a544-408e-9ec5-17957b852209",
-                        "name": "104年4月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-08-03 14:14:44",
-                        "last_modified": "2015-08-03T14:14:44"
-                    },
-                    "8029390d-67c1-46cd-a00b-bc61445b2181": {
-                        "id": "8029390d-67c1-46cd-a00b-bc61445b2181",
-                        "name": "104年5月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-08-03 14:14:58",
-                        "last_modified": "2015-08-03T14:14:58"
-                    },
-                    "dd5becd6-78e5-4c61-97ea-c7457e79560e": {
-                        "id": "dd5becd6-78e5-4c61-97ea-c7457e79560e",
-                        "name": "104年6月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-08-03 14:15:14",
-                        "last_modified": "2015-08-03T14:15:14"
-                    },
-                    "4f53830f-75e3-4588-b42f-1d7ac4786171": {
-                        "id": "4f53830f-75e3-4588-b42f-1d7ac4786171",
-                        "name": "104年7月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-09-07 14:29:39",
-                        "last_modified": "2015-09-07T14:29:39"
-                    },
-                    "e8297d98-cdc4-4afd-a286-d39cf3cb9707": {
-                        "id": "e8297d98-cdc4-4afd-a286-d39cf3cb9707",
-                        "name": "104年8月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-10-16 17:07:53",
-                        "last_modified": "2015-10-16T17:07:53"
-                    },
-                    "33eba4c3-d0a0-496e-85c9-cac7cc7ada73": {
-                        "id": "33eba4c3-d0a0-496e-85c9-cac7cc7ada73",
-                        "name": "104年9月 臺北市政府環境保護局污染源稽查(查核)處分概況.xls",
-                        "created": "2015-10-29 16:44:49",
-                        "last_modified": "2015-10-29T16:44:49"
-                    },
-                    "75e6c1d0-992e-4e3f-b4f6-397779dffa2d": {
-                        "id": "75e6c1d0-992e-4e3f-b4f6-397779dffa2d",
-                        "name": "104年10月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
-                        "created": "2015-12-01 15:08:23",
-                        "last_modified": "2015-12-01T15:08:23"
-                    },
-                    "e5dbf742-d692-4b92-a162-469de278edc9": {
-                        "id": "e5dbf742-d692-4b92-a162-469de278edc9",
-                        "name": "104年11月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
-                        "created": "2016-02-25 12:37:49",
-                        "last_modified": "2016-02-25T12:37:49"
-                    },
-                    "bbf7f337-7637-4870-9e26-5314824d4aec": {
-                        "id": "bbf7f337-7637-4870-9e26-5314824d4aec",
-                        "name": "104年12月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
-                        "created": "2016-02-25 12:38:06",
-                        "last_modified": "2016-02-25T12:38:06"
-                    },
-                    "bcd12cff-bab1-426f-b210-0bf2c370fd58": {
-                        "id": "bcd12cff-bab1-426f-b210-0bf2c370fd58",
-                        "name": "105年01月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
-                        "created": "2016-02-25 12:38:20",
-                        "last_modified": "2016-02-25T12:38:20"
-                    },
-                    "4ff5c51a-5e0a-47a1-8443-a0f21ace2e03": {
-                        "id": "4ff5c51a-5e0a-47a1-8443-a0f21ace2e03",
-                        "name": "105年02月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
-                        "created": "2016-06-01 11:16:19",
-                        "last_modified": "2016-06-01T11:16:19"
-                    },
-                    "f3b98656-bc55-45c9-8a26-9778b640de00": {
-                        "id": "f3b98656-bc55-45c9-8a26-9778b640de00",
-                        "name": "105年03月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
-                        "created": "2016-06-01 11:16:35",
-                        "last_modified": "2016-06-01T11:16:35"
-                    },
-                    "9c5dd592-14c3-430b-a8ee-ddbe8a83281c": {
-                        "id": "9c5dd592-14c3-430b-a8ee-ddbe8a83281c",
-                        "name": "105年04月 臺北市政府環境保護局污染源稽查(查核)處分概況.xlsx",
-                        "created": "2016-06-01 11:16:51",
-                        "last_modified": "2016-06-01T11:16:51"
-                    },
-                    "01264869-e15d-4b79-9cb1-5294aeab0b25": {
-                        "id": "01264869-e15d-4b79-9cb1-5294aeab0b25",
-                        "name": "105年5月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:13:35",
-                        "last_modified": "2017-02-13T09:13:35"
-                    },
-                    "82f92147-7d25-4588-89c8-bfd446c625fa": {
-                        "id": "82f92147-7d25-4588-89c8-bfd446c625fa",
-                        "name": "105年6月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:14:00",
-                        "last_modified": "2017-02-13T09:14:00"
-                    },
-                    "e1d1258f-1745-4f4f-ac6d-134fc6be5e18": {
-                        "id": "e1d1258f-1745-4f4f-ac6d-134fc6be5e18",
-                        "name": "105年7月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:14:14",
-                        "last_modified": "2017-02-13T09:14:14"
-                    },
-                    "65659473-de9f-45b3-b30a-a5e6816f7b3f": {
-                        "id": "65659473-de9f-45b3-b30a-a5e6816f7b3f",
-                        "name": "105年8月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:14:32",
-                        "last_modified": "2017-02-13T09:14:32"
-                    },
-                    "8697900b-7430-44ae-ae27-79ee8cea0cdd": {
-                        "id": "8697900b-7430-44ae-ae27-79ee8cea0cdd",
-                        "name": "105年9月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:15:05",
-                        "last_modified": "2017-02-13T09:15:05"
-                    },
-                    "5a27f392-b5b1-4d3f-ac3f-5a2acf53e315": {
-                        "id": "5a27f392-b5b1-4d3f-ac3f-5a2acf53e315",
-                        "name": "105年10月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:15:48",
-                        "last_modified": "2017-02-13T09:15:48"
-                    },
-                    "73780906-44ea-4f50-98ac-f43df6ad6a37": {
-                        "id": "73780906-44ea-4f50-98ac-f43df6ad6a37",
-                        "name": "105年11月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:16:14",
-                        "last_modified": "2017-02-13T09:16:14"
-                    },
-                    "4b844bd5-9141-488e-b309-c982ec4d2243": {
-                        "id": "4b844bd5-9141-488e-b309-c982ec4d2243",
-                        "name": "105年12月臺北市政府環境保護局污染源稽查(查核)處分概況.ods",
-                        "created": "2017-02-13 09:16:41",
-                        "last_modified": "2017-02-13T09:16:41"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "9e5784d3-cb9b-4d0e-add9-87c7f61accdb": {
-                "name": "9e5784d3-cb9b-4d0e-add9-87c7f61accdb",
-                "title": "臺北市公害陳情案件受理統計月報表",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-02-13 09:09:37",
-                "timeEnd": 1486948177,
-                "timeBegin": 1438099200,
-                "resources": {
-                    "bf037a88-8d7f-47d8-bf1c-707444aa24ab": {
-                        "id": "bf037a88-8d7f-47d8-bf1c-707444aa24ab",
-                        "name": "104年1月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-08-03 14:02:46",
-                        "last_modified": "2015-08-03T14:02:46"
-                    },
-                    "b535b548-2fd0-471e-8662-cc497cb013aa": {
-                        "id": "b535b548-2fd0-471e-8662-cc497cb013aa",
-                        "name": "104年2月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-08-03 14:02:57",
-                        "last_modified": "2015-08-03T14:02:57"
-                    },
-                    "9c31c55c-b020-4dca-80e7-071b944a0553": {
-                        "id": "9c31c55c-b020-4dca-80e7-071b944a0553",
-                        "name": "104年3月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-08-03 14:03:09",
-                        "last_modified": "2015-08-03T14:03:09"
-                    },
-                    "d7ca4be4-0204-4518-9c89-189f3148581b": {
-                        "id": "d7ca4be4-0204-4518-9c89-189f3148581b",
-                        "name": "104年4月 臺北市公害陳情案件受理統計.xlsb",
-                        "created": "2015-08-03 14:03:51",
-                        "last_modified": "2015-08-03T14:03:51"
-                    },
-                    "9454e06c-9db6-47d9-af36-b49963ce2831": {
-                        "id": "9454e06c-9db6-47d9-af36-b49963ce2831",
-                        "name": "104年5月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-08-03 14:04:39",
-                        "last_modified": "2015-08-03T14:04:39"
-                    },
-                    "1e218afa-580b-403d-9f67-a579f2d70ad3": {
-                        "id": "1e218afa-580b-403d-9f67-a579f2d70ad3",
-                        "name": "104年6月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-08-03 14:05:10",
-                        "last_modified": "2015-08-03T14:05:10"
-                    },
-                    "6f2388ff-4b8b-4597-8785-e978bbce67d3": {
-                        "id": "6f2388ff-4b8b-4597-8785-e978bbce67d3",
-                        "name": "104年7月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-09-07 14:26:51",
-                        "last_modified": "2015-09-07T14:26:51"
-                    },
-                    "910b0369-1b3e-4b7d-b360-f4a2ef819a7a": {
-                        "id": "910b0369-1b3e-4b7d-b360-f4a2ef819a7a",
-                        "name": "104年8月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-10-16 17:06:54",
-                        "last_modified": "2015-10-16T17:06:54"
-                    },
-                    "25076d3e-2c00-4a46-b7f1-7f8a34ab972d": {
-                        "id": "25076d3e-2c00-4a46-b7f1-7f8a34ab972d",
-                        "name": "104年9月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-10-29 16:42:40",
-                        "last_modified": "2015-10-29T16:42:40"
-                    },
-                    "4a4db695-cfb7-40c0-af8a-321d8639ee14": {
-                        "id": "4a4db695-cfb7-40c0-af8a-321d8639ee14",
-                        "name": "104年10月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2015-12-01 15:11:40",
-                        "last_modified": "2015-12-01T15:11:40"
-                    },
-                    "c63ef728-fbd2-48bb-904a-eab05a4b2df3": {
-                        "id": "c63ef728-fbd2-48bb-904a-eab05a4b2df3",
-                        "name": "104年11月 臺北市公害陳情案件受理統計.xls",
-                        "created": "2016-02-25 12:41:04",
-                        "last_modified": "2016-02-25T12:41:04"
-                    },
-                    "c1145c79-4998-44b8-b8e3-a2d427b986b1": {
-                        "id": "c1145c79-4998-44b8-b8e3-a2d427b986b1",
-                        "name": "104年12月 臺北市公害陳情案件受理統計.xlsx",
-                        "created": "2016-02-25 12:41:18",
-                        "last_modified": "2016-02-25T12:41:18"
-                    },
-                    "92aec5e3-8bcc-423e-b6f1-f5ee80c9f0e9": {
-                        "id": "92aec5e3-8bcc-423e-b6f1-f5ee80c9f0e9",
-                        "name": "105年1月 臺北市公害陳情案件受理統計.xlsx",
-                        "created": "2016-02-25 12:41:30",
-                        "last_modified": "2016-02-25T12:41:30"
-                    },
-                    "82493bed-710e-4bcd-9dfd-03751ae934a9": {
-                        "id": "82493bed-710e-4bcd-9dfd-03751ae934a9",
-                        "name": "105年2月 臺北市公害陳情案件受理統計.xlsx",
-                        "created": "2016-06-01 11:05:48",
-                        "last_modified": "2016-06-01T11:05:48"
-                    },
-                    "65b9df29-3edc-4488-95f7-dea73541b097": {
-                        "id": "65b9df29-3edc-4488-95f7-dea73541b097",
-                        "name": "105年3月 臺北市公害陳情案件受理統計.xlsx",
-                        "created": "2016-06-01 11:14:32",
-                        "last_modified": "2016-06-01T11:14:32"
-                    },
-                    "a93374f8-a026-4fa7-8e96-79341780aa28": {
-                        "id": "a93374f8-a026-4fa7-8e96-79341780aa28",
-                        "name": "105年4月 臺北市公害陳情案件受理統計.xlsx",
-                        "created": "2016-06-01 11:14:51",
-                        "last_modified": "2016-06-01T11:14:51"
-                    },
-                    "4ce02b95-c12e-4c59-a814-ddf7a6e100ef": {
-                        "id": "4ce02b95-c12e-4c59-a814-ddf7a6e100ef",
-                        "name": "105年5月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:01:15",
-                        "last_modified": "2017-02-13T09:01:15"
-                    },
-                    "fa12dffd-7adc-43a6-90fd-6fafd024bb35": {
-                        "id": "fa12dffd-7adc-43a6-90fd-6fafd024bb35",
-                        "name": "105年6月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:01:41",
-                        "last_modified": "2017-02-13T09:01:41"
-                    },
-                    "353b14d8-601c-45bc-91cb-6caceb5459c2": {
-                        "id": "353b14d8-601c-45bc-91cb-6caceb5459c2",
-                        "name": "105年7月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:01:55",
-                        "last_modified": "2017-02-13T09:01:55"
-                    },
-                    "e8cc5fe1-2c46-436d-b9b7-5160e1872b65": {
-                        "id": "e8cc5fe1-2c46-436d-b9b7-5160e1872b65",
-                        "name": "105年8月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:02:09",
-                        "last_modified": "2017-02-13T09:02:09"
-                    },
-                    "a68c693f-4715-4fe7-85a1-73bcb3803dfa": {
-                        "id": "a68c693f-4715-4fe7-85a1-73bcb3803dfa",
-                        "name": "105年9月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:02:23",
-                        "last_modified": "2017-02-13T09:02:23"
-                    },
-                    "e1bf285a-4b1f-4041-b3c7-7a6a13e0e9f4": {
-                        "id": "e1bf285a-4b1f-4041-b3c7-7a6a13e0e9f4",
-                        "name": "105年10月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:02:57",
-                        "last_modified": "2017-02-13T09:02:57"
-                    },
-                    "60f7d82c-677b-4cbb-92da-0860ed8e9454": {
-                        "id": "60f7d82c-677b-4cbb-92da-0860ed8e9454",
-                        "name": "105年11月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:04:58",
-                        "last_modified": "2017-02-13T09:04:58"
-                    },
-                    "c9b6afdd-fc9e-402e-ba84-d1f988df9728": {
-                        "id": "c9b6afdd-fc9e-402e-ba84-d1f988df9728",
-                        "name": "105年12月臺北市公害陳情案件受理統計.ods",
-                        "created": "2017-02-13 09:05:37",
-                        "last_modified": "2017-02-13T09:05:37"
                     }
                 },
                 "counters": {
@@ -26804,15 +26872,15 @@
                 "name": "6a3e862a-e1cb-4e44-b989-d35609559463",
                 "title": "臺北市開放認養動物",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-06 19:26:16",
-                "timeEnd": 1488799576,
+                "metadata_modified": "2017-03-07 19:26:16",
+                "timeEnd": 1488885976,
                 "timeBegin": 1356537600,
                 "resources": {
                     "f4a75ba9-7721-4363-884d-c3820b0b917c": {
                         "id": "f4a75ba9-7721-4363-884d-c3820b0b917c",
                         "name": "animal.json",
-                        "created": "2017-03-06 19:26:16",
-                        "last_modified": "2017-03-06T19:26:16"
+                        "created": "2017-03-07 19:26:16",
+                        "last_modified": "2017-03-07T19:26:16"
                     }
                 },
                 "counters": {
@@ -26824,15 +26892,15 @@
                 "name": "d23e6ef4-3b78-4e74-8f8e-93cbe0c66515",
                 "title": "臺北市企業營運總部分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-06 19:18:01",
-                "timeEnd": 1488799081,
+                "metadata_modified": "2017-03-07 19:18:01",
+                "timeEnd": 1488885481,
                 "timeBegin": 1326384000,
                 "resources": {
                     "77f5bb24-425a-4910-a5c1-fafe48fdaff6": {
                         "id": "77f5bb24-425a-4910-a5c1-fafe48fdaff6",
                         "name": "factory.xml",
-                        "created": "2017-03-06 19:18:01",
-                        "last_modified": "2017-03-06T19:18:01"
+                        "created": "2017-03-07 19:18:01",
+                        "last_modified": "2017-03-07T19:18:01"
                     }
                 },
                 "counters": {
@@ -26844,15 +26912,15 @@
                 "name": "2385447a-6793-4055-8ce0-b601ffa5e9b5",
                 "title": "臺北市加油站及加氣站分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-06 19:16:01",
-                "timeEnd": 1488798961,
+                "metadata_modified": "2017-03-07 19:16:01",
+                "timeEnd": 1488885361,
                 "timeBegin": 1326384000,
                 "resources": {
                     "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e": {
                         "id": "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e",
                         "name": "religion.xml",
-                        "created": "2017-03-06 19:16:01",
-                        "last_modified": "2017-03-06T19:16:01"
+                        "created": "2017-03-07 19:16:01",
+                        "last_modified": "2017-03-07T19:16:01"
                     }
                 },
                 "counters": {
@@ -26864,15 +26932,15 @@
                 "name": "c8215f0d-20fa-4350-bcd9-da82432c2c9d",
                 "title": "臺北市登記工廠分佈圖及基本資料",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-06 19:14:01",
-                "timeEnd": 1488798841,
+                "metadata_modified": "2017-03-07 19:14:03",
+                "timeEnd": 1488885243,
                 "timeBegin": 1326384000,
                 "resources": {
                     "0c526081-68e3-489f-ae05-5a015ab80f61": {
                         "id": "0c526081-68e3-489f-ae05-5a015ab80f61",
                         "name": "taipeiFactory.xml",
-                        "created": "2017-03-06 19:14:01",
-                        "last_modified": "2017-03-06T19:14:01"
+                        "created": "2017-03-07 19:14:03",
+                        "last_modified": "2017-03-07T19:14:03"
                     }
                 },
                 "counters": {
@@ -26884,15 +26952,15 @@
                 "name": "3a7f9832-d020-4a6d-9b4d-6727fc149352",
                 "title": "臺北市公用天然氣導管承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-06 19:12:00",
-                "timeEnd": 1488798720,
+                "metadata_modified": "2017-03-07 19:12:00",
+                "timeEnd": 1488885120,
                 "timeBegin": 1369324800,
                 "resources": {
                     "cc69a890-eaae-4af5-9b00-e24cadaaad09": {
                         "id": "cc69a890-eaae-4af5-9b00-e24cadaaad09",
                         "name": "gasbusiness.xml",
-                        "created": "2017-03-06 19:12:00",
-                        "last_modified": "2017-03-06T19:12:00"
+                        "created": "2017-03-07 19:12:00",
+                        "last_modified": "2017-03-07T19:12:00"
                     }
                 },
                 "counters": {
@@ -26904,15 +26972,15 @@
                 "name": "166c8468-c496-4e27-ade3-13ee7d4a3881",
                 "title": "臺北市電器承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-06 19:10:00",
-                "timeEnd": 1488798600,
+                "metadata_modified": "2017-03-07 19:10:00",
+                "timeEnd": 1488885000,
                 "timeBegin": 1369324800,
                 "resources": {
                     "7befb610-232e-4a1e-99d0-35e964c10b70": {
                         "id": "7befb610-232e-4a1e-99d0-35e964c10b70",
                         "name": "ele.xml",
-                        "created": "2017-03-06 19:10:00",
-                        "last_modified": "2017-03-06T19:10:00"
+                        "created": "2017-03-07 19:10:00",
+                        "last_modified": "2017-03-07T19:10:00"
                     }
                 },
                 "counters": {
@@ -26924,15 +26992,15 @@
                 "name": "81b2a881-d37b-41b0-b9e0-39a2fef486ce",
                 "title": "臺北市自來水管承裝商業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-06 19:08:00",
-                "timeEnd": 1488798480,
+                "metadata_modified": "2017-03-07 19:08:00",
+                "timeEnd": 1488884880,
                 "timeBegin": 1369324800,
                 "resources": {
                     "6805942d-a8dd-4635-a394-01a8eadb3eba": {
                         "id": "6805942d-a8dd-4635-a394-01a8eadb3eba",
                         "name": "waterbusiness.xml",
-                        "created": "2017-03-06 19:08:00",
-                        "last_modified": "2017-03-06T19:08:00"
+                        "created": "2017-03-07 19:08:00",
+                        "last_modified": "2017-03-07T19:08:00"
                     }
                 },
                 "counters": {
@@ -34209,6 +34277,19 @@
     },
     "臺北市政府秘書處": {
         "datasets": {
+            "4c812503-c284-4414-9939-ac5c9061f087": {
+                "name": "4c812503-c284-4414-9939-ac5c9061f087",
+                "title": "臺北市政府公報(106年度)",
+                "organization_id": "379010000A",
+                "metadata_modified": "2017-03-07 08:41:42",
+                "timeEnd": 1488847302,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "12abd545-6729-467f-8819-abf913f3590d": {
                 "name": "12abd545-6729-467f-8819-abf913f3590d",
                 "title": "臺北市政府電視新聞統計週報",
@@ -34704,19 +34785,6 @@
                         "last_modified": "2017-03-06T17:33:21"
                     }
                 },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "4c812503-c284-4414-9939-ac5c9061f087": {
-                "name": "4c812503-c284-4414-9939-ac5c9061f087",
-                "title": "臺北市政府公報(106年度)",
-                "organization_id": "379010000A",
-                "metadata_modified": "2017-03-06 09:46:12",
-                "timeEnd": 1488764772,
-                "timeBegin": 0,
-                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -41811,15 +41879,15 @@
                 "name": "6aa6532d-652f-4c1b-814a-4646b75407af",
                 "title": "臺北市公眾區免費無線上網熱點資料(新版)",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-07 05:27:02",
-                "timeEnd": 1488835622,
+                "metadata_modified": "2017-03-08 05:27:03",
+                "timeEnd": 1488922023,
                 "timeBegin": 1372348800,
                 "resources": {
                     "b087af42-2c54-4dbf-86c8-427d788779e5": {
                         "id": "b087af42-2c54-4dbf-86c8-427d788779e5",
                         "name": "freeWifi.xml",
-                        "created": "2017-03-07 05:27:02",
-                        "last_modified": "2017-03-07T05:27:02"
+                        "created": "2017-03-08 05:27:03",
+                        "last_modified": "2017-03-08T05:27:03"
                     }
                 },
                 "counters": {
@@ -41831,63 +41899,63 @@
                 "name": "5bc82dc7-f2a2-4351-abc8-c09c8a8d7529",
                 "title": "今日氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-07 05:20:24",
-                "timeEnd": 1488835224,
+                "metadata_modified": "2017-03-08 05:25:04",
+                "timeEnd": 1488921904,
                 "timeBegin": 0,
                 "resources": {
                     "1f1aaba5-616a-4a33-867d-878142cac5c4": {
                         "id": "1f1aaba5-616a-4a33-867d-878142cac5c4",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:19:07",
-                        "last_modified": "2017-03-07T05:19:07"
+                        "created": "2017-03-08 05:20:22",
+                        "last_modified": "2017-03-08T05:20:22"
                     },
                     "c3667669-39f8-4b82-bad9-f0f7ca859bf0": {
                         "id": "c3667669-39f8-4b82-bad9-f0f7ca859bf0",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:19:24",
-                        "last_modified": "2017-03-07T05:19:24"
+                        "created": "2017-03-08 05:23:04",
+                        "last_modified": "2017-03-08T05:23:04"
                     },
                     "c73a9461-91c8-4e5c-b728-86b6feb24ffb": {
                         "id": "c73a9461-91c8-4e5c-b728-86b6feb24ffb",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:19:33",
-                        "last_modified": "2017-03-07T05:19:33"
+                        "created": "2017-03-08 05:23:30",
+                        "last_modified": "2017-03-08T05:23:30"
                     },
                     "5e5f1d9a-cc42-482d-be4e-6223f4931977": {
                         "id": "5e5f1d9a-cc42-482d-be4e-6223f4931977",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:19:44",
-                        "last_modified": "2017-03-07T05:19:44"
+                        "created": "2017-03-08 05:23:50",
+                        "last_modified": "2017-03-08T05:23:50"
                     },
                     "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd": {
                         "id": "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:19:52",
-                        "last_modified": "2017-03-07T05:19:52"
+                        "created": "2017-03-08 05:24:08",
+                        "last_modified": "2017-03-08T05:24:08"
                     },
                     "b35f6ac9-6d99-492a-8773-bee73656c27b": {
                         "id": "b35f6ac9-6d99-492a-8773-bee73656c27b",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:20:01",
-                        "last_modified": "2017-03-07T05:20:01"
+                        "created": "2017-03-08 05:24:27",
+                        "last_modified": "2017-03-08T05:24:27"
                     },
                     "00fcb626-9296-4ae1-9c87-f019871755c8": {
                         "id": "00fcb626-9296-4ae1-9c87-f019871755c8",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:20:09",
-                        "last_modified": "2017-03-07T05:20:09"
+                        "created": "2017-03-08 05:24:31",
+                        "last_modified": "2017-03-08T05:24:31"
                     },
                     "7803b298-fdca-4ccc-993f-88ba97ec3c4d": {
                         "id": "7803b298-fdca-4ccc-993f-88ba97ec3c4d",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:20:16",
-                        "last_modified": "2017-03-07T05:20:16"
+                        "created": "2017-03-08 05:24:46",
+                        "last_modified": "2017-03-08T05:24:46"
                     },
                     "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570": {
                         "id": "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:20:23",
-                        "last_modified": "2017-03-07T05:20:23"
+                        "created": "2017-03-08 05:25:04",
+                        "last_modified": "2017-03-08T05:25:04"
                     }
                 },
                 "counters": {
@@ -41899,15 +41967,15 @@
                 "name": "bceb2963-d2dd-4f2d-929c-67c1c0d48667",
                 "title": "一週氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-07 05:19:00",
-                "timeEnd": 1488835140,
+                "metadata_modified": "2017-03-08 05:19:00",
+                "timeEnd": 1488921540,
                 "timeBegin": 0,
                 "resources": {
                     "e6831708-02b4-4ef8-98fa-4b4ce53459d9": {
                         "id": "e6831708-02b4-4ef8-98fa-4b4ce53459d9",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-07 05:19:00",
-                        "last_modified": "2017-03-07T05:19:00"
+                        "created": "2017-03-08 05:19:00",
+                        "last_modified": "2017-03-08T05:19:00"
                     }
                 },
                 "counters": {
@@ -41919,15 +41987,15 @@
                 "name": "203f1657-bb4a-45a7-b25f-279b63136645",
                 "title": "市政網站整合平台之常見問答",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-06 20:49:07",
-                "timeEnd": 1488804547,
+                "metadata_modified": "2017-03-07 20:49:20",
+                "timeEnd": 1488890960,
                 "timeBegin": 0,
                 "resources": {
                     "06badd5c-e0bc-4b55-8646-9fcd4ea7096d": {
                         "id": "06badd5c-e0bc-4b55-8646-9fcd4ea7096d",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-03-06 20:49:07",
-                        "last_modified": "2017-03-06T20:49:07"
+                        "created": "2017-03-07 20:49:19",
+                        "last_modified": "2017-03-07T20:49:19"
                     },
                     "f582d9b1-51ad-421c-874e-a7472f9897b3": {
                         "id": "f582d9b1-51ad-421c-874e-a7472f9897b3",
@@ -41945,15 +42013,15 @@
                 "name": "1a97fef5-dc98-4b6b-8694-5d6b3f6f2442",
                 "title": "市政網站整合平台之最新消息",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-06 20:48:19",
-                "timeEnd": 1488804499,
+                "metadata_modified": "2017-03-07 20:48:22",
+                "timeEnd": 1488890902,
                 "timeBegin": 0,
                 "resources": {
                     "e9d0bf09-4596-4fd2-9929-f8deb1b7352a": {
                         "id": "e9d0bf09-4596-4fd2-9929-f8deb1b7352a",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-03-06 20:48:18",
-                        "last_modified": "2017-03-06T20:48:18"
+                        "created": "2017-03-07 20:48:21",
+                        "last_modified": "2017-03-07T20:48:21"
                     }
                 },
                 "counters": {
@@ -43321,15 +43389,15 @@
                 "name": "9ebdd4b8-c211-4d28-b99d-f73a34d13867",
                 "title": "翡翠水庫水情資料",
                 "organization_id": "379550000G",
-                "metadata_modified": "2017-03-07 05:30:00",
-                "timeEnd": 1488835800,
+                "metadata_modified": "2017-03-08 05:30:00",
+                "timeEnd": 1488922200,
                 "timeBegin": 0,
                 "resources": {
                     "236f6133-e148-4bbe-adc4-efeee4ac6096": {
                         "id": "236f6133-e148-4bbe-adc4-efeee4ac6096",
                         "name": "feitsuiWater.xml",
-                        "created": "2017-03-07 05:30:00",
-                        "last_modified": "2017-03-07T05:30:00"
+                        "created": "2017-03-08 05:30:00",
+                        "last_modified": "2017-03-08T05:30:00"
                     }
                 },
                 "counters": {
@@ -43776,15 +43844,15 @@
                 "name": "961ca397-4a59-45e8-b312-697f26b059dc",
                 "title": "臺北市水質監測資訊",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-03-07 05:19:00",
-                "timeEnd": 1488835140,
+                "metadata_modified": "2017-03-08 05:19:00",
+                "timeEnd": 1488921540,
                 "timeBegin": 1398268800,
                 "resources": {
                     "190796c8-7c56-42e0-8068-39242b8ec927": {
                         "id": "190796c8-7c56-42e0-8068-39242b8ec927",
                         "name": "waterQuality.xml",
-                        "created": "2017-03-07 05:19:00",
-                        "last_modified": "2017-03-07T05:19:00"
+                        "created": "2017-03-08 05:19:00",
+                        "last_modified": "2017-03-08T05:19:00"
                     },
                     "1e9b4316-fa39-4707-aebd-f239b4f64b2f": {
                         "id": "1e9b4316-fa39-4707-aebd-f239b4f64b2f",
@@ -43802,21 +43870,41 @@
                 "name": "75aa4c40-db2a-47b7-8f0a-b10d4ff9788b",
                 "title": "臺北市停水資訊-(大臺北地區)",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-03-06 15:22:45",
-                "timeEnd": 1488784965,
+                "metadata_modified": "2017-03-07 15:22:57",
+                "timeEnd": 1488871377,
                 "timeBegin": 1325606400,
                 "resources": {
                     "a242ee9b-b954-4ae9-9827-2344c5dfeaea": {
                         "id": "a242ee9b-b954-4ae9-9827-2344c5dfeaea",
                         "name": "stopWater.xml",
-                        "created": "2017-03-06 15:22:45",
-                        "last_modified": "2017-03-06T15:22:45"
+                        "created": "2017-03-07 15:22:57",
+                        "last_modified": "2017-03-07T15:22:57"
                     },
                     "e9c4da25-a373-4735-8992-d904646fa1ed": {
                         "id": "e9c4da25-a373-4735-8992-d904646fa1ed",
                         "name": "臺北市停水資訊-(大臺北地區)",
                         "created": "2016-08-26 18:46:25",
                         "last_modified": "2016-08-26T18:46:25"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c106a00b-5a21-4393-b213-475a0ece9f2b": {
+                "name": "c106a00b-5a21-4393-b213-475a0ece9f2b",
+                "title": "大臺北地區消防栓分布點位圖",
+                "organization_id": "379270000K",
+                "metadata_modified": "2017-03-07 11:38:16",
+                "timeEnd": 1488857896,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "b9f8154d-c627-48a8-b3ef-512ed9cde9e7": {
+                        "id": "b9f8154d-c627-48a8-b3ef-512ed9cde9e7",
+                        "name": "大臺北地區消防栓清冊1060307.csv",
+                        "created": "2017-03-07 11:38:16",
+                        "last_modified": "2017-03-07T11:38:16"
                     }
                 },
                 "counters": {
@@ -44024,26 +44112,6 @@
                     "resource_recent": 0
                 }
             },
-            "c106a00b-5a21-4393-b213-475a0ece9f2b": {
-                "name": "c106a00b-5a21-4393-b213-475a0ece9f2b",
-                "title": "大臺北地區消防栓分布點位圖",
-                "organization_id": "379270000K",
-                "metadata_modified": "2016-11-04 14:02:37",
-                "timeEnd": 1478239357,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "b9f8154d-c627-48a8-b3ef-512ed9cde9e7": {
-                        "id": "b9f8154d-c627-48a8-b3ef-512ed9cde9e7",
-                        "name": "大臺北地區消防栓清冊1051104.csv",
-                        "created": "2016-11-04 14:02:36",
-                        "last_modified": "2016-11-04T14:02:36"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "77edd7dc-8f6a-46c4-a40c-4ef77f60508a": {
                 "name": "77edd7dc-8f6a-46c4-a40c-4ef77f60508a",
                 "title": "104年臺北自來水事業統計年報",
@@ -44177,5 +44245,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1488835981
+    "time_generated": 1488922356
 }
