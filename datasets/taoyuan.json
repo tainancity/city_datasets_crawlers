@@ -19536,7 +19536,7 @@
     },
     "桃園市政府警察局": {
         "counters": {
-            "datasets": 65,
+            "datasets": 66,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -20939,6 +20939,28 @@
                         "created": "2016-03-16T18:50:57",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-04T10:03:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c83d0def-c951-4d64-882b-989e8c76326b": {
+                "name": "c83d0def-c951-4d64-882b-989e8c76326b",
+                "title": "桃園市106年交通事故點位",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-03-08T01:24:10.259287",
+                "metadata_modified": "2017-03-08T01:25:43.490462",
+                "timeEnd": 1488936308,
+                "timeBegin": 1488907450,
+                "resources": {
+                    "146e5169-5af8-4e0e-8730-e32b81f8ce0f": {
+                        "id": "146e5169-5af8-4e0e-8730-e32b81f8ce0f",
+                        "name": "accident_106_1.csv",
+                        "created": "2017-03-08T09:25:08",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-08T09:25:08"
                     }
                 },
                 "counters": {
@@ -24782,5 +24804,5 @@
             }
         }
     },
-    "time_generated": 1488922317
+    "time_generated": 1489008725
 }
