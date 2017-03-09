@@ -340,7 +340,7 @@
     },
     "桃園市政府交通局": {
         "counters": {
-            "datasets": 12,
+            "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -391,13 +391,41 @@
                     "resource_recent": 0
                 }
             },
+            "48a94214-cfdd-486e-a9b8-86050729b1c0": {
+                "name": "48a94214-cfdd-486e-a9b8-86050729b1c0",
+                "title": "公車即時車輛位置",
+                "organization_id": "380290000h",
+                "metadata_created": "2017-03-09T04:15:14.861254",
+                "metadata_modified": "2017-03-09T04:17:03.160971",
+                "timeEnd": 1489004223,
+                "timeBegin": 1489004114,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4ed4513a-8d97-484c-9929-ca2f99344ca5": {
+                "name": "4ed4513a-8d97-484c-9929-ca2f99344ca5",
+                "title": "公車業者資料",
+                "organization_id": "380290000h",
+                "metadata_created": "2017-03-09T02:38:37.938555",
+                "metadata_modified": "2017-03-09T02:46:02.530588",
+                "timeEnd": 1488998762,
+                "timeBegin": 1488998317,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "d7a0513d-1a91-4ae6-a06f-fbf83190ab2a": {
                 "name": "56152735-5d32-4913-87be-32d946ba4050",
-                "title": "公車站點資料",
+                "title": "公車路線資訊",
                 "organization_id": "380290000h",
                 "metadata_created": "2016-03-11T02:51:13.052152",
-                "metadata_modified": "2016-12-12T06:33:38.003833",
-                "timeEnd": 1481495618,
+                "metadata_modified": "2017-03-09T03:17:37.087646",
+                "timeEnd": 1489000657,
                 "timeBegin": 1457635873,
                 "resources": {
                     "8cbcf170-8641-4a0d-8fe8-256a36f4c6cb": {
@@ -501,6 +529,20 @@
                     "resource_recent": 0
                 }
             },
+            "bf41d3f0-a448-4c50-b647-f38f46d2567f": {
+                "name": "bf41d3f0-a448-4c50-b647-f38f46d2567f",
+                "title": "公車站位資料",
+                "organization_id": "380290000h",
+                "metadata_created": "2017-03-09T03:57:36.640797",
+                "metadata_modified": "2017-03-09T04:19:13.092481",
+                "timeEnd": 1489004353,
+                "timeBegin": 1489003056,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "dfced8e0-242a-4716-94dc-fa1865f30fef": {
                 "name": "c22c89cd-28eb-45ed-9336-d596bdea0a95",
                 "title": "旅行時間偵測站 站間平均行駛車速",
@@ -540,6 +582,20 @@
                         "last_modified": "2015-11-19T09:48:23"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c7a0136b-ffaf-41a7-a757-c33fefc2784f": {
+                "name": "c7a0136b-ffaf-41a7-a757-c33fefc2784f",
+                "title": "公車即時預估時間",
+                "organization_id": "380290000h",
+                "metadata_created": "2017-03-09T03:29:12.027873",
+                "metadata_modified": "2017-03-09T04:20:00.505447",
+                "timeEnd": 1489004400,
+                "timeBegin": 1489001352,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -695,16 +751,23 @@
                 "title": "桃園市公布違反性別工作平等法事業單位",
                 "organization_id": "380240000j",
                 "metadata_created": "2016-05-13T07:57:37.487694",
-                "metadata_modified": "2016-06-02T08:48:41.056774",
-                "timeEnd": 1464828521,
+                "metadata_modified": "2017-03-09T02:24:33.702085",
+                "timeEnd": 1489025134,
                 "timeBegin": 1463097457,
                 "resources": {
                     "9f568bc4-e84d-41c1-a938-1a2671e2f16e": {
                         "id": "9f568bc4-e84d-41c1-a938-1a2671e2f16e",
                         "name": "桃園市公布違反性別工作平等法事業單位",
-                        "created": "2016-05-13T15:58:34.179778",
+                        "created": "2016-05-13T15:58:34",
                         "webstore_last_updated": null,
                         "last_modified": "2016-05-13T15:58:34"
+                    },
+                    "789b77af-a513-4855-89fc-4c8ff35744a0": {
+                        "id": "789b77af-a513-4855-89fc-4c8ff35744a0",
+                        "name": "桃園市105年度第3次公布違反性別工作平等法事業單位.csv",
+                        "created": "2017-03-09T10:05:34",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-09T10:05:33"
                     }
                 },
                 "counters": {
@@ -768,14 +831,14 @@
                 "title": "桃園市公布違反勞動基準法事業單位名單",
                 "organization_id": "380240000j",
                 "metadata_created": "2016-05-13T07:45:44.846759",
-                "metadata_modified": "2017-02-15T05:22:21.275464",
-                "timeEnd": 1487136141,
+                "metadata_modified": "2017-03-09T02:43:00.357601",
+                "timeEnd": 1488998580,
                 "timeBegin": 1463096744,
                 "resources": {
                     "2c981b80-f2b7-4f0a-aac6-a3b24ce98d9b": {
                         "id": "2c981b80-f2b7-4f0a-aac6-a3b24ce98d9b",
                         "name": "106年01月公布105年度12月份公布違反勞動基準法事業單位名單.csv",
-                        "created": "2017-02-15T13:22:21.343516",
+                        "created": "2017-02-15T13:22:21",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-15T13:22:21"
                     }
@@ -1765,8 +1828,8 @@
                 "title": "農水路更新改善計畫",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-12-28T09:34:40.524947",
-                "metadata_modified": "2016-12-28T09:46:34.108137",
-                "timeEnd": 1482918358,
+                "metadata_modified": "2017-03-09T07:35:51.303254",
+                "timeEnd": 1489044951,
                 "timeBegin": 1482888880,
                 "resources": {
                     "c2ead1aa-aa2a-4557-a663-aee762851e0e": {
@@ -1782,6 +1845,13 @@
                         "created": "2016-12-28T17:45:58",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-28T17:45:58"
+                    },
+                    "5e06c7ef-7f4a-45ef-9348-1e81b95befa5": {
+                        "id": "5e06c7ef-7f4a-45ef-9348-1e81b95befa5",
+                        "name": "農水路改善計畫.csv",
+                        "created": "2017-03-09T15:35:51.354134",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-09T15:35:51"
                     }
                 },
                 "counters": {
@@ -6589,8 +6659,8 @@
                 "title": "桃園市建設類",
                 "organization_id": "380110000g",
                 "metadata_created": "2015-10-02T02:23:50.175925",
-                "metadata_modified": "2016-04-27T05:17:05.160168",
-                "timeEnd": 1461734225,
+                "metadata_modified": "2017-03-09T02:10:24.738633",
+                "timeEnd": 1489025424,
                 "timeBegin": 1443723830,
                 "resources": {
                     "87e37a8b-f355-4cf8-9865-698cbc7a1033": {
@@ -6599,6 +6669,13 @@
                         "created": "2016-01-07T14:17:48.935927",
                         "webstore_last_updated": null,
                         "last_modified": "2016-04-27T13:17:05"
+                    },
+                    "b0087619-1606-4969-ad85-8f0915c732ca": {
+                        "id": "b0087619-1606-4969-ad85-8f0915c732ca",
+                        "name": "桃園市建設類.csv",
+                        "created": "2017-03-09T10:10:24.794615",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-09T10:10:24"
                     }
                 },
                 "counters": {
@@ -8593,19 +8670,19 @@
         "datasets": {
             "0ae8f890-c8de-4447-8c68-601c17c01d44": {
                 "name": "11b130ee-2549-4002-89a3-d8f8359bd043",
-                "title": "桃園市財團法人教會堂名冊",
+                "title": "桃園市財團法人教會堂及基金會名冊",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T06:44:30.542042",
-                "metadata_modified": "2016-11-09T03:04:46.469910",
-                "timeEnd": 1478660686,
+                "metadata_modified": "2017-03-09T08:55:21.191178",
+                "timeEnd": 1489049721,
                 "timeBegin": 1443739470,
                 "resources": {
-                    "1e725bd2-803c-445b-a9d9-41dcfd98ccbd": {
-                        "id": "1e725bd2-803c-445b-a9d9-41dcfd98ccbd",
-                        "name": "財團法人教會堂名冊1109",
-                        "created": "2015-10-02T14:48:14",
+                    "e1cb333b-35cd-4fce-b0dd-96e8faa05275": {
+                        "id": "e1cb333b-35cd-4fce-b0dd-96e8faa05275",
+                        "name": "桃園市財團法人教會堂及基金會名冊",
+                        "created": "2017-03-09T16:55:21.264570",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-09T11:04:46"
+                        "last_modified": "2017-03-09T16:55:21"
                     }
                 },
                 "counters": {
@@ -9257,16 +9334,16 @@
                 "title": "桃園市已登記祭祀公業法人名冊",
                 "organization_id": "380020000a",
                 "metadata_created": "2015-10-02T06:50:33.958260",
-                "metadata_modified": "2016-11-09T03:47:54.767017",
-                "timeEnd": 1478663274,
+                "metadata_modified": "2017-03-09T08:41:32.626905",
+                "timeEnd": 1489048892,
                 "timeBegin": 1443739833,
                 "resources": {
-                    "d96b4951-fe37-449a-89a4-2d251921a724": {
-                        "id": "d96b4951-fe37-449a-89a4-2d251921a724",
-                        "name": "1050919祭祀公業法人一覽表.csv",
-                        "created": "2015-10-02T14:51:25",
+                    "ff808160-7dfa-4a1f-8200-b4ffeff9d802": {
+                        "id": "ff808160-7dfa-4a1f-8200-b4ffeff9d802",
+                        "name": "祭祀公業法人名冊",
+                        "created": "2017-03-09T16:41:32.675652",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-09T11:47:54"
+                        "last_modified": "2017-03-09T16:41:32"
                     }
                 },
                 "counters": {
@@ -9564,79 +9641,86 @@
                 "title": "95~104年桃園市水土保持法罰鍰案件列表",
                 "organization_id": "380250000g",
                 "metadata_created": "2016-12-28T07:06:04.989176",
-                "metadata_modified": "2017-01-06T02:58:53.906420",
-                "timeEnd": 1483642733,
+                "metadata_modified": "2017-03-09T09:07:21.796261",
+                "timeEnd": 1489050441,
                 "timeBegin": 1482879964,
                 "resources": {
-                    "83ecce6e-37b2-4d15-a8a7-fba70f8277e2": {
-                        "id": "83ecce6e-37b2-4d15-a8a7-fba70f8277e2",
+                    "db43ce67-d677-46bf-9055-da7ad3558808": {
+                        "id": "db43ce67-d677-46bf-9055-da7ad3558808",
                         "name": "95年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:47:01",
+                        "created": "2017-03-09T17:05:31.710909",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:47:01"
+                        "last_modified": "2017-03-09T17:05:31"
                     },
-                    "032c5e5d-d0e9-4b4a-88c9-e34f01b12383": {
-                        "id": "032c5e5d-d0e9-4b4a-88c9-e34f01b12383",
+                    "f8b1ea18-12c9-451e-a3fe-cc207e4b10e3": {
+                        "id": "f8b1ea18-12c9-451e-a3fe-cc207e4b10e3",
                         "name": "96年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:47:13",
+                        "created": "2017-03-09T17:05:41.217308",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:47:13"
+                        "last_modified": "2017-03-09T17:05:41"
                     },
-                    "5ee8bf2b-b2e9-4272-b41c-f7bb4ea34161": {
-                        "id": "5ee8bf2b-b2e9-4272-b41c-f7bb4ea34161",
+                    "57f1522b-e5f2-4626-a3e2-6db1012e2fbd": {
+                        "id": "57f1522b-e5f2-4626-a3e2-6db1012e2fbd",
                         "name": "97年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:47:21",
+                        "created": "2017-03-09T17:05:50.267122",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:47:21"
+                        "last_modified": "2017-03-09T17:05:50"
                     },
-                    "97491320-5c3c-430c-84dd-f4c4e7ad97f7": {
-                        "id": "97491320-5c3c-430c-84dd-f4c4e7ad97f7",
+                    "3eedac3c-b6bc-4ec1-b11e-9232b5f75d88": {
+                        "id": "3eedac3c-b6bc-4ec1-b11e-9232b5f75d88",
                         "name": "98年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:47:32",
+                        "created": "2017-03-09T17:06:00.397770",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:47:32"
+                        "last_modified": "2017-03-09T17:06:00"
                     },
-                    "871bf1de-b46d-46aa-9aad-e43a1b54b3f7": {
-                        "id": "871bf1de-b46d-46aa-9aad-e43a1b54b3f7",
+                    "f44447dd-0fe4-4c8a-b2a4-14f5bfb98723": {
+                        "id": "f44447dd-0fe4-4c8a-b2a4-14f5bfb98723",
                         "name": "99年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:47:57",
+                        "created": "2017-03-09T17:06:08.150816",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:47:57"
+                        "last_modified": "2017-03-09T17:06:07"
                     },
-                    "4bcd238b-3212-4c85-928e-45ffba1ccbc8": {
-                        "id": "4bcd238b-3212-4c85-928e-45ffba1ccbc8",
+                    "75021fc9-dbb2-4086-b14f-58bf5e3f212d": {
+                        "id": "75021fc9-dbb2-4086-b14f-58bf5e3f212d",
                         "name": "100年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:48:05",
+                        "created": "2017-03-09T17:06:16.090882",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:48:05"
+                        "last_modified": "2017-03-09T17:06:15"
                     },
-                    "ed219b06-e8f4-4755-9c13-2ebdfe0cdea7": {
-                        "id": "ed219b06-e8f4-4755-9c13-2ebdfe0cdea7",
+                    "15fc8bae-8af2-4e0b-a4ac-6a71e16fd445": {
+                        "id": "15fc8bae-8af2-4e0b-a4ac-6a71e16fd445",
                         "name": "101年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:48:13",
+                        "created": "2017-03-09T17:06:24.978871",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:48:13"
+                        "last_modified": "2017-03-09T17:06:24"
                     },
-                    "0b53dbba-552d-4a86-b2e4-bf2ef7fd8bf7": {
-                        "id": "0b53dbba-552d-4a86-b2e4-bf2ef7fd8bf7",
+                    "f2d44a5d-d376-44de-ba67-eb2e766af431": {
+                        "id": "f2d44a5d-d376-44de-ba67-eb2e766af431",
                         "name": "102年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:48:21",
+                        "created": "2017-03-09T17:06:35.593146",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:48:21"
+                        "last_modified": "2017-03-09T17:06:35"
                     },
-                    "ade38f3f-ab25-4bf3-947d-b7ad5a286aa5": {
-                        "id": "ade38f3f-ab25-4bf3-947d-b7ad5a286aa5",
+                    "8c7a94f7-a11c-46c7-9dc2-e0d124b411c4": {
+                        "id": "8c7a94f7-a11c-46c7-9dc2-e0d124b411c4",
                         "name": "103年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:48:32",
+                        "created": "2017-03-09T17:06:45.969544",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:48:32"
+                        "last_modified": "2017-03-09T17:06:45"
                     },
-                    "1e0cacbd-ee21-4104-a824-a81362aaa521": {
-                        "id": "1e0cacbd-ee21-4104-a824-a81362aaa521",
+                    "ef9349f2-0011-44c5-a60c-22b085c05099": {
+                        "id": "ef9349f2-0011-44c5-a60c-22b085c05099",
                         "name": "104年桃園市水土保持法罰鍰案件列表.xlsx",
-                        "created": "2016-12-29T15:48:40",
+                        "created": "2017-03-09T17:06:55.250894",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-12-29T15:48:40"
+                        "last_modified": "2017-03-09T17:06:55"
+                    },
+                    "ecd81a8b-8c99-4d1f-8712-650f3e959863": {
+                        "id": "ecd81a8b-8c99-4d1f-8712-650f3e959863",
+                        "name": "105年桃園市水土保持法罰鍰案件列表.xlsx",
+                        "created": "2017-03-09T17:07:21.868687",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-09T17:07:21"
                     }
                 },
                 "counters": {
@@ -24756,16 +24840,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-03-03T01:05:59.270984",
-                "timeEnd": 1488503159,
+                "metadata_modified": "2017-03-09T06:17:16.246313",
+                "timeEnd": 1489040236,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "4941673c-42e6-415c-8795-2664ccfabaf7": {
-                        "id": "4941673c-42e6-415c-8795-2664ccfabaf7",
+                    "316c59b0-95c2-41d6-ad86-73221e1c88ca": {
+                        "id": "316c59b0-95c2-41d6-ad86-73221e1c88ca",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-03-03T09:05:59.324228",
+                        "created": "2017-03-09T14:17:16.317123",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-03T09:05:59"
+                        "last_modified": "2017-03-09T14:17:16"
                     }
                 },
                 "counters": {
@@ -24778,8 +24862,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-03-03T01:06:23.351494",
-                "timeEnd": 1488503183,
+                "metadata_modified": "2017-03-09T06:16:43.316697",
+                "timeEnd": 1489040203,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -24789,12 +24873,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "035c29ed-972a-4fc5-bfd5-d4cf6aed6942": {
-                        "id": "035c29ed-972a-4fc5-bfd5-d4cf6aed6942",
+                    "94ed5881-0e48-4338-b82d-c012d6d6bb7a": {
+                        "id": "94ed5881-0e48-4338-b82d-c012d6d6bb7a",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-03-03T09:06:23.423671",
+                        "created": "2017-03-09T14:16:43.397454",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-03T09:06:23"
+                        "last_modified": "2017-03-09T14:16:43"
                     }
                 },
                 "counters": {
@@ -24804,5 +24888,5 @@
             }
         }
     },
-    "time_generated": 1489008725
+    "time_generated": 1489095123
 }
