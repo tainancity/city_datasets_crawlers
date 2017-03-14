@@ -237,15 +237,15 @@
                 "name": "6556e1e8-c908-42d5-b984-b3f7337b139b",
                 "title": "臺北捷運列車到站站名",
                 "organization_id": "379620000M",
-                "metadata_modified": "2017-03-14 01:55:21",
-                "timeEnd": 1489427721,
+                "metadata_modified": "2017-03-15 04:52:38",
+                "timeEnd": 1489524758,
                 "timeBegin": 1435593600,
                 "resources": {
                     "55ec6d6e-dc5c-4268-a725-d04cc262172b": {
                         "id": "55ec6d6e-dc5c-4268-a725-d04cc262172b",
                         "name": "apiIn.json",
-                        "created": "2017-03-14 01:55:20",
-                        "last_modified": "2017-03-14T01:55:20"
+                        "created": "2017-03-15 04:52:37",
+                        "last_modified": "2017-03-15T04:52:37"
                     }
                 },
                 "counters": {
@@ -10494,6 +10494,46 @@
     },
     "臺北市政府地政局": {
         "datasets": {
+            "a9a97996-3a55-46c8-9076-e5ebdefad6dc": {
+                "name": "a9a97996-3a55-46c8-9076-e5ebdefad6dc",
+                "title": "實價周報",
+                "organization_id": "379700000A",
+                "metadata_modified": "2017-03-15 05:07:06",
+                "timeEnd": 1489525626,
+                "timeBegin": false,
+                "resources": {
+                    "51839ac9-6454-49f2-aaf2-abd05c5405c8": {
+                        "id": "51839ac9-6454-49f2-aaf2-abd05c5405c8",
+                        "name": "realPrice.xml",
+                        "created": "2017-03-15 05:07:06",
+                        "last_modified": "2017-03-15T05:07:06"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "932ba00b-1c4c-41f8-8692-536f6f30295b": {
+                "name": "932ba00b-1c4c-41f8-8692-536f6f30295b",
+                "title": "公有土地資料",
+                "organization_id": "379700000A",
+                "metadata_modified": "2017-03-14 11:46:20",
+                "timeEnd": 1489463180,
+                "timeBegin": 0,
+                "resources": {
+                    "df06bd07-72fb-4673-88c7-28f2e63c4f4f": {
+                        "id": "df06bd07-72fb-4673-88c7-28f2e63c4f4f",
+                        "name": "公有土地opendata.xml",
+                        "created": "2017-03-14 11:46:20",
+                        "last_modified": "2017-03-14T11:46:20"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "1ab43adf-5f81-4601-84af-47a39f267b93": {
                 "name": "1ab43adf-5f81-4601-84af-47a39f267b93",
                 "title": "區段徵收",
@@ -10507,26 +10547,6 @@
                         "name": "區段徵收範圍圖.zip",
                         "created": "2017-03-13 18:35:42",
                         "last_modified": "2017-03-13T18:35:42"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a9a97996-3a55-46c8-9076-e5ebdefad6dc": {
-                "name": "a9a97996-3a55-46c8-9076-e5ebdefad6dc",
-                "title": "實價周報",
-                "organization_id": "379700000A",
-                "metadata_modified": "2017-03-08 05:30:56",
-                "timeEnd": 1488922256,
-                "timeBegin": false,
-                "resources": {
-                    "51839ac9-6454-49f2-aaf2-abd05c5405c8": {
-                        "id": "51839ac9-6454-49f2-aaf2-abd05c5405c8",
-                        "name": "realPrice.xml",
-                        "created": "2017-03-08 05:30:56",
-                        "last_modified": "2017-03-08T05:30:56"
                     }
                 },
                 "counters": {
@@ -11665,7 +11685,7 @@
             }
         },
         "counters": {
-            "datasets": 72,
+            "datasets": 73,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -11709,15 +11729,15 @@
                 "name": "4d29818c-a3ee-425d-b88a-22ac0c24c712",
                 "title": "臺北市今日施工資訊",
                 "organization_id": "379110000G",
-                "metadata_modified": "2017-03-14 05:24:00",
-                "timeEnd": 1489440240,
+                "metadata_modified": "2017-03-15 05:24:00",
+                "timeEnd": 1489526640,
                 "timeBegin": 1403452800,
                 "resources": {
                     "201d8ae8-dffc-4d17-ae1f-e58d8a95b162": {
                         "id": "201d8ae8-dffc-4d17-ae1f-e58d8a95b162",
                         "name": "construction.json",
-                        "created": "2017-03-14 05:24:00",
-                        "last_modified": "2017-03-14T05:24:00"
+                        "created": "2017-03-15 05:24:00",
+                        "last_modified": "2017-03-15T05:24:00"
                     },
                     "58bc550d-4033-4727-a1a5-989b54a59d38": {
                         "id": "58bc550d-4033-4727-a1a5-989b54a59d38",
@@ -14486,6 +14506,104 @@
     },
     "臺北市政府捷運工程局": {
         "datasets": {
+            "bdd30f0a-4e72-41a3-9213-c952a03c6758": {
+                "name": "bdd30f0a-4e72-41a3-9213-c952a03c6758",
+                "title": "捷運工程徵收地上權土地清冊",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-03-14 15:14:19",
+                "timeEnd": 1489475659,
+                "timeBegin": 1451491200,
+                "resources": {
+                    "a1d0e4cb-5ad9-4877-b32b-c48e59601e06": {
+                        "id": "a1d0e4cb-5ad9-4877-b32b-c48e59601e06",
+                        "name": "環狀線板橋區徵收土地地上權清冊103.07.17-1.docx",
+                        "created": "2015-11-11 14:19:05",
+                        "last_modified": "2015-11-11T14:19:05"
+                    },
+                    "5e351f47-abe8-477a-8d0f-fc10560239a8": {
+                        "id": "5e351f47-abe8-477a-8d0f-fc10560239a8",
+                        "name": "環狀中和區徵收土地地上權清冊1031027-1.doc",
+                        "created": "2015-11-11 14:20:36",
+                        "last_modified": "2015-11-11T14:20:36"
+                    },
+                    "89cd612d-59a9-40ea-88d2-c37e3d9344fa": {
+                        "id": "89cd612d-59a9-40ea-88d2-c37e3d9344fa",
+                        "name": "徵收土地地上權清冊104.04.16上網.docx",
+                        "created": "2015-12-01 11:35:23",
+                        "last_modified": "2015-12-01T11:35:23"
+                    },
+                    "ab60630b-e6bb-4dab-a2cf-0f2fb33c6364": {
+                        "id": "ab60630b-e6bb-4dab-a2cf-0f2fb33c6364",
+                        "name": "土地使用空間計畫圖(上網)104.11.24.pptx",
+                        "created": "2015-12-01 11:36:40",
+                        "last_modified": "2015-12-01T11:36:40"
+                    },
+                    "6bfc575a-01db-4541-af23-ce664b867c89": {
+                        "id": "6bfc575a-01db-4541-af23-ce664b867c89",
+                        "name": "內政部核准之徵收地上權計畫書(上網).pdf",
+                        "created": "2015-12-01 11:39:26",
+                        "last_modified": "2015-12-01T11:39:26"
+                    },
+                    "dcdda549-59de-4a39-8db5-551e1b25e863": {
+                        "id": "dcdda549-59de-4a39-8db5-551e1b25e863",
+                        "name": "LG01站徵收計畫書隱藏.pdf",
+                        "created": "2017-03-14 14:53:45",
+                        "last_modified": "2017-03-14T14:53:45"
+                    },
+                    "c8026775-de44-458a-ac9d-1ac2070e4a08": {
+                        "id": "c8026775-de44-458a-ac9d-1ac2070e4a08",
+                        "name": "徵收地上權清冊隱藏.docx",
+                        "created": "2017-03-14 14:56:48",
+                        "last_modified": "2017-03-14T14:56:48"
+                    },
+                    "52cfb649-e2b7-49df-b6fc-c789e28fe915": {
+                        "id": "52cfb649-e2b7-49df-b6fc-c789e28fe915",
+                        "name": "交三土地使用計畫圖 分圖1.jpg",
+                        "created": "2017-03-14 14:58:55",
+                        "last_modified": "2017-03-14T14:58:55"
+                    },
+                    "0c14d5c8-088b-4a4c-bb2c-aefaac8bb6e3": {
+                        "id": "0c14d5c8-088b-4a4c-bb2c-aefaac8bb6e3",
+                        "name": "1060120登網用隱藏名字萬大站體徵收地上權清冊1050920.doc",
+                        "created": "2017-03-14 15:00:17",
+                        "last_modified": "2017-03-14T15:00:17"
+                    },
+                    "5535cfc0-d706-42c3-b2e4-ec3bb353e7c3": {
+                        "id": "5535cfc0-d706-42c3-b2e4-ec3bb353e7c3",
+                        "name": "1051124登網用彩色徵收地上權計畫書主文隱藏名字.pdf",
+                        "created": "2017-03-14 15:01:00",
+                        "last_modified": "2017-03-14T15:01:00"
+                    },
+                    "f856f35d-7039-4edd-9a18-c8b402306855": {
+                        "id": "f856f35d-7039-4edd-9a18-c8b402306855",
+                        "name": "徵收地上權土地圖說.docx",
+                        "created": "2017-03-14 15:02:17",
+                        "last_modified": "2017-03-14T15:02:17"
+                    },
+                    "951b4cdd-4717-4656-8db1-83866a12cf0a": {
+                        "id": "951b4cdd-4717-4656-8db1-83866a12cf0a",
+                        "name": "105R03-徵收土地地上權清冊（上網用）.xls",
+                        "created": "2017-03-14 15:07:02",
+                        "last_modified": "2017-03-14T15:07:02"
+                    },
+                    "5c3ca8f6-1edb-4835-a8c6-799faeee6c8c": {
+                        "id": "5c3ca8f6-1edb-4835-a8c6-799faeee6c8c",
+                        "name": "R03站徵收地上權徵收計畫書.pdf",
+                        "created": "2017-03-14 15:07:44",
+                        "last_modified": "2017-03-14T15:07:44"
+                    },
+                    "aee4e5b1-80fc-4831-bb7b-c55ec4d339c6": {
+                        "id": "aee4e5b1-80fc-4831-bb7b-c55ec4d339c6",
+                        "name": "R03車站-V.3計畫圖.pdf",
+                        "created": "2017-03-14 15:08:24",
+                        "last_modified": "2017-03-14T15:08:24"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "cf845b34-7c78-48dc-a5e8-456c33ae82be": {
                 "name": "cf845b34-7c78-48dc-a5e8-456c33ae82be",
                 "title": "捷運興建中路網各線工程進度累計百分比",
@@ -14870,26 +14988,6 @@
                     "resource_recent": 0
                 }
             },
-            "cb018b59-febd-490e-b9ca-7c76930380aa": {
-                "name": "cb018b59-febd-490e-b9ca-7c76930380aa",
-                "title": "捷運信箱統計",
-                "organization_id": "379510000H",
-                "metadata_modified": "2016-06-21 10:24:50",
-                "timeEnd": 1466475890,
-                "timeBegin": 1466352000,
-                "resources": {
-                    "74229709-bcc9-458e-adc2-4e72bd2b1edb": {
-                        "id": "74229709-bcc9-458e-adc2-4e72bd2b1edb",
-                        "name": "1050101-0531月捷運信箱統計資料.xlsx",
-                        "created": "2016-06-21 10:24:49",
-                        "last_modified": "2016-06-21T10:24:49"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "a86364bf-8b7b-415c-add0-7fbf9ffd37cf": {
                 "name": "a86364bf-8b7b-415c-add0-7fbf9ffd37cf",
                 "title": "土地開發權益分配結果彙整",
@@ -14941,50 +15039,6 @@
                         "name": "內政部核准之徵收土地計畫書(上網).pdf",
                         "created": "2015-12-01 11:18:06",
                         "last_modified": "2015-12-01T11:18:06"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "bdd30f0a-4e72-41a3-9213-c952a03c6758": {
-                "name": "bdd30f0a-4e72-41a3-9213-c952a03c6758",
-                "title": "捷運工程徵收地上權土地清冊",
-                "organization_id": "379510000H",
-                "metadata_modified": "2016-06-21 08:53:26",
-                "timeEnd": 1466470406,
-                "timeBegin": 1451491200,
-                "resources": {
-                    "a1d0e4cb-5ad9-4877-b32b-c48e59601e06": {
-                        "id": "a1d0e4cb-5ad9-4877-b32b-c48e59601e06",
-                        "name": "環狀線板橋區徵收土地地上權清冊103.07.17-1.docx",
-                        "created": "2015-11-11 14:19:05",
-                        "last_modified": "2015-11-11T14:19:05"
-                    },
-                    "5e351f47-abe8-477a-8d0f-fc10560239a8": {
-                        "id": "5e351f47-abe8-477a-8d0f-fc10560239a8",
-                        "name": "環狀中和區徵收土地地上權清冊1031027-1.doc",
-                        "created": "2015-11-11 14:20:36",
-                        "last_modified": "2015-11-11T14:20:36"
-                    },
-                    "89cd612d-59a9-40ea-88d2-c37e3d9344fa": {
-                        "id": "89cd612d-59a9-40ea-88d2-c37e3d9344fa",
-                        "name": "徵收土地地上權清冊104.04.16上網.docx",
-                        "created": "2015-12-01 11:35:23",
-                        "last_modified": "2015-12-01T11:35:23"
-                    },
-                    "ab60630b-e6bb-4dab-a2cf-0f2fb33c6364": {
-                        "id": "ab60630b-e6bb-4dab-a2cf-0f2fb33c6364",
-                        "name": "土地使用空間計畫圖(上網)104.11.24.pptx",
-                        "created": "2015-12-01 11:36:40",
-                        "last_modified": "2015-12-01T11:36:40"
-                    },
-                    "6bfc575a-01db-4541-af23-ce664b867c89": {
-                        "id": "6bfc575a-01db-4541-af23-ce664b867c89",
-                        "name": "內政部核准之徵收地上權計畫書(上網).pdf",
-                        "created": "2015-12-01 11:39:26",
-                        "last_modified": "2015-12-01T11:39:26"
                     }
                 },
                 "counters": {
@@ -15473,7 +15527,7 @@
             }
         },
         "counters": {
-            "datasets": 48,
+            "datasets": 47,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -15537,123 +15591,123 @@
                 "name": "ac589468-529b-4636-a9b2-ab57ae41cbcb",
                 "title": "學習型機構",
                 "organization_id": "379040000E",
-                "metadata_modified": "2017-03-13 20:46:54",
-                "timeEnd": 1489409214,
+                "metadata_modified": "2017-03-14 20:46:04",
+                "timeEnd": 1489495564,
                 "timeBegin": 0,
                 "resources": {
                     "11f11d42-bdd8-45d0-9493-8134b2e494e9": {
                         "id": "11f11d42-bdd8-45d0-9493-8134b2e494e9",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:44:02",
-                        "last_modified": "2017-03-13T20:44:02"
+                        "created": "2017-03-14 20:44:02",
+                        "last_modified": "2017-03-14T20:44:02"
                     },
                     "24c9f8fe-88db-4a6e-895c-498fbc94df94": {
                         "id": "24c9f8fe-88db-4a6e-895c-498fbc94df94",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:44:21",
-                        "last_modified": "2017-03-13T20:44:21"
+                        "created": "2017-03-14 20:44:10",
+                        "last_modified": "2017-03-14T20:44:10"
                     },
                     "c79ed7d6-050b-45d3-9835-634694b57661": {
                         "id": "c79ed7d6-050b-45d3-9835-634694b57661",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:44:31",
-                        "last_modified": "2017-03-13T20:44:31"
+                        "created": "2017-03-14 20:44:15",
+                        "last_modified": "2017-03-14T20:44:15"
                     },
                     "b41472da-e34e-4a76-924a-5417c0c007ee": {
                         "id": "b41472da-e34e-4a76-924a-5417c0c007ee",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:44:42",
-                        "last_modified": "2017-03-13T20:44:42"
+                        "created": "2017-03-14 20:44:23",
+                        "last_modified": "2017-03-14T20:44:23"
                     },
                     "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd": {
                         "id": "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:44:51",
-                        "last_modified": "2017-03-13T20:44:51"
+                        "created": "2017-03-14 20:44:29",
+                        "last_modified": "2017-03-14T20:44:29"
                     },
                     "1f892a80-a776-4ea5-9b00-c94d459de674": {
                         "id": "1f892a80-a776-4ea5-9b00-c94d459de674",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:44:58",
-                        "last_modified": "2017-03-13T20:44:58"
+                        "created": "2017-03-14 20:44:36",
+                        "last_modified": "2017-03-14T20:44:36"
                     },
                     "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3": {
                         "id": "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:45:08",
-                        "last_modified": "2017-03-13T20:45:08"
+                        "created": "2017-03-14 20:44:47",
+                        "last_modified": "2017-03-14T20:44:47"
                     },
                     "9548a823-a337-4106-82eb-7d2b2279a96c": {
                         "id": "9548a823-a337-4106-82eb-7d2b2279a96c",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:45:17",
-                        "last_modified": "2017-03-13T20:45:17"
+                        "created": "2017-03-14 20:44:56",
+                        "last_modified": "2017-03-14T20:44:56"
                     },
                     "2391e09e-df95-457d-ab71-72beea2bce4d": {
                         "id": "2391e09e-df95-457d-ab71-72beea2bce4d",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:45:28",
-                        "last_modified": "2017-03-13T20:45:28"
+                        "created": "2017-03-14 20:45:04",
+                        "last_modified": "2017-03-14T20:45:04"
                     },
                     "7e42ce18-2c4b-440b-989c-8e32969ad180": {
                         "id": "7e42ce18-2c4b-440b-989c-8e32969ad180",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:45:35",
-                        "last_modified": "2017-03-13T20:45:35"
+                        "created": "2017-03-14 20:45:11",
+                        "last_modified": "2017-03-14T20:45:11"
                     },
                     "404988b2-d0b9-4a7f-ae04-30aee13f6025": {
                         "id": "404988b2-d0b9-4a7f-ae04-30aee13f6025",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:45:43",
-                        "last_modified": "2017-03-13T20:45:43"
+                        "created": "2017-03-14 20:45:18",
+                        "last_modified": "2017-03-14T20:45:18"
                     },
                     "74e7d540-3538-4bdb-b5ae-ffb45d03d45d": {
                         "id": "74e7d540-3538-4bdb-b5ae-ffb45d03d45d",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:45:55",
-                        "last_modified": "2017-03-13T20:45:55"
+                        "created": "2017-03-14 20:45:27",
+                        "last_modified": "2017-03-14T20:45:27"
                     },
                     "b395d4a4-090a-4223-b0e3-b99b0cf40549": {
                         "id": "b395d4a4-090a-4223-b0e3-b99b0cf40549",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:46:03",
-                        "last_modified": "2017-03-13T20:46:03"
+                        "created": "2017-03-14 20:45:32",
+                        "last_modified": "2017-03-14T20:45:32"
                     },
                     "edc33c48-cd9f-425d-82d1-d0677baa160a": {
                         "id": "edc33c48-cd9f-425d-82d1-d0677baa160a",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:46:10",
-                        "last_modified": "2017-03-13T20:46:10"
+                        "created": "2017-03-14 20:45:37",
+                        "last_modified": "2017-03-14T20:45:37"
                     },
                     "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64": {
                         "id": "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:46:19",
-                        "last_modified": "2017-03-13T20:46:19"
+                        "created": "2017-03-14 20:45:42",
+                        "last_modified": "2017-03-14T20:45:42"
                     },
                     "0a1e7957-7699-452c-8020-bf11a5408fc8": {
                         "id": "0a1e7957-7699-452c-8020-bf11a5408fc8",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:46:31",
-                        "last_modified": "2017-03-13T20:46:31"
+                        "created": "2017-03-14 20:45:48",
+                        "last_modified": "2017-03-14T20:45:48"
                     },
                     "e5ac12f2-239c-4175-9f2e-1cd510ac308c": {
                         "id": "e5ac12f2-239c-4175-9f2e-1cd510ac308c",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:46:38",
-                        "last_modified": "2017-03-13T20:46:38"
+                        "created": "2017-03-14 20:45:54",
+                        "last_modified": "2017-03-14T20:45:54"
                     },
                     "990479f4-82aa-4365-8c19-8c8c2afb15bb": {
                         "id": "990479f4-82aa-4365-8c19-8c8c2afb15bb",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:46:46",
-                        "last_modified": "2017-03-13T20:46:46"
+                        "created": "2017-03-14 20:45:59",
+                        "last_modified": "2017-03-14T20:45:59"
                     },
                     "ed83db24-f206-4ff0-9135-a0a8d65ace31": {
                         "id": "ed83db24-f206-4ff0-9135-a0a8d65ace31",
                         "name": "eduagency.json",
-                        "created": "2017-03-13 20:46:53",
-                        "last_modified": "2017-03-13T20:46:53"
+                        "created": "2017-03-14 20:46:04",
+                        "last_modified": "2017-03-14T20:46:04"
                     }
                 },
                 "counters": {
@@ -18647,15 +18701,15 @@
                 "name": "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6",
                 "title": "臺北市文化快遞資訊",
                 "organization_id": "379590000E",
-                "metadata_modified": "2017-03-13 11:50:02",
-                "timeEnd": 1489377002,
+                "metadata_modified": "2017-03-14 11:50:02",
+                "timeEnd": 1489463402,
                 "timeBegin": 1325606400,
                 "resources": {
                     "35aa3c53-28fb-423c-91b6-2c22432d0d70": {
                         "id": "35aa3c53-28fb-423c-91b6-2c22432d0d70",
                         "name": "culture.xml",
-                        "created": "2017-03-13 11:50:01",
-                        "last_modified": "2017-03-13T11:50:01"
+                        "created": "2017-03-14 11:50:01",
+                        "last_modified": "2017-03-14T11:50:01"
                     }
                 },
                 "counters": {
@@ -22382,15 +22436,15 @@
                 "name": "86672d20-9c69-4c24-859b-078862c4e699",
                 "title": "臺北市已立案宗教團體點位資料",
                 "organization_id": "379020000A",
-                "metadata_modified": "2017-03-13 19:44:04",
-                "timeEnd": 1489405444,
+                "metadata_modified": "2017-03-14 19:44:02",
+                "timeEnd": 1489491842,
                 "timeBegin": 1380643200,
                 "resources": {
                     "2aac2df3-e768-448c-8f06-181d7b424690": {
                         "id": "2aac2df3-e768-448c-8f06-181d7b424690",
                         "name": "religion.xml",
-                        "created": "2017-03-13 19:44:03",
-                        "last_modified": "2017-03-13T19:44:03"
+                        "created": "2017-03-14 19:44:02",
+                        "last_modified": "2017-03-14T19:44:02"
                     }
                 },
                 "counters": {
@@ -23549,15 +23603,15 @@
                 "name": "b6aa4716-aa07-4aac-9ffc-57df0f1f529f",
                 "title": "臺北市列管營業場所消防安全檢查結果",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-03-13 19:42:19",
-                "timeEnd": 1489405339,
+                "metadata_modified": "2017-03-14 19:43:27",
+                "timeEnd": 1489491807,
                 "timeBegin": 1404057600,
                 "resources": {
                     "1316a13a-39cd-4db5-b663-930638f244c5": {
                         "id": "1316a13a-39cd-4db5-b663-930638f244c5",
                         "name": "openplace.json",
-                        "created": "2017-03-13 19:42:19",
-                        "last_modified": "2017-03-13T19:42:19"
+                        "created": "2017-03-14 19:43:27",
+                        "last_modified": "2017-03-14T19:43:27"
                     }
                 },
                 "counters": {
@@ -23569,15 +23623,15 @@
                 "name": "3a45616d-c4b3-4676-b28c-24e5c9c90bd0",
                 "title": "臺北市政府燃氣熱水器承裝業名冊",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-03-13 19:28:00",
-                "timeEnd": 1489404480,
+                "metadata_modified": "2017-03-14 19:28:00",
+                "timeEnd": 1489490880,
                 "timeBegin": 1370880000,
                 "resources": {
                     "f6bb8bb9-c5b6-4851-a837-695d202d4ccb": {
                         "id": "f6bb8bb9-c5b6-4851-a837-695d202d4ccb",
                         "name": "boiler.json",
-                        "created": "2017-03-13 19:28:00",
-                        "last_modified": "2017-03-13T19:28:00"
+                        "created": "2017-03-14 19:28:00",
+                        "last_modified": "2017-03-14T19:28:00"
                     }
                 },
                 "counters": {
@@ -23975,15 +24029,15 @@
                 "name": "119efc37-541b-4aca-a16a-7ba210aafa1f",
                 "title": "臺北市垃圾清運點位資訊",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-03-13 19:22:02",
-                "timeEnd": 1489404122,
+                "metadata_modified": "2017-03-14 19:22:01",
+                "timeEnd": 1489490521,
                 "timeBegin": 1355673600,
                 "resources": {
                     "aa9c657c-ea6f-4062-a645-b6c973d45564": {
                         "id": "aa9c657c-ea6f-4062-a645-b6c973d45564",
                         "name": "garbage.xml",
-                        "created": "2017-03-13 19:22:02",
-                        "last_modified": "2017-03-13T19:22:02"
+                        "created": "2017-03-14 19:22:01",
+                        "last_modified": "2017-03-14T19:22:01"
                     }
                 },
                 "counters": {
@@ -23995,8 +24049,8 @@
                 "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
                 "title": "臺北市行人專用清潔箱",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-03-13 10:23:22",
-                "timeEnd": 1489371802,
+                "metadata_modified": "2017-03-14 17:43:03",
+                "timeEnd": 1489484584,
                 "timeBegin": 1432137600,
                 "resources": {
                     "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
@@ -24008,14 +24062,14 @@
                     "5fa14e06-018b-4851-8316-1ff324384f79": {
                         "id": "5fa14e06-018b-4851-8316-1ff324384f79",
                         "name": "大同區行人專用清潔箱.csv",
-                        "created": "2016-11-16 08:55:18",
-                        "last_modified": "2016-11-16T08:55:18"
+                        "created": "2017-03-14 17:43:04",
+                        "last_modified": "2017-03-14T17:43:04"
                     },
                     "f40cd66c-afba-4409-9289-e677b6b8d00e": {
                         "id": "f40cd66c-afba-4409-9289-e677b6b8d00e",
                         "name": "大安區行人專用清潔箱.csv",
-                        "created": "2017-03-13 10:17:34",
-                        "last_modified": "2017-03-13T10:17:34"
+                        "created": "2017-03-14 14:34:53",
+                        "last_modified": "2017-03-14T14:34:53"
                     },
                     "33b2c4c5-9870-4ee9-b280-a3a297c56a22": {
                         "id": "33b2c4c5-9870-4ee9-b280-a3a297c56a22",
@@ -24070,6 +24124,140 @@
                         "name": "萬華區行人專用清潔箱.csv",
                         "created": "2016-07-29 11:30:33",
                         "last_modified": "2016-07-29T11:30:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cd95ab7d-dd94-4825-a6c5-b2ea0329ff0f": {
+                "name": "cd95ab7d-dd94-4825-a6c5-b2ea0329ff0f",
+                "title": "臺北市專用垃圾袋代售點名冊",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-14 14:30:20",
+                "timeEnd": 1489473020,
+                "timeBegin": 1445961600,
+                "resources": {
+                    "5dd17c6c-1c67-449a-a994-253fe3642330": {
+                        "id": "5dd17c6c-1c67-449a-a994-253fe3642330",
+                        "name": "連鎖超商-三商行.csv",
+                        "created": "2017-03-14 14:27:51",
+                        "last_modified": "2017-03-14T14:27:51"
+                    },
+                    "5cb8a5ff-602d-4804-846b-7c0fc347bd95": {
+                        "id": "5cb8a5ff-602d-4804-846b-7c0fc347bd95",
+                        "name": "連鎖超商-台糖.csv",
+                        "created": "2017-03-14 14:27:59",
+                        "last_modified": "2017-03-14T14:27:59"
+                    },
+                    "9bd15f45-faf8-408b-a48d-a5e20b8c1058": {
+                        "id": "9bd15f45-faf8-408b-a48d-a5e20b8c1058",
+                        "name": "連鎖超商-全家.csv",
+                        "created": "2017-03-14 14:28:07",
+                        "last_modified": "2017-03-14T14:28:07"
+                    },
+                    "0d9fdafb-ab87-4e64-8f1c-55e3d50dfe6f": {
+                        "id": "0d9fdafb-ab87-4e64-8f1c-55e3d50dfe6f",
+                        "name": "連鎖超商-全聯.csv",
+                        "created": "2017-03-14 14:28:17",
+                        "last_modified": "2017-03-14T14:28:17"
+                    },
+                    "f6c322f1-298a-480b-a67a-8f25e4387d66": {
+                        "id": "f6c322f1-298a-480b-a67a-8f25e4387d66",
+                        "name": "連鎖超商-統一.csv",
+                        "created": "2017-03-14 14:27:41",
+                        "last_modified": "2017-03-14T14:27:41"
+                    },
+                    "a3baf12b-af19-4d8c-a8a8-8e0e279d77b5": {
+                        "id": "a3baf12b-af19-4d8c-a8a8-8e0e279d77b5",
+                        "name": "連鎖超商-來來.csv",
+                        "created": "2017-03-14 14:27:19",
+                        "last_modified": "2017-03-14T14:27:19"
+                    },
+                    "699143dc-f701-47a4-99f8-ca34ba38006e": {
+                        "id": "699143dc-f701-47a4-99f8-ca34ba38006e",
+                        "name": "連鎖超商-惠康.csv",
+                        "created": "2017-03-14 14:27:11",
+                        "last_modified": "2017-03-14T14:27:11"
+                    },
+                    "13aff32c-5b39-48f7-929e-0c82c72e6a0e": {
+                        "id": "13aff32c-5b39-48f7-929e-0c82c72e6a0e",
+                        "name": "連鎖超商-萊爾富.csv",
+                        "created": "2017-03-14 14:27:00",
+                        "last_modified": "2017-03-14T14:27:00"
+                    },
+                    "a5ce842c-4ad2-4369-9a23-73d80c115b28": {
+                        "id": "a5ce842c-4ad2-4369-9a23-73d80c115b28",
+                        "name": "傳統.csv",
+                        "created": "2017-03-14 14:26:38",
+                        "last_modified": "2017-03-14T14:26:38"
+                    },
+                    "d3488bd4-687d-4b30-9112-16eae2bcbc8c": {
+                        "id": "d3488bd4-687d-4b30-9112-16eae2bcbc8c",
+                        "name": "連鎖超商-家樂福.csv",
+                        "created": "2017-03-14 14:26:50",
+                        "last_modified": "2017-03-14T14:26:50"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dac325f8-0187-43d0-b5a1-7f50bb84ab4b": {
+                "name": "dac325f8-0187-43d0-b5a1-7f50bb84ab4b",
+                "title": "臺北市路燈桿旗幟申請參考一覽表",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-14 10:18:21",
+                "timeEnd": 1489457901,
+                "timeBegin": 1329926400,
+                "resources": {
+                    "3dd2dfa0-eea0-4d86-a46c-fd666510ab81": {
+                        "id": "3dd2dfa0-eea0-4d86-a46c-fd666510ab81",
+                        "name": "臺北市張掛旗幟路段參考一覽表.ods",
+                        "created": "2017-03-14 10:17:00",
+                        "last_modified": "2017-03-14T10:17:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0f9f0347-3c58-46a2-ad52-13c5e01aa05c": {
+                "name": "0f9f0347-3c58-46a2-ad52-13c5e01aa05c",
+                "title": "臺北市張貼板欄核准地點一覽表",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-14 10:16:17",
+                "timeEnd": 1489457778,
+                "timeBegin": 1329926400,
+                "resources": {
+                    "26733af8-fa1e-40cf-a633-afc0ed2ab8f6": {
+                        "id": "26733af8-fa1e-40cf-a633-afc0ed2ab8f6",
+                        "name": "臺北市張掛旗幟路段參考一覽表.ods",
+                        "created": "2017-03-14 10:16:18",
+                        "last_modified": "2017-03-14T10:16:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "35f574c3-f16e-4377-b1d3-f055c480c3d3": {
+                "name": "35f574c3-f16e-4377-b1d3-f055c480c3d3",
+                "title": "臺北市登革熱戶外化學防疫軌跡記錄",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-03-14 10:07:22",
+                "timeEnd": 1489457242,
+                "timeBegin": 1477929600,
+                "resources": {
+                    "8074a795-09dd-4be9-b945-4d9cd8924304": {
+                        "id": "8074a795-09dd-4be9-b945-4d9cd8924304",
+                        "name": "戶外環境噴藥日程.ods",
+                        "created": "2017-03-14 10:05:02",
+                        "last_modified": "2017-03-14T10:05:02"
                     }
                 },
                 "counters": {
@@ -24493,26 +24681,6 @@
                     "resource_recent": 0
                 }
             },
-            "0f9f0347-3c58-46a2-ad52-13c5e01aa05c": {
-                "name": "0f9f0347-3c58-46a2-ad52-13c5e01aa05c",
-                "title": "臺北市張貼板欄核准地點一覽表",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-03 10:54:29",
-                "timeEnd": 1488509669,
-                "timeBegin": 1329926400,
-                "resources": {
-                    "26733af8-fa1e-40cf-a633-afc0ed2ab8f6": {
-                        "id": "26733af8-fa1e-40cf-a633-afc0ed2ab8f6",
-                        "name": "臺北市張貼廣告板欄核准地點一覽表.csv",
-                        "created": "2016-06-02 15:37:54",
-                        "last_modified": "2016-06-02T15:37:54"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "30d9a3d7-33d0-4d61-9280-52ddb45a66c0": {
                 "name": "30d9a3d7-33d0-4d61-9280-52ddb45a66c0",
                 "title": "臺北市垃圾掩埋場污水廠水質檢測報告",
@@ -24650,100 +24818,6 @@
                         "name": "臺北市週三、週日廚餘專用限時收受點.csv",
                         "created": "2016-11-02 09:02:40",
                         "last_modified": "2016-11-02T09:02:40"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "cd95ab7d-dd94-4825-a6c5-b2ea0329ff0f": {
-                "name": "cd95ab7d-dd94-4825-a6c5-b2ea0329ff0f",
-                "title": "臺北市專用垃圾袋代售點名冊",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-02-21 14:06:17",
-                "timeEnd": 1487657177,
-                "timeBegin": 1445961600,
-                "resources": {
-                    "5dd17c6c-1c67-449a-a994-253fe3642330": {
-                        "id": "5dd17c6c-1c67-449a-a994-253fe3642330",
-                        "name": "連鎖超商-三商行.csv",
-                        "created": "2017-02-21 14:01:14",
-                        "last_modified": "2017-02-21T14:01:14"
-                    },
-                    "5cb8a5ff-602d-4804-846b-7c0fc347bd95": {
-                        "id": "5cb8a5ff-602d-4804-846b-7c0fc347bd95",
-                        "name": "連鎖超商-台糖.csv",
-                        "created": "2017-02-21 14:01:24",
-                        "last_modified": "2017-02-21T14:01:24"
-                    },
-                    "9bd15f45-faf8-408b-a48d-a5e20b8c1058": {
-                        "id": "9bd15f45-faf8-408b-a48d-a5e20b8c1058",
-                        "name": "連鎖超商-全家.csv",
-                        "created": "2017-02-21 14:01:47",
-                        "last_modified": "2017-02-21T14:01:47"
-                    },
-                    "0d9fdafb-ab87-4e64-8f1c-55e3d50dfe6f": {
-                        "id": "0d9fdafb-ab87-4e64-8f1c-55e3d50dfe6f",
-                        "name": "連鎖超商-全聯.csv",
-                        "created": "2017-02-21 14:02:05",
-                        "last_modified": "2017-02-21T14:02:05"
-                    },
-                    "f6c322f1-298a-480b-a67a-8f25e4387d66": {
-                        "id": "f6c322f1-298a-480b-a67a-8f25e4387d66",
-                        "name": "連鎖超商-統一.csv",
-                        "created": "2017-02-21 14:02:39",
-                        "last_modified": "2017-02-21T14:02:39"
-                    },
-                    "a3baf12b-af19-4d8c-a8a8-8e0e279d77b5": {
-                        "id": "a3baf12b-af19-4d8c-a8a8-8e0e279d77b5",
-                        "name": "連鎖超商-來來.csv",
-                        "created": "2017-02-21 14:02:48",
-                        "last_modified": "2017-02-21T14:02:48"
-                    },
-                    "699143dc-f701-47a4-99f8-ca34ba38006e": {
-                        "id": "699143dc-f701-47a4-99f8-ca34ba38006e",
-                        "name": "連鎖超商-惠康.csv",
-                        "created": "2017-02-21 14:02:59",
-                        "last_modified": "2017-02-21T14:02:59"
-                    },
-                    "13aff32c-5b39-48f7-929e-0c82c72e6a0e": {
-                        "id": "13aff32c-5b39-48f7-929e-0c82c72e6a0e",
-                        "name": "連鎖超商-萊爾富.csv",
-                        "created": "2017-02-21 14:03:08",
-                        "last_modified": "2017-02-21T14:03:08"
-                    },
-                    "a5ce842c-4ad2-4369-9a23-73d80c115b28": {
-                        "id": "a5ce842c-4ad2-4369-9a23-73d80c115b28",
-                        "name": "傳統.csv",
-                        "created": "2017-02-21 14:03:15",
-                        "last_modified": "2017-02-21T14:03:15"
-                    },
-                    "d3488bd4-687d-4b30-9112-16eae2bcbc8c": {
-                        "id": "d3488bd4-687d-4b30-9112-16eae2bcbc8c",
-                        "name": "連鎖超商-家樂福.csv",
-                        "created": "2017-02-21 14:03:25",
-                        "last_modified": "2017-02-21T14:03:25"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "dac325f8-0187-43d0-b5a1-7f50bb84ab4b": {
-                "name": "dac325f8-0187-43d0-b5a1-7f50bb84ab4b",
-                "title": "臺北市路燈桿旗幟申請參考一覽表",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-02-21 13:42:16",
-                "timeEnd": 1487655736,
-                "timeBegin": 1329926400,
-                "resources": {
-                    "3dd2dfa0-eea0-4d86-a46c-fd666510ab81": {
-                        "id": "3dd2dfa0-eea0-4d86-a46c-fd666510ab81",
-                        "name": "臺北市路燈旗幟申請參考一欄表.ods",
-                        "created": "2017-02-21 13:37:55",
-                        "last_modified": "2017-02-21T13:37:55"
                     }
                 },
                 "counters": {
@@ -25788,26 +25862,6 @@
                         "name": "104年營運管理及監測報告.odt",
                         "created": "2016-07-25 14:08:35",
                         "last_modified": "2016-07-25T14:08:35"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "35f574c3-f16e-4377-b1d3-f055c480c3d3": {
-                "name": "35f574c3-f16e-4377-b1d3-f055c480c3d3",
-                "title": "臺北市登革熱戶外化學防疫軌跡記錄",
-                "organization_id": "379150000I",
-                "metadata_modified": "2016-11-03 15:18:33",
-                "timeEnd": 1478157513,
-                "timeBegin": 1477929600,
-                "resources": {
-                    "8074a795-09dd-4be9-b945-4d9cd8924304": {
-                        "id": "8074a795-09dd-4be9-b945-4d9cd8924304",
-                        "name": "戶外環境噴藥日程.ods",
-                        "created": "2016-11-03 15:15:54",
-                        "last_modified": "2016-11-03T15:15:54"
                     }
                 },
                 "counters": {
@@ -26865,15 +26919,15 @@
                 "name": "6a3e862a-e1cb-4e44-b989-d35609559463",
                 "title": "臺北市開放認養動物",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-13 19:26:17",
-                "timeEnd": 1489404377,
+                "metadata_modified": "2017-03-14 19:26:16",
+                "timeEnd": 1489490776,
                 "timeBegin": 1356537600,
                 "resources": {
                     "f4a75ba9-7721-4363-884d-c3820b0b917c": {
                         "id": "f4a75ba9-7721-4363-884d-c3820b0b917c",
                         "name": "animal.json",
-                        "created": "2017-03-13 19:26:16",
-                        "last_modified": "2017-03-13T19:26:16"
+                        "created": "2017-03-14 19:26:16",
+                        "last_modified": "2017-03-14T19:26:16"
                     }
                 },
                 "counters": {
@@ -26885,15 +26939,15 @@
                 "name": "d23e6ef4-3b78-4e74-8f8e-93cbe0c66515",
                 "title": "臺北市企業營運總部分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-13 19:18:01",
-                "timeEnd": 1489403881,
+                "metadata_modified": "2017-03-14 19:18:01",
+                "timeEnd": 1489490281,
                 "timeBegin": 1326384000,
                 "resources": {
                     "77f5bb24-425a-4910-a5c1-fafe48fdaff6": {
                         "id": "77f5bb24-425a-4910-a5c1-fafe48fdaff6",
                         "name": "factory.xml",
-                        "created": "2017-03-13 19:18:01",
-                        "last_modified": "2017-03-13T19:18:01"
+                        "created": "2017-03-14 19:18:01",
+                        "last_modified": "2017-03-14T19:18:01"
                     }
                 },
                 "counters": {
@@ -26905,15 +26959,15 @@
                 "name": "2385447a-6793-4055-8ce0-b601ffa5e9b5",
                 "title": "臺北市加油站及加氣站分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-13 19:16:01",
-                "timeEnd": 1489403761,
+                "metadata_modified": "2017-03-14 19:16:01",
+                "timeEnd": 1489490161,
                 "timeBegin": 1326384000,
                 "resources": {
                     "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e": {
                         "id": "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e",
                         "name": "religion.xml",
-                        "created": "2017-03-13 19:16:01",
-                        "last_modified": "2017-03-13T19:16:01"
+                        "created": "2017-03-14 19:16:01",
+                        "last_modified": "2017-03-14T19:16:01"
                     }
                 },
                 "counters": {
@@ -26925,15 +26979,15 @@
                 "name": "c8215f0d-20fa-4350-bcd9-da82432c2c9d",
                 "title": "臺北市登記工廠分佈圖及基本資料",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-13 19:14:01",
-                "timeEnd": 1489403641,
+                "metadata_modified": "2017-03-14 19:14:01",
+                "timeEnd": 1489490041,
                 "timeBegin": 1326384000,
                 "resources": {
                     "0c526081-68e3-489f-ae05-5a015ab80f61": {
                         "id": "0c526081-68e3-489f-ae05-5a015ab80f61",
                         "name": "taipeiFactory.xml",
-                        "created": "2017-03-13 19:14:01",
-                        "last_modified": "2017-03-13T19:14:01"
+                        "created": "2017-03-14 19:14:01",
+                        "last_modified": "2017-03-14T19:14:01"
                     }
                 },
                 "counters": {
@@ -26945,15 +26999,15 @@
                 "name": "3a7f9832-d020-4a6d-9b4d-6727fc149352",
                 "title": "臺北市公用天然氣導管承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-13 19:12:00",
-                "timeEnd": 1489403520,
+                "metadata_modified": "2017-03-14 19:12:00",
+                "timeEnd": 1489489920,
                 "timeBegin": 1369324800,
                 "resources": {
                     "cc69a890-eaae-4af5-9b00-e24cadaaad09": {
                         "id": "cc69a890-eaae-4af5-9b00-e24cadaaad09",
                         "name": "gasbusiness.xml",
-                        "created": "2017-03-13 19:12:00",
-                        "last_modified": "2017-03-13T19:12:00"
+                        "created": "2017-03-14 19:12:00",
+                        "last_modified": "2017-03-14T19:12:00"
                     }
                 },
                 "counters": {
@@ -26965,15 +27019,15 @@
                 "name": "166c8468-c496-4e27-ade3-13ee7d4a3881",
                 "title": "臺北市電器承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-13 19:10:00",
-                "timeEnd": 1489403400,
+                "metadata_modified": "2017-03-14 19:10:00",
+                "timeEnd": 1489489800,
                 "timeBegin": 1369324800,
                 "resources": {
                     "7befb610-232e-4a1e-99d0-35e964c10b70": {
                         "id": "7befb610-232e-4a1e-99d0-35e964c10b70",
                         "name": "ele.xml",
-                        "created": "2017-03-13 19:10:00",
-                        "last_modified": "2017-03-13T19:10:00"
+                        "created": "2017-03-14 19:10:00",
+                        "last_modified": "2017-03-14T19:10:00"
                     }
                 },
                 "counters": {
@@ -26985,15 +27039,15 @@
                 "name": "81b2a881-d37b-41b0-b9e0-39a2fef486ce",
                 "title": "臺北市自來水管承裝商業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-03-13 19:08:00",
-                "timeEnd": 1489403280,
+                "metadata_modified": "2017-03-14 19:08:00",
+                "timeEnd": 1489489680,
                 "timeBegin": 1369324800,
                 "resources": {
                     "6805942d-a8dd-4635-a394-01a8eadb3eba": {
                         "id": "6805942d-a8dd-4635-a394-01a8eadb3eba",
                         "name": "waterbusiness.xml",
-                        "created": "2017-03-13 19:08:00",
-                        "last_modified": "2017-03-13T19:08:00"
+                        "created": "2017-03-14 19:08:00",
+                        "last_modified": "2017-03-14T19:08:00"
                     }
                 },
                 "counters": {
@@ -34128,8 +34182,8 @@
                 "name": "4c812503-c284-4414-9939-ac5c9061f087",
                 "title": "臺北市政府公報(106年度)",
                 "organization_id": "379010000A",
-                "metadata_modified": "2017-03-13 09:14:59",
-                "timeEnd": 1489367699,
+                "metadata_modified": "2017-03-14 10:15:56",
+                "timeEnd": 1489457756,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -34893,19 +34947,6 @@
                     "resource_recent": 0
                 }
             },
-            "f67d76e6-0a5c-41f4-a1f9-55ad1808997c": {
-                "name": "f67d76e6-0a5c-41f4-a1f9-55ad1808997c",
-                "title": "101年臺北市政府公報(10~12月)",
-                "organization_id": "379010000A",
-                "metadata_modified": "2015-03-06 16:39:43",
-                "timeEnd": 1425631183,
-                "timeBegin": 0,
-                "resources": [],
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "55d21323-51e0-4d5d-b88a-8fe2df9214e3": {
                 "name": "55d21323-51e0-4d5d-b88a-8fe2df9214e3",
                 "title": "Taipei Yearbook 2012",
@@ -34986,7 +35027,7 @@
             }
         },
         "counters": {
-            "datasets": 23,
+            "datasets": 22,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -34995,6 +35036,26 @@
     },
     "臺北市政府衛生局": {
         "datasets": {
+            "b940e63f-cde7-498a-9e59-a5de859c5ca3": {
+                "name": "b940e63f-cde7-498a-9e59-a5de859c5ca3",
+                "title": "臺北市產後護理之家",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-03-14 13:35:30",
+                "timeEnd": 1489469730,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "9e217288-28b7-4e10-9c02-be9ae572d2ba": {
+                        "id": "9e217288-28b7-4e10-9c02-be9ae572d2ba",
+                        "name": "市府資料開放平台_臺北市立案產後護理之家一覽表(1060314).csv",
+                        "created": "2017-03-14 13:35:30",
+                        "last_modified": "2017-03-14T13:35:30"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "2c2b4b96-2829-4de5-8bcc-655bea9a96ff": {
                 "name": "2c2b4b96-2829-4de5-8bcc-655bea9a96ff",
                 "title": "臺北市心理所",
@@ -35478,26 +35539,6 @@
                         "name": "臺北市康復之家.csv",
                         "created": "2017-02-22 14:07:01",
                         "last_modified": "2017-02-22T14:07:01"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "b940e63f-cde7-498a-9e59-a5de859c5ca3": {
-                "name": "b940e63f-cde7-498a-9e59-a5de859c5ca3",
-                "title": "臺北市產後護理之家",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-02-22 13:53:56",
-                "timeEnd": 1487742837,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "9e217288-28b7-4e10-9c02-be9ae572d2ba": {
-                        "id": "9e217288-28b7-4e10-9c02-be9ae572d2ba",
-                        "name": "市府資料開放平台_臺北市立案產後護理之家一覽表(1060222).csv",
-                        "created": "2017-02-22 13:53:57",
-                        "last_modified": "2017-02-22T13:53:57"
                     }
                 },
                 "counters": {
@@ -38628,6 +38669,26 @@
     },
     "臺北市政府警察局": {
         "datasets": {
+            "6c41536a-3ce2-4102-bdfc-6b5f3d13ef91": {
+                "name": "6c41536a-3ce2-4102-bdfc-6b5f3d13ef91",
+                "title": "臺北市政府警察局名稱及地址",
+                "organization_id": "379130000C",
+                "metadata_modified": "2017-03-14 14:30:32",
+                "timeEnd": 1489473032,
+                "timeBegin": 1487260800,
+                "resources": {
+                    "a90ae184-c39e-4242-b2d6-d7a0403c0632": {
+                        "id": "a90ae184-c39e-4242-b2d6-d7a0403c0632",
+                        "name": "data.csv",
+                        "created": "2017-03-14 14:30:30",
+                        "last_modified": "2017-03-14T14:30:30"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "9717c017-f17c-4610-b6fe-e92181381538": {
                 "name": "9717c017-f17c-4610-b6fe-e92181381538",
                 "title": "臺北市汽車竊盜點位資訊",
@@ -39413,26 +39474,6 @@
                         "name": "臺北市警政統計查詢系統",
                         "created": "2017-02-21 09:10:29",
                         "last_modified": "2017-02-21T09:10:29"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "6c41536a-3ce2-4102-bdfc-6b5f3d13ef91": {
-                "name": "6c41536a-3ce2-4102-bdfc-6b5f3d13ef91",
-                "title": "臺北市政府警察局名稱及地址",
-                "organization_id": "379130000C",
-                "metadata_modified": "2017-02-17 16:05:01",
-                "timeEnd": 1487318701,
-                "timeBegin": 1487260800,
-                "resources": {
-                    "6e6d3151-70cd-4175-a97b-c1998368f792": {
-                        "id": "6e6d3151-70cd-4175-a97b-c1998368f792",
-                        "name": "data.csv",
-                        "created": "2017-02-17 16:01:43",
-                        "last_modified": "2017-02-17T16:01:43"
                     }
                 },
                 "counters": {
@@ -41634,63 +41675,63 @@
                 "name": "5bc82dc7-f2a2-4351-abc8-c09c8a8d7529",
                 "title": "今日氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-14 05:28:39",
-                "timeEnd": 1489440519,
+                "metadata_modified": "2017-03-15 05:31:18",
+                "timeEnd": 1489527078,
                 "timeBegin": 0,
                 "resources": {
                     "1f1aaba5-616a-4a33-867d-878142cac5c4": {
                         "id": "1f1aaba5-616a-4a33-867d-878142cac5c4",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:20:36",
-                        "last_modified": "2017-03-14T05:20:36"
+                        "created": "2017-03-15 05:22:01",
+                        "last_modified": "2017-03-15T05:22:01"
                     },
                     "c3667669-39f8-4b82-bad9-f0f7ca859bf0": {
                         "id": "c3667669-39f8-4b82-bad9-f0f7ca859bf0",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:24:09",
-                        "last_modified": "2017-03-14T05:24:09"
+                        "created": "2017-03-15 05:27:05",
+                        "last_modified": "2017-03-15T05:27:05"
                     },
                     "c73a9461-91c8-4e5c-b728-86b6feb24ffb": {
                         "id": "c73a9461-91c8-4e5c-b728-86b6feb24ffb",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:24:54",
-                        "last_modified": "2017-03-14T05:24:54"
+                        "created": "2017-03-15 05:28:15",
+                        "last_modified": "2017-03-15T05:28:15"
                     },
                     "5e5f1d9a-cc42-482d-be4e-6223f4931977": {
                         "id": "5e5f1d9a-cc42-482d-be4e-6223f4931977",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:25:37",
-                        "last_modified": "2017-03-14T05:25:37"
+                        "created": "2017-03-15 05:29:01",
+                        "last_modified": "2017-03-15T05:29:01"
                     },
                     "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd": {
                         "id": "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:26:18",
-                        "last_modified": "2017-03-14T05:26:18"
+                        "created": "2017-03-15 05:29:29",
+                        "last_modified": "2017-03-15T05:29:29"
                     },
                     "b35f6ac9-6d99-492a-8773-bee73656c27b": {
                         "id": "b35f6ac9-6d99-492a-8773-bee73656c27b",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:26:53",
-                        "last_modified": "2017-03-14T05:26:53"
+                        "created": "2017-03-15 05:29:55",
+                        "last_modified": "2017-03-15T05:29:55"
                     },
                     "00fcb626-9296-4ae1-9c87-f019871755c8": {
                         "id": "00fcb626-9296-4ae1-9c87-f019871755c8",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:27:33",
-                        "last_modified": "2017-03-14T05:27:33"
+                        "created": "2017-03-15 05:30:23",
+                        "last_modified": "2017-03-15T05:30:23"
                     },
                     "7803b298-fdca-4ccc-993f-88ba97ec3c4d": {
                         "id": "7803b298-fdca-4ccc-993f-88ba97ec3c4d",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:28:12",
-                        "last_modified": "2017-03-14T05:28:12"
+                        "created": "2017-03-15 05:30:47",
+                        "last_modified": "2017-03-15T05:30:47"
                     },
                     "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570": {
                         "id": "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:28:39",
-                        "last_modified": "2017-03-14T05:28:39"
+                        "created": "2017-03-15 05:31:17",
+                        "last_modified": "2017-03-15T05:31:17"
                     }
                 },
                 "counters": {
@@ -41702,15 +41743,15 @@
                 "name": "6aa6532d-652f-4c1b-814a-4646b75407af",
                 "title": "臺北市公眾區免費無線上網熱點資料(新版)",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-14 05:27:02",
-                "timeEnd": 1489440422,
+                "metadata_modified": "2017-03-15 05:27:02",
+                "timeEnd": 1489526822,
                 "timeBegin": 1372348800,
                 "resources": {
                     "b087af42-2c54-4dbf-86c8-427d788779e5": {
                         "id": "b087af42-2c54-4dbf-86c8-427d788779e5",
                         "name": "freeWifi.xml",
-                        "created": "2017-03-14 05:27:02",
-                        "last_modified": "2017-03-14T05:27:02"
+                        "created": "2017-03-15 05:27:02",
+                        "last_modified": "2017-03-15T05:27:02"
                     }
                 },
                 "counters": {
@@ -41722,15 +41763,15 @@
                 "name": "bceb2963-d2dd-4f2d-929c-67c1c0d48667",
                 "title": "一週氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-14 05:19:07",
-                "timeEnd": 1489439947,
+                "metadata_modified": "2017-03-15 05:19:00",
+                "timeEnd": 1489526340,
                 "timeBegin": 0,
                 "resources": {
                     "e6831708-02b4-4ef8-98fa-4b4ce53459d9": {
                         "id": "e6831708-02b4-4ef8-98fa-4b4ce53459d9",
                         "name": "weatherReport1.xml",
-                        "created": "2017-03-14 05:19:07",
-                        "last_modified": "2017-03-14T05:19:07"
+                        "created": "2017-03-15 05:19:00",
+                        "last_modified": "2017-03-15T05:19:00"
                     }
                 },
                 "counters": {
@@ -41742,15 +41783,15 @@
                 "name": "203f1657-bb4a-45a7-b25f-279b63136645",
                 "title": "市政網站整合平台之常見問答",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-13 20:49:11",
-                "timeEnd": 1489409351,
+                "metadata_modified": "2017-03-14 20:49:10",
+                "timeEnd": 1489495750,
                 "timeBegin": 0,
                 "resources": {
                     "06badd5c-e0bc-4b55-8646-9fcd4ea7096d": {
                         "id": "06badd5c-e0bc-4b55-8646-9fcd4ea7096d",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-03-13 20:49:11",
-                        "last_modified": "2017-03-13T20:49:11"
+                        "created": "2017-03-14 20:49:10",
+                        "last_modified": "2017-03-14T20:49:10"
                     },
                     "f582d9b1-51ad-421c-874e-a7472f9897b3": {
                         "id": "f582d9b1-51ad-421c-874e-a7472f9897b3",
@@ -41768,15 +41809,15 @@
                 "name": "1a97fef5-dc98-4b6b-8694-5d6b3f6f2442",
                 "title": "市政網站整合平台之最新消息",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-03-13 20:48:18",
-                "timeEnd": 1489409298,
+                "metadata_modified": "2017-03-14 20:48:18",
+                "timeEnd": 1489495698,
                 "timeBegin": 0,
                 "resources": {
                     "e9d0bf09-4596-4fd2-9929-f8deb1b7352a": {
                         "id": "e9d0bf09-4596-4fd2-9929-f8deb1b7352a",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-03-13 20:48:17",
-                        "last_modified": "2017-03-13T20:48:17"
+                        "created": "2017-03-14 20:48:17",
+                        "last_modified": "2017-03-14T20:48:17"
                     }
                 },
                 "counters": {
@@ -43144,15 +43185,15 @@
                 "name": "9ebdd4b8-c211-4d28-b99d-f73a34d13867",
                 "title": "翡翠水庫水情資料",
                 "organization_id": "379550000G",
-                "metadata_modified": "2017-03-14 05:30:00",
-                "timeEnd": 1489440600,
+                "metadata_modified": "2017-03-15 05:30:00",
+                "timeEnd": 1489527000,
                 "timeBegin": 0,
                 "resources": {
                     "236f6133-e148-4bbe-adc4-efeee4ac6096": {
                         "id": "236f6133-e148-4bbe-adc4-efeee4ac6096",
                         "name": "feitsuiWater.xml",
-                        "created": "2017-03-14 05:30:00",
-                        "last_modified": "2017-03-14T05:30:00"
+                        "created": "2017-03-15 05:30:00",
+                        "last_modified": "2017-03-15T05:30:00"
                     }
                 },
                 "counters": {
@@ -43599,15 +43640,15 @@
                 "name": "961ca397-4a59-45e8-b312-697f26b059dc",
                 "title": "臺北市水質監測資訊",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-03-14 05:19:00",
-                "timeEnd": 1489439940,
+                "metadata_modified": "2017-03-15 05:19:00",
+                "timeEnd": 1489526340,
                 "timeBegin": 1398268800,
                 "resources": {
                     "190796c8-7c56-42e0-8068-39242b8ec927": {
                         "id": "190796c8-7c56-42e0-8068-39242b8ec927",
                         "name": "waterQuality.xml",
-                        "created": "2017-03-14 05:19:00",
-                        "last_modified": "2017-03-14T05:19:00"
+                        "created": "2017-03-15 05:19:00",
+                        "last_modified": "2017-03-15T05:19:00"
                     },
                     "1e9b4316-fa39-4707-aebd-f239b4f64b2f": {
                         "id": "1e9b4316-fa39-4707-aebd-f239b4f64b2f",
@@ -43625,15 +43666,15 @@
                 "name": "75aa4c40-db2a-47b7-8f0a-b10d4ff9788b",
                 "title": "臺北市停水資訊-(大臺北地區)",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-03-13 15:22:48",
-                "timeEnd": 1489389768,
+                "metadata_modified": "2017-03-14 15:23:02",
+                "timeEnd": 1489476182,
                 "timeBegin": 1325606400,
                 "resources": {
                     "a242ee9b-b954-4ae9-9827-2344c5dfeaea": {
                         "id": "a242ee9b-b954-4ae9-9827-2344c5dfeaea",
                         "name": "stopWater.xml",
-                        "created": "2017-03-13 15:22:48",
-                        "last_modified": "2017-03-13T15:22:48"
+                        "created": "2017-03-14 15:23:02",
+                        "last_modified": "2017-03-14T15:23:02"
                     },
                     "e9c4da25-a373-4735-8992-d904646fa1ed": {
                         "id": "e9c4da25-a373-4735-8992-d904646fa1ed",
@@ -44000,5 +44041,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1489440793
+    "time_generated": 1489527161
 }
