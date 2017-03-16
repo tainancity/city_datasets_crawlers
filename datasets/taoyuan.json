@@ -9304,7 +9304,7 @@
     },
     "桃園市政府水務局": {
         "counters": {
-            "datasets": 14,
+            "datasets": 17,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -9691,6 +9691,28 @@
                     "resource_recent": 0
                 }
             },
+            "9f9ba669-3895-4820-b937-309eeeea0988": {
+                "name": "9f9ba669-3895-4820-b937-309eeeea0988",
+                "title": "桃園市土石流潛勢溪流",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-03-16T06:06:35.838541",
+                "metadata_modified": "2017-03-16T06:09:16.257961",
+                "timeEnd": 1489644556,
+                "timeBegin": 1489615595,
+                "resources": {
+                    "662bf131-0248-457c-808e-d88251fb2687": {
+                        "id": "662bf131-0248-457c-808e-d88251fb2687",
+                        "name": "debrisstream1687_201601_twd97.shp",
+                        "created": "2017-03-16T14:09:16.286362",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-16T14:09:15"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "8fb9680f-e926-45e8-8da9-c4ae63f08358": {
                 "name": "b16d94df-cea5-43be-9382-063228e62791",
                 "title": "桃園市現有雨水下水道系統建設分佈位置",
@@ -9730,6 +9752,42 @@
                         "last_modified": "2015-12-08T16:33:14"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cf0e25e4-fde5-465b-81fd-739f08f8e8c5": {
+                "name": "cf0e25e4-fde5-465b-81fd-739f08f8e8c5",
+                "title": "桃園市山坡地範圍",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-03-16T05:53:38.416896",
+                "metadata_modified": "2017-03-16T06:00:39.435792",
+                "timeEnd": 1489644039,
+                "timeBegin": 1489614818,
+                "resources": {
+                    "01323e35-dadc-425a-b553-3237855fbde0": {
+                        "id": "01323e35-dadc-425a-b553-3237855fbde0",
+                        "name": "桃園山坡地範圍圖_67.shp",
+                        "created": "2017-03-16T14:00:39.469637",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-16T14:00:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "eabd93d1-d526-4de0-b378-b529aa61a4be": {
+                "name": "eabd93d1-d526-4de0-b378-b529aa61a4be",
+                "title": "桃園市政府水務局雨量站即時偵測資料",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-03-16T02:14:18.176259",
+                "metadata_modified": "2017-03-16T02:14:19.112684",
+                "timeEnd": 1489601659,
+                "timeBegin": 1489601658,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -15602,8 +15660,8 @@
                 "title": "桃園市護理之家",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T03:25:11.430840",
-                "metadata_modified": "2017-03-02T04:38:36.192481",
-                "timeEnd": 1488400716,
+                "metadata_modified": "2017-03-16T06:47:17.732160",
+                "timeEnd": 1489646837,
                 "timeBegin": 1444245911,
                 "resources": {
                     "45592eb8-9050-4bf4-b408-e0c28a456d1a": {
@@ -15648,26 +15706,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T13:55:41"
                     },
-                    "66d2bf79-d8b2-4836-aafa-b35c252038be": {
-                        "id": "66d2bf79-d8b2-4836-aafa-b35c252038be",
-                        "name": "103年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:15:33",
+                    "c8b295be-b322-4860-881e-86c26aba6be8": {
+                        "id": "c8b295be-b322-4860-881e-86c26aba6be8",
+                        "name": "一般護家通訊錄106_1.csv",
+                        "created": "2017-03-16T14:47:17.797866",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-07-28T14:15:32"
-                    },
-                    "e8a144f6-042b-4205-913c-3d84bd97962e": {
-                        "id": "e8a144f6-042b-4205-913c-3d84bd97962e",
-                        "name": "104年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:15:59",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-07-28T14:15:59"
-                    },
-                    "0c897b06-0b56-4098-baff-d8f320a5768b": {
-                        "id": "0c897b06-0b56-4098-baff-d8f320a5768b",
-                        "name": " 105年桃園市產後護理機構一覽表",
-                        "created": "2016-07-28T14:16:23",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-07-28T14:16:23"
+                        "last_modified": "2017-03-16T14:47:17"
                     }
                 },
                 "counters": {
@@ -24991,5 +25035,5 @@
             }
         }
     },
-    "time_generated": 1489613528
+    "time_generated": 1489699926
 }
