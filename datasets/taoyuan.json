@@ -12201,7 +12201,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 44,
+            "datasets": 45,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -13154,6 +13154,42 @@
                         "created": "2017-02-08T11:29:14",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-08T11:29:14"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9bba96a6-d658-4fc2-a2f1-43117d9270f3": {
+                "name": "9bba96a6-d658-4fc2-a2f1-43117d9270f3",
+                "title": "3\/17測試資料集瀏覽次數和下載量",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-02-20T06:52:52.187082",
+                "metadata_modified": "2017-03-17T05:52:41.046817",
+                "timeEnd": 1489701161,
+                "timeBegin": 1487544772,
+                "resources": {
+                    "ac3ac4d4-7632-49c0-935e-1b0565f10c4f": {
+                        "id": "ac3ac4d4-7632-49c0-935e-1b0565f10c4f",
+                        "name": "公廁建檔基本資料-桃園市.csv",
+                        "created": "2017-03-15T13:39:00",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-15T13:39:00"
+                    },
+                    "94de57d4-9f23-4ccd-bb14-dae3dd1a3965": {
+                        "id": "94de57d4-9f23-4ccd-bb14-dae3dd1a3965",
+                        "name": "桃園市容查報105年09月份結案案件資料.csv",
+                        "created": "2017-03-15T13:40:51",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-15T13:40:51"
+                    },
+                    "f6310ede-4da8-4503-9889-29b38acd5909": {
+                        "id": "f6310ede-4da8-4503-9889-29b38acd5909",
+                        "name": "105年度新屋區新舊建號對照資料.csv",
+                        "created": "2017-03-15T13:41:30",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-15T13:41:30"
                     }
                 },
                 "counters": {
@@ -24987,16 +25023,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-03-10T01:13:54.617477",
-                "timeEnd": 1489108434,
+                "metadata_modified": "2017-03-17T01:11:24.447758",
+                "timeEnd": 1489713084,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "ac23f170-66c4-4dd6-9040-fc480d06eba6": {
-                        "id": "ac23f170-66c4-4dd6-9040-fc480d06eba6",
+                    "015f02ac-f23d-4747-bdf4-90f16fa684b7": {
+                        "id": "015f02ac-f23d-4747-bdf4-90f16fa684b7",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-03-10T09:13:54.674021",
+                        "created": "2017-03-17T09:11:24.512950",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-10T09:13:54"
+                        "last_modified": "2017-03-17T09:11:24"
                     }
                 },
                 "counters": {
@@ -25009,8 +25045,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-03-10T01:14:17.337108",
-                "timeEnd": 1489108457,
+                "metadata_modified": "2017-03-17T01:10:58.704661",
+                "timeEnd": 1489713058,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -25020,12 +25056,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "9be105fb-9bf2-4067-a8eb-a25978837d49": {
-                        "id": "9be105fb-9bf2-4067-a8eb-a25978837d49",
+                    "bf2461c6-79e1-47a4-9d9e-b2e0205c0683": {
+                        "id": "bf2461c6-79e1-47a4-9d9e-b2e0205c0683",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-03-10T09:14:17.452667",
+                        "created": "2017-03-17T09:10:58.778735",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-10T09:14:17"
+                        "last_modified": "2017-03-17T09:10:58"
                     }
                 },
                 "counters": {
@@ -25035,5 +25071,5 @@
             }
         }
     },
-    "time_generated": 1489699926
+    "time_generated": 1489786324
 }
