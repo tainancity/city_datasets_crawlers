@@ -9304,13 +9304,77 @@
     },
     "桃園市政府水務局": {
         "counters": {
-            "datasets": 17,
+            "datasets": 19,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "00c10ec8-bd68-4576-a527-0f7613b6e25a": {
+                "name": "00c10ec8-bd68-4576-a527-0f7613b6e25a",
+                "title": "桃園市水資源回收中心位置",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-03-21T07:41:22.773473",
+                "metadata_modified": "2017-03-21T07:48:40.603239",
+                "timeEnd": 1490082520,
+                "timeBegin": 1490053282,
+                "resources": {
+                    "3fb6f87f-3736-47b9-a1dc-8bd39662cba0": {
+                        "id": "3fb6f87f-3736-47b9-a1dc-8bd39662cba0",
+                        "name": "WWTP.cpg",
+                        "created": "2017-03-21T15:45:04.520147",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T15:45:04"
+                    },
+                    "2628e92a-9f23-4b29-95e6-437b8367d30d": {
+                        "id": "2628e92a-9f23-4b29-95e6-437b8367d30d",
+                        "name": "WWTP.dbf",
+                        "created": "2017-03-21T15:45:26.714878",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T15:45:26"
+                    },
+                    "61aef056-9ebd-4897-8642-82196abea544": {
+                        "id": "61aef056-9ebd-4897-8642-82196abea544",
+                        "name": "WWTP.prj",
+                        "created": "2017-03-21T15:46:24.253125",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T15:46:24"
+                    },
+                    "47712bd1-ab8e-42bd-90ec-c9b9b0e3dbea": {
+                        "id": "47712bd1-ab8e-42bd-90ec-c9b9b0e3dbea",
+                        "name": "WWTP.sbn",
+                        "created": "2017-03-21T15:47:18.494001",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T15:47:18"
+                    },
+                    "a82095a3-a5f3-428e-9701-bc1f3e1db0d4": {
+                        "id": "a82095a3-a5f3-428e-9701-bc1f3e1db0d4",
+                        "name": "WWTP.sbx",
+                        "created": "2017-03-21T15:47:38.076762",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T15:47:37"
+                    },
+                    "adf957e1-a772-4e37-a50c-7387f09b82ce": {
+                        "id": "adf957e1-a772-4e37-a50c-7387f09b82ce",
+                        "name": "WWTP.shp",
+                        "created": "2017-03-21T15:47:54.980325",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T15:47:54"
+                    },
+                    "b0272555-8041-4700-a8a1-3baf44e84a54": {
+                        "id": "b0272555-8041-4700-a8a1-3baf44e84a54",
+                        "name": "WWTP.shx",
+                        "created": "2017-03-21T15:48:40.641497",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T15:48:40"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "afddf360-578c-451f-8951-7fc4ef927c89": {
                 "name": "1909030d-367b-44e2-aae7-a2e59353ac08",
                 "title": "桃園市全區雨水下水道管線分布圖",
@@ -9772,6 +9836,126 @@
                         "created": "2017-03-16T14:00:39.469637",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-16T14:00:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "df16e7f8-f6d9-46f5-b2bf-b715160d6079": {
+                "name": "df16e7f8-f6d9-46f5-b2bf-b715160d6079",
+                "title": "桃園市水資源回收中心回饋金補助範圍",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-03-21T08:01:03.480967",
+                "metadata_modified": "2017-03-21T08:05:55.402858",
+                "timeEnd": 1490083555,
+                "timeBegin": 1490054463,
+                "resources": {
+                    "4c8a316e-87aa-4235-8883-792ce8ad6fc2": {
+                        "id": "4c8a316e-87aa-4235-8883-792ce8ad6fc2",
+                        "name": "300m.cpg",
+                        "created": "2017-03-21T16:01:45.265958",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:01:45"
+                    },
+                    "ede3fea4-08f1-4a11-a22d-d87cecb474c1": {
+                        "id": "ede3fea4-08f1-4a11-a22d-d87cecb474c1",
+                        "name": "300m.dbf",
+                        "created": "2017-03-21T16:02:02.311707",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:02:02"
+                    },
+                    "cc75162a-8407-4bf5-baed-e8017f7594ef": {
+                        "id": "cc75162a-8407-4bf5-baed-e8017f7594ef",
+                        "name": "300m.prj",
+                        "created": "2017-03-21T16:02:12.641876",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:02:12"
+                    },
+                    "05cfdac5-fa62-463b-b5b8-36ab988fa4b6": {
+                        "id": "05cfdac5-fa62-463b-b5b8-36ab988fa4b6",
+                        "name": "300m.sbn",
+                        "created": "2017-03-21T16:02:22.551425",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:02:22"
+                    },
+                    "d208b771-01f7-4624-938d-6b8e3d928dea": {
+                        "id": "d208b771-01f7-4624-938d-6b8e3d928dea",
+                        "name": "300m.sbx",
+                        "created": "2017-03-21T16:02:38.220295",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:02:38"
+                    },
+                    "9caba2a5-eeb8-409e-bdeb-88f97137b276": {
+                        "id": "9caba2a5-eeb8-409e-bdeb-88f97137b276",
+                        "name": "300m.shp",
+                        "created": "2017-03-21T16:02:50.878236",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:02:50"
+                    },
+                    "4d7d5413-17e3-467b-9c65-a1aeefbd38e4": {
+                        "id": "4d7d5413-17e3-467b-9c65-a1aeefbd38e4",
+                        "name": "300m.shp.xml",
+                        "created": "2017-03-21T16:03:40.414868",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:03:40"
+                    },
+                    "23942ff4-df7c-4fb1-8d34-f672bd376268": {
+                        "id": "23942ff4-df7c-4fb1-8d34-f672bd376268",
+                        "name": "600m.cpg",
+                        "created": "2017-03-21T16:04:12.439884",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:04:12"
+                    },
+                    "1a7ba669-c75f-41c9-b9c3-f24b8118ba71": {
+                        "id": "1a7ba669-c75f-41c9-b9c3-f24b8118ba71",
+                        "name": "600m.dbf",
+                        "created": "2017-03-21T16:04:25.204909",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:04:24"
+                    },
+                    "52657f58-0b56-4b83-b88a-b68d8cb777ad": {
+                        "id": "52657f58-0b56-4b83-b88a-b68d8cb777ad",
+                        "name": "600m.prj",
+                        "created": "2017-03-21T16:04:35.803811",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:04:35"
+                    },
+                    "829c95b3-c601-4a1e-9727-da2a1bc1cc60": {
+                        "id": "829c95b3-c601-4a1e-9727-da2a1bc1cc60",
+                        "name": "600m.sbn",
+                        "created": "2017-03-21T16:04:58.002407",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:04:57"
+                    },
+                    "fd46e9f5-4196-4a39-8bdb-15e907f5954c": {
+                        "id": "fd46e9f5-4196-4a39-8bdb-15e907f5954c",
+                        "name": "600m.sbx",
+                        "created": "2017-03-21T16:05:12.685757",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:05:12"
+                    },
+                    "d6d307de-015c-462d-80a4-a7df400bf429": {
+                        "id": "d6d307de-015c-462d-80a4-a7df400bf429",
+                        "name": "600m.shp",
+                        "created": "2017-03-21T16:05:29.562333",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:05:29"
+                    },
+                    "b35b5643-59d0-4fb3-97d2-458d8f20cd32": {
+                        "id": "b35b5643-59d0-4fb3-97d2-458d8f20cd32",
+                        "name": "600m.shp.xml",
+                        "created": "2017-03-21T16:05:43.151728",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:05:42"
+                    },
+                    "3ba26fe0-3920-4613-aa40-d83747bb5e7a": {
+                        "id": "3ba26fe0-3920-4613-aa40-d83747bb5e7a",
+                        "name": "600m.shx",
+                        "created": "2017-03-21T16:05:55.458858",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-21T16:05:55"
                     }
                 },
                 "counters": {
@@ -25023,16 +25207,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-03-17T01:11:24.447758",
-                "timeEnd": 1489713084,
+                "metadata_modified": "2017-03-21T01:56:47.354720",
+                "timeEnd": 1490061407,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "015f02ac-f23d-4747-bdf4-90f16fa684b7": {
-                        "id": "015f02ac-f23d-4747-bdf4-90f16fa684b7",
+                    "b082e94a-7aa2-468b-8a66-40a44076e63b": {
+                        "id": "b082e94a-7aa2-468b-8a66-40a44076e63b",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-03-17T09:11:24.512950",
+                        "created": "2017-03-21T09:56:47.413706",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-17T09:11:24"
+                        "last_modified": "2017-03-21T09:56:47"
                     }
                 },
                 "counters": {
@@ -25045,8 +25229,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-03-17T01:10:58.704661",
-                "timeEnd": 1489713058,
+                "metadata_modified": "2017-03-21T01:57:25.552879",
+                "timeEnd": 1490061445,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -25056,12 +25240,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "bf2461c6-79e1-47a4-9d9e-b2e0205c0683": {
-                        "id": "bf2461c6-79e1-47a4-9d9e-b2e0205c0683",
+                    "06715389-c210-4a69-9b0c-eb482730a940": {
+                        "id": "06715389-c210-4a69-9b0c-eb482730a940",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-03-17T09:10:58.778735",
+                        "created": "2017-03-21T09:57:25.631835",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-17T09:10:58"
+                        "last_modified": "2017-03-21T09:57:25"
                     }
                 },
                 "counters": {
@@ -25071,5 +25255,5 @@
             }
         }
     },
-    "time_generated": 1490045524
+    "time_generated": 1490131928
 }
