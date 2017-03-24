@@ -1244,7 +1244,7 @@
     },
     "桃園市政府地政局": {
         "counters": {
-            "datasets": 116,
+            "datasets": 117,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -4051,6 +4051,28 @@
                         "created": "2016-12-26T16:55:22",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-26T16:55:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b1bbed74-7638-4207-82b6-81b134025cd1": {
+                "name": "b1bbed74-7638-4207-82b6-81b134025cd1",
+                "title": "桃園市桃園區及龜山區加密控制點資料",
+                "organization_id": "380160000a",
+                "metadata_created": "2017-03-24T03:48:41.952726",
+                "metadata_modified": "2017-03-24T04:00:49.910547",
+                "timeEnd": 1490327987,
+                "timeBegin": 1490298521,
+                "resources": {
+                    "c50738fb-574f-40ab-a534-54f7cc9b80e2": {
+                        "id": "c50738fb-574f-40ab-a534-54f7cc9b80e2",
+                        "name": "加密控制點資料ha.csv",
+                        "created": "2017-03-24T11:59:47",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T11:59:47"
                     }
                 },
                 "counters": {
@@ -15935,20 +15957,42 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 73,
+            "datasets": 79,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "02019f65-131c-409f-b30d-31446e485a93": {
+                "name": "02019f65-131c-409f-b30d-31446e485a93",
+                "title": "(桃園市)105年度年節食品源頭稽查結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-24T07:01:33.347624",
+                "metadata_modified": "2017-03-24T07:41:35.794903",
+                "timeEnd": 1490338910,
+                "timeBegin": 1490310093,
+                "resources": {
+                    "4a5b780c-b7f1-42e5-a06f-0735bcf17333": {
+                        "id": "4a5b780c-b7f1-42e5-a06f-0735bcf17333",
+                        "name": "(桃園市)105年度年節食品源頭稽查結果.csv",
+                        "created": "2017-03-24T15:01:50",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T15:01:50"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "2a889b37-ee8d-4b9c-a2e7-503f5b82b9c5": {
                 "name": "02a4e28e-34d2-4301-b2d2-afa5bb6458da",
-                "title": "桃園市公私立醫療機構及病床數",
+                "title": "桃園市公私立醫療機構及病床數統計",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T06:08:58.610960",
-                "metadata_modified": "2017-03-13T06:50:05.741715",
-                "timeEnd": 1489370517,
+                "metadata_modified": "2017-03-24T06:32:23.010862",
+                "timeEnd": 1490308343,
                 "timeBegin": 1444255738,
                 "resources": {
                     "24aa0266-07d3-4fce-991f-da5c782fe5ae": {
@@ -16020,8 +16064,8 @@
                 "title": "桃園市13區衛生所(含診療科別)",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-13T02:39:17.589704",
-                "metadata_modified": "2017-03-13T02:59:57.728969",
-                "timeEnd": 1489372780,
+                "metadata_modified": "2017-03-24T06:22:00.393305",
+                "timeEnd": 1490307720,
                 "timeBegin": 1489343957,
                 "resources": {
                     "c46947b4-2853-4bf6-afe0-d2002515e785": {
@@ -16064,8 +16108,8 @@
                 "title": "桃園市轄內醫院(含病床數)",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-13T02:42:23.908236",
-                "metadata_modified": "2017-03-13T03:01:32.922362",
-                "timeEnd": 1489372978,
+                "metadata_modified": "2017-03-24T06:21:49.420075",
+                "timeEnd": 1490307709,
                 "timeBegin": 1489344143,
                 "resources": {
                     "93b17f1a-227c-4587-bff7-79577046e8f8": {
@@ -16138,6 +16182,28 @@
                         "created": "2017-03-16T14:47:17.797866",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-16T14:47:17"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1766b428-0d70-44f5-b03b-124b784b6966": {
+                "name": "1766b428-0d70-44f5-b03b-124b784b6966",
+                "title": "(桃園市)104年度清明節抽驗潤餅皮檢驗結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-24T06:48:50.024617",
+                "metadata_modified": "2017-03-24T08:44:54.960906",
+                "timeEnd": 1490338146,
+                "timeBegin": 1490309330,
+                "resources": {
+                    "64ba2213-8c1a-406a-88dd-814575f8e898": {
+                        "id": "64ba2213-8c1a-406a-88dd-814575f8e898",
+                        "name": "(桃園市)104年度清明節抽驗潤餅皮檢驗結果.csv",
+                        "created": "2017-03-24T14:49:06",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T14:49:06"
                     }
                 },
                 "counters": {
@@ -16347,6 +16413,28 @@
                     "resource_recent": 0
                 }
             },
+            "37acfecb-8501-481c-a747-e67eb98f2377": {
+                "name": "37acfecb-8501-481c-a747-e67eb98f2377",
+                "title": "(桃園市)104年度盒餐業者專案稽查結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-24T06:51:39.205708",
+                "metadata_modified": "2017-03-24T08:44:52.180956",
+                "timeEnd": 1490338322,
+                "timeBegin": 1490309499,
+                "resources": {
+                    "246199c6-a097-4f8d-9bf7-0315d59e1274": {
+                        "id": "246199c6-a097-4f8d-9bf7-0315d59e1274",
+                        "name": "(桃園市)104年度盒餐業者專案稽查結果.csv",
+                        "created": "2017-03-24T14:52:02",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T14:52:02"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "3f663410-c3e4-49bb-a906-03513a82cd45": {
                 "name": "43f36d36-0b47-479b-9dde-de8b957cb14c",
                 "title": "桃園市政府衛生局105年抽驗食品合格名單",
@@ -16489,21 +16577,21 @@
                 "title": "桃園市政府衛生局106年抽驗食品不合格名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-07T08:04:37.568599",
-                "metadata_modified": "2017-03-07T08:05:31.162498",
-                "timeEnd": 1488873931,
+                "metadata_modified": "2017-03-24T08:44:39.645525",
+                "timeEnd": 1490316279,
                 "timeBegin": 1488845077,
                 "resources": {
                     "00e627f2-d42c-48ef-a58d-a95f7e800a6b": {
                         "id": "00e627f2-d42c-48ef-a58d-a95f7e800a6b",
                         "name": "桃園市政府衛生局106年1月份抽驗食品不合格名單.csv",
-                        "created": "2017-03-07T16:05:02.237445",
+                        "created": "2017-03-07T16:05:02",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-07T16:05:02"
                     },
                     "ee92a8fb-a8e3-47d6-b610-a2e58bba4692": {
                         "id": "ee92a8fb-a8e3-47d6-b610-a2e58bba4692",
                         "name": "桃園市政府衛生局106年2月抽驗食品不合格名單.csv",
-                        "created": "2017-03-07T16:05:31.206922",
+                        "created": "2017-03-07T16:05:31",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-07T16:05:31"
                     }
@@ -16669,8 +16757,8 @@
                 "title": "桃園市轄內醫務室(含診療科別)",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-13T02:45:18.335777",
-                "metadata_modified": "2017-03-13T03:00:47.130183",
-                "timeEnd": 1489373139,
+                "metadata_modified": "2017-03-24T06:21:54.266457",
+                "timeEnd": 1490307714,
                 "timeBegin": 1489344318,
                 "resources": {
                     "e7ae4a21-0d7c-4372-95a8-4494e84f3ce7": {
@@ -16691,8 +16779,8 @@
                 "title": "桃園市轄內中醫診所(含診療科別)",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-13T02:29:01.953128",
-                "metadata_modified": "2017-03-13T02:58:11.828834",
-                "timeEnd": 1489372169,
+                "metadata_modified": "2017-03-24T06:22:07.425600",
+                "timeEnd": 1490307727,
                 "timeBegin": 1489343341,
                 "resources": {
                     "95fda88d-13f1-4cd4-84b6-2955779c808c": {
@@ -16796,6 +16884,28 @@
                     "resource_recent": 0
                 }
             },
+            "7182b52c-8768-45ca-adb5-1f9afefca4b6": {
+                "name": "7182b52c-8768-45ca-adb5-1f9afefca4b6",
+                "title": "(桃園市)104年度行政院食品安全聯合稽查及取締小組-鹽稽查計畫稽查結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-24T06:30:03.093086",
+                "metadata_modified": "2017-03-24T08:44:58.194665",
+                "timeEnd": 1490337132,
+                "timeBegin": 1490308203,
+                "resources": {
+                    "ada1cf48-8d0d-499e-bee0-d0b59c9da0af": {
+                        "id": "ada1cf48-8d0d-499e-bee0-d0b59c9da0af",
+                        "name": "(桃園市)104年度行政院食品安全聯合稽查及取締小組-鹽稽查計畫稽查結果.csv",
+                        "created": "2017-03-24T14:32:12",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T14:32:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "72dc5407-d82d-4493-b0e9-b92c1bf63418": {
                 "name": "72dc5407-d82d-4493-b0e9-b92c1bf63418",
                 "title": "桃園市乳癌確認診斷醫院",
@@ -16891,63 +17001,6 @@
                         "created": "2016-08-03T14:13:19.038694",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-03T14:13:18"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "6f7b94fa-abe3-43b5-a9a2-007eb06b6214": {
-                "name": "7f521ac3-d728-4995-8208-334e53506d13",
-                "title": "桃園市政府衛生局稽查結果",
-                "organization_id": "380140000i",
-                "metadata_created": "2016-05-18T07:59:49.794855",
-                "metadata_modified": "2017-01-23T01:29:21.871229",
-                "timeEnd": 1485106161,
-                "timeBegin": 1463529589,
-                "resources": {
-                    "8dde6f53-8a47-441e-b0de-e1748ceaec66": {
-                        "id": "8dde6f53-8a47-441e-b0de-e1748ceaec66",
-                        "name": " 桃園市104年度行政院食品安全聯合稽查及取締小組-鹽稽查計畫稽查結果",
-                        "created": "2016-08-02T08:27:29",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-02T08:27:29"
-                    },
-                    "54037e69-d428-4f9f-bc0d-7c1621383961": {
-                        "id": "54037e69-d428-4f9f-bc0d-7c1621383961",
-                        "name": " 桃園市104年度清明節抽驗潤餅皮檢驗結果",
-                        "created": "2016-08-02T09:06:38",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-02T09:06:38"
-                    },
-                    "a03a0df7-48be-4369-ae1f-00cf4c482bd2": {
-                        "id": "a03a0df7-48be-4369-ae1f-00cf4c482bd2",
-                        "name": "桃園市104年度第一階段麵粉工廠稽查結果1040402",
-                        "created": "2016-08-02T09:07:15",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-02T09:07:15"
-                    },
-                    "aee0024b-7a3d-4283-a986-f140b071de33": {
-                        "id": "aee0024b-7a3d-4283-a986-f140b071de33",
-                        "name": "桃園市104年度傳統市場販售鴨血稽查結果1040215",
-                        "created": "2016-08-02T09:07:52",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-02T09:07:52"
-                    },
-                    "b8e7c0cc-ec8e-4d9d-a0f8-c48d025e04ba": {
-                        "id": "b8e7c0cc-ec8e-4d9d-a0f8-c48d025e04ba",
-                        "name": " 桃園市105年度年節食品工廠源頭稽查結果",
-                        "created": "2016-08-02T09:08:34",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-02T09:08:33"
-                    },
-                    "01c996c5-336e-4de0-b4e9-e20b36e0d355": {
-                        "id": "01c996c5-336e-4de0-b4e9-e20b36e0d355",
-                        "name": " 桃園市104年度盒餐業者專案稽查結果1040402",
-                        "created": "2016-08-02T09:09:15",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-02T09:09:15"
                     }
                 },
                 "counters": {
@@ -17152,6 +17205,28 @@
                     "resource_recent": 0
                 }
             },
+            "98c15966-7cfe-4b16-a2a6-5c2f3a6bbb75": {
+                "name": "98c15966-7cfe-4b16-a2a6-5c2f3a6bbb75",
+                "title": "(桃園市)105年度年節食品工廠源頭稽查結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-24T06:59:28.254070",
+                "metadata_modified": "2017-03-24T08:44:42.628283",
+                "timeEnd": 1490338785,
+                "timeBegin": 1490309968,
+                "resources": {
+                    "58268de0-b4ae-49ff-a9cc-6b708e58dbf9": {
+                        "id": "58268de0-b4ae-49ff-a9cc-6b708e58dbf9",
+                        "name": "(桃園市)105年度年節食品工廠源頭稽查結果.csv",
+                        "created": "2017-03-24T14:59:45",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T14:59:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "84beb5df-81db-4e4a-bfd2-8b1fbf404a3a": {
                 "name": "99c8794d-052c-4afe-8600-853d1572e7ae",
                 "title": "桃園市105年食安聯稽查核結果",
@@ -17337,21 +17412,21 @@
                 "title": "桃園市政府衛生局106年抽驗食品合格名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-07T07:54:24.954676",
-                "metadata_modified": "2017-03-07T07:55:53.643322",
-                "timeEnd": 1488873353,
+                "metadata_modified": "2017-03-24T08:38:23.842324",
+                "timeEnd": 1490315903,
                 "timeBegin": 1488844464,
                 "resources": {
                     "d3e0c0a3-7479-44ca-ad70-10316cf8432d": {
                         "id": "d3e0c0a3-7479-44ca-ad70-10316cf8432d",
                         "name": "桃園市政府衛生局106年1月份抽驗食品合格名單.csv",
-                        "created": "2017-03-07T15:55:22.882160",
+                        "created": "2017-03-07T15:55:22",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-07T15:55:22"
                     },
                     "c94c690e-9fd5-42c1-95bf-ae97a248b5d2": {
                         "id": "c94c690e-9fd5-42c1-95bf-ae97a248b5d2",
                         "name": "桃園市政府衛生局106年2月抽驗合格名單.csv",
-                        "created": "2017-03-07T15:55:53.691144",
+                        "created": "2017-03-07T15:55:53",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-07T15:55:53"
                     }
@@ -17479,8 +17554,8 @@
                 "title": "桃園市轄內牙醫診所(含診療科別)",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-13T02:21:20.409024",
-                "metadata_modified": "2017-03-13T02:57:07.071337",
-                "timeEnd": 1489371728,
+                "metadata_modified": "2017-03-24T06:22:11.464272",
+                "timeEnd": 1490307731,
                 "timeBegin": 1489342880,
                 "resources": {
                     "1697b805-acb7-48b4-b64b-4998fb9ab0f6": {
@@ -17540,6 +17615,28 @@
                         "created": "2016-08-17T13:48:17.521817",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-17T13:48:17"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b98c7754-6185-488b-b5de-8166e241e038": {
+                "name": "b98c7754-6185-488b-b5de-8166e241e038",
+                "title": "(桃園市)104年度傳統市場販售鴨血稽查結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-24T06:57:15.203286",
+                "metadata_modified": "2017-03-24T08:44:46.026667",
+                "timeEnd": 1490338659,
+                "timeBegin": 1490309835,
+                "resources": {
+                    "c1d36c1d-84aa-4619-b966-41f0726cb2be": {
+                        "id": "c1d36c1d-84aa-4619-b966-41f0726cb2be",
+                        "name": "(桃園市)104年度傳統市場販售鴨血稽查結果.csv",
+                        "created": "2017-03-24T14:57:39",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T14:57:39"
                     }
                 },
                 "counters": {
@@ -18028,8 +18125,8 @@
                 "title": "桃園市轄內西醫診所(含診療科別)",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-13T02:31:29.756706",
-                "metadata_modified": "2017-03-13T02:59:01.298746",
-                "timeEnd": 1489372606,
+                "metadata_modified": "2017-03-24T06:22:04.202622",
+                "timeEnd": 1490307724,
                 "timeBegin": 1489343489,
                 "resources": {
                     "83fcce04-f9d8-4f25-9a4f-6d92b9a4d448": {
@@ -18038,6 +18135,28 @@
                         "created": "2017-03-13T10:36:46",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-13T10:36:46"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f276ffde-4efa-4267-a010-602b9fb5efb1": {
+                "name": "f276ffde-4efa-4267-a010-602b9fb5efb1",
+                "title": "(桃園市)104年度第一階段麵粉工廠稽查結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-03-24T06:54:26.797593",
+                "metadata_modified": "2017-03-24T08:44:49.175024",
+                "timeEnd": 1490338487,
+                "timeBegin": 1490309666,
+                "resources": {
+                    "70a4f1fd-352e-4fa3-86d2-0fef746a28c7": {
+                        "id": "70a4f1fd-352e-4fa3-86d2-0fef746a28c7",
+                        "name": "(桃園市)104年度第一階段麵粉工廠稽查結果.csv",
+                        "created": "2017-03-24T14:54:47",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-24T14:54:47"
                     }
                 },
                 "counters": {
@@ -25435,16 +25554,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-03-23T00:08:58.643822",
-                "timeEnd": 1490227738,
+                "metadata_modified": "2017-03-24T00:15:10.877481",
+                "timeEnd": 1490314510,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "974afa0c-3045-44dd-8a9f-14a6c6088152": {
-                        "id": "974afa0c-3045-44dd-8a9f-14a6c6088152",
+                    "efa2b804-4965-4620-af7a-f0f52e0d29b3": {
+                        "id": "efa2b804-4965-4620-af7a-f0f52e0d29b3",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-03-23T08:08:58.707143",
+                        "created": "2017-03-24T08:15:10.942695",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-23T08:08:58"
+                        "last_modified": "2017-03-24T08:15:10"
                     }
                 },
                 "counters": {
@@ -25457,8 +25576,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-03-23T00:09:34.223457",
-                "timeEnd": 1490227774,
+                "metadata_modified": "2017-03-24T00:14:50.309766",
+                "timeEnd": 1490314490,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -25468,12 +25587,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "b26bad16-6a88-44b8-b982-bc68bbd3d782": {
-                        "id": "b26bad16-6a88-44b8-b982-bc68bbd3d782",
+                    "16d1afa1-d156-4448-a5f2-78cc0e654388": {
+                        "id": "16d1afa1-d156-4448-a5f2-78cc0e654388",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-03-23T08:09:34.344711",
+                        "created": "2017-03-24T08:14:50.396280",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-23T08:09:34"
+                        "last_modified": "2017-03-24T08:14:50"
                     }
                 },
                 "counters": {
@@ -25483,5 +25602,5 @@
             }
         }
     },
-    "time_generated": 1490304726
+    "time_generated": 1490391135
 }
