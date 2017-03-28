@@ -137,8 +137,8 @@
                 "title": "桃園市總決算附屬單位決算及綜計表",
                 "organization_id": "380200000a",
                 "metadata_created": "2016-10-27T08:16:03.381512",
-                "metadata_modified": "2017-02-20T06:05:06.870699",
-                "timeEnd": 1487541906,
+                "metadata_modified": "2017-03-28T03:20:43.313526",
+                "timeEnd": 1490642443,
                 "timeBegin": 1477527363,
                 "resources": {
                     "06961e67-b477-437d-b8eb-0b6d0dcf1dd1": {
@@ -261,8 +261,8 @@
                 "title": "桃園市總預算附屬單位預算及綜計表",
                 "organization_id": "380200000a",
                 "metadata_created": "2016-10-27T03:09:18.750093",
-                "metadata_modified": "2017-02-20T06:05:37.483987",
-                "timeEnd": 1487541937,
+                "metadata_modified": "2017-03-28T03:20:51.642007",
+                "timeEnd": 1490642451,
                 "timeBegin": 1477508958,
                 "resources": {
                     "eed82eb1-d251-4b4e-b4b8-62ac579939c2": {
@@ -14949,7 +14949,7 @@
     },
     "桃園市政府經濟發展局": {
         "counters": {
-            "datasets": 33,
+            "datasets": 34,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -15296,6 +15296,28 @@
                         "created": "2017-02-14T14:29:34",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-14T14:29:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "5a108c8c-1822-4d0f-adb3-f6300803a0b4": {
+                "name": "5a108c8c-1822-4d0f-adb3-f6300803a0b4",
+                "title": "抗旱專區測試",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-03-28T08:04:43.370718",
+                "metadata_modified": "2017-03-28T08:06:22.355721",
+                "timeEnd": 1490688382,
+                "timeBegin": 1490659483,
+                "resources": {
+                    "02f53ed0-3e36-4fd2-9804-04a02775d7a1": {
+                        "id": "02f53ed0-3e36-4fd2-9804-04a02775d7a1",
+                        "name": "抗旱專區測試.csv",
+                        "created": "2017-03-28T16:06:22.393632",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-03-28T16:06:21"
                     }
                 },
                 "counters": {
@@ -25547,5 +25569,5 @@
             }
         }
     },
-    "time_generated": 1490650338
+    "time_generated": 1490736723
 }
