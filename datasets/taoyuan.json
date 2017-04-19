@@ -9547,7 +9547,7 @@
     },
     "桃園市政府水務局": {
         "counters": {
-            "datasets": 21,
+            "datasets": 22,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -9927,6 +9927,28 @@
                         "created": "2016-11-17T13:57:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-17T13:57:25"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "96e5753f-6b55-4b85-a580-393bd0a21440": {
+                "name": "96e5753f-6b55-4b85-a580-393bd0a21440",
+                "title": "桃園水質淨化工程",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-04-19T10:01:00.296560",
+                "metadata_modified": "2017-04-19T10:37:19.540656",
+                "timeEnd": 1492598239,
+                "timeBegin": 1492567260,
+                "resources": {
+                    "65f9d554-2f2c-4e46-9256-8578d88539fe": {
+                        "id": "65f9d554-2f2c-4e46-9256-8578d88539fe",
+                        "name": "水質淨化.csv",
+                        "created": "2017-04-19T18:37:19.600705",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-19T18:37:19"
                     }
                 },
                 "counters": {
@@ -12579,16 +12601,16 @@
                 "title": "桃園市列管土壤及地下水污染場址資料(農地場址)-土壤管制區",
                 "organization_id": "380150000i",
                 "metadata_created": "2017-01-13T02:22:06.361407",
-                "metadata_modified": "2017-02-09T06:12:15.565143",
-                "timeEnd": 1486591935,
+                "metadata_modified": "2017-04-19T06:57:42.693353",
+                "timeEnd": 1492585062,
                 "timeBegin": 1484245326,
                 "resources": {
                     "c2453f4d-3bb4-4040-8272-e63411204fda": {
                         "id": "c2453f4d-3bb4-4040-8272-e63411204fda",
-                        "name": "桃園市列管農地土壤污染控制場址管制區資訊.csv",
-                        "created": "2017-01-13T10:23:12",
+                        "name": "列管場址(農地土壤)-opendata-1060329.xls",
+                        "created": "2017-04-19T14:57:42",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-01-13T10:23:12"
+                        "last_modified": "2017-04-19T14:57:42"
                     }
                 },
                 "counters": {
@@ -25802,16 +25824,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-04-18T01:00:54.835998",
-                "timeEnd": 1492477254,
+                "metadata_modified": "2017-04-19T00:41:50.384403",
+                "timeEnd": 1492562510,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "18fd8b80-63e9-4052-937a-e5792dba5659": {
-                        "id": "18fd8b80-63e9-4052-937a-e5792dba5659",
+                    "40f7fdd5-7543-4c27-94eb-7114c0e7fea3": {
+                        "id": "40f7fdd5-7543-4c27-94eb-7114c0e7fea3",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-04-18T09:00:54.908218",
+                        "created": "2017-04-19T08:41:50.474319",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-04-18T09:00:54"
+                        "last_modified": "2017-04-19T08:41:50"
                     }
                 },
                 "counters": {
@@ -25824,8 +25846,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-04-18T01:00:29.054395",
-                "timeEnd": 1492477229,
+                "metadata_modified": "2017-04-19T00:42:15.945524",
+                "timeEnd": 1492562536,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -25835,12 +25857,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "f2841bc9-5e7d-4006-b4dc-0160a82e41e6": {
-                        "id": "f2841bc9-5e7d-4006-b4dc-0160a82e41e6",
+                    "655fd919-effe-4dc4-8f7f-47a51d05d5f3": {
+                        "id": "655fd919-effe-4dc4-8f7f-47a51d05d5f3",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-04-18T09:00:29.155263",
+                        "created": "2017-04-19T08:42:16.072899",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-04-18T09:00:28"
+                        "last_modified": "2017-04-19T08:42:15"
                     }
                 },
                 "counters": {
@@ -25850,5 +25872,5 @@
             }
         }
     },
-    "time_generated": 1492551126
+    "time_generated": 1492637527
 }
