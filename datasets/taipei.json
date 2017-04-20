@@ -237,15 +237,15 @@
                 "name": "6556e1e8-c908-42d5-b984-b3f7337b139b",
                 "title": "臺北捷運列車到站站名",
                 "organization_id": "379620000M",
-                "metadata_modified": "2017-04-20 05:31:59",
-                "timeEnd": 1492637519,
+                "metadata_modified": "2017-04-21 05:32:20",
+                "timeEnd": 1492723940,
                 "timeBegin": 1435593600,
                 "resources": {
                     "55ec6d6e-dc5c-4268-a725-d04cc262172b": {
                         "id": "55ec6d6e-dc5c-4268-a725-d04cc262172b",
                         "name": "apiIn.json",
-                        "created": "2017-04-20 05:31:59",
-                        "last_modified": "2017-04-20T05:31:59"
+                        "created": "2017-04-21 05:32:20",
+                        "last_modified": "2017-04-21T05:32:20"
                     }
                 },
                 "counters": {
@@ -10418,6 +10418,26 @@
     },
     "臺北市政府勞動局": {
         "datasets": {
+            "976a2175-bb96-498e-a74f-693b398f0c0a": {
+                "name": "976a2175-bb96-498e-a74f-693b398f0c0a",
+                "title": "臺北市工會聯合組織名冊",
+                "organization_id": "379760000J",
+                "metadata_modified": "2017-04-20 11:04:23",
+                "timeEnd": 1492657463,
+                "timeBegin": 1492617600,
+                "resources": {
+                    "8e282613-74af-4565-938a-6e0bf28205b3": {
+                        "id": "8e282613-74af-4565-938a-6e0bf28205b3",
+                        "name": "D-工會聯合組織基本資料csv檔1060420.csv",
+                        "created": "2017-04-20 11:01:03",
+                        "last_modified": "2017-04-20T11:01:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "23630879-4926-4877-a48a-a0ae6cc2f7d5": {
                 "name": "23630879-4926-4877-a48a-a0ae6cc2f7d5",
                 "title": "臺北市政府違反勞動基準法事業單位及事業主公布總表",
@@ -10511,26 +10531,6 @@
                         "name": "1060303臺北市違反性別平等法事業單位總表(CSV檔)1060303.csv",
                         "created": "2017-03-03 14:34:40",
                         "last_modified": "2017-03-03T14:34:40"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "976a2175-bb96-498e-a74f-693b398f0c0a": {
-                "name": "976a2175-bb96-498e-a74f-693b398f0c0a",
-                "title": "臺北市工會聯合組織名冊",
-                "organization_id": "379760000J",
-                "metadata_modified": "2017-02-14 17:52:51",
-                "timeEnd": 1487065971,
-                "timeBegin": 1487001600,
-                "resources": {
-                    "dd0c998b-dd0c-45f3-ba78-0e27bbddc5af": {
-                        "id": "dd0c998b-dd0c-45f3-ba78-0e27bbddc5af",
-                        "name": "D-工會聯合組織基本資料1060214.csv",
-                        "created": "2017-02-14 17:50:08",
-                        "last_modified": "2017-02-14T17:50:08"
                     }
                 },
                 "counters": {
@@ -12215,15 +12215,15 @@
                 "name": "4d29818c-a3ee-425d-b88a-22ac0c24c712",
                 "title": "臺北市今日施工資訊",
                 "organization_id": "379110000G",
-                "metadata_modified": "2017-04-20 05:24:00",
-                "timeEnd": 1492637040,
+                "metadata_modified": "2017-04-21 05:24:00",
+                "timeEnd": 1492723440,
                 "timeBegin": 1403452800,
                 "resources": {
                     "201d8ae8-dffc-4d17-ae1f-e58d8a95b162": {
                         "id": "201d8ae8-dffc-4d17-ae1f-e58d8a95b162",
                         "name": "construction.json",
-                        "created": "2017-04-20 05:24:00",
-                        "last_modified": "2017-04-20T05:24:00"
+                        "created": "2017-04-21 05:24:00",
+                        "last_modified": "2017-04-21T05:24:00"
                     },
                     "58bc550d-4033-4727-a1a5-989b54a59d38": {
                         "id": "58bc550d-4033-4727-a1a5-989b54a59d38",
@@ -14992,12 +14992,103 @@
     },
     "臺北市政府捷運工程局": {
         "datasets": {
+            "df70a1bb-5ac2-4e2d-b2b2-264c168ab937": {
+                "name": "df70a1bb-5ac2-4e2d-b2b2-264c168ab937",
+                "title": "捷運年刊(2014年)",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-04-20 17:29:47",
+                "timeEnd": 1492680587,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8d2fed54-2d86-4f19-b4a8-4684fd5593cf": {
+                "name": "8d2fed54-2d86-4f19-b4a8-4684fd5593cf",
+                "title": "捷運年刊(2015年)",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-04-20 16:36:46",
+                "timeEnd": 1492677406,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0032ad33-327b-40a9-968d-3af94f335b78": {
+                "name": "0032ad33-327b-40a9-968d-3af94f335b78",
+                "title": "捷運技術",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-04-20 14:30:00",
+                "timeEnd": 1492669800,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "a03272e7-362b-4bad-9e93-c0cc0e58ffcd": {
                 "name": "a03272e7-362b-4bad-9e93-c0cc0e58ffcd",
                 "title": "捷運技術",
                 "organization_id": "379510000H",
-                "metadata_modified": "2017-04-19 18:22:44",
-                "timeEnd": 1492597364,
+                "metadata_modified": "2017-04-20 11:19:36",
+                "timeEnd": 1492658376,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3ba280c7-b870-4a57-85dc-578ce2050f1e": {
+                "name": "3ba280c7-b870-4a57-85dc-578ce2050f1e",
+                "title": "臺北捷運工程技術文件管理實務",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-04-20 11:16:02",
+                "timeEnd": 1492658162,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "09925447-d12a-40ad-9389-eb8c6496473e": {
+                "name": "09925447-d12a-40ad-9389-eb8c6496473e",
+                "title": "臺北捷運工程品質管理實務",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-04-20 11:15:45",
+                "timeEnd": 1492658145,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "70060000-68ae-48d8-9a36-546532e4b445": {
+                "name": "70060000-68ae-48d8-9a36-546532e4b445",
+                "title": "臺北捷運潛盾隧道地中鑿除擋土壁施工實務-以松山線CG590A標穿越臺\/高鐵下方為例",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-04-20 11:15:18",
+                "timeEnd": 1492658118,
+                "timeBegin": 0,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fd9239b4-6e27-4012-9c99-4d81419be2ee": {
+                "name": "fd9239b4-6e27-4012-9c99-4d81419be2ee",
+                "title": "捷運車站建築與人文藝術-信義線",
+                "organization_id": "379510000H",
+                "metadata_modified": "2017-04-20 11:14:56",
+                "timeEnd": 1492658096,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -16019,7 +16110,7 @@
             }
         },
         "counters": {
-            "datasets": 48,
+            "datasets": 55,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -16083,123 +16174,123 @@
                 "name": "ac589468-529b-4636-a9b2-ab57ae41cbcb",
                 "title": "學習型機構",
                 "organization_id": "379040000E",
-                "metadata_modified": "2017-04-19 20:46:06",
-                "timeEnd": 1492605966,
+                "metadata_modified": "2017-04-20 20:46:10",
+                "timeEnd": 1492692370,
                 "timeBegin": 0,
                 "resources": {
                     "11f11d42-bdd8-45d0-9493-8134b2e494e9": {
                         "id": "11f11d42-bdd8-45d0-9493-8134b2e494e9",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:03",
-                        "last_modified": "2017-04-19T20:44:03"
+                        "created": "2017-04-20 20:44:01",
+                        "last_modified": "2017-04-20T20:44:01"
                     },
                     "24c9f8fe-88db-4a6e-895c-498fbc94df94": {
                         "id": "24c9f8fe-88db-4a6e-895c-498fbc94df94",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:10",
-                        "last_modified": "2017-04-19T20:44:10"
+                        "created": "2017-04-20 20:44:10",
+                        "last_modified": "2017-04-20T20:44:10"
                     },
                     "c79ed7d6-050b-45d3-9835-634694b57661": {
                         "id": "c79ed7d6-050b-45d3-9835-634694b57661",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:17",
-                        "last_modified": "2017-04-19T20:44:17"
+                        "created": "2017-04-20 20:44:17",
+                        "last_modified": "2017-04-20T20:44:17"
                     },
                     "b41472da-e34e-4a76-924a-5417c0c007ee": {
                         "id": "b41472da-e34e-4a76-924a-5417c0c007ee",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:26",
-                        "last_modified": "2017-04-19T20:44:26"
+                        "created": "2017-04-20 20:44:26",
+                        "last_modified": "2017-04-20T20:44:26"
                     },
                     "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd": {
                         "id": "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:33",
-                        "last_modified": "2017-04-19T20:44:33"
+                        "created": "2017-04-20 20:44:33",
+                        "last_modified": "2017-04-20T20:44:33"
                     },
                     "1f892a80-a776-4ea5-9b00-c94d459de674": {
                         "id": "1f892a80-a776-4ea5-9b00-c94d459de674",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:38",
-                        "last_modified": "2017-04-19T20:44:38"
+                        "created": "2017-04-20 20:44:39",
+                        "last_modified": "2017-04-20T20:44:39"
                     },
                     "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3": {
                         "id": "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:47",
-                        "last_modified": "2017-04-19T20:44:47"
+                        "created": "2017-04-20 20:44:47",
+                        "last_modified": "2017-04-20T20:44:47"
                     },
                     "9548a823-a337-4106-82eb-7d2b2279a96c": {
                         "id": "9548a823-a337-4106-82eb-7d2b2279a96c",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:44:55",
-                        "last_modified": "2017-04-19T20:44:55"
+                        "created": "2017-04-20 20:44:55",
+                        "last_modified": "2017-04-20T20:44:55"
                     },
                     "2391e09e-df95-457d-ab71-72beea2bce4d": {
                         "id": "2391e09e-df95-457d-ab71-72beea2bce4d",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:04",
-                        "last_modified": "2017-04-19T20:45:04"
+                        "created": "2017-04-20 20:45:03",
+                        "last_modified": "2017-04-20T20:45:03"
                     },
                     "7e42ce18-2c4b-440b-989c-8e32969ad180": {
                         "id": "7e42ce18-2c4b-440b-989c-8e32969ad180",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:09",
-                        "last_modified": "2017-04-19T20:45:09"
+                        "created": "2017-04-20 20:45:08",
+                        "last_modified": "2017-04-20T20:45:08"
                     },
                     "404988b2-d0b9-4a7f-ae04-30aee13f6025": {
                         "id": "404988b2-d0b9-4a7f-ae04-30aee13f6025",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:14",
-                        "last_modified": "2017-04-19T20:45:14"
+                        "created": "2017-04-20 20:45:15",
+                        "last_modified": "2017-04-20T20:45:15"
                     },
                     "74e7d540-3538-4bdb-b5ae-ffb45d03d45d": {
                         "id": "74e7d540-3538-4bdb-b5ae-ffb45d03d45d",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:22",
-                        "last_modified": "2017-04-19T20:45:22"
+                        "created": "2017-04-20 20:45:24",
+                        "last_modified": "2017-04-20T20:45:24"
                     },
                     "b395d4a4-090a-4223-b0e3-b99b0cf40549": {
                         "id": "b395d4a4-090a-4223-b0e3-b99b0cf40549",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:27",
-                        "last_modified": "2017-04-19T20:45:27"
+                        "created": "2017-04-20 20:45:30",
+                        "last_modified": "2017-04-20T20:45:30"
                     },
                     "edc33c48-cd9f-425d-82d1-d0677baa160a": {
                         "id": "edc33c48-cd9f-425d-82d1-d0677baa160a",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:34",
-                        "last_modified": "2017-04-19T20:45:34"
+                        "created": "2017-04-20 20:45:38",
+                        "last_modified": "2017-04-20T20:45:38"
                     },
                     "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64": {
                         "id": "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:39",
-                        "last_modified": "2017-04-19T20:45:39"
+                        "created": "2017-04-20 20:45:45",
+                        "last_modified": "2017-04-20T20:45:45"
                     },
                     "0a1e7957-7699-452c-8020-bf11a5408fc8": {
                         "id": "0a1e7957-7699-452c-8020-bf11a5408fc8",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:45",
-                        "last_modified": "2017-04-19T20:45:45"
+                        "created": "2017-04-20 20:45:48",
+                        "last_modified": "2017-04-20T20:45:48"
                     },
                     "e5ac12f2-239c-4175-9f2e-1cd510ac308c": {
                         "id": "e5ac12f2-239c-4175-9f2e-1cd510ac308c",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:54",
-                        "last_modified": "2017-04-19T20:45:54"
+                        "created": "2017-04-20 20:45:56",
+                        "last_modified": "2017-04-20T20:45:56"
                     },
                     "990479f4-82aa-4365-8c19-8c8c2afb15bb": {
                         "id": "990479f4-82aa-4365-8c19-8c8c2afb15bb",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:45:58",
-                        "last_modified": "2017-04-19T20:45:58"
+                        "created": "2017-04-20 20:46:03",
+                        "last_modified": "2017-04-20T20:46:03"
                     },
                     "ed83db24-f206-4ff0-9135-a0a8d65ace31": {
                         "id": "ed83db24-f206-4ff0-9135-a0a8d65ace31",
                         "name": "eduagency.json",
-                        "created": "2017-04-19 20:46:05",
-                        "last_modified": "2017-04-19T20:46:05"
+                        "created": "2017-04-20 20:46:10",
+                        "last_modified": "2017-04-20T20:46:10"
                     }
                 },
                 "counters": {
@@ -16211,15 +16302,15 @@
                 "name": "61ff4b3a-8a8a-47e4-96ec-e180b2abbfdb",
                 "title": "臺北市立動物園_行事曆",
                 "organization_id": "379040000E",
-                "metadata_modified": "2017-04-18 10:47:26",
-                "timeEnd": 1492483646,
+                "metadata_modified": "2017-04-20 14:19:48",
+                "timeEnd": 1492669189,
                 "timeBegin": 1397491200,
                 "resources": {
                     "b962a317-eb96-464b-b559-7c6e565d0b3d": {
                         "id": "b962a317-eb96-464b-b559-7c6e565d0b3d",
-                        "name": "20170418.csv",
-                        "created": "2017-04-18 10:47:26",
-                        "last_modified": "2017-04-18T10:47:26"
+                        "name": "20170420.csv",
+                        "created": "2017-04-20 14:19:49",
+                        "last_modified": "2017-04-20T14:19:49"
                     }
                 },
                 "counters": {
@@ -19414,15 +19505,15 @@
                 "name": "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6",
                 "title": "臺北市文化快遞資訊",
                 "organization_id": "379590000E",
-                "metadata_modified": "2017-04-19 11:50:02",
-                "timeEnd": 1492573802,
+                "metadata_modified": "2017-04-20 11:50:02",
+                "timeEnd": 1492660202,
                 "timeBegin": 1325606400,
                 "resources": {
                     "35aa3c53-28fb-423c-91b6-2c22432d0d70": {
                         "id": "35aa3c53-28fb-423c-91b6-2c22432d0d70",
                         "name": "culture.xml",
-                        "created": "2017-04-19 11:50:01",
-                        "last_modified": "2017-04-19T11:50:01"
+                        "created": "2017-04-20 11:50:01",
+                        "last_modified": "2017-04-20T11:50:01"
                     }
                 },
                 "counters": {
@@ -23461,15 +23552,15 @@
                 "name": "86672d20-9c69-4c24-859b-078862c4e699",
                 "title": "臺北市已立案宗教團體點位資料",
                 "organization_id": "379020000A",
-                "metadata_modified": "2017-04-19 19:44:03",
-                "timeEnd": 1492602243,
+                "metadata_modified": "2017-04-20 19:44:04",
+                "timeEnd": 1492688644,
                 "timeBegin": 1380643200,
                 "resources": {
                     "2aac2df3-e768-448c-8f06-181d7b424690": {
                         "id": "2aac2df3-e768-448c-8f06-181d7b424690",
                         "name": "religion.xml",
-                        "created": "2017-04-19 19:44:03",
-                        "last_modified": "2017-04-19T19:44:03"
+                        "created": "2017-04-20 19:44:02",
+                        "last_modified": "2017-04-20T19:44:02"
                     }
                 },
                 "counters": {
@@ -24873,15 +24964,15 @@
                 "name": "b6aa4716-aa07-4aac-9ffc-57df0f1f529f",
                 "title": "臺北市列管營業場所消防安全檢查結果",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-04-19 19:42:16",
-                "timeEnd": 1492602136,
+                "metadata_modified": "2017-04-20 19:42:17",
+                "timeEnd": 1492688537,
                 "timeBegin": 1404057600,
                 "resources": {
                     "1316a13a-39cd-4db5-b663-930638f244c5": {
                         "id": "1316a13a-39cd-4db5-b663-930638f244c5",
                         "name": "openplace.json",
-                        "created": "2017-04-19 19:42:15",
-                        "last_modified": "2017-04-19T19:42:15"
+                        "created": "2017-04-20 19:42:17",
+                        "last_modified": "2017-04-20T19:42:17"
                     }
                 },
                 "counters": {
@@ -24893,15 +24984,15 @@
                 "name": "3a45616d-c4b3-4676-b28c-24e5c9c90bd0",
                 "title": "臺北市政府燃氣熱水器承裝業名冊",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-04-19 19:28:00",
-                "timeEnd": 1492601280,
+                "metadata_modified": "2017-04-20 19:28:00",
+                "timeEnd": 1492687680,
                 "timeBegin": 1370880000,
                 "resources": {
                     "f6bb8bb9-c5b6-4851-a837-695d202d4ccb": {
                         "id": "f6bb8bb9-c5b6-4851-a837-695d202d4ccb",
                         "name": "boiler.json",
-                        "created": "2017-04-19 19:28:00",
-                        "last_modified": "2017-04-19T19:28:00"
+                        "created": "2017-04-20 19:28:00",
+                        "last_modified": "2017-04-20T19:28:00"
                     }
                 },
                 "counters": {
@@ -25299,15 +25390,587 @@
                 "name": "119efc37-541b-4aca-a16a-7ba210aafa1f",
                 "title": "臺北市垃圾清運點位資訊",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-04-19 19:22:01",
-                "timeEnd": 1492600921,
+                "metadata_modified": "2017-04-20 19:22:01",
+                "timeEnd": 1492687321,
                 "timeBegin": 1355673600,
                 "resources": {
                     "aa9c657c-ea6f-4062-a645-b6c973d45564": {
                         "id": "aa9c657c-ea6f-4062-a645-b6c973d45564",
                         "name": "garbage.xml",
-                        "created": "2017-04-19 19:22:01",
-                        "last_modified": "2017-04-19T19:22:01"
+                        "created": "2017-04-20 19:22:01",
+                        "last_modified": "2017-04-20T19:22:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "029ba2a7-2ae1-40fe-b310-013a842d56c2": {
+                "name": "029ba2a7-2ae1-40fe-b310-013a842d56c2",
+                "title": "臺北市噪音監測結果",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-20 10:07:30",
+                "timeEnd": 1492654050,
+                "timeBegin": 1444924800,
+                "resources": {
+                    "26162b5c-1e51-4f47-b353-ec3741f9000a": {
+                        "id": "26162b5c-1e51-4f47-b353-ec3741f9000a",
+                        "name": "臺北市一般地區環境音量監測不合格情形.csv",
+                        "created": "2017-04-20 10:06:28",
+                        "last_modified": "2017-04-20T10:06:28"
+                    },
+                    "2a1248e6-19aa-4dba-9add-6b8cc637e403": {
+                        "id": "2a1248e6-19aa-4dba-9add-6b8cc637e403",
+                        "name": "臺北市道路交通音量監測不合格情形.csv",
+                        "created": "2017-04-20 10:06:42",
+                        "last_modified": "2017-04-20T10:06:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4f2d3031-6d81-455d-b78a-ca426156b268": {
+                "name": "4f2d3031-6d81-455d-b78a-ca426156b268",
+                "title": "臺北市公廁點位資訊",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-20 10:02:57",
+                "timeEnd": 1492653777,
+                "timeBegin": 1447257600,
+                "resources": {
+                    "008ed7cf-2340-4bc4-89b0-e258a5573be2": {
+                        "id": "008ed7cf-2340-4bc4-89b0-e258a5573be2",
+                        "name": "臺北市公廁點位.csv",
+                        "created": "2017-04-20 10:01:33",
+                        "last_modified": "2017-04-20T10:01:33"
+                    },
+                    "4ec72292-bd3e-451e-88ff-6d48eaa4f9a4": {
+                        "id": "4ec72292-bd3e-451e-88ff-6d48eaa4f9a4",
+                        "name": "臺北市公廁點位資訊",
+                        "created": "2016-10-18 09:05:24",
+                        "last_modified": "2016-10-18T09:05:24"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "35f574c3-f16e-4377-b1d3-f055c480c3d3": {
+                "name": "35f574c3-f16e-4377-b1d3-f055c480c3d3",
+                "title": "臺北市登革熱戶外化學防疫軌跡記錄",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-20 09:45:45",
+                "timeEnd": 1492652745,
+                "timeBegin": 1477929600,
+                "resources": {
+                    "8074a795-09dd-4be9-b945-4d9cd8924304": {
+                        "id": "8074a795-09dd-4be9-b945-4d9cd8924304",
+                        "name": "戶外環境噴藥日程.ods",
+                        "created": "2017-04-20 09:43:40",
+                        "last_modified": "2017-04-20T09:43:40"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4e4d4023-1b84-4cf2-806a-90c82576efb4": {
+                "name": "4e4d4023-1b84-4cf2-806a-90c82576efb4",
+                "title": "臺北市地下水監測結果",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-20 09:33:39",
+                "timeEnd": 1492652019,
+                "timeBegin": 1444924800,
+                "resources": {
+                    "a443b771-0ba9-4361-8960-78088748dd08": {
+                        "id": "a443b771-0ba9-4361-8960-78088748dd08",
+                        "name": "地下水質監測結果104年1-3月份.ods",
+                        "created": "2016-08-04 10:44:49",
+                        "last_modified": "2016-08-04T10:44:49"
+                    },
+                    "729c9904-1ba6-412a-8bd2-1dabe5708b3d": {
+                        "id": "729c9904-1ba6-412a-8bd2-1dabe5708b3d",
+                        "name": "地下水質監測結果104年4-6月份.ods",
+                        "created": "2016-08-04 10:44:57",
+                        "last_modified": "2016-08-04T10:44:57"
+                    },
+                    "2566cc46-7a98-4867-aecf-a2490e950718": {
+                        "id": "2566cc46-7a98-4867-aecf-a2490e950718",
+                        "name": "地下水質監測結果104年7-9月份.ods",
+                        "created": "2016-08-04 10:45:03",
+                        "last_modified": "2016-08-04T10:45:03"
+                    },
+                    "ece97704-ce27-4c9b-afb0-567cef8cdfe9": {
+                        "id": "ece97704-ce27-4c9b-afb0-567cef8cdfe9",
+                        "name": "地下水質監測結果104年10-12月份.ods",
+                        "created": "2016-08-04 10:45:09",
+                        "last_modified": "2016-08-04T10:45:09"
+                    },
+                    "34dc3a6b-67ea-4643-bb1d-d2ab6858f795": {
+                        "id": "34dc3a6b-67ea-4643-bb1d-d2ab6858f795",
+                        "name": "地下水質監測結果105年1-3月份.ods",
+                        "created": "2016-08-04 10:45:19",
+                        "last_modified": "2016-08-04T10:45:19"
+                    },
+                    "cbbad8b6-1794-4727-8c6c-6e9b663b4601": {
+                        "id": "cbbad8b6-1794-4727-8c6c-6e9b663b4601",
+                        "name": "地下水質監測結果105年4-6月份.ods",
+                        "created": "2016-08-04 10:45:25",
+                        "last_modified": "2016-08-04T10:45:25"
+                    },
+                    "7bc524dd-0c43-42f4-8d83-8ce763e94f41": {
+                        "id": "7bc524dd-0c43-42f4-8d83-8ce763e94f41",
+                        "name": "臺北市105年7月至9月地下水質監測結果.ods",
+                        "created": "2016-09-19 14:46:42",
+                        "last_modified": "2016-09-19T14:46:42"
+                    },
+                    "df0af13a-0f40-4113-96f9-232389d281e5": {
+                        "id": "df0af13a-0f40-4113-96f9-232389d281e5",
+                        "name": "地下水質監測結果105年10-12月份.ods",
+                        "created": "2017-01-16 14:45:45",
+                        "last_modified": "2017-01-16T14:45:45"
+                    },
+                    "13337e8e-0f9f-4ebd-a979-4676224adb9e": {
+                        "id": "13337e8e-0f9f-4ebd-a979-4676224adb9e",
+                        "name": "地下水質監測結果106年1-3月份.ods",
+                        "created": "2017-04-20 09:32:39",
+                        "last_modified": "2017-04-20T09:32:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6f25323a-15f6-4e8e-a625-646e3c8d9e97": {
+                "name": "6f25323a-15f6-4e8e-a625-646e3c8d9e97",
+                "title": "臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-20 09:29:38",
+                "timeEnd": 1492651778,
+                "timeBegin": 1431360000,
+                "resources": {
+                    "a4b4779f-a978-4250-aa01-689f7e4d4958": {
+                        "id": "a4b4779f-a978-4250-aa01-689f7e4d4958",
+                        "name": "104年1月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:50:41",
+                        "last_modified": "2016-08-04T10:50:41"
+                    },
+                    "f45585e6-8844-4bcd-99c8-e7bed6592ca8": {
+                        "id": "f45585e6-8844-4bcd-99c8-e7bed6592ca8",
+                        "name": "104年2月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:50:51",
+                        "last_modified": "2016-08-04T10:50:51"
+                    },
+                    "653d2046-0f05-4b9e-b1d5-3dec93ac08d6": {
+                        "id": "653d2046-0f05-4b9e-b1d5-3dec93ac08d6",
+                        "name": "104年3月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:51:00",
+                        "last_modified": "2016-08-04T10:51:00"
+                    },
+                    "24d7aed0-42d0-41be-b85e-951832e5ba52": {
+                        "id": "24d7aed0-42d0-41be-b85e-951832e5ba52",
+                        "name": "104年4月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:51:17",
+                        "last_modified": "2016-08-04T10:51:17"
+                    },
+                    "2c33bcf4-f5b8-4a84-a6c3-5138423b7457": {
+                        "id": "2c33bcf4-f5b8-4a84-a6c3-5138423b7457",
+                        "name": "104年5月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:51:25",
+                        "last_modified": "2016-08-04T10:51:25"
+                    },
+                    "4456565b-1347-4cb4-bbfe-0184b1985430": {
+                        "id": "4456565b-1347-4cb4-bbfe-0184b1985430",
+                        "name": "104年6月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:51:32",
+                        "last_modified": "2016-08-04T10:51:32"
+                    },
+                    "1f2193c1-7c22-465e-88af-4875336b02fa": {
+                        "id": "1f2193c1-7c22-465e-88af-4875336b02fa",
+                        "name": "104年7月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:51:40",
+                        "last_modified": "2016-08-04T10:51:40"
+                    },
+                    "450bf86f-ec70-4dd7-b793-aabc25e76347": {
+                        "id": "450bf86f-ec70-4dd7-b793-aabc25e76347",
+                        "name": "104年8月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:51:49",
+                        "last_modified": "2016-08-04T10:51:49"
+                    },
+                    "ac581800-dc8b-4a55-9337-0b1fb2de2916": {
+                        "id": "ac581800-dc8b-4a55-9337-0b1fb2de2916",
+                        "name": "104年9月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:51:56",
+                        "last_modified": "2016-08-04T10:51:56"
+                    },
+                    "1426ac69-855c-430f-8e8e-1ea00ab0d1b0": {
+                        "id": "1426ac69-855c-430f-8e8e-1ea00ab0d1b0",
+                        "name": "104年10月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:04",
+                        "last_modified": "2016-08-04T10:52:04"
+                    },
+                    "00335fa9-051d-4ed5-8ebc-805ed12024ef": {
+                        "id": "00335fa9-051d-4ed5-8ebc-805ed12024ef",
+                        "name": "104年11月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:12",
+                        "last_modified": "2016-08-04T10:52:12"
+                    },
+                    "d0e1e35a-fdb9-427b-b8c1-55e25883ae53": {
+                        "id": "d0e1e35a-fdb9-427b-b8c1-55e25883ae53",
+                        "name": "104年12月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:21",
+                        "last_modified": "2016-08-04T10:52:21"
+                    },
+                    "bdc894d3-bf4d-4f9e-bf82-20dce3846afc": {
+                        "id": "bdc894d3-bf4d-4f9e-bf82-20dce3846afc",
+                        "name": "105年1月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:29",
+                        "last_modified": "2016-08-04T10:52:29"
+                    },
+                    "b3082036-7fd0-44d4-af4e-1fef199875e6": {
+                        "id": "b3082036-7fd0-44d4-af4e-1fef199875e6",
+                        "name": "105年2月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:37",
+                        "last_modified": "2016-08-04T10:52:37"
+                    },
+                    "0c5969a3-efd6-4864-a9bc-12816627c0f4": {
+                        "id": "0c5969a3-efd6-4864-a9bc-12816627c0f4",
+                        "name": "105年3月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:44",
+                        "last_modified": "2016-08-04T10:52:44"
+                    },
+                    "2ac7e2b1-3063-4c96-abec-c93a5edaf33a": {
+                        "id": "2ac7e2b1-3063-4c96-abec-c93a5edaf33a",
+                        "name": "105年4月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:51",
+                        "last_modified": "2016-08-04T10:52:51"
+                    },
+                    "d82dcb6f-b04b-42c8-a393-09ea8f8f9a5f": {
+                        "id": "d82dcb6f-b04b-42c8-a393-09ea8f8f9a5f",
+                        "name": "105年5月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-04 10:52:59",
+                        "last_modified": "2016-08-04T10:52:59"
+                    },
+                    "7af3fa5a-34d2-485d-b34c-94c17940779b": {
+                        "id": "7af3fa5a-34d2-485d-b34c-94c17940779b",
+                        "name": "105年6月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-18 14:23:40",
+                        "last_modified": "2016-08-18T14:23:40"
+                    },
+                    "0b08d8fa-a98f-4317-b7dd-913070608890": {
+                        "id": "0b08d8fa-a98f-4317-b7dd-913070608890",
+                        "name": "105年7月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-08-18 14:23:58",
+                        "last_modified": "2016-08-18T14:23:58"
+                    },
+                    "9c011fa2-858c-4e4f-b89b-e18e16b02b79": {
+                        "id": "9c011fa2-858c-4e4f-b89b-e18e16b02b79",
+                        "name": "臺北市空氣中總懸浮微粒及落塵量檢驗結果統計105年8月.ods",
+                        "created": "2016-09-19 14:42:42",
+                        "last_modified": "2016-09-19T14:42:42"
+                    },
+                    "3a1da780-8087-4477-8fa9-55544946b7fd": {
+                        "id": "3a1da780-8087-4477-8fa9-55544946b7fd",
+                        "name": "105年9月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-10-18 08:58:06",
+                        "last_modified": "2016-10-18T08:58:06"
+                    },
+                    "6af8e612-8c8f-498e-b658-63c178c76758": {
+                        "id": "6af8e612-8c8f-498e-b658-63c178c76758",
+                        "name": "105年10月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-11-23 08:42:15",
+                        "last_modified": "2016-11-23T08:42:15"
+                    },
+                    "153e69fb-2151-4026-9868-6e9ec564e936": {
+                        "id": "153e69fb-2151-4026-9868-6e9ec564e936",
+                        "name": "105年11月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2016-12-16 11:26:48",
+                        "last_modified": "2016-12-16T11:26:48"
+                    },
+                    "df52d4a1-117b-4955-863c-43c75f941364": {
+                        "id": "df52d4a1-117b-4955-863c-43c75f941364",
+                        "name": "105年12月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2017-01-16 14:40:13",
+                        "last_modified": "2017-01-16T14:40:13"
+                    },
+                    "e65b993b-154c-463f-9f7a-c0adf48a5512": {
+                        "id": "e65b993b-154c-463f-9f7a-c0adf48a5512",
+                        "name": "106年1月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2017-02-14 11:04:47",
+                        "last_modified": "2017-02-14T11:04:47"
+                    },
+                    "2b6cef30-d453-41bd-a69b-4ebde3177294": {
+                        "id": "2b6cef30-d453-41bd-a69b-4ebde3177294",
+                        "name": "臺北市空氣中總懸浮微粒及落塵量檢驗結果統計106年2月.ods",
+                        "created": "2017-03-17 16:20:10",
+                        "last_modified": "2017-03-17T16:20:10"
+                    },
+                    "dc471ae7-5a53-4d5b-a537-7e0e8b74309c": {
+                        "id": "dc471ae7-5a53-4d5b-a537-7e0e8b74309c",
+                        "name": "106年3月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
+                        "created": "2017-04-20 09:28:38",
+                        "last_modified": "2017-04-20T09:28:38"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "94952b92-5e00-4b0a-a4b1-a3c793c216b6": {
+                "name": "94952b92-5e00-4b0a-a4b1-a3c793c216b6",
+                "title": "臺北市環境空氣品質監測結果月報表",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-20 09:25:22",
+                "timeEnd": 1492651522,
+                "timeBegin": 1431360000,
+                "resources": {
+                    "b55c5849-3576-4c6a-8a82-72c61b0f48dc": {
+                        "id": "b55c5849-3576-4c6a-8a82-72c61b0f48dc",
+                        "name": "臺北市環境空氣品質監測結果-一氧化碳.csv",
+                        "created": "2016-11-23 09:08:33",
+                        "last_modified": "2016-11-23T09:08:33"
+                    },
+                    "5b63e58f-b354-4bf5-9df7-992ec29f941c": {
+                        "id": "5b63e58f-b354-4bf5-9df7-992ec29f941c",
+                        "name": "臺北市環境空氣品質監測結果-二氧化硫.csv",
+                        "created": "2016-11-23 09:09:03",
+                        "last_modified": "2016-11-23T09:09:03"
+                    },
+                    "4bc66e68-b125-4ad5-a18e-be1d1a19bf32": {
+                        "id": "4bc66e68-b125-4ad5-a18e-be1d1a19bf32",
+                        "name": "臺北市環境空氣品質監測結果-二氧化氮.csv",
+                        "created": "2016-11-23 09:09:18",
+                        "last_modified": "2016-11-23T09:09:18"
+                    },
+                    "4c02d9ea-1d9d-47b5-b830-c73ba50c4abd": {
+                        "id": "4c02d9ea-1d9d-47b5-b830-c73ba50c4abd",
+                        "name": "臺北市環境空氣品質監測結果-非甲烷碳氫化合物.csv",
+                        "created": "2016-11-23 09:09:33",
+                        "last_modified": "2016-11-23T09:09:33"
+                    },
+                    "f6516353-8cf9-41a7-bb2c-3b306e1661f8": {
+                        "id": "f6516353-8cf9-41a7-bb2c-3b306e1661f8",
+                        "name": "臺北市環境空氣品質監測結果-臭氧.csv",
+                        "created": "2016-11-23 09:09:44",
+                        "last_modified": "2016-11-23T09:09:44"
+                    },
+                    "9c489b31-8621-4c33-8337-10457cc1bc3d": {
+                        "id": "9c489b31-8621-4c33-8337-10457cc1bc3d",
+                        "name": "臺北市環境空氣品質監測結果-懸浮微粒.csv",
+                        "created": "2016-11-23 09:09:54",
+                        "last_modified": "2016-11-23T09:09:54"
+                    },
+                    "9e97e5f8-4f6d-43ff-a4a2-55a56d5a07f1": {
+                        "id": "9e97e5f8-4f6d-43ff-a4a2-55a56d5a07f1",
+                        "name": "105年11月空氣品質監測結果.ods",
+                        "created": "2016-12-16 11:28:32",
+                        "last_modified": "2016-12-16T11:28:32"
+                    },
+                    "b7f53b06-0e20-4deb-bf5a-6f10f8eb5c71": {
+                        "id": "b7f53b06-0e20-4deb-bf5a-6f10f8eb5c71",
+                        "name": "105年12月空氣品質監測結果.ods",
+                        "created": "2017-01-16 15:31:08",
+                        "last_modified": "2017-01-16T15:31:08"
+                    },
+                    "a1679b7f-781e-4ae4-b9d2-35fc4b8eefa5": {
+                        "id": "a1679b7f-781e-4ae4-b9d2-35fc4b8eefa5",
+                        "name": "106年1月空氣品質監測結果.ods",
+                        "created": "2017-02-14 11:00:06",
+                        "last_modified": "2017-02-14T11:00:06"
+                    },
+                    "13515e26-2f63-4e5b-9336-4a3aac7f47ef": {
+                        "id": "13515e26-2f63-4e5b-9336-4a3aac7f47ef",
+                        "name": "臺北市環境空氣品質監測結果月報表106年2月.ods",
+                        "created": "2017-03-17 16:23:45",
+                        "last_modified": "2017-03-17T16:23:45"
+                    },
+                    "4c8a5263-a27f-478c-bc78-2be32c47c675": {
+                        "id": "4c8a5263-a27f-478c-bc78-2be32c47c675",
+                        "name": "106年3月臺北市環境空氣品質監測結果.ods",
+                        "created": "2017-04-20 09:24:33",
+                        "last_modified": "2017-04-20T09:24:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "06dd5f57-f04c-4f3a-a6cc-4df5db39e759": {
+                "name": "06dd5f57-f04c-4f3a-a6cc-4df5db39e759",
+                "title": "臺北市河川水質",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-20 09:23:32",
+                "timeEnd": 1492651412,
+                "timeBegin": 1431360000,
+                "resources": {
+                    "fac2e1f2-1412-43c5-ba20-2033a2df1b93": {
+                        "id": "fac2e1f2-1412-43c5-ba20-2033a2df1b93",
+                        "name": "104年1月1134-05-02河川水質監測結果.xls",
+                        "created": "2015-08-03 08:37:35",
+                        "last_modified": "2015-08-03T08:37:35"
+                    },
+                    "41d8d41a-4023-403c-bab6-abe69817537a": {
+                        "id": "41d8d41a-4023-403c-bab6-abe69817537a",
+                        "name": "104年2月1134-05-02河川水質監測結果.xls",
+                        "created": "2015-08-03 08:37:43",
+                        "last_modified": "2015-08-03T08:37:43"
+                    },
+                    "f0bae7de-6660-4b25-b0b1-9900bd3dac39": {
+                        "id": "f0bae7de-6660-4b25-b0b1-9900bd3dac39",
+                        "name": "104年3月1134-05-02河川水質監測結果.xls",
+                        "created": "2015-08-03 08:37:53",
+                        "last_modified": "2015-08-03T08:37:53"
+                    },
+                    "c30ac3c1-7ec9-425f-8bc4-6cac4ac85d38": {
+                        "id": "c30ac3c1-7ec9-425f-8bc4-6cac4ac85d38",
+                        "name": "104年4月1134-05-02河川水質監測結果.xls",
+                        "created": "2015-08-03 08:38:01",
+                        "last_modified": "2015-08-03T08:38:01"
+                    },
+                    "56c50d39-ec9c-49aa-88a6-eef96cea69bf": {
+                        "id": "56c50d39-ec9c-49aa-88a6-eef96cea69bf",
+                        "name": "104年5月1134-05-02河川水質監測結果.xls",
+                        "created": "2015-08-03 08:38:11",
+                        "last_modified": "2015-08-03T08:38:11"
+                    },
+                    "ae521dd3-f053-4dfa-a20f-e2fc6eaaa58d": {
+                        "id": "ae521dd3-f053-4dfa-a20f-e2fc6eaaa58d",
+                        "name": "104年6月1134-05-02河川水質監測結果.xls",
+                        "created": "2015-08-03 08:38:26",
+                        "last_modified": "2015-08-03T08:38:26"
+                    },
+                    "e545deb4-6083-496e-bc3d-cc779d70c4cb": {
+                        "id": "e545deb4-6083-496e-bc3d-cc779d70c4cb",
+                        "name": "104年7月1134-05-02河川水質監測結果.xls",
+                        "created": "2015-09-03 14:41:37",
+                        "last_modified": "2015-09-03T14:41:37"
+                    },
+                    "38603460-ebe7-4808-aeab-4fb2319c1997": {
+                        "id": "38603460-ebe7-4808-aeab-4fb2319c1997",
+                        "name": "104年8月臺北市河川水質監測結果.xls",
+                        "created": "2015-10-16 16:54:29",
+                        "last_modified": "2015-10-16T16:54:29"
+                    },
+                    "377e2e3c-a585-499c-8d9c-ebf51b7b38e1": {
+                        "id": "377e2e3c-a585-499c-8d9c-ebf51b7b38e1",
+                        "name": "104年9月臺北市河川水質監測結果.xls",
+                        "created": "2015-10-16 16:54:45",
+                        "last_modified": "2015-10-16T16:54:45"
+                    },
+                    "641d0d26-21db-4957-b050-d009a97b6e5f": {
+                        "id": "641d0d26-21db-4957-b050-d009a97b6e5f",
+                        "name": "臺北市河川水質-104年10月河川水質.xls",
+                        "created": "2015-12-07 13:38:10",
+                        "last_modified": "2015-12-07T13:38:10"
+                    },
+                    "b078c937-e062-4257-aec5-f180b9f15611": {
+                        "id": "b078c937-e062-4257-aec5-f180b9f15611",
+                        "name": "臺北市河川水質-104年11月河川水質.xls",
+                        "created": "2016-01-21 10:29:56",
+                        "last_modified": "2016-01-21T10:29:56"
+                    },
+                    "ef477d9a-2466-4a7b-84b4-cff173992607": {
+                        "id": "ef477d9a-2466-4a7b-84b4-cff173992607",
+                        "name": "臺北市河川水質-104年12月河川水質.xls",
+                        "created": "2016-01-21 10:30:07",
+                        "last_modified": "2016-01-21T10:30:07"
+                    },
+                    "dc9b5178-1aed-49b5-85e4-fd0f69a00e67": {
+                        "id": "dc9b5178-1aed-49b5-85e4-fd0f69a00e67",
+                        "name": "臺北市河川水質-105年1月河川水質.xls",
+                        "created": "2016-03-16 14:54:01",
+                        "last_modified": "2016-03-16T14:54:01"
+                    },
+                    "c09f41fb-ec6e-473c-bda1-87b71f9f02ba": {
+                        "id": "c09f41fb-ec6e-473c-bda1-87b71f9f02ba",
+                        "name": "臺北市河川水質-105年2月河川水質.xls",
+                        "created": "2016-03-16 14:54:19",
+                        "last_modified": "2016-03-16T14:54:19"
+                    },
+                    "42850e36-f5d6-4187-8093-8d56c295de0c": {
+                        "id": "42850e36-f5d6-4187-8093-8d56c295de0c",
+                        "name": "臺北市河川水質-105年3月河川水質.xls",
+                        "created": "2016-05-25 11:09:15",
+                        "last_modified": "2016-05-25T11:09:15"
+                    },
+                    "f52a9192-2a72-4dc9-93ff-3b0651bea521": {
+                        "id": "f52a9192-2a72-4dc9-93ff-3b0651bea521",
+                        "name": "臺北市河川水質-105年4月河川水質.xls",
+                        "created": "2016-05-25 11:09:49",
+                        "last_modified": "2016-05-25T11:09:49"
+                    },
+                    "6ebad774-2de8-4950-80b2-f577a0445e46": {
+                        "id": "6ebad774-2de8-4950-80b2-f577a0445e46",
+                        "name": "105年5月河川水質監測結果.xls",
+                        "created": "2016-07-13 10:53:00",
+                        "last_modified": "2016-07-13T10:53:00"
+                    },
+                    "e48d2293-fe77-421f-a502-630cc06e9420": {
+                        "id": "e48d2293-fe77-421f-a502-630cc06e9420",
+                        "name": "105年6月河川水質監測結果.xls",
+                        "created": "2016-07-13 10:53:16",
+                        "last_modified": "2016-07-13T10:53:16"
+                    },
+                    "264dce43-f947-4dd6-9d5c-df0de0737807": {
+                        "id": "264dce43-f947-4dd6-9d5c-df0de0737807",
+                        "name": "105年7月河川水質.ods",
+                        "created": "2016-08-18 14:17:42",
+                        "last_modified": "2016-08-18T14:17:42"
+                    },
+                    "6197317c-5f6c-4559-a351-0c7e890c5c97": {
+                        "id": "6197317c-5f6c-4559-a351-0c7e890c5c97",
+                        "name": "臺北市河川水質105年8月.ods",
+                        "created": "2016-09-19 14:45:22",
+                        "last_modified": "2016-09-19T14:45:22"
+                    },
+                    "7d3cc599-4dcc-43b1-91d4-0cd96899a475": {
+                        "id": "7d3cc599-4dcc-43b1-91d4-0cd96899a475",
+                        "name": "臺北市河川水質-105年9月河川水質.ods",
+                        "created": "2016-10-18 08:47:50",
+                        "last_modified": "2016-10-18T08:47:50"
+                    },
+                    "fa9b21c2-2ca7-46af-ab45-284de09c13b9": {
+                        "id": "fa9b21c2-2ca7-46af-ab45-284de09c13b9",
+                        "name": "臺北市河川水質-105年10月河川水質.ods",
+                        "created": "2016-11-23 08:44:49",
+                        "last_modified": "2016-11-23T08:44:49"
+                    },
+                    "256c3043-dee9-4a7f-8b5d-8c8acfa6cf81": {
+                        "id": "256c3043-dee9-4a7f-8b5d-8c8acfa6cf81",
+                        "name": "臺北市河川水質105年11月.ods",
+                        "created": "2016-12-16 11:23:37",
+                        "last_modified": "2016-12-16T11:23:37"
+                    },
+                    "af43820c-f643-470a-bba5-ce2be13d40b1": {
+                        "id": "af43820c-f643-470a-bba5-ce2be13d40b1",
+                        "name": "臺北市河川水質-105年12月河川水質.ods",
+                        "created": "2017-01-16 14:43:27",
+                        "last_modified": "2017-01-16T14:43:27"
+                    },
+                    "3c4cc629-4ca2-4589-a40b-f90dfe4a14dc": {
+                        "id": "3c4cc629-4ca2-4589-a40b-f90dfe4a14dc",
+                        "name": "臺北市河川水質-106年1月河川水質.ods",
+                        "created": "2017-02-14 11:03:09",
+                        "last_modified": "2017-02-14T11:03:09"
+                    },
+                    "f65d9385-c1fb-471e-b7ea-779d6e8112b5": {
+                        "id": "f65d9385-c1fb-471e-b7ea-779d6e8112b5",
+                        "name": "臺北市河川水質106年2月.ods",
+                        "created": "2017-03-17 16:14:32",
+                        "last_modified": "2017-03-17T16:14:32"
+                    },
+                    "c6e4361f-ddae-42b0-9443-2c75ed09b36d": {
+                        "id": "c6e4361f-ddae-42b0-9443-2c75ed09b36d",
+                        "name": "106年3月河川水質監測結果.ods",
+                        "created": "2017-04-20 09:21:05",
+                        "last_modified": "2017-04-20T09:21:05"
                     }
                 },
                 "counters": {
@@ -26047,420 +26710,6 @@
                     "resource_recent": 0
                 }
             },
-            "94952b92-5e00-4b0a-a4b1-a3c793c216b6": {
-                "name": "94952b92-5e00-4b0a-a4b1-a3c793c216b6",
-                "title": "臺北市環境空氣品質監測結果月報表",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-17 16:24:32",
-                "timeEnd": 1489739072,
-                "timeBegin": 1431360000,
-                "resources": {
-                    "b55c5849-3576-4c6a-8a82-72c61b0f48dc": {
-                        "id": "b55c5849-3576-4c6a-8a82-72c61b0f48dc",
-                        "name": "臺北市環境空氣品質監測結果-一氧化碳.csv",
-                        "created": "2016-11-23 09:08:33",
-                        "last_modified": "2016-11-23T09:08:33"
-                    },
-                    "5b63e58f-b354-4bf5-9df7-992ec29f941c": {
-                        "id": "5b63e58f-b354-4bf5-9df7-992ec29f941c",
-                        "name": "臺北市環境空氣品質監測結果-二氧化硫.csv",
-                        "created": "2016-11-23 09:09:03",
-                        "last_modified": "2016-11-23T09:09:03"
-                    },
-                    "4bc66e68-b125-4ad5-a18e-be1d1a19bf32": {
-                        "id": "4bc66e68-b125-4ad5-a18e-be1d1a19bf32",
-                        "name": "臺北市環境空氣品質監測結果-二氧化氮.csv",
-                        "created": "2016-11-23 09:09:18",
-                        "last_modified": "2016-11-23T09:09:18"
-                    },
-                    "4c02d9ea-1d9d-47b5-b830-c73ba50c4abd": {
-                        "id": "4c02d9ea-1d9d-47b5-b830-c73ba50c4abd",
-                        "name": "臺北市環境空氣品質監測結果-非甲烷碳氫化合物.csv",
-                        "created": "2016-11-23 09:09:33",
-                        "last_modified": "2016-11-23T09:09:33"
-                    },
-                    "f6516353-8cf9-41a7-bb2c-3b306e1661f8": {
-                        "id": "f6516353-8cf9-41a7-bb2c-3b306e1661f8",
-                        "name": "臺北市環境空氣品質監測結果-臭氧.csv",
-                        "created": "2016-11-23 09:09:44",
-                        "last_modified": "2016-11-23T09:09:44"
-                    },
-                    "9c489b31-8621-4c33-8337-10457cc1bc3d": {
-                        "id": "9c489b31-8621-4c33-8337-10457cc1bc3d",
-                        "name": "臺北市環境空氣品質監測結果-懸浮微粒.csv",
-                        "created": "2016-11-23 09:09:54",
-                        "last_modified": "2016-11-23T09:09:54"
-                    },
-                    "9e97e5f8-4f6d-43ff-a4a2-55a56d5a07f1": {
-                        "id": "9e97e5f8-4f6d-43ff-a4a2-55a56d5a07f1",
-                        "name": "105年11月空氣品質監測結果.ods",
-                        "created": "2016-12-16 11:28:32",
-                        "last_modified": "2016-12-16T11:28:32"
-                    },
-                    "b7f53b06-0e20-4deb-bf5a-6f10f8eb5c71": {
-                        "id": "b7f53b06-0e20-4deb-bf5a-6f10f8eb5c71",
-                        "name": "105年12月空氣品質監測結果.ods",
-                        "created": "2017-01-16 15:31:08",
-                        "last_modified": "2017-01-16T15:31:08"
-                    },
-                    "a1679b7f-781e-4ae4-b9d2-35fc4b8eefa5": {
-                        "id": "a1679b7f-781e-4ae4-b9d2-35fc4b8eefa5",
-                        "name": "106年1月空氣品質監測結果.ods",
-                        "created": "2017-02-14 11:00:06",
-                        "last_modified": "2017-02-14T11:00:06"
-                    },
-                    "13515e26-2f63-4e5b-9336-4a3aac7f47ef": {
-                        "id": "13515e26-2f63-4e5b-9336-4a3aac7f47ef",
-                        "name": "臺北市環境空氣品質監測結果月報表106年2月.ods",
-                        "created": "2017-03-17 16:23:45",
-                        "last_modified": "2017-03-17T16:23:45"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "6f25323a-15f6-4e8e-a625-646e3c8d9e97": {
-                "name": "6f25323a-15f6-4e8e-a625-646e3c8d9e97",
-                "title": "臺北市空氣中總懸浮微粒及落塵量檢驗結果統計",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-17 16:20:56",
-                "timeEnd": 1489738856,
-                "timeBegin": 1431360000,
-                "resources": {
-                    "a4b4779f-a978-4250-aa01-689f7e4d4958": {
-                        "id": "a4b4779f-a978-4250-aa01-689f7e4d4958",
-                        "name": "104年1月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:50:41",
-                        "last_modified": "2016-08-04T10:50:41"
-                    },
-                    "f45585e6-8844-4bcd-99c8-e7bed6592ca8": {
-                        "id": "f45585e6-8844-4bcd-99c8-e7bed6592ca8",
-                        "name": "104年2月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:50:51",
-                        "last_modified": "2016-08-04T10:50:51"
-                    },
-                    "653d2046-0f05-4b9e-b1d5-3dec93ac08d6": {
-                        "id": "653d2046-0f05-4b9e-b1d5-3dec93ac08d6",
-                        "name": "104年3月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:51:00",
-                        "last_modified": "2016-08-04T10:51:00"
-                    },
-                    "24d7aed0-42d0-41be-b85e-951832e5ba52": {
-                        "id": "24d7aed0-42d0-41be-b85e-951832e5ba52",
-                        "name": "104年4月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:51:17",
-                        "last_modified": "2016-08-04T10:51:17"
-                    },
-                    "2c33bcf4-f5b8-4a84-a6c3-5138423b7457": {
-                        "id": "2c33bcf4-f5b8-4a84-a6c3-5138423b7457",
-                        "name": "104年5月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:51:25",
-                        "last_modified": "2016-08-04T10:51:25"
-                    },
-                    "4456565b-1347-4cb4-bbfe-0184b1985430": {
-                        "id": "4456565b-1347-4cb4-bbfe-0184b1985430",
-                        "name": "104年6月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:51:32",
-                        "last_modified": "2016-08-04T10:51:32"
-                    },
-                    "1f2193c1-7c22-465e-88af-4875336b02fa": {
-                        "id": "1f2193c1-7c22-465e-88af-4875336b02fa",
-                        "name": "104年7月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:51:40",
-                        "last_modified": "2016-08-04T10:51:40"
-                    },
-                    "450bf86f-ec70-4dd7-b793-aabc25e76347": {
-                        "id": "450bf86f-ec70-4dd7-b793-aabc25e76347",
-                        "name": "104年8月份1132-03-01臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:51:49",
-                        "last_modified": "2016-08-04T10:51:49"
-                    },
-                    "ac581800-dc8b-4a55-9337-0b1fb2de2916": {
-                        "id": "ac581800-dc8b-4a55-9337-0b1fb2de2916",
-                        "name": "104年9月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:51:56",
-                        "last_modified": "2016-08-04T10:51:56"
-                    },
-                    "1426ac69-855c-430f-8e8e-1ea00ab0d1b0": {
-                        "id": "1426ac69-855c-430f-8e8e-1ea00ab0d1b0",
-                        "name": "104年10月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:04",
-                        "last_modified": "2016-08-04T10:52:04"
-                    },
-                    "00335fa9-051d-4ed5-8ebc-805ed12024ef": {
-                        "id": "00335fa9-051d-4ed5-8ebc-805ed12024ef",
-                        "name": "104年11月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:12",
-                        "last_modified": "2016-08-04T10:52:12"
-                    },
-                    "d0e1e35a-fdb9-427b-b8c1-55e25883ae53": {
-                        "id": "d0e1e35a-fdb9-427b-b8c1-55e25883ae53",
-                        "name": "104年12月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:21",
-                        "last_modified": "2016-08-04T10:52:21"
-                    },
-                    "bdc894d3-bf4d-4f9e-bf82-20dce3846afc": {
-                        "id": "bdc894d3-bf4d-4f9e-bf82-20dce3846afc",
-                        "name": "105年1月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:29",
-                        "last_modified": "2016-08-04T10:52:29"
-                    },
-                    "b3082036-7fd0-44d4-af4e-1fef199875e6": {
-                        "id": "b3082036-7fd0-44d4-af4e-1fef199875e6",
-                        "name": "105年2月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:37",
-                        "last_modified": "2016-08-04T10:52:37"
-                    },
-                    "0c5969a3-efd6-4864-a9bc-12816627c0f4": {
-                        "id": "0c5969a3-efd6-4864-a9bc-12816627c0f4",
-                        "name": "105年3月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:44",
-                        "last_modified": "2016-08-04T10:52:44"
-                    },
-                    "2ac7e2b1-3063-4c96-abec-c93a5edaf33a": {
-                        "id": "2ac7e2b1-3063-4c96-abec-c93a5edaf33a",
-                        "name": "105年4月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:51",
-                        "last_modified": "2016-08-04T10:52:51"
-                    },
-                    "d82dcb6f-b04b-42c8-a393-09ea8f8f9a5f": {
-                        "id": "d82dcb6f-b04b-42c8-a393-09ea8f8f9a5f",
-                        "name": "105年5月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-04 10:52:59",
-                        "last_modified": "2016-08-04T10:52:59"
-                    },
-                    "7af3fa5a-34d2-485d-b34c-94c17940779b": {
-                        "id": "7af3fa5a-34d2-485d-b34c-94c17940779b",
-                        "name": "105年6月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-18 14:23:40",
-                        "last_modified": "2016-08-18T14:23:40"
-                    },
-                    "0b08d8fa-a98f-4317-b7dd-913070608890": {
-                        "id": "0b08d8fa-a98f-4317-b7dd-913070608890",
-                        "name": "105年7月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-08-18 14:23:58",
-                        "last_modified": "2016-08-18T14:23:58"
-                    },
-                    "9c011fa2-858c-4e4f-b89b-e18e16b02b79": {
-                        "id": "9c011fa2-858c-4e4f-b89b-e18e16b02b79",
-                        "name": "臺北市空氣中總懸浮微粒及落塵量檢驗結果統計105年8月.ods",
-                        "created": "2016-09-19 14:42:42",
-                        "last_modified": "2016-09-19T14:42:42"
-                    },
-                    "3a1da780-8087-4477-8fa9-55544946b7fd": {
-                        "id": "3a1da780-8087-4477-8fa9-55544946b7fd",
-                        "name": "105年9月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-10-18 08:58:06",
-                        "last_modified": "2016-10-18T08:58:06"
-                    },
-                    "6af8e612-8c8f-498e-b658-63c178c76758": {
-                        "id": "6af8e612-8c8f-498e-b658-63c178c76758",
-                        "name": "105年10月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-11-23 08:42:15",
-                        "last_modified": "2016-11-23T08:42:15"
-                    },
-                    "153e69fb-2151-4026-9868-6e9ec564e936": {
-                        "id": "153e69fb-2151-4026-9868-6e9ec564e936",
-                        "name": "105年11月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2016-12-16 11:26:48",
-                        "last_modified": "2016-12-16T11:26:48"
-                    },
-                    "df52d4a1-117b-4955-863c-43c75f941364": {
-                        "id": "df52d4a1-117b-4955-863c-43c75f941364",
-                        "name": "105年12月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2017-01-16 14:40:13",
-                        "last_modified": "2017-01-16T14:40:13"
-                    },
-                    "e65b993b-154c-463f-9f7a-c0adf48a5512": {
-                        "id": "e65b993b-154c-463f-9f7a-c0adf48a5512",
-                        "name": "106年1月份臺北市空氣中總懸浮微粒及落塵量檢驗結果統計.ods",
-                        "created": "2017-02-14 11:04:47",
-                        "last_modified": "2017-02-14T11:04:47"
-                    },
-                    "2b6cef30-d453-41bd-a69b-4ebde3177294": {
-                        "id": "2b6cef30-d453-41bd-a69b-4ebde3177294",
-                        "name": "臺北市空氣中總懸浮微粒及落塵量檢驗結果統計106年2月.ods",
-                        "created": "2017-03-17 16:20:10",
-                        "last_modified": "2017-03-17T16:20:10"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "06dd5f57-f04c-4f3a-a6cc-4df5db39e759": {
-                "name": "06dd5f57-f04c-4f3a-a6cc-4df5db39e759",
-                "title": "臺北市河川水質",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-17 16:16:54",
-                "timeEnd": 1489738614,
-                "timeBegin": 1431360000,
-                "resources": {
-                    "fac2e1f2-1412-43c5-ba20-2033a2df1b93": {
-                        "id": "fac2e1f2-1412-43c5-ba20-2033a2df1b93",
-                        "name": "104年1月1134-05-02河川水質監測結果.xls",
-                        "created": "2015-08-03 08:37:35",
-                        "last_modified": "2015-08-03T08:37:35"
-                    },
-                    "41d8d41a-4023-403c-bab6-abe69817537a": {
-                        "id": "41d8d41a-4023-403c-bab6-abe69817537a",
-                        "name": "104年2月1134-05-02河川水質監測結果.xls",
-                        "created": "2015-08-03 08:37:43",
-                        "last_modified": "2015-08-03T08:37:43"
-                    },
-                    "f0bae7de-6660-4b25-b0b1-9900bd3dac39": {
-                        "id": "f0bae7de-6660-4b25-b0b1-9900bd3dac39",
-                        "name": "104年3月1134-05-02河川水質監測結果.xls",
-                        "created": "2015-08-03 08:37:53",
-                        "last_modified": "2015-08-03T08:37:53"
-                    },
-                    "c30ac3c1-7ec9-425f-8bc4-6cac4ac85d38": {
-                        "id": "c30ac3c1-7ec9-425f-8bc4-6cac4ac85d38",
-                        "name": "104年4月1134-05-02河川水質監測結果.xls",
-                        "created": "2015-08-03 08:38:01",
-                        "last_modified": "2015-08-03T08:38:01"
-                    },
-                    "56c50d39-ec9c-49aa-88a6-eef96cea69bf": {
-                        "id": "56c50d39-ec9c-49aa-88a6-eef96cea69bf",
-                        "name": "104年5月1134-05-02河川水質監測結果.xls",
-                        "created": "2015-08-03 08:38:11",
-                        "last_modified": "2015-08-03T08:38:11"
-                    },
-                    "ae521dd3-f053-4dfa-a20f-e2fc6eaaa58d": {
-                        "id": "ae521dd3-f053-4dfa-a20f-e2fc6eaaa58d",
-                        "name": "104年6月1134-05-02河川水質監測結果.xls",
-                        "created": "2015-08-03 08:38:26",
-                        "last_modified": "2015-08-03T08:38:26"
-                    },
-                    "e545deb4-6083-496e-bc3d-cc779d70c4cb": {
-                        "id": "e545deb4-6083-496e-bc3d-cc779d70c4cb",
-                        "name": "104年7月1134-05-02河川水質監測結果.xls",
-                        "created": "2015-09-03 14:41:37",
-                        "last_modified": "2015-09-03T14:41:37"
-                    },
-                    "38603460-ebe7-4808-aeab-4fb2319c1997": {
-                        "id": "38603460-ebe7-4808-aeab-4fb2319c1997",
-                        "name": "104年8月臺北市河川水質監測結果.xls",
-                        "created": "2015-10-16 16:54:29",
-                        "last_modified": "2015-10-16T16:54:29"
-                    },
-                    "377e2e3c-a585-499c-8d9c-ebf51b7b38e1": {
-                        "id": "377e2e3c-a585-499c-8d9c-ebf51b7b38e1",
-                        "name": "104年9月臺北市河川水質監測結果.xls",
-                        "created": "2015-10-16 16:54:45",
-                        "last_modified": "2015-10-16T16:54:45"
-                    },
-                    "641d0d26-21db-4957-b050-d009a97b6e5f": {
-                        "id": "641d0d26-21db-4957-b050-d009a97b6e5f",
-                        "name": "臺北市河川水質-104年10月河川水質.xls",
-                        "created": "2015-12-07 13:38:10",
-                        "last_modified": "2015-12-07T13:38:10"
-                    },
-                    "b078c937-e062-4257-aec5-f180b9f15611": {
-                        "id": "b078c937-e062-4257-aec5-f180b9f15611",
-                        "name": "臺北市河川水質-104年11月河川水質.xls",
-                        "created": "2016-01-21 10:29:56",
-                        "last_modified": "2016-01-21T10:29:56"
-                    },
-                    "ef477d9a-2466-4a7b-84b4-cff173992607": {
-                        "id": "ef477d9a-2466-4a7b-84b4-cff173992607",
-                        "name": "臺北市河川水質-104年12月河川水質.xls",
-                        "created": "2016-01-21 10:30:07",
-                        "last_modified": "2016-01-21T10:30:07"
-                    },
-                    "dc9b5178-1aed-49b5-85e4-fd0f69a00e67": {
-                        "id": "dc9b5178-1aed-49b5-85e4-fd0f69a00e67",
-                        "name": "臺北市河川水質-105年1月河川水質.xls",
-                        "created": "2016-03-16 14:54:01",
-                        "last_modified": "2016-03-16T14:54:01"
-                    },
-                    "c09f41fb-ec6e-473c-bda1-87b71f9f02ba": {
-                        "id": "c09f41fb-ec6e-473c-bda1-87b71f9f02ba",
-                        "name": "臺北市河川水質-105年2月河川水質.xls",
-                        "created": "2016-03-16 14:54:19",
-                        "last_modified": "2016-03-16T14:54:19"
-                    },
-                    "42850e36-f5d6-4187-8093-8d56c295de0c": {
-                        "id": "42850e36-f5d6-4187-8093-8d56c295de0c",
-                        "name": "臺北市河川水質-105年3月河川水質.xls",
-                        "created": "2016-05-25 11:09:15",
-                        "last_modified": "2016-05-25T11:09:15"
-                    },
-                    "f52a9192-2a72-4dc9-93ff-3b0651bea521": {
-                        "id": "f52a9192-2a72-4dc9-93ff-3b0651bea521",
-                        "name": "臺北市河川水質-105年4月河川水質.xls",
-                        "created": "2016-05-25 11:09:49",
-                        "last_modified": "2016-05-25T11:09:49"
-                    },
-                    "6ebad774-2de8-4950-80b2-f577a0445e46": {
-                        "id": "6ebad774-2de8-4950-80b2-f577a0445e46",
-                        "name": "105年5月河川水質監測結果.xls",
-                        "created": "2016-07-13 10:53:00",
-                        "last_modified": "2016-07-13T10:53:00"
-                    },
-                    "e48d2293-fe77-421f-a502-630cc06e9420": {
-                        "id": "e48d2293-fe77-421f-a502-630cc06e9420",
-                        "name": "105年6月河川水質監測結果.xls",
-                        "created": "2016-07-13 10:53:16",
-                        "last_modified": "2016-07-13T10:53:16"
-                    },
-                    "264dce43-f947-4dd6-9d5c-df0de0737807": {
-                        "id": "264dce43-f947-4dd6-9d5c-df0de0737807",
-                        "name": "105年7月河川水質.ods",
-                        "created": "2016-08-18 14:17:42",
-                        "last_modified": "2016-08-18T14:17:42"
-                    },
-                    "6197317c-5f6c-4559-a351-0c7e890c5c97": {
-                        "id": "6197317c-5f6c-4559-a351-0c7e890c5c97",
-                        "name": "臺北市河川水質105年8月.ods",
-                        "created": "2016-09-19 14:45:22",
-                        "last_modified": "2016-09-19T14:45:22"
-                    },
-                    "7d3cc599-4dcc-43b1-91d4-0cd96899a475": {
-                        "id": "7d3cc599-4dcc-43b1-91d4-0cd96899a475",
-                        "name": "臺北市河川水質-105年9月河川水質.ods",
-                        "created": "2016-10-18 08:47:50",
-                        "last_modified": "2016-10-18T08:47:50"
-                    },
-                    "fa9b21c2-2ca7-46af-ab45-284de09c13b9": {
-                        "id": "fa9b21c2-2ca7-46af-ab45-284de09c13b9",
-                        "name": "臺北市河川水質-105年10月河川水質.ods",
-                        "created": "2016-11-23 08:44:49",
-                        "last_modified": "2016-11-23T08:44:49"
-                    },
-                    "256c3043-dee9-4a7f-8b5d-8c8acfa6cf81": {
-                        "id": "256c3043-dee9-4a7f-8b5d-8c8acfa6cf81",
-                        "name": "臺北市河川水質105年11月.ods",
-                        "created": "2016-12-16 11:23:37",
-                        "last_modified": "2016-12-16T11:23:37"
-                    },
-                    "af43820c-f643-470a-bba5-ce2be13d40b1": {
-                        "id": "af43820c-f643-470a-bba5-ce2be13d40b1",
-                        "name": "臺北市河川水質-105年12月河川水質.ods",
-                        "created": "2017-01-16 14:43:27",
-                        "last_modified": "2017-01-16T14:43:27"
-                    },
-                    "3c4cc629-4ca2-4589-a40b-f90dfe4a14dc": {
-                        "id": "3c4cc629-4ca2-4589-a40b-f90dfe4a14dc",
-                        "name": "臺北市河川水質-106年1月河川水質.ods",
-                        "created": "2017-02-14 11:03:09",
-                        "last_modified": "2017-02-14T11:03:09"
-                    },
-                    "f65d9385-c1fb-471e-b7ea-779d6e8112b5": {
-                        "id": "f65d9385-c1fb-471e-b7ea-779d6e8112b5",
-                        "name": "臺北市河川水質106年2月.ods",
-                        "created": "2017-03-17 16:14:32",
-                        "last_modified": "2017-03-17T16:14:32"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "dac325f8-0187-43d0-b5a1-7f50bb84ab4b": {
                 "name": "dac325f8-0187-43d0-b5a1-7f50bb84ab4b",
                 "title": "臺北市路燈桿旗幟申請參考一覽表",
@@ -26494,26 +26743,6 @@
                         "name": "臺北市張掛旗幟路段參考一覽表.ods",
                         "created": "2017-03-14 10:16:18",
                         "last_modified": "2017-03-14T10:16:18"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "35f574c3-f16e-4377-b1d3-f055c480c3d3": {
-                "name": "35f574c3-f16e-4377-b1d3-f055c480c3d3",
-                "title": "臺北市登革熱戶外化學防疫軌跡記錄",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-14 10:07:22",
-                "timeEnd": 1489457242,
-                "timeBegin": 1477929600,
-                "resources": {
-                    "8074a795-09dd-4be9-b945-4d9cd8924304": {
-                        "id": "8074a795-09dd-4be9-b945-4d9cd8924304",
-                        "name": "戶外環境噴藥日程.ods",
-                        "created": "2017-03-14 10:05:02",
-                        "last_modified": "2017-03-14T10:05:02"
                     }
                 },
                 "counters": {
@@ -26851,32 +27080,6 @@
                     "resource_recent": 0
                 }
             },
-            "4f2d3031-6d81-455d-b78a-ca426156b268": {
-                "name": "4f2d3031-6d81-455d-b78a-ca426156b268",
-                "title": "臺北市公廁點位資訊",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-01-18 16:40:40",
-                "timeEnd": 1484728840,
-                "timeBegin": 1447257600,
-                "resources": {
-                    "008ed7cf-2340-4bc4-89b0-e258a5573be2": {
-                        "id": "008ed7cf-2340-4bc4-89b0-e258a5573be2",
-                        "name": "臺北市公廁點位資訊.csv",
-                        "created": "2016-06-24 08:28:04",
-                        "last_modified": "2016-06-24T08:28:04"
-                    },
-                    "4ec72292-bd3e-451e-88ff-6d48eaa4f9a4": {
-                        "id": "4ec72292-bd3e-451e-88ff-6d48eaa4f9a4",
-                        "name": "臺北市公廁點位資訊",
-                        "created": "2016-10-18 09:05:24",
-                        "last_modified": "2016-10-18T09:05:24"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "493e8019-3de7-47fa-aa9b-cb4076e540a2": {
                 "name": "493e8019-3de7-47fa-aa9b-cb4076e540a2",
                 "title": "臺北市溫室氣體排放統計—本市總排放量及人均排放量",
@@ -26890,94 +27093,6 @@
                         "name": "臺北市溫室氣體排放統計-本市總排放量及人均排放量.csv",
                         "created": "2017-01-16 15:29:42",
                         "last_modified": "2017-01-16T15:29:42"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "029ba2a7-2ae1-40fe-b310-013a842d56c2": {
-                "name": "029ba2a7-2ae1-40fe-b310-013a842d56c2",
-                "title": "臺北市噪音監測結果",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-01-16 14:52:56",
-                "timeEnd": 1484549576,
-                "timeBegin": 1444924800,
-                "resources": {
-                    "26162b5c-1e51-4f47-b353-ec3741f9000a": {
-                        "id": "26162b5c-1e51-4f47-b353-ec3741f9000a",
-                        "name": "臺北市一般地區環境音量監測不合格情形.csv",
-                        "created": "2017-01-16 14:50:31",
-                        "last_modified": "2017-01-16T14:50:31"
-                    },
-                    "2a1248e6-19aa-4dba-9add-6b8cc637e403": {
-                        "id": "2a1248e6-19aa-4dba-9add-6b8cc637e403",
-                        "name": "臺北市道路交通音量監測不合格情形.csv",
-                        "created": "2017-01-16 14:51:46",
-                        "last_modified": "2017-01-16T14:51:46"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "4e4d4023-1b84-4cf2-806a-90c82576efb4": {
-                "name": "4e4d4023-1b84-4cf2-806a-90c82576efb4",
-                "title": "臺北市地下水監測結果",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-01-16 14:46:21",
-                "timeEnd": 1484549181,
-                "timeBegin": 1444924800,
-                "resources": {
-                    "a443b771-0ba9-4361-8960-78088748dd08": {
-                        "id": "a443b771-0ba9-4361-8960-78088748dd08",
-                        "name": "地下水質監測結果104年1-3月份.ods",
-                        "created": "2016-08-04 10:44:49",
-                        "last_modified": "2016-08-04T10:44:49"
-                    },
-                    "729c9904-1ba6-412a-8bd2-1dabe5708b3d": {
-                        "id": "729c9904-1ba6-412a-8bd2-1dabe5708b3d",
-                        "name": "地下水質監測結果104年4-6月份.ods",
-                        "created": "2016-08-04 10:44:57",
-                        "last_modified": "2016-08-04T10:44:57"
-                    },
-                    "2566cc46-7a98-4867-aecf-a2490e950718": {
-                        "id": "2566cc46-7a98-4867-aecf-a2490e950718",
-                        "name": "地下水質監測結果104年7-9月份.ods",
-                        "created": "2016-08-04 10:45:03",
-                        "last_modified": "2016-08-04T10:45:03"
-                    },
-                    "ece97704-ce27-4c9b-afb0-567cef8cdfe9": {
-                        "id": "ece97704-ce27-4c9b-afb0-567cef8cdfe9",
-                        "name": "地下水質監測結果104年10-12月份.ods",
-                        "created": "2016-08-04 10:45:09",
-                        "last_modified": "2016-08-04T10:45:09"
-                    },
-                    "34dc3a6b-67ea-4643-bb1d-d2ab6858f795": {
-                        "id": "34dc3a6b-67ea-4643-bb1d-d2ab6858f795",
-                        "name": "地下水質監測結果105年1-3月份.ods",
-                        "created": "2016-08-04 10:45:19",
-                        "last_modified": "2016-08-04T10:45:19"
-                    },
-                    "cbbad8b6-1794-4727-8c6c-6e9b663b4601": {
-                        "id": "cbbad8b6-1794-4727-8c6c-6e9b663b4601",
-                        "name": "地下水質監測結果105年4-6月份.ods",
-                        "created": "2016-08-04 10:45:25",
-                        "last_modified": "2016-08-04T10:45:25"
-                    },
-                    "7bc524dd-0c43-42f4-8d83-8ce763e94f41": {
-                        "id": "7bc524dd-0c43-42f4-8d83-8ce763e94f41",
-                        "name": "臺北市105年7月至9月地下水質監測結果.ods",
-                        "created": "2016-09-19 14:46:42",
-                        "last_modified": "2016-09-19T14:46:42"
-                    },
-                    "df0af13a-0f40-4113-96f9-232389d281e5": {
-                        "id": "df0af13a-0f40-4113-96f9-232389d281e5",
-                        "name": "地下水質監測結果105年10-12月份.ods",
-                        "created": "2017-01-16 14:45:45",
-                        "last_modified": "2017-01-16T14:45:45"
                     }
                 },
                 "counters": {
@@ -28219,15 +28334,15 @@
                 "name": "6a3e862a-e1cb-4e44-b989-d35609559463",
                 "title": "臺北市開放認養動物",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-19 19:26:20",
-                "timeEnd": 1492601180,
+                "metadata_modified": "2017-04-20 19:26:20",
+                "timeEnd": 1492687580,
                 "timeBegin": 1356537600,
                 "resources": {
                     "f4a75ba9-7721-4363-884d-c3820b0b917c": {
                         "id": "f4a75ba9-7721-4363-884d-c3820b0b917c",
                         "name": "animal.json",
-                        "created": "2017-04-19 19:26:20",
-                        "last_modified": "2017-04-19T19:26:20"
+                        "created": "2017-04-20 19:26:19",
+                        "last_modified": "2017-04-20T19:26:19"
                     }
                 },
                 "counters": {
@@ -28239,15 +28354,15 @@
                 "name": "d23e6ef4-3b78-4e74-8f8e-93cbe0c66515",
                 "title": "臺北市企業營運總部分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-19 19:18:01",
-                "timeEnd": 1492600681,
+                "metadata_modified": "2017-04-20 19:18:01",
+                "timeEnd": 1492687081,
                 "timeBegin": 1326384000,
                 "resources": {
                     "77f5bb24-425a-4910-a5c1-fafe48fdaff6": {
                         "id": "77f5bb24-425a-4910-a5c1-fafe48fdaff6",
                         "name": "factory.xml",
-                        "created": "2017-04-19 19:18:01",
-                        "last_modified": "2017-04-19T19:18:01"
+                        "created": "2017-04-20 19:18:01",
+                        "last_modified": "2017-04-20T19:18:01"
                     }
                 },
                 "counters": {
@@ -28259,15 +28374,15 @@
                 "name": "2385447a-6793-4055-8ce0-b601ffa5e9b5",
                 "title": "臺北市加油站及加氣站分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-19 19:16:01",
-                "timeEnd": 1492600561,
+                "metadata_modified": "2017-04-20 19:16:01",
+                "timeEnd": 1492686961,
                 "timeBegin": 1326384000,
                 "resources": {
                     "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e": {
                         "id": "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e",
                         "name": "religion.xml",
-                        "created": "2017-04-19 19:16:01",
-                        "last_modified": "2017-04-19T19:16:01"
+                        "created": "2017-04-20 19:16:01",
+                        "last_modified": "2017-04-20T19:16:01"
                     }
                 },
                 "counters": {
@@ -28279,15 +28394,15 @@
                 "name": "c8215f0d-20fa-4350-bcd9-da82432c2c9d",
                 "title": "臺北市登記工廠分佈圖及基本資料",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-19 19:14:01",
-                "timeEnd": 1492600441,
+                "metadata_modified": "2017-04-20 19:14:01",
+                "timeEnd": 1492686841,
                 "timeBegin": 1326384000,
                 "resources": {
                     "0c526081-68e3-489f-ae05-5a015ab80f61": {
                         "id": "0c526081-68e3-489f-ae05-5a015ab80f61",
                         "name": "taipeiFactory.xml",
-                        "created": "2017-04-19 19:14:01",
-                        "last_modified": "2017-04-19T19:14:01"
+                        "created": "2017-04-20 19:14:01",
+                        "last_modified": "2017-04-20T19:14:01"
                     }
                 },
                 "counters": {
@@ -28299,15 +28414,15 @@
                 "name": "3a7f9832-d020-4a6d-9b4d-6727fc149352",
                 "title": "臺北市公用天然氣導管承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-19 19:12:03",
-                "timeEnd": 1492600323,
+                "metadata_modified": "2017-04-20 19:12:00",
+                "timeEnd": 1492686720,
                 "timeBegin": 1369324800,
                 "resources": {
                     "cc69a890-eaae-4af5-9b00-e24cadaaad09": {
                         "id": "cc69a890-eaae-4af5-9b00-e24cadaaad09",
                         "name": "gasbusiness.xml",
-                        "created": "2017-04-19 19:12:00",
-                        "last_modified": "2017-04-19T19:12:00"
+                        "created": "2017-04-20 19:12:00",
+                        "last_modified": "2017-04-20T19:12:00"
                     }
                 },
                 "counters": {
@@ -28319,15 +28434,15 @@
                 "name": "166c8468-c496-4e27-ade3-13ee7d4a3881",
                 "title": "臺北市電器承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-19 19:10:00",
-                "timeEnd": 1492600200,
+                "metadata_modified": "2017-04-20 19:10:00",
+                "timeEnd": 1492686600,
                 "timeBegin": 1369324800,
                 "resources": {
                     "7befb610-232e-4a1e-99d0-35e964c10b70": {
                         "id": "7befb610-232e-4a1e-99d0-35e964c10b70",
                         "name": "ele.xml",
-                        "created": "2017-04-19 19:10:00",
-                        "last_modified": "2017-04-19T19:10:00"
+                        "created": "2017-04-20 19:10:00",
+                        "last_modified": "2017-04-20T19:10:00"
                     }
                 },
                 "counters": {
@@ -28339,15 +28454,15 @@
                 "name": "81b2a881-d37b-41b0-b9e0-39a2fef486ce",
                 "title": "臺北市自來水管承裝商業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-19 19:08:01",
-                "timeEnd": 1492600081,
+                "metadata_modified": "2017-04-20 19:08:00",
+                "timeEnd": 1492686480,
                 "timeBegin": 1369324800,
                 "resources": {
                     "6805942d-a8dd-4635-a394-01a8eadb3eba": {
                         "id": "6805942d-a8dd-4635-a394-01a8eadb3eba",
                         "name": "waterbusiness.xml",
-                        "created": "2017-04-19 19:08:01",
-                        "last_modified": "2017-04-19T19:08:01"
+                        "created": "2017-04-20 19:08:00",
+                        "last_modified": "2017-04-20T19:08:00"
                     }
                 },
                 "counters": {
@@ -35520,8 +35635,8 @@
                 "name": "4c812503-c284-4414-9939-ac5c9061f087",
                 "title": "臺北市政府公報(106年度)",
                 "organization_id": "379010000A",
-                "metadata_modified": "2017-04-19 12:09:16",
-                "timeEnd": 1492574956,
+                "metadata_modified": "2017-04-20 09:31:50",
+                "timeEnd": 1492651910,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -42147,6 +42262,26 @@
     },
     "臺北市政府財政局": {
         "datasets": {
+            "92a55cee-13c6-4b0e-8797-bcf7f63b07e2": {
+                "name": "92a55cee-13c6-4b0e-8797-bcf7f63b07e2",
+                "title": "本府一級機關經管公有公用土地清冊(國有)",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-04-20 10:32:20",
+                "timeEnd": 1492655540,
+                "timeBegin": 1492617600,
+                "resources": {
+                    "3460e032-3a50-486b-ab0f-7d7746bfaa7c": {
+                        "id": "3460e032-3a50-486b-ab0f-7d7746bfaa7c",
+                        "name": "本府一級機關經管公有公用土地清冊(國有).csv",
+                        "created": "2017-04-20 10:29:18",
+                        "last_modified": "2017-04-20T10:29:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "b7754c31-09c1-49eb-a3ec-57a1a2fb652e": {
                 "name": "b7754c31-09c1-49eb-a3ec-57a1a2fb652e",
                 "title": "契稅稅源統計表",
@@ -42848,26 +42983,6 @@
                         "name": "臺北市實施集中支付近5年支用機關數及各種憑單有效處理件數.csv",
                         "created": "2017-02-15 15:47:27",
                         "last_modified": "2017-02-15T15:47:27"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "92a55cee-13c6-4b0e-8797-bcf7f63b07e2": {
-                "name": "92a55cee-13c6-4b0e-8797-bcf7f63b07e2",
-                "title": "本府一級機關經管公有公用土地清冊(國有)",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-02-09 10:08:49",
-                "timeEnd": 1486606129,
-                "timeBegin": 1460649600,
-                "resources": {
-                    "bf7dc53e-4526-4cc1-a0cb-e057b447b860": {
-                        "id": "bf7dc53e-4526-4cc1-a0cb-e057b447b860",
-                        "name": "本府一級機關經管公有公用土地清冊(國有).csv",
-                        "created": "2017-02-09 10:08:49",
-                        "last_modified": "2017-02-09T10:08:49"
                     }
                 },
                 "counters": {
@@ -43651,15 +43766,15 @@
                 "name": "6aa6532d-652f-4c1b-814a-4646b75407af",
                 "title": "臺北市公眾區免費無線上網熱點資料(新版)",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-20 05:27:14",
-                "timeEnd": 1492637234,
+                "metadata_modified": "2017-04-21 05:27:01",
+                "timeEnd": 1492723621,
                 "timeBegin": 1372348800,
                 "resources": {
                     "b087af42-2c54-4dbf-86c8-427d788779e5": {
                         "id": "b087af42-2c54-4dbf-86c8-427d788779e5",
                         "name": "freeWifi.xml",
-                        "created": "2017-04-20 05:27:14",
-                        "last_modified": "2017-04-20T05:27:14"
+                        "created": "2017-04-21 05:27:01",
+                        "last_modified": "2017-04-21T05:27:01"
                     }
                 },
                 "counters": {
@@ -43671,63 +43786,63 @@
                 "name": "5bc82dc7-f2a2-4351-abc8-c09c8a8d7529",
                 "title": "今日氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-20 05:20:43",
-                "timeEnd": 1492636843,
+                "metadata_modified": "2017-04-21 05:20:14",
+                "timeEnd": 1492723214,
                 "timeBegin": 0,
                 "resources": {
                     "1f1aaba5-616a-4a33-867d-878142cac5c4": {
                         "id": "1f1aaba5-616a-4a33-867d-878142cac5c4",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:19:10",
-                        "last_modified": "2017-04-20T05:19:10"
+                        "created": "2017-04-21 05:19:12",
+                        "last_modified": "2017-04-21T05:19:12"
                     },
                     "c3667669-39f8-4b82-bad9-f0f7ca859bf0": {
                         "id": "c3667669-39f8-4b82-bad9-f0f7ca859bf0",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:19:33",
-                        "last_modified": "2017-04-20T05:19:33"
+                        "created": "2017-04-21 05:19:27",
+                        "last_modified": "2017-04-21T05:19:27"
                     },
                     "c73a9461-91c8-4e5c-b728-86b6feb24ffb": {
                         "id": "c73a9461-91c8-4e5c-b728-86b6feb24ffb",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:19:43",
-                        "last_modified": "2017-04-20T05:19:43"
+                        "created": "2017-04-21 05:19:35",
+                        "last_modified": "2017-04-21T05:19:35"
                     },
                     "5e5f1d9a-cc42-482d-be4e-6223f4931977": {
                         "id": "5e5f1d9a-cc42-482d-be4e-6223f4931977",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:19:56",
-                        "last_modified": "2017-04-20T05:19:56"
+                        "created": "2017-04-21 05:19:44",
+                        "last_modified": "2017-04-21T05:19:44"
                     },
                     "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd": {
                         "id": "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:20:06",
-                        "last_modified": "2017-04-20T05:20:06"
+                        "created": "2017-04-21 05:19:51",
+                        "last_modified": "2017-04-21T05:19:51"
                     },
                     "b35f6ac9-6d99-492a-8773-bee73656c27b": {
                         "id": "b35f6ac9-6d99-492a-8773-bee73656c27b",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:20:18",
-                        "last_modified": "2017-04-20T05:20:18"
+                        "created": "2017-04-21 05:19:58",
+                        "last_modified": "2017-04-21T05:19:58"
                     },
                     "00fcb626-9296-4ae1-9c87-f019871755c8": {
                         "id": "00fcb626-9296-4ae1-9c87-f019871755c8",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:20:21",
-                        "last_modified": "2017-04-20T05:20:21"
+                        "created": "2017-04-21 05:20:01",
+                        "last_modified": "2017-04-21T05:20:01"
                     },
                     "7803b298-fdca-4ccc-993f-88ba97ec3c4d": {
                         "id": "7803b298-fdca-4ccc-993f-88ba97ec3c4d",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:20:31",
-                        "last_modified": "2017-04-20T05:20:31"
+                        "created": "2017-04-21 05:20:07",
+                        "last_modified": "2017-04-21T05:20:07"
                     },
                     "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570": {
                         "id": "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:20:42",
-                        "last_modified": "2017-04-20T05:20:42"
+                        "created": "2017-04-21 05:20:14",
+                        "last_modified": "2017-04-21T05:20:14"
                     }
                 },
                 "counters": {
@@ -43739,15 +43854,15 @@
                 "name": "bceb2963-d2dd-4f2d-929c-67c1c0d48667",
                 "title": "一週氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-20 05:19:01",
-                "timeEnd": 1492636741,
+                "metadata_modified": "2017-04-21 05:19:01",
+                "timeEnd": 1492723141,
                 "timeBegin": 0,
                 "resources": {
                     "e6831708-02b4-4ef8-98fa-4b4ce53459d9": {
                         "id": "e6831708-02b4-4ef8-98fa-4b4ce53459d9",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-20 05:19:01",
-                        "last_modified": "2017-04-20T05:19:01"
+                        "created": "2017-04-21 05:19:01",
+                        "last_modified": "2017-04-21T05:19:01"
                     }
                 },
                 "counters": {
@@ -43759,15 +43874,15 @@
                 "name": "203f1657-bb4a-45a7-b25f-279b63136645",
                 "title": "市政網站整合平台之常見問答",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-19 20:49:17",
-                "timeEnd": 1492606157,
+                "metadata_modified": "2017-04-20 20:49:00",
+                "timeEnd": 1492692540,
                 "timeBegin": 0,
                 "resources": {
                     "06badd5c-e0bc-4b55-8646-9fcd4ea7096d": {
                         "id": "06badd5c-e0bc-4b55-8646-9fcd4ea7096d",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-04-19 20:49:17",
-                        "last_modified": "2017-04-19T20:49:17"
+                        "created": "2017-04-20 20:49:00",
+                        "last_modified": "2017-04-20T20:49:00"
                     },
                     "f582d9b1-51ad-421c-874e-a7472f9897b3": {
                         "id": "f582d9b1-51ad-421c-874e-a7472f9897b3",
@@ -43785,15 +43900,15 @@
                 "name": "1a97fef5-dc98-4b6b-8694-5d6b3f6f2442",
                 "title": "市政網站整合平台之最新消息",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-19 20:48:21",
-                "timeEnd": 1492606101,
+                "metadata_modified": "2017-04-20 20:48:14",
+                "timeEnd": 1492692494,
                 "timeBegin": 0,
                 "resources": {
                     "e9d0bf09-4596-4fd2-9929-f8deb1b7352a": {
                         "id": "e9d0bf09-4596-4fd2-9929-f8deb1b7352a",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-04-19 20:48:19",
-                        "last_modified": "2017-04-19T20:48:19"
+                        "created": "2017-04-20 20:48:13",
+                        "last_modified": "2017-04-20T20:48:13"
                     }
                 },
                 "counters": {
@@ -45187,15 +45302,15 @@
                 "name": "9ebdd4b8-c211-4d28-b99d-f73a34d13867",
                 "title": "翡翠水庫水情資料",
                 "organization_id": "379550000G",
-                "metadata_modified": "2017-04-20 05:30:00",
-                "timeEnd": 1492637400,
+                "metadata_modified": "2017-04-21 05:30:00",
+                "timeEnd": 1492723800,
                 "timeBegin": 0,
                 "resources": {
                     "236f6133-e148-4bbe-adc4-efeee4ac6096": {
                         "id": "236f6133-e148-4bbe-adc4-efeee4ac6096",
                         "name": "feitsuiWater.xml",
-                        "created": "2017-04-20 05:30:00",
-                        "last_modified": "2017-04-20T05:30:00"
+                        "created": "2017-04-21 05:30:00",
+                        "last_modified": "2017-04-21T05:30:00"
                     }
                 },
                 "counters": {
@@ -45660,15 +45775,15 @@
                 "name": "961ca397-4a59-45e8-b312-697f26b059dc",
                 "title": "臺北市水質監測資訊",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-04-20 05:19:00",
-                "timeEnd": 1492636740,
+                "metadata_modified": "2017-04-21 05:19:00",
+                "timeEnd": 1492723140,
                 "timeBegin": 1398268800,
                 "resources": {
                     "190796c8-7c56-42e0-8068-39242b8ec927": {
                         "id": "190796c8-7c56-42e0-8068-39242b8ec927",
                         "name": "waterQuality.xml",
-                        "created": "2017-04-20 05:19:00",
-                        "last_modified": "2017-04-20T05:19:00"
+                        "created": "2017-04-21 05:19:00",
+                        "last_modified": "2017-04-21T05:19:00"
                     },
                     "1e9b4316-fa39-4707-aebd-f239b4f64b2f": {
                         "id": "1e9b4316-fa39-4707-aebd-f239b4f64b2f",
@@ -45686,15 +45801,15 @@
                 "name": "75aa4c40-db2a-47b7-8f0a-b10d4ff9788b",
                 "title": "臺北市停水資訊-(大臺北地區)",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-04-19 15:23:12",
-                "timeEnd": 1492586592,
+                "metadata_modified": "2017-04-20 15:23:27",
+                "timeEnd": 1492673007,
                 "timeBegin": 1325606400,
                 "resources": {
                     "a242ee9b-b954-4ae9-9827-2344c5dfeaea": {
                         "id": "a242ee9b-b954-4ae9-9827-2344c5dfeaea",
                         "name": "stopWater.xml",
-                        "created": "2017-04-19 15:23:12",
-                        "last_modified": "2017-04-19T15:23:12"
+                        "created": "2017-04-20 15:23:26",
+                        "last_modified": "2017-04-20T15:23:26"
                     },
                     "e9c4da25-a373-4735-8992-d904646fa1ed": {
                         "id": "e9c4da25-a373-4735-8992-d904646fa1ed",
@@ -46067,5 +46182,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1492637572
+    "time_generated": 1492723986
 }
