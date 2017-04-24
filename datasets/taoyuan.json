@@ -8724,16 +8724,16 @@
                 "title": "桃園藝文",
                 "organization_id": "380330000e",
                 "metadata_created": "2016-02-03T04:39:19.218791",
-                "metadata_modified": "2017-03-27T09:44:05.024896",
-                "timeEnd": 1490607844,
+                "metadata_modified": "2017-04-24T07:03:05.048604",
+                "timeEnd": 1493017384,
                 "timeBegin": 1454445559,
                 "resources": {
                     "21e9b678-6c1b-46ca-b313-59b572345f8d": {
                         "id": "21e9b678-6c1b-46ca-b313-59b572345f8d",
                         "name": "1市府open data.csv",
-                        "created": "2017-03-27T17:44:04",
+                        "created": "2017-04-24T15:03:04",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-27T17:44:04"
+                        "last_modified": "2017-04-24T15:03:04"
                     }
                 },
                 "counters": {
@@ -11676,16 +11676,16 @@
                 "title": "桃園市消防局消防分隊通訊錄",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:34:04.901858",
-                "metadata_modified": "2017-04-06T06:00:19.004362",
-                "timeEnd": 1491429619,
+                "metadata_modified": "2017-04-24T07:52:13.906504",
+                "timeEnd": 1493020189,
                 "timeBegin": 1444167244,
                 "resources": {
-                    "17901030-07bc-4775-8fd0-1691631f41a6": {
-                        "id": "17901030-07bc-4775-8fd0-1691631f41a6",
-                        "name": "26060桃園市消防局消防分隊通訊錄10511.csv",
-                        "created": "2016-11-02T13:06:37",
+                    "78a2e208-f0de-4cf1-a4da-f9740f48e3a3": {
+                        "id": "78a2e208-f0de-4cf1-a4da-f9740f48e3a3",
+                        "name": "桃園市消防局消防分隊通訊錄10604.csv",
+                        "created": "2017-04-24T15:49:49.781746",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-11-02T13:06:37"
+                        "last_modified": "2017-04-24T15:49:49"
                     }
                 },
                 "counters": {
@@ -11871,7 +11871,7 @@
     },
     "桃園市政府環境保護局": {
         "counters": {
-            "datasets": 35,
+            "datasets": 36,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -12408,6 +12408,20 @@
                         "last_modified": "2017-04-14T10:45:32"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "55303b57-b862-42e4-b5b9-22d72b687d37": {
+                "name": "55303b57-b862-42e4-b5b9-22d72b687d37",
+                "title": "垃圾車即時點位",
+                "organization_id": "380150000i",
+                "metadata_created": "2017-04-24T04:46:15.034853",
+                "metadata_modified": "2017-04-24T05:59:40.885755",
+                "timeEnd": 1492984780,
+                "timeBegin": 1492980375,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -16206,7 +16220,7 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 79,
+            "datasets": 80,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -18135,6 +18149,35 @@
                         "created": "2017-02-21T14:35:34",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-21T14:35:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d0243a29-c21f-44c2-9ec3-8977b6b7907d": {
+                "name": "d0243a29-c21f-44c2-9ec3-8977b6b7907d",
+                "title": "(桃園市)106年食品廣告違規案件調查結果",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-04-24T03:17:59.046581",
+                "metadata_modified": "2017-04-24T03:30:42.341836",
+                "timeEnd": 1493004024,
+                "timeBegin": 1492975079,
+                "resources": {
+                    "963f8c87-52a5-4ed4-b9b3-931622831cf4": {
+                        "id": "963f8c87-52a5-4ed4-b9b3-931622831cf4",
+                        "name": "106年1月份辦理食品違規廣告處罰案件統計表.csv",
+                        "created": "2017-04-24T11:20:02",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-24T11:20:01"
+                    },
+                    "03ad1ca5-c8ed-48ce-b354-984f879b29d7": {
+                        "id": "03ad1ca5-c8ed-48ce-b354-984f879b29d7",
+                        "name": "106年2月份辦理食品廣告違規案件案件調查結果統計表.csv",
+                        "created": "2017-04-24T11:20:24",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-24T11:20:24"
                     }
                 },
                 "counters": {
@@ -25835,16 +25878,16 @@
                 "title": "桃園捷運起迄站間票價資料",
                 "organization_id": "2a992d55-1288-4d49-8560-10c088319671",
                 "metadata_created": "2017-03-03T06:55:22.173138",
-                "metadata_modified": "2017-04-10T10:23:57.677064",
-                "timeEnd": 1491819837,
+                "metadata_modified": "2017-04-24T08:19:55.041901",
+                "timeEnd": 1493021994,
                 "timeBegin": 1488495322,
                 "resources": {
                     "0315f539-e235-438d-b38f-515c72e36010": {
                         "id": "0315f539-e235-438d-b38f-515c72e36010",
                         "name": "ODFareList.xml",
-                        "created": "2017-04-10T18:23:57",
+                        "created": "2017-04-24T16:19:54",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-04-10T18:23:57"
+                        "last_modified": "2017-04-24T16:19:54"
                     }
                 },
                 "counters": {
@@ -25916,5 +25959,5 @@
             }
         }
     },
-    "time_generated": 1492983129
+    "time_generated": 1493069531
 }
