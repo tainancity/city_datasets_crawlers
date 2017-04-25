@@ -1,7 +1,7 @@
 {
     "桃園市政府主計處": {
         "counters": {
-            "datasets": 13,
+            "datasets": 15,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -300,6 +300,50 @@
                         "created": "2017-02-10T11:27:12.420619",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T11:27:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "ecb15ee6-1a6e-4193-8937-6ee7cec50424": {
+                "name": "ecb15ee6-1a6e-4193-8937-6ee7cec50424",
+                "title": "附屬單位預算營業基金損益綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-04-25T03:08:47.268719",
+                "metadata_modified": "2017-04-25T03:10:02.110733",
+                "timeEnd": 1493089802,
+                "timeBegin": 1493060927,
+                "resources": {
+                    "4766fbb9-536a-4507-bd07-7ba1808ec546": {
+                        "id": "4766fbb9-536a-4507-bd07-7ba1808ec546",
+                        "name": "106年附屬單位預算營業基金損益綜計表(依基金別分列).csv",
+                        "created": "2017-04-25T11:10:02.149677",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-25T11:10:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "efc90d85-cd2c-4ceb-891b-24a589d2e6dd": {
+                "name": "efc90d85-cd2c-4ceb-891b-24a589d2e6dd",
+                "title": "附屬單位預算營業基金財務摘要綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-04-25T02:08:29.015194",
+                "metadata_modified": "2017-04-25T02:54:31.764101",
+                "timeEnd": 1493088871,
+                "timeBegin": 1493057309,
+                "resources": {
+                    "ddef6b95-2fd1-4d12-9204-34c3baeb35d3": {
+                        "id": "ddef6b95-2fd1-4d12-9204-34c3baeb35d3",
+                        "name": "附屬單位預算營業基金財務摘要綜計表.csv",
+                        "created": "2017-04-25T10:54:31.798501",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-25T10:54:31"
                     }
                 },
                 "counters": {
@@ -690,8 +734,8 @@
                 "title": "桃園市政府機關通訊錄",
                 "organization_id": "380210000a",
                 "metadata_created": "2015-10-08T02:25:07.893315",
-                "metadata_modified": "2016-11-03T08:04:44.704748",
-                "timeEnd": 1478160359,
+                "metadata_modified": "2017-04-25T01:53:16.364506",
+                "timeEnd": 1493056396,
                 "timeBegin": 1444242307,
                 "resources": {
                     "3707408c-a3ce-4109-9eca-0ab9a70276f2": {
@@ -9983,14 +10027,14 @@
                 "title": "桃園水質淨化工程",
                 "organization_id": "380250000g",
                 "metadata_created": "2017-04-19T10:01:00.296560",
-                "metadata_modified": "2017-04-19T10:37:19.540656",
-                "timeEnd": 1492598239,
+                "metadata_modified": "2017-04-25T06:52:12.780912",
+                "timeEnd": 1493074332,
                 "timeBegin": 1492567260,
                 "resources": {
                     "65f9d554-2f2c-4e46-9256-8578d88539fe": {
                         "id": "65f9d554-2f2c-4e46-9256-8578d88539fe",
                         "name": "水質淨化.csv",
-                        "created": "2017-04-19T18:37:19.600705",
+                        "created": "2017-04-19T18:37:19",
                         "webstore_last_updated": null,
                         "last_modified": "2017-04-19T18:37:19"
                     }
@@ -11487,8 +11531,8 @@
                 "title": "桃園市政府消防局辦理各項訓練統計",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T03:41:01.858815",
-                "metadata_modified": "2017-03-30T08:02:47.192929",
-                "timeEnd": 1490860967,
+                "metadata_modified": "2017-04-25T06:55:37.445236",
+                "timeEnd": 1493103337,
                 "timeBegin": 1462822861,
                 "resources": {
                     "a6b94c7e-5c14-4ec2-91b0-473f0d436f54": {
@@ -11518,6 +11562,13 @@
                         "created": "2017-03-30T16:02:47.248498",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-30T16:02:47"
+                    },
+                    "f6c3e23b-9466-4e28-9150-2e2b6d6e76f7": {
+                        "id": "f6c3e23b-9466-4e28-9150-2e2b6d6e76f7",
+                        "name": "桃園市政府消防局辦理各項訓練統計10604.csv",
+                        "created": "2017-04-25T14:55:37.537804",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-25T14:55:37"
                     }
                 },
                 "counters": {
@@ -12102,8 +12153,8 @@
                 "title": "桃園低碳永續家園",
                 "organization_id": "380150000i",
                 "metadata_created": "2017-01-13T01:47:30.116176",
-                "metadata_modified": "2017-02-09T05:52:20.538715",
-                "timeEnd": 1486590740,
+                "metadata_modified": "2017-04-25T01:40:40.390580",
+                "timeEnd": 1493055640,
                 "timeBegin": 1484243250,
                 "resources": {
                     "45e748bf-f108-46d7-b7fb-bab262c26d98": {
@@ -12542,14 +12593,14 @@
                 "title": "環境教育機構(桃園市)",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-12-25T03:51:17.164571",
-                "metadata_modified": "2016-01-04T09:00:47.762067",
-                "timeEnd": 1451869247,
+                "metadata_modified": "2017-04-25T01:37:07.665868",
+                "timeEnd": 1493055427,
                 "timeBegin": 1450986677,
                 "resources": {
                     "167d5a4e-a0b7-478c-b8b0-ad2a79599164": {
                         "id": "167d5a4e-a0b7-478c-b8b0-ad2a79599164",
                         "name": " 桃園市環境教育機構  ",
-                        "created": "2015-12-28T09:52:38.395682",
+                        "created": "2015-12-28T09:52:38",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-28T09:52:38"
                     }
@@ -12586,8 +12637,8 @@
                 "title": "桃園市環保寺廟",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-09-18T02:23:55.732753",
-                "metadata_modified": "2017-02-09T05:49:18.614623",
-                "timeEnd": 1486590558,
+                "metadata_modified": "2017-04-25T01:38:48.883970",
+                "timeEnd": 1493055528,
                 "timeBegin": 1442514235,
                 "resources": {
                     "ecc82e0b-918f-440b-99b2-07187ba4a2b3": {
@@ -12637,8 +12688,8 @@
                 "title": "ESCO（能源技術服務業）資訊",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-12-25T05:25:37.323098",
-                "metadata_modified": "2017-02-09T05:48:46.859181",
-                "timeEnd": 1486590526,
+                "metadata_modified": "2017-04-25T01:41:37.700036",
+                "timeEnd": 1493055697,
                 "timeBegin": 1450992337,
                 "resources": {
                     "eebe319e-367f-4cc4-b2fa-b559caf3fb90": {
@@ -25911,16 +25962,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-04-23T01:02:57.210897",
-                "timeEnd": 1492909377,
+                "metadata_modified": "2017-04-25T00:06:00.844169",
+                "timeEnd": 1493078760,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "192d0e9f-d014-4a21-9768-39b66042b50a": {
-                        "id": "192d0e9f-d014-4a21-9768-39b66042b50a",
+                    "187dfefa-7621-48a2-afe1-6cefeeab5e0f": {
+                        "id": "187dfefa-7621-48a2-afe1-6cefeeab5e0f",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-04-23T09:02:57.286538",
+                        "created": "2017-04-25T08:06:00.927900",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-04-23T09:02:57"
+                        "last_modified": "2017-04-25T08:06:00"
                     }
                 },
                 "counters": {
@@ -25933,8 +25984,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-04-23T01:02:37.351457",
-                "timeEnd": 1492909357,
+                "metadata_modified": "2017-04-25T00:06:27.071872",
+                "timeEnd": 1493078787,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -25944,12 +25995,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "e1ef2cba-9c04-466d-a211-f9b1085e0ad2": {
-                        "id": "e1ef2cba-9c04-466d-a211-f9b1085e0ad2",
+                    "1ef4fab3-3e5c-4b0e-a46a-6251d72ffa5a": {
+                        "id": "1ef4fab3-3e5c-4b0e-a46a-6251d72ffa5a",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-04-23T09:02:37.502247",
+                        "created": "2017-04-25T08:06:27.164041",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-04-23T09:02:36"
+                        "last_modified": "2017-04-25T08:06:26"
                     }
                 },
                 "counters": {
@@ -25959,5 +26010,5 @@
             }
         }
     },
-    "time_generated": 1493069531
+    "time_generated": 1493155938
 }

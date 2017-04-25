@@ -237,15 +237,15 @@
                 "name": "6556e1e8-c908-42d5-b984-b3f7337b139b",
                 "title": "臺北捷運列車到站站名",
                 "organization_id": "379620000M",
-                "metadata_modified": "2017-04-25 05:32:01",
-                "timeEnd": 1493069521,
+                "metadata_modified": "2017-04-26 05:31:49",
+                "timeEnd": 1493155909,
                 "timeBegin": 1435593600,
                 "resources": {
                     "55ec6d6e-dc5c-4268-a725-d04cc262172b": {
                         "id": "55ec6d6e-dc5c-4268-a725-d04cc262172b",
                         "name": "apiIn.json",
-                        "created": "2017-04-25 05:32:00",
-                        "last_modified": "2017-04-25T05:32:00"
+                        "created": "2017-04-26 05:31:49",
+                        "last_modified": "2017-04-26T05:31:49"
                     }
                 },
                 "counters": {
@@ -6364,6 +6364,26 @@
     },
     "臺北市政府人事處": {
         "datasets": {
+            "abd80a1c-eb3a-4c99-bbb4-4c671a060050": {
+                "name": "abd80a1c-eb3a-4c99-bbb4-4c671a060050",
+                "title": "臺北市政府各一級機關暨列席議會二級機關首長名錄",
+                "organization_id": "379210000A",
+                "metadata_modified": "2017-04-25 11:27:18",
+                "timeEnd": 1493090839,
+                "timeBegin": 1439827200,
+                "resources": {
+                    "8b5618a6-14e4-4f98-95f1-4511464bd4c7": {
+                        "id": "8b5618a6-14e4-4f98-95f1-4511464bd4c7",
+                        "name": "臺北市政府各一級機關暨列席議會二級機關首長名錄_1060328.doc",
+                        "created": "2017-04-25 11:27:19",
+                        "last_modified": "2017-04-25T11:27:19"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "da5059a6-33f4-4f5b-a407-f380a9047951": {
                 "name": "da5059a6-33f4-4f5b-a407-f380a9047951",
                 "title": "本府公教人員急難貸款申請人次統計表",
@@ -6845,26 +6865,6 @@
                         "name": "3月份月報.xlsx",
                         "created": "2017-04-07 11:30:34",
                         "last_modified": "2017-04-07T11:30:34"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "abd80a1c-eb3a-4c99-bbb4-4c671a060050": {
-                "name": "abd80a1c-eb3a-4c99-bbb4-4c671a060050",
-                "title": "臺北市政府各一級機關暨列席議會二級機關首長名錄",
-                "organization_id": "379210000A",
-                "metadata_modified": "2017-04-06 10:27:56",
-                "timeEnd": 1491445676,
-                "timeBegin": 1439827200,
-                "resources": {
-                    "8b5618a6-14e4-4f98-95f1-4511464bd4c7": {
-                        "id": "8b5618a6-14e4-4f98-95f1-4511464bd4c7",
-                        "name": "臺北市政府各一級機關暨列席議會二級機關首長名錄_1060328.doc",
-                        "created": "2017-04-06 10:27:55",
-                        "last_modified": "2017-04-06T10:27:55"
                     }
                 },
                 "counters": {
@@ -10502,19 +10502,39 @@
     },
     "臺北市政府勞動局": {
         "datasets": {
+            "08ed553e-238b-420d-98a4-578a3ba1a93c": {
+                "name": "08ed553e-238b-420d-98a4-578a3ba1a93c",
+                "title": "違反身心障礙者權益保障法第38條規定未足額進用名單",
+                "organization_id": "379760000J",
+                "metadata_modified": "2017-04-25 14:14:33",
+                "timeEnd": 1493100873,
+                "timeBegin": 1493049600,
+                "resources": {
+                    "ed447ea0-eada-406b-9a83-f544bf7fddd6": {
+                        "id": "ed447ea0-eada-406b-9a83-f544bf7fddd6",
+                        "name": "10601.csv",
+                        "created": "2017-04-25 14:14:31",
+                        "last_modified": "2017-04-25T14:14:31"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "23630879-4926-4877-a48a-a0ae6cc2f7d5": {
                 "name": "23630879-4926-4877-a48a-a0ae6cc2f7d5",
                 "title": "臺北市政府違反勞動基準法事業單位及事業主公布總表",
                 "organization_id": "379760000J",
-                "metadata_modified": "2017-04-21 14:52:47",
-                "timeEnd": 1492757567,
+                "metadata_modified": "2017-04-25 14:09:57",
+                "timeEnd": 1493100597,
                 "timeBegin": 1492099200,
                 "resources": {
                     "d98a5efc-bc5d-4aec-914e-92cc574b8d4f": {
                         "id": "d98a5efc-bc5d-4aec-914e-92cc574b8d4f",
                         "name": "1060316臺北市違反勞動基準法事業單位及事業主公布總表1060316.csv",
-                        "created": "2017-04-21 14:50:35",
-                        "last_modified": "2017-04-21T14:50:35"
+                        "created": "2017-04-25 14:07:12",
+                        "last_modified": "2017-04-25T14:07:12"
                     }
                 },
                 "counters": {
@@ -10555,26 +10575,6 @@
                         "name": "1060405臺北市違反職業安全衛生法事業單位及事業主公布總表(CSV檔)1060405.csv",
                         "created": "2017-04-05 09:55:36",
                         "last_modified": "2017-04-05T09:55:36"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "08ed553e-238b-420d-98a4-578a3ba1a93c": {
-                "name": "08ed553e-238b-420d-98a4-578a3ba1a93c",
-                "title": "違反身心障礙者權益保障法第38條規定未足額進用名單",
-                "organization_id": "379760000J",
-                "metadata_modified": "2017-03-15 13:41:09",
-                "timeEnd": 1489556469,
-                "timeBegin": 1489507200,
-                "resources": {
-                    "4d1232cc-b3cc-4d68-bcec-6b1fbfb7db8e": {
-                        "id": "4d1232cc-b3cc-4d68-bcec-6b1fbfb7db8e",
-                        "name": "10512公告名冊.csv",
-                        "created": "2017-03-15 13:41:03",
-                        "last_modified": "2017-03-15T13:41:03"
                     }
                 },
                 "counters": {
@@ -11016,15 +11016,15 @@
                 "name": "a9a97996-3a55-46c8-9076-e5ebdefad6dc",
                 "title": "實價周報",
                 "organization_id": "379700000A",
-                "metadata_modified": "2017-04-19 05:11:19",
-                "timeEnd": 1492549879,
+                "metadata_modified": "2017-04-26 05:14:17",
+                "timeEnd": 1493154857,
                 "timeBegin": false,
                 "resources": {
                     "51839ac9-6454-49f2-aaf2-abd05c5405c8": {
                         "id": "51839ac9-6454-49f2-aaf2-abd05c5405c8",
                         "name": "realPrice.xml",
-                        "created": "2017-04-19 05:11:17",
-                        "last_modified": "2017-04-19T05:11:17"
+                        "created": "2017-04-26 05:14:17",
+                        "last_modified": "2017-04-26T05:14:17"
                     }
                 },
                 "counters": {
@@ -12299,15 +12299,15 @@
                 "name": "4d29818c-a3ee-425d-b88a-22ac0c24c712",
                 "title": "臺北市今日施工資訊",
                 "organization_id": "379110000G",
-                "metadata_modified": "2017-04-25 05:24:00",
-                "timeEnd": 1493069040,
+                "metadata_modified": "2017-04-26 05:24:01",
+                "timeEnd": 1493155441,
                 "timeBegin": 1403452800,
                 "resources": {
                     "201d8ae8-dffc-4d17-ae1f-e58d8a95b162": {
                         "id": "201d8ae8-dffc-4d17-ae1f-e58d8a95b162",
                         "name": "construction.json",
-                        "created": "2017-04-25 05:24:00",
-                        "last_modified": "2017-04-25T05:24:00"
+                        "created": "2017-04-26 05:24:01",
+                        "last_modified": "2017-04-26T05:24:01"
                     },
                     "58bc550d-4033-4727-a1a5-989b54a59d38": {
                         "id": "58bc550d-4033-4727-a1a5-989b54a59d38",
@@ -16258,123 +16258,123 @@
                 "name": "ac589468-529b-4636-a9b2-ab57ae41cbcb",
                 "title": "學習型機構",
                 "organization_id": "379040000E",
-                "metadata_modified": "2017-04-24 20:46:01",
-                "timeEnd": 1493037961,
+                "metadata_modified": "2017-04-25 20:46:28",
+                "timeEnd": 1493124388,
                 "timeBegin": 0,
                 "resources": {
                     "11f11d42-bdd8-45d0-9493-8134b2e494e9": {
                         "id": "11f11d42-bdd8-45d0-9493-8134b2e494e9",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:01",
-                        "last_modified": "2017-04-24T20:44:01"
+                        "created": "2017-04-25 20:44:01",
+                        "last_modified": "2017-04-25T20:44:01"
                     },
                     "24c9f8fe-88db-4a6e-895c-498fbc94df94": {
                         "id": "24c9f8fe-88db-4a6e-895c-498fbc94df94",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:09",
-                        "last_modified": "2017-04-24T20:44:09"
+                        "created": "2017-04-25 20:44:20",
+                        "last_modified": "2017-04-25T20:44:20"
                     },
                     "c79ed7d6-050b-45d3-9835-634694b57661": {
                         "id": "c79ed7d6-050b-45d3-9835-634694b57661",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:17",
-                        "last_modified": "2017-04-24T20:44:17"
+                        "created": "2017-04-25 20:44:29",
+                        "last_modified": "2017-04-25T20:44:29"
                     },
                     "b41472da-e34e-4a76-924a-5417c0c007ee": {
                         "id": "b41472da-e34e-4a76-924a-5417c0c007ee",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:25",
-                        "last_modified": "2017-04-24T20:44:25"
+                        "created": "2017-04-25 20:44:38",
+                        "last_modified": "2017-04-25T20:44:38"
                     },
                     "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd": {
                         "id": "b46bb6b1-c477-4fc5-81da-cc8a2a4f33bd",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:32",
-                        "last_modified": "2017-04-24T20:44:32"
+                        "created": "2017-04-25 20:44:45",
+                        "last_modified": "2017-04-25T20:44:45"
                     },
                     "1f892a80-a776-4ea5-9b00-c94d459de674": {
                         "id": "1f892a80-a776-4ea5-9b00-c94d459de674",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:36",
-                        "last_modified": "2017-04-24T20:44:36"
+                        "created": "2017-04-25 20:44:52",
+                        "last_modified": "2017-04-25T20:44:52"
                     },
                     "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3": {
                         "id": "51c5d9a6-9b59-4523-b3c9-2285c7dda5d3",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:44",
-                        "last_modified": "2017-04-24T20:44:44"
+                        "created": "2017-04-25 20:45:00",
+                        "last_modified": "2017-04-25T20:45:00"
                     },
                     "9548a823-a337-4106-82eb-7d2b2279a96c": {
                         "id": "9548a823-a337-4106-82eb-7d2b2279a96c",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:44:53",
-                        "last_modified": "2017-04-24T20:44:53"
+                        "created": "2017-04-25 20:45:09",
+                        "last_modified": "2017-04-25T20:45:09"
                     },
                     "2391e09e-df95-457d-ab71-72beea2bce4d": {
                         "id": "2391e09e-df95-457d-ab71-72beea2bce4d",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:02",
-                        "last_modified": "2017-04-24T20:45:02"
+                        "created": "2017-04-25 20:45:18",
+                        "last_modified": "2017-04-25T20:45:18"
                     },
                     "7e42ce18-2c4b-440b-989c-8e32969ad180": {
                         "id": "7e42ce18-2c4b-440b-989c-8e32969ad180",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:08",
-                        "last_modified": "2017-04-24T20:45:08"
+                        "created": "2017-04-25 20:45:25",
+                        "last_modified": "2017-04-25T20:45:25"
                     },
                     "404988b2-d0b9-4a7f-ae04-30aee13f6025": {
                         "id": "404988b2-d0b9-4a7f-ae04-30aee13f6025",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:12",
-                        "last_modified": "2017-04-24T20:45:12"
+                        "created": "2017-04-25 20:45:30",
+                        "last_modified": "2017-04-25T20:45:30"
                     },
                     "74e7d540-3538-4bdb-b5ae-ffb45d03d45d": {
                         "id": "74e7d540-3538-4bdb-b5ae-ffb45d03d45d",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:24",
-                        "last_modified": "2017-04-24T20:45:24"
+                        "created": "2017-04-25 20:45:38",
+                        "last_modified": "2017-04-25T20:45:38"
                     },
                     "b395d4a4-090a-4223-b0e3-b99b0cf40549": {
                         "id": "b395d4a4-090a-4223-b0e3-b99b0cf40549",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:27",
-                        "last_modified": "2017-04-24T20:45:27"
+                        "created": "2017-04-25 20:45:43",
+                        "last_modified": "2017-04-25T20:45:43"
                     },
                     "edc33c48-cd9f-425d-82d1-d0677baa160a": {
                         "id": "edc33c48-cd9f-425d-82d1-d0677baa160a",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:34",
-                        "last_modified": "2017-04-24T20:45:34"
+                        "created": "2017-04-25 20:45:49",
+                        "last_modified": "2017-04-25T20:45:49"
                     },
                     "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64": {
                         "id": "20a3bb8c-d1a4-4f5a-854e-879ce10dcd64",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:37",
-                        "last_modified": "2017-04-24T20:45:37"
+                        "created": "2017-04-25 20:45:57",
+                        "last_modified": "2017-04-25T20:45:57"
                     },
                     "0a1e7957-7699-452c-8020-bf11a5408fc8": {
                         "id": "0a1e7957-7699-452c-8020-bf11a5408fc8",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:43",
-                        "last_modified": "2017-04-24T20:45:43"
+                        "created": "2017-04-25 20:46:04",
+                        "last_modified": "2017-04-25T20:46:04"
                     },
                     "e5ac12f2-239c-4175-9f2e-1cd510ac308c": {
                         "id": "e5ac12f2-239c-4175-9f2e-1cd510ac308c",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:50",
-                        "last_modified": "2017-04-24T20:45:50"
+                        "created": "2017-04-25 20:46:13",
+                        "last_modified": "2017-04-25T20:46:13"
                     },
                     "990479f4-82aa-4365-8c19-8c8c2afb15bb": {
                         "id": "990479f4-82aa-4365-8c19-8c8c2afb15bb",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:45:54",
-                        "last_modified": "2017-04-24T20:45:54"
+                        "created": "2017-04-25 20:46:22",
+                        "last_modified": "2017-04-25T20:46:22"
                     },
                     "ed83db24-f206-4ff0-9135-a0a8d65ace31": {
                         "id": "ed83db24-f206-4ff0-9135-a0a8d65ace31",
                         "name": "eduagency.json",
-                        "created": "2017-04-24 20:46:00",
-                        "last_modified": "2017-04-24T20:46:00"
+                        "created": "2017-04-25 20:46:27",
+                        "last_modified": "2017-04-25T20:46:27"
                     }
                 },
                 "counters": {
@@ -19585,6 +19585,26 @@
     },
     "臺北市政府文化局": {
         "datasets": {
+            "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6": {
+                "name": "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6",
+                "title": "臺北市文化快遞資訊",
+                "organization_id": "379590000E",
+                "metadata_modified": "2017-04-25 11:50:02",
+                "timeEnd": 1493092202,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "35aa3c53-28fb-423c-91b6-2c22432d0d70": {
+                        "id": "35aa3c53-28fb-423c-91b6-2c22432d0d70",
+                        "name": "culture.xml",
+                        "created": "2017-04-25 11:50:01",
+                        "last_modified": "2017-04-25T11:50:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "f6714d34-a923-4eec-a599-a96f2fdd33b0": {
                 "name": "f6714d34-a923-4eec-a599-a96f2fdd33b0",
                 "title": "現代美術學報 32期",
@@ -19593,26 +19613,6 @@
                 "timeEnd": 1493016321,
                 "timeBegin": 0,
                 "resources": [],
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6": {
-                "name": "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6",
-                "title": "臺北市文化快遞資訊",
-                "organization_id": "379590000E",
-                "metadata_modified": "2017-04-24 11:50:01",
-                "timeEnd": 1493005801,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "35aa3c53-28fb-423c-91b6-2c22432d0d70": {
-                        "id": "35aa3c53-28fb-423c-91b6-2c22432d0d70",
-                        "name": "culture.xml",
-                        "created": "2017-04-24 11:50:01",
-                        "last_modified": "2017-04-24T11:50:01"
-                    }
-                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -23636,15 +23636,15 @@
                 "name": "86672d20-9c69-4c24-859b-078862c4e699",
                 "title": "臺北市已立案宗教團體點位資料",
                 "organization_id": "379020000A",
-                "metadata_modified": "2017-04-24 19:44:02",
-                "timeEnd": 1493034242,
+                "metadata_modified": "2017-04-25 19:44:02",
+                "timeEnd": 1493120642,
                 "timeBegin": 1380643200,
                 "resources": {
                     "2aac2df3-e768-448c-8f06-181d7b424690": {
                         "id": "2aac2df3-e768-448c-8f06-181d7b424690",
                         "name": "religion.xml",
-                        "created": "2017-04-24 19:44:02",
-                        "last_modified": "2017-04-24T19:44:02"
+                        "created": "2017-04-25 19:44:01",
+                        "last_modified": "2017-04-25T19:44:01"
                     }
                 },
                 "counters": {
@@ -25048,15 +25048,15 @@
                 "name": "b6aa4716-aa07-4aac-9ffc-57df0f1f529f",
                 "title": "臺北市列管營業場所消防安全檢查結果",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-04-24 19:42:16",
-                "timeEnd": 1493034136,
+                "metadata_modified": "2017-04-25 19:42:15",
+                "timeEnd": 1493120535,
                 "timeBegin": 1404057600,
                 "resources": {
                     "1316a13a-39cd-4db5-b663-930638f244c5": {
                         "id": "1316a13a-39cd-4db5-b663-930638f244c5",
                         "name": "openplace.json",
-                        "created": "2017-04-24 19:42:15",
-                        "last_modified": "2017-04-24T19:42:15"
+                        "created": "2017-04-25 19:42:14",
+                        "last_modified": "2017-04-25T19:42:14"
                     }
                 },
                 "counters": {
@@ -25068,15 +25068,15 @@
                 "name": "3a45616d-c4b3-4676-b28c-24e5c9c90bd0",
                 "title": "臺北市政府燃氣熱水器承裝業名冊",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-04-24 19:28:00",
-                "timeEnd": 1493033280,
+                "metadata_modified": "2017-04-25 19:28:00",
+                "timeEnd": 1493119680,
                 "timeBegin": 1370880000,
                 "resources": {
                     "f6bb8bb9-c5b6-4851-a837-695d202d4ccb": {
                         "id": "f6bb8bb9-c5b6-4851-a837-695d202d4ccb",
                         "name": "boiler.json",
-                        "created": "2017-04-24 19:28:00",
-                        "last_modified": "2017-04-24T19:28:00"
+                        "created": "2017-04-25 19:28:00",
+                        "last_modified": "2017-04-25T19:28:00"
                     }
                 },
                 "counters": {
@@ -25474,15 +25474,41 @@
                 "name": "119efc37-541b-4aca-a16a-7ba210aafa1f",
                 "title": "臺北市垃圾清運點位資訊",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-04-24 19:22:01",
-                "timeEnd": 1493032921,
+                "metadata_modified": "2017-04-25 19:22:01",
+                "timeEnd": 1493119321,
                 "timeBegin": 1355673600,
                 "resources": {
                     "aa9c657c-ea6f-4062-a645-b6c973d45564": {
                         "id": "aa9c657c-ea6f-4062-a645-b6c973d45564",
                         "name": "garbage.xml",
-                        "created": "2017-04-24 19:22:01",
-                        "last_modified": "2017-04-24T19:22:01"
+                        "created": "2017-04-25 19:22:01",
+                        "last_modified": "2017-04-25T19:22:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "73bcd54c-bb76-40f1-a943-93342a6b82b1": {
+                "name": "73bcd54c-bb76-40f1-a943-93342a6b82b1",
+                "title": "臺北市再生家具",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-04-25 14:16:32",
+                "timeEnd": 1493100992,
+                "timeBegin": 1431360000,
+                "resources": {
+                    "8e7d2004-bdcf-45e7-8937-1815f47e6db4": {
+                        "id": "8e7d2004-bdcf-45e7-8937-1815f47e6db4",
+                        "name": "再生家具.csv",
+                        "created": "2017-04-25 14:15:51",
+                        "last_modified": "2017-04-25T14:15:51"
+                    },
+                    "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2": {
+                        "id": "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2",
+                        "name": "再生家具相關資訊.csv",
+                        "created": "2016-06-16 09:13:22",
+                        "last_modified": "2016-06-16T09:13:22"
                     }
                 },
                 "counters": {
@@ -25494,15 +25520,15 @@
                 "name": "75d0520a-1c2c-466b-81ee-e382351915dc",
                 "title": "臺北市空氣品質監測站基本資料",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-04-24 11:31:02",
-                "timeEnd": 1493004662,
+                "metadata_modified": "2017-04-25 09:29:18",
+                "timeEnd": 1493083759,
                 "timeBegin": 1367769600,
                 "resources": {
                     "39411cb3-3c6a-4932-be6f-097a96597bd1": {
                         "id": "39411cb3-3c6a-4932-be6f-097a96597bd1",
                         "name": "臺北市空氣品質監測站基本資料.csv",
-                        "created": "2017-04-24 11:28:41",
-                        "last_modified": "2017-04-24T11:28:41"
+                        "created": "2017-04-25 09:29:19",
+                        "last_modified": "2017-04-25T09:29:19"
                     }
                 },
                 "counters": {
@@ -26075,32 +26101,6 @@
                         "name": "106年3月河川水質監測結果.ods",
                         "created": "2017-04-20 09:21:05",
                         "last_modified": "2017-04-20T09:21:05"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "73bcd54c-bb76-40f1-a943-93342a6b82b1": {
-                "name": "73bcd54c-bb76-40f1-a943-93342a6b82b1",
-                "title": "臺北市再生家具",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-04-18 15:18:26",
-                "timeEnd": 1492499906,
-                "timeBegin": 1431360000,
-                "resources": {
-                    "8e7d2004-bdcf-45e7-8937-1815f47e6db4": {
-                        "id": "8e7d2004-bdcf-45e7-8937-1815f47e6db4",
-                        "name": "再生家具.csv",
-                        "created": "2017-04-18 15:16:07",
-                        "last_modified": "2017-04-18T15:16:07"
-                    },
-                    "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2": {
-                        "id": "82c8ab9d-5962-4659-a0cd-f3f30a09a1f2",
-                        "name": "再生家具相關資訊.csv",
-                        "created": "2016-06-16 09:13:22",
-                        "last_modified": "2016-06-16T09:13:22"
                     }
                 },
                 "counters": {
@@ -28418,15 +28418,15 @@
                 "name": "6a3e862a-e1cb-4e44-b989-d35609559463",
                 "title": "臺北市開放認養動物",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-24 19:26:19",
-                "timeEnd": 1493033179,
+                "metadata_modified": "2017-04-25 19:26:19",
+                "timeEnd": 1493119579,
                 "timeBegin": 1356537600,
                 "resources": {
                     "f4a75ba9-7721-4363-884d-c3820b0b917c": {
                         "id": "f4a75ba9-7721-4363-884d-c3820b0b917c",
                         "name": "animal.json",
-                        "created": "2017-04-24 19:26:19",
-                        "last_modified": "2017-04-24T19:26:19"
+                        "created": "2017-04-25 19:26:19",
+                        "last_modified": "2017-04-25T19:26:19"
                     }
                 },
                 "counters": {
@@ -28438,15 +28438,15 @@
                 "name": "d23e6ef4-3b78-4e74-8f8e-93cbe0c66515",
                 "title": "臺北市企業營運總部分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-24 19:18:01",
-                "timeEnd": 1493032681,
+                "metadata_modified": "2017-04-25 19:18:01",
+                "timeEnd": 1493119081,
                 "timeBegin": 1326384000,
                 "resources": {
                     "77f5bb24-425a-4910-a5c1-fafe48fdaff6": {
                         "id": "77f5bb24-425a-4910-a5c1-fafe48fdaff6",
                         "name": "factory.xml",
-                        "created": "2017-04-24 19:18:01",
-                        "last_modified": "2017-04-24T19:18:01"
+                        "created": "2017-04-25 19:18:01",
+                        "last_modified": "2017-04-25T19:18:01"
                     }
                 },
                 "counters": {
@@ -28458,15 +28458,15 @@
                 "name": "2385447a-6793-4055-8ce0-b601ffa5e9b5",
                 "title": "臺北市加油站及加氣站分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-24 19:16:01",
-                "timeEnd": 1493032561,
+                "metadata_modified": "2017-04-25 19:16:01",
+                "timeEnd": 1493118961,
                 "timeBegin": 1326384000,
                 "resources": {
                     "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e": {
                         "id": "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e",
                         "name": "religion.xml",
-                        "created": "2017-04-24 19:16:01",
-                        "last_modified": "2017-04-24T19:16:01"
+                        "created": "2017-04-25 19:16:01",
+                        "last_modified": "2017-04-25T19:16:01"
                     }
                 },
                 "counters": {
@@ -28478,15 +28478,15 @@
                 "name": "c8215f0d-20fa-4350-bcd9-da82432c2c9d",
                 "title": "臺北市登記工廠分佈圖及基本資料",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-24 19:14:01",
-                "timeEnd": 1493032441,
+                "metadata_modified": "2017-04-25 19:14:01",
+                "timeEnd": 1493118841,
                 "timeBegin": 1326384000,
                 "resources": {
                     "0c526081-68e3-489f-ae05-5a015ab80f61": {
                         "id": "0c526081-68e3-489f-ae05-5a015ab80f61",
                         "name": "taipeiFactory.xml",
-                        "created": "2017-04-24 19:14:01",
-                        "last_modified": "2017-04-24T19:14:01"
+                        "created": "2017-04-25 19:14:01",
+                        "last_modified": "2017-04-25T19:14:01"
                     }
                 },
                 "counters": {
@@ -28498,15 +28498,15 @@
                 "name": "3a7f9832-d020-4a6d-9b4d-6727fc149352",
                 "title": "臺北市公用天然氣導管承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-24 19:12:00",
-                "timeEnd": 1493032320,
+                "metadata_modified": "2017-04-25 19:12:00",
+                "timeEnd": 1493118720,
                 "timeBegin": 1369324800,
                 "resources": {
                     "cc69a890-eaae-4af5-9b00-e24cadaaad09": {
                         "id": "cc69a890-eaae-4af5-9b00-e24cadaaad09",
                         "name": "gasbusiness.xml",
-                        "created": "2017-04-24 19:12:00",
-                        "last_modified": "2017-04-24T19:12:00"
+                        "created": "2017-04-25 19:12:00",
+                        "last_modified": "2017-04-25T19:12:00"
                     }
                 },
                 "counters": {
@@ -28518,15 +28518,15 @@
                 "name": "166c8468-c496-4e27-ade3-13ee7d4a3881",
                 "title": "臺北市電器承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-24 19:10:00",
-                "timeEnd": 1493032200,
+                "metadata_modified": "2017-04-25 19:10:00",
+                "timeEnd": 1493118600,
                 "timeBegin": 1369324800,
                 "resources": {
                     "7befb610-232e-4a1e-99d0-35e964c10b70": {
                         "id": "7befb610-232e-4a1e-99d0-35e964c10b70",
                         "name": "ele.xml",
-                        "created": "2017-04-24 19:10:00",
-                        "last_modified": "2017-04-24T19:10:00"
+                        "created": "2017-04-25 19:10:00",
+                        "last_modified": "2017-04-25T19:10:00"
                     }
                 },
                 "counters": {
@@ -28538,15 +28538,15 @@
                 "name": "81b2a881-d37b-41b0-b9e0-39a2fef486ce",
                 "title": "臺北市自來水管承裝商業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-04-24 19:08:00",
-                "timeEnd": 1493032080,
+                "metadata_modified": "2017-04-25 19:08:03",
+                "timeEnd": 1493118483,
                 "timeBegin": 1369324800,
                 "resources": {
                     "6805942d-a8dd-4635-a394-01a8eadb3eba": {
                         "id": "6805942d-a8dd-4635-a394-01a8eadb3eba",
                         "name": "waterbusiness.xml",
-                        "created": "2017-04-24 19:08:00",
-                        "last_modified": "2017-04-24T19:08:00"
+                        "created": "2017-04-25 19:08:03",
+                        "last_modified": "2017-04-25T19:08:03"
                     }
                 },
                 "counters": {
@@ -35719,8 +35719,8 @@
                 "name": "4c812503-c284-4414-9939-ac5c9061f087",
                 "title": "臺北市政府公報(106年度)",
                 "organization_id": "379010000A",
-                "metadata_modified": "2017-04-24 09:49:39",
-                "timeEnd": 1492998579,
+                "metadata_modified": "2017-04-25 10:08:52",
+                "timeEnd": 1493086132,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -42346,6 +42346,66 @@
     },
     "臺北市政府財政局": {
         "datasets": {
+            "1b03f738-db98-4c98-aff8-b76f019b526f": {
+                "name": "1b03f738-db98-4c98-aff8-b76f019b526f",
+                "title": "臺北市政府辦理民間參與公共建設已簽約案件統計表-截至1060331",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-04-25 17:41:59",
+                "timeEnd": 1493113319,
+                "timeBegin": 1493049600,
+                "resources": {
+                    "fb113317-ad1b-4b4c-bd91-a38ba61bdf8d": {
+                        "id": "fb113317-ad1b-4b4c-bd91-a38ba61bdf8d",
+                        "name": "臺北市政府辦理民間參與公共建設已簽約案件統計表-截至1060331.csv",
+                        "created": "2017-04-25 17:41:59",
+                        "last_modified": "2017-04-25T17:41:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "17a93557-53e0-4fa7-bdee-be7cc74c31d4": {
+                "name": "17a93557-53e0-4fa7-bdee-be7cc74c31d4",
+                "title": "臺北市政府辦理民間公共建設案件統計表-截至1060331",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-04-25 14:13:45",
+                "timeEnd": 1493100826,
+                "timeBegin": 1493049600,
+                "resources": {
+                    "4198d5de-6d71-4311-b4ae-6396d1e9292a": {
+                        "id": "4198d5de-6d71-4311-b4ae-6396d1e9292a",
+                        "name": "臺北市政府辦理民間參與公共建設案件統計表-截至1060331.csv",
+                        "created": "2017-04-25 14:13:46",
+                        "last_modified": "2017-04-25T14:13:46"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "55e72e92-61ae-49e4-81f3-a6c17a07f51d": {
+                "name": "55e72e92-61ae-49e4-81f3-a6c17a07f51d",
+                "title": "臺北市政府依促進民間參與公共建設法辦理之已簽約案件明細表-截至1060331",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-04-25 14:09:06",
+                "timeEnd": 1493100546,
+                "timeBegin": 1493049600,
+                "resources": {
+                    "2f805047-54b1-4ac7-ad3e-95466951ee50": {
+                        "id": "2f805047-54b1-4ac7-ad3e-95466951ee50",
+                        "name": "OpenData_3科-資料集欄位-1060331.csv",
+                        "created": "2017-04-25 14:09:06",
+                        "last_modified": "2017-04-25T14:09:06"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "f55a22ab-a297-43eb-aa89-c373447a2935": {
                 "name": "f55a22ab-a297-43eb-aa89-c373447a2935",
                 "title": "臺北市政府發行建設公債還本付息統計表",
@@ -42699,66 +42759,6 @@
                         "name": "106年2月臺北市娛樂稅稅源(opendata).xls",
                         "created": "2017-03-31 09:19:46",
                         "last_modified": "2017-03-31T09:19:46"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "1b03f738-db98-4c98-aff8-b76f019b526f": {
-                "name": "1b03f738-db98-4c98-aff8-b76f019b526f",
-                "title": "臺北市政府辦理民間參與公共建設已簽約案件統計表-截至1051231",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-03-27 15:13:54",
-                "timeEnd": 1490598834,
-                "timeBegin": 1474560000,
-                "resources": {
-                    "fb113317-ad1b-4b4c-bd91-a38ba61bdf8d": {
-                        "id": "fb113317-ad1b-4b4c-bd91-a38ba61bdf8d",
-                        "name": "臺北市政府辦理民間參與公共建設已簽約案件統計表-截至1051231.csv",
-                        "created": "2017-02-24 14:28:30",
-                        "last_modified": "2017-02-24T14:28:30"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "17a93557-53e0-4fa7-bdee-be7cc74c31d4": {
-                "name": "17a93557-53e0-4fa7-bdee-be7cc74c31d4",
-                "title": "臺北市政府辦理民間公共建設案件統計表-截至1051231",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-03-27 15:11:02",
-                "timeEnd": 1490598662,
-                "timeBegin": 1474560000,
-                "resources": {
-                    "4198d5de-6d71-4311-b4ae-6396d1e9292a": {
-                        "id": "4198d5de-6d71-4311-b4ae-6396d1e9292a",
-                        "name": "臺北市政府辦理民間參與公共建設案件統計表-截至1051231.csv",
-                        "created": "2017-02-24 14:30:34",
-                        "last_modified": "2017-02-24T14:30:34"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "55e72e92-61ae-49e4-81f3-a6c17a07f51d": {
-                "name": "55e72e92-61ae-49e4-81f3-a6c17a07f51d",
-                "title": "臺北市政府依促進民間參與公共建設法辦理之已簽約案件明細表-截至1051231",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-03-27 15:09:21",
-                "timeEnd": 1490598561,
-                "timeBegin": 1487865600,
-                "resources": {
-                    "57c2472a-dd2f-4484-a68e-96ee9d218f03": {
-                        "id": "57c2472a-dd2f-4484-a68e-96ee9d218f03",
-                        "name": "依促進民間參與公共建設法辦理已簽約案件明細表-截至1051231.csv",
-                        "created": "2017-02-24 14:53:35",
-                        "last_modified": "2017-02-24T14:53:35"
                     }
                 },
                 "counters": {
@@ -43850,15 +43850,15 @@
                 "name": "6aa6532d-652f-4c1b-814a-4646b75407af",
                 "title": "臺北市公眾區免費無線上網熱點資料(新版)",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-25 05:27:03",
-                "timeEnd": 1493069223,
+                "metadata_modified": "2017-04-26 05:27:02",
+                "timeEnd": 1493155622,
                 "timeBegin": 1372348800,
                 "resources": {
                     "b087af42-2c54-4dbf-86c8-427d788779e5": {
                         "id": "b087af42-2c54-4dbf-86c8-427d788779e5",
                         "name": "freeWifi.xml",
-                        "created": "2017-04-25 05:27:03",
-                        "last_modified": "2017-04-25T05:27:03"
+                        "created": "2017-04-26 05:27:02",
+                        "last_modified": "2017-04-26T05:27:02"
                     }
                 },
                 "counters": {
@@ -43870,63 +43870,63 @@
                 "name": "5bc82dc7-f2a2-4351-abc8-c09c8a8d7529",
                 "title": "今日氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-25 05:22:39",
-                "timeEnd": 1493068959,
+                "metadata_modified": "2017-04-26 05:20:11",
+                "timeEnd": 1493155211,
                 "timeBegin": 0,
                 "resources": {
                     "1f1aaba5-616a-4a33-867d-878142cac5c4": {
                         "id": "1f1aaba5-616a-4a33-867d-878142cac5c4",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:20:32",
-                        "last_modified": "2017-04-25T05:20:32"
+                        "created": "2017-04-26 05:19:06",
+                        "last_modified": "2017-04-26T05:19:06"
                     },
                     "c3667669-39f8-4b82-bad9-f0f7ca859bf0": {
                         "id": "c3667669-39f8-4b82-bad9-f0f7ca859bf0",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:21:00",
-                        "last_modified": "2017-04-25T05:21:00"
+                        "created": "2017-04-26 05:19:20",
+                        "last_modified": "2017-04-26T05:19:20"
                     },
                     "c73a9461-91c8-4e5c-b728-86b6feb24ffb": {
                         "id": "c73a9461-91c8-4e5c-b728-86b6feb24ffb",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:21:12",
-                        "last_modified": "2017-04-25T05:21:12"
+                        "created": "2017-04-26 05:19:28",
+                        "last_modified": "2017-04-26T05:19:28"
                     },
                     "5e5f1d9a-cc42-482d-be4e-6223f4931977": {
                         "id": "5e5f1d9a-cc42-482d-be4e-6223f4931977",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:21:24",
-                        "last_modified": "2017-04-25T05:21:24"
+                        "created": "2017-04-26 05:19:36",
+                        "last_modified": "2017-04-26T05:19:36"
                     },
                     "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd": {
                         "id": "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:21:41",
-                        "last_modified": "2017-04-25T05:21:41"
+                        "created": "2017-04-26 05:19:43",
+                        "last_modified": "2017-04-26T05:19:43"
                     },
                     "b35f6ac9-6d99-492a-8773-bee73656c27b": {
                         "id": "b35f6ac9-6d99-492a-8773-bee73656c27b",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:21:55",
-                        "last_modified": "2017-04-25T05:21:55"
+                        "created": "2017-04-26 05:19:50",
+                        "last_modified": "2017-04-26T05:19:50"
                     },
                     "00fcb626-9296-4ae1-9c87-f019871755c8": {
                         "id": "00fcb626-9296-4ae1-9c87-f019871755c8",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:22:08",
-                        "last_modified": "2017-04-25T05:22:08"
+                        "created": "2017-04-26 05:19:57",
+                        "last_modified": "2017-04-26T05:19:57"
                     },
                     "7803b298-fdca-4ccc-993f-88ba97ec3c4d": {
                         "id": "7803b298-fdca-4ccc-993f-88ba97ec3c4d",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:22:22",
-                        "last_modified": "2017-04-25T05:22:22"
+                        "created": "2017-04-26 05:20:04",
+                        "last_modified": "2017-04-26T05:20:04"
                     },
                     "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570": {
                         "id": "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:22:39",
-                        "last_modified": "2017-04-25T05:22:39"
+                        "created": "2017-04-26 05:20:11",
+                        "last_modified": "2017-04-26T05:20:11"
                     }
                 },
                 "counters": {
@@ -43938,15 +43938,15 @@
                 "name": "bceb2963-d2dd-4f2d-929c-67c1c0d48667",
                 "title": "一週氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-25 05:19:13",
-                "timeEnd": 1493068753,
+                "metadata_modified": "2017-04-26 05:19:00",
+                "timeEnd": 1493155140,
                 "timeBegin": 0,
                 "resources": {
                     "e6831708-02b4-4ef8-98fa-4b4ce53459d9": {
                         "id": "e6831708-02b4-4ef8-98fa-4b4ce53459d9",
                         "name": "weatherReport1.xml",
-                        "created": "2017-04-25 05:19:13",
-                        "last_modified": "2017-04-25T05:19:13"
+                        "created": "2017-04-26 05:19:00",
+                        "last_modified": "2017-04-26T05:19:00"
                     }
                 },
                 "counters": {
@@ -43958,15 +43958,15 @@
                 "name": "203f1657-bb4a-45a7-b25f-279b63136645",
                 "title": "市政網站整合平台之常見問答",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-24 20:48:55",
-                "timeEnd": 1493038135,
+                "metadata_modified": "2017-04-25 20:49:03",
+                "timeEnd": 1493124543,
                 "timeBegin": 0,
                 "resources": {
                     "06badd5c-e0bc-4b55-8646-9fcd4ea7096d": {
                         "id": "06badd5c-e0bc-4b55-8646-9fcd4ea7096d",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-04-24 20:48:55",
-                        "last_modified": "2017-04-24T20:48:55"
+                        "created": "2017-04-25 20:49:03",
+                        "last_modified": "2017-04-25T20:49:03"
                     },
                     "f582d9b1-51ad-421c-874e-a7472f9897b3": {
                         "id": "f582d9b1-51ad-421c-874e-a7472f9897b3",
@@ -43984,15 +43984,15 @@
                 "name": "1a97fef5-dc98-4b6b-8694-5d6b3f6f2442",
                 "title": "市政網站整合平台之最新消息",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-04-24 20:48:14",
-                "timeEnd": 1493038094,
+                "metadata_modified": "2017-04-25 20:48:14",
+                "timeEnd": 1493124494,
                 "timeBegin": 0,
                 "resources": {
                     "e9d0bf09-4596-4fd2-9929-f8deb1b7352a": {
                         "id": "e9d0bf09-4596-4fd2-9929-f8deb1b7352a",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-04-24 20:48:13",
-                        "last_modified": "2017-04-24T20:48:13"
+                        "created": "2017-04-25 20:48:13",
+                        "last_modified": "2017-04-25T20:48:13"
                     }
                 },
                 "counters": {
@@ -45404,15 +45404,15 @@
                 "name": "9ebdd4b8-c211-4d28-b99d-f73a34d13867",
                 "title": "翡翠水庫水情資料",
                 "organization_id": "379550000G",
-                "metadata_modified": "2017-04-25 05:30:00",
-                "timeEnd": 1493069400,
+                "metadata_modified": "2017-04-26 05:30:00",
+                "timeEnd": 1493155800,
                 "timeBegin": 0,
                 "resources": {
                     "236f6133-e148-4bbe-adc4-efeee4ac6096": {
                         "id": "236f6133-e148-4bbe-adc4-efeee4ac6096",
                         "name": "feitsuiWater.xml",
-                        "created": "2017-04-25 05:30:00",
-                        "last_modified": "2017-04-25T05:30:00"
+                        "created": "2017-04-26 05:30:00",
+                        "last_modified": "2017-04-26T05:30:00"
                     }
                 },
                 "counters": {
@@ -45877,15 +45877,15 @@
                 "name": "961ca397-4a59-45e8-b312-697f26b059dc",
                 "title": "臺北市水質監測資訊",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-04-25 05:19:00",
-                "timeEnd": 1493068740,
+                "metadata_modified": "2017-04-26 05:19:00",
+                "timeEnd": 1493155140,
                 "timeBegin": 1398268800,
                 "resources": {
                     "190796c8-7c56-42e0-8068-39242b8ec927": {
                         "id": "190796c8-7c56-42e0-8068-39242b8ec927",
                         "name": "waterQuality.xml",
-                        "created": "2017-04-25 05:19:00",
-                        "last_modified": "2017-04-25T05:19:00"
+                        "created": "2017-04-26 05:19:00",
+                        "last_modified": "2017-04-26T05:19:00"
                     },
                     "1e9b4316-fa39-4707-aebd-f239b4f64b2f": {
                         "id": "1e9b4316-fa39-4707-aebd-f239b4f64b2f",
@@ -45903,15 +45903,15 @@
                 "name": "75aa4c40-db2a-47b7-8f0a-b10d4ff9788b",
                 "title": "臺北市停水資訊-(大臺北地區)",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-04-24 15:22:39",
-                "timeEnd": 1493018559,
+                "metadata_modified": "2017-04-25 15:22:41",
+                "timeEnd": 1493104961,
                 "timeBegin": 1325606400,
                 "resources": {
                     "a242ee9b-b954-4ae9-9827-2344c5dfeaea": {
                         "id": "a242ee9b-b954-4ae9-9827-2344c5dfeaea",
                         "name": "stopWater.xml",
-                        "created": "2017-04-24 15:22:36",
-                        "last_modified": "2017-04-24T15:22:36"
+                        "created": "2017-04-25 15:22:41",
+                        "last_modified": "2017-04-25T15:22:41"
                     },
                     "e9c4da25-a373-4735-8992-d904646fa1ed": {
                         "id": "e9c4da25-a373-4735-8992-d904646fa1ed",
@@ -46284,5 +46284,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1493069601
+    "time_generated": 1493155981
 }
