@@ -7641,13 +7641,27 @@
     },
     "桃園市政府政風處": {
         "counters": {
-            "datasets": 3,
+            "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "2ad1fcec-775b-4fdb-9fb9-eacc02b4e0ce": {
+                "name": "2ad1fcec-775b-4fdb-9fb9-eacc02b4e0ce",
+                "title": "...",
+                "organization_id": "380230000a",
+                "metadata_created": "2017-04-26T07:10:25.670534",
+                "metadata_modified": "2017-04-26T07:10:26.765091",
+                "timeEnd": 1493161826,
+                "timeBegin": 1493161825,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "980ca7b9-a834-461d-b1d3-985d0c4d4706": {
                 "name": "4180e268-2e67-40f6-87e8-e9402049aa09",
                 "title": "桃園市政府政風處檢舉管道",
@@ -9955,14 +9969,14 @@
                 "title": "桃園市用戶接管普及率及污水處理率統計資料(近三年)",
                 "organization_id": "380250000g",
                 "metadata_created": "2015-10-08T06:19:12.026567",
-                "metadata_modified": "2016-10-04T03:07:28.888508",
-                "timeEnd": 1475550518,
+                "metadata_modified": "2017-04-26T08:40:01.675375",
+                "timeEnd": 1493167201,
                 "timeBegin": 1444256352,
                 "resources": {
                     "3fe608ea-252c-4b94-8390-5d8095b8b755": {
                         "id": "3fe608ea-252c-4b94-8390-5d8095b8b755",
                         "name": "本市污水下水道近三年逐月處理污水比例變化",
-                        "created": "2015-10-08T14:19:34.618395",
+                        "created": "2015-10-08T14:19:34",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-04T11:08:38"
                     }
@@ -18682,8 +18696,8 @@
                 "title": "風景區管理處-後慈湖、小烏來婚紗攝影申請一覽表",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-13T06:57:16.984102",
-                "metadata_modified": "2017-03-30T02:39:29.815695",
-                "timeEnd": 1490841569,
+                "metadata_modified": "2017-04-26T05:42:39.408220",
+                "timeEnd": 1493185359,
                 "timeBegin": 1465772236,
                 "resources": {
                     "c2734aec-b113-4bbe-bcf9-76388276eadc": {
@@ -18762,6 +18776,13 @@
                         "created": "2017-03-30T10:39:29.879360",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-30T10:39:29"
+                    },
+                    "8732893e-b8f0-4fcf-8db1-3f20ed89e1d6": {
+                        "id": "8732893e-b8f0-4fcf-8db1-3f20ed89e1d6",
+                        "name": "2017年5月後慈湖、小烏來婚紗攝影申請一覽表.csv",
+                        "created": "2017-04-26T13:42:39.470515",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-26T13:42:39"
                     }
                 },
                 "counters": {
@@ -19513,8 +19534,8 @@
                 "title": "風景區管理處-轄管場地租借申請一覽表",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-06-02T02:44:42.582783",
-                "metadata_modified": "2017-03-30T02:38:35.103483",
-                "timeEnd": 1490841515,
+                "metadata_modified": "2017-04-26T05:43:22.408151",
+                "timeEnd": 1493185402,
                 "timeBegin": 1464806682,
                 "resources": {
                     "02fed303-7330-4eb6-abf8-27e7e2e171ab": {
@@ -19593,6 +19614,13 @@
                         "created": "2017-03-30T10:38:35.198522",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-30T10:38:34"
+                    },
+                    "b7c7504d-75db-4020-aff5-afb5c929c143": {
+                        "id": "b7c7504d-75db-4020-aff5-afb5c929c143",
+                        "name": "2017年5月場地申請表.csv",
+                        "created": "2017-04-26T13:43:22.496909",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-04-26T13:43:22"
                     }
                 },
                 "counters": {
@@ -25640,8 +25668,8 @@
                 "title": "桃園市體育局運動休閒中心",
                 "organization_id": "380410000e",
                 "metadata_created": "2017-03-22T01:35:59.768038",
-                "metadata_modified": "2017-03-22T01:41:38.493427",
-                "timeEnd": 1490146837,
+                "metadata_modified": "2017-04-26T02:01:59.218384",
+                "timeEnd": 1493143319,
                 "timeBegin": 1490117759,
                 "resources": {
                     "9c4c4c9d-f001-47b5-845f-e187471fc458": {
@@ -26010,5 +26038,5 @@
             }
         }
     },
-    "time_generated": 1493155938
+    "time_generated": 1493242360
 }
