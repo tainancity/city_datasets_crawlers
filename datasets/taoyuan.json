@@ -9974,7 +9974,7 @@
     },
     "桃園市政府水務局": {
         "counters": {
-            "datasets": 24,
+            "datasets": 25,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -10718,6 +10718,28 @@
                     "resource_recent": 0
                 }
             },
+            "e84e4437-63af-49e4-b1a9-d4acff5ae749": {
+                "name": "e84e4437-63af-49e4-b1a9-d4acff5ae749",
+                "title": "桃園市溫泉井位置",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-05-10T09:03:27.122086",
+                "metadata_modified": "2017-05-10T09:08:08.132221",
+                "timeEnd": 1494407288,
+                "timeBegin": 1494378207,
+                "resources": {
+                    "76a8a47e-3fa6-42c9-8f25-cf53e3e2b90b": {
+                        "id": "76a8a47e-3fa6-42c9-8f25-cf53e3e2b90b",
+                        "name": "溫泉井位置.csv",
+                        "created": "2017-05-10T17:08:08.172718",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T17:08:08"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "eabd93d1-d526-4de0-b378-b529aa61a4be": {
                 "name": "eabd93d1-d526-4de0-b378-b529aa61a4be",
                 "title": "桃園市政府水務局雨量站即時偵測資料",
@@ -10899,7 +10921,7 @@
     },
     "桃園市政府消防局": {
         "counters": {
-            "datasets": 52,
+            "datasets": 56,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -11007,6 +11029,28 @@
                         "created": "2017-05-08T15:36:22.951860",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-08T15:36:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1121ea3e-bbc9-4ab9-acac-9929a564344b": {
+                "name": "1121ea3e-bbc9-4ab9-acac-9929a564344b",
+                "title": "桃園市消防裝備",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-10T07:29:21.039934",
+                "metadata_modified": "2017-05-10T07:29:54.953878",
+                "timeEnd": 1494401394,
+                "timeBegin": 1494372561,
+                "resources": {
+                    "7b580a61-1f06-4702-9e0d-db7f68a11392": {
+                        "id": "7b580a61-1f06-4702-9e0d-db7f68a11392",
+                        "name": "桃園市消防裝備_105下半年.csv",
+                        "created": "2017-05-10T15:29:54.998925",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T15:29:54"
                     }
                 },
                 "counters": {
@@ -11354,6 +11398,50 @@
                     "resource_recent": 0
                 }
             },
+            "45fb9bc4-57cf-44e3-8b8b-5434e2aa64d0": {
+                "name": "45fb9bc4-57cf-44e3-8b8b-5434e2aa64d0",
+                "title": "桃園市應實施防火管理制度之場所",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-10T03:53:01.950312",
+                "metadata_modified": "2017-05-10T03:53:39.784445",
+                "timeEnd": 1494388419,
+                "timeBegin": 1494359581,
+                "resources": {
+                    "926e96f4-19b4-45db-8a53-aba4880c8eee": {
+                        "id": "926e96f4-19b4-45db-8a53-aba4880c8eee",
+                        "name": "桃園市應實施防火管理制度之場所.csv",
+                        "created": "2017-05-10T11:53:39.825877",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T11:53:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4cbc1122-f9d3-4e8d-aa29-88fef7ecc054": {
+                "name": "4cbc1122-f9d3-4e8d-aa29-88fef7ecc054",
+                "title": "桃園市消防義消楷模",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-10T08:16:17.164437",
+                "metadata_modified": "2017-05-10T08:17:29.130344",
+                "timeEnd": 1494404249,
+                "timeBegin": 1494375377,
+                "resources": {
+                    "42f69261-fac4-4d5f-8a46-86a10af11c8d": {
+                        "id": "42f69261-fac4-4d5f-8a46-86a10af11c8d",
+                        "name": "桃園市義消楷模.csv",
+                        "created": "2017-05-10T16:17:29.176124",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T16:17:29"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "4f47992a-bcf2-4b61-b369-c055a56faeec": {
                 "name": "4f47992a-bcf2-4b61-b369-c055a56faeec",
                 "title": "桃園市政府消防局國家賠償概況統計",
@@ -11425,8 +11513,8 @@
                 "title": "桃園市消防安全檢查列管對象",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-10T05:12:10.230779",
-                "metadata_modified": "2017-02-06T07:11:13.968533",
-                "timeEnd": 1486365073,
+                "metadata_modified": "2017-05-10T03:38:18.888953",
+                "timeEnd": 1494358698,
                 "timeBegin": 1462828330,
                 "resources": {
                     "ae3a035a-ab24-4049-afb0-9c0c5d1b33c6": {
@@ -12434,6 +12522,28 @@
                     "resource_recent": 0
                 }
             },
+            "f883a840-aa2a-48b2-b2e1-7fe62cbc11f4": {
+                "name": "f883a840-aa2a-48b2-b2e1-7fe62cbc11f4",
+                "title": "桃園市歷年溺水案件分析",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-10T08:09:56.296010",
+                "metadata_modified": "2017-05-10T08:11:18.497562",
+                "timeEnd": 1494403878,
+                "timeBegin": 1494374996,
+                "resources": {
+                    "7a9f33fd-3048-4548-8eae-26a989d5c328": {
+                        "id": "7a9f33fd-3048-4548-8eae-26a989d5c328",
+                        "name": "桃園市歷年溺水案件分析.csv",
+                        "created": "2017-05-10T16:11:18.539809",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T16:11:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "f988313c-21a7-45c4-a5e2-30f8f1a43fd8": {
                 "name": "f988313c-21a7-45c4-a5e2-30f8f1a43fd8",
                 "title": "桃園市溪流大圳救溺攔截點位置",
@@ -12764,8 +12874,8 @@
                 "title": "河川水質監測",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-12-24T08:46:26.264600",
-                "metadata_modified": "2016-10-03T07:12:53.660661",
-                "timeEnd": 1475449973,
+                "metadata_modified": "2017-05-10T01:16:10.694046",
+                "timeEnd": 1494378970,
                 "timeBegin": 1450917986,
                 "resources": {
                     "a566dc27-560d-4598-8188-4c7f0b09f25d": {
@@ -12900,6 +13010,13 @@
                         "created": "2015-12-25T11:59:24",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-21T15:13:23"
+                    },
+                    "cede3ed7-989e-4866-94fc-7f665ecd0177": {
+                        "id": "cede3ed7-989e-4866-94fc-7f665ecd0177",
+                        "name": "桃園市河川水質監測結果106年第一季.pdf",
+                        "created": "2017-05-10T09:16:10.823534",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T09:16:10"
                     }
                 },
                 "counters": {
@@ -12934,8 +13051,8 @@
                 "title": "桃園市全市各區清潔隊一覽表",
                 "organization_id": "380150000i",
                 "metadata_created": "2017-01-12T06:07:59.424722",
-                "metadata_modified": "2017-02-09T06:04:25.184078",
-                "timeEnd": 1486591465,
+                "metadata_modified": "2017-05-10T03:58:10.446255",
+                "timeEnd": 1494359890,
                 "timeBegin": 1484172479,
                 "resources": {
                     "516dffa4-2742-442c-a429-4bdd58d632ea": {
@@ -12956,8 +13073,8 @@
                 "title": "地下水質監測",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-12-24T09:37:16.560732",
-                "metadata_modified": "2016-10-03T06:49:32.983596",
-                "timeEnd": 1475461476,
+                "metadata_modified": "2017-05-10T01:17:05.587650",
+                "timeEnd": 1494379025,
                 "timeBegin": 1450921036,
                 "resources": {
                     "7325f231-da6b-4bb2-b9df-b9dc97aceebc": {
@@ -12973,6 +13090,13 @@
                         "created": "2016-10-03T10:24:36",
                         "webstore_last_updated": null,
                         "last_modified": "2016-10-03T10:24:36"
+                    },
+                    "5692b8e7-112f-49bf-9e50-e910843f47cd": {
+                        "id": "5692b8e7-112f-49bf-9e50-e910843f47cd",
+                        "name": "106年枯水期地下水質監測結果.pdf",
+                        "created": "2017-05-10T09:17:05.659619",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T09:17:05"
                     }
                 },
                 "counters": {
@@ -17068,23 +17192,16 @@
                 "title": "桃園市高齡友善藥局",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-19T01:18:23.384785",
-                "metadata_modified": "2017-04-13T06:45:37.258530",
-                "timeEnd": 1492065937,
+                "metadata_modified": "2017-05-10T08:02:06.124083",
+                "timeEnd": 1494403326,
                 "timeBegin": 1471540703,
                 "resources": {
                     "2cb206f2-3fb2-42d9-9820-f3291f6bc35c": {
                         "id": "2cb206f2-3fb2-42d9-9820-f3291f6bc35c",
                         "name": "104年高齡友善藥局.csv",
-                        "created": "2017-04-13T14:45:04",
+                        "created": "2017-05-10T16:02:06",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-04-13T14:45:04"
-                    },
-                    "a4ffac4c-2e2d-4fbc-99a1-0676eed70a9a": {
-                        "id": "a4ffac4c-2e2d-4fbc-99a1-0676eed70a9a",
-                        "name": "104年高齡友善藥局.ods",
-                        "created": "2017-04-13T14:45:37",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-04-13T14:45:37"
+                        "last_modified": "2017-05-10T16:02:06"
                     }
                 },
                 "counters": {
@@ -17442,23 +17559,23 @@
                 "title": "桃園市二代戒菸合約醫療院所(藥局)名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-07-25T09:03:00.081167",
-                "metadata_modified": "2017-02-21T07:05:36.623610",
-                "timeEnd": 1487631936,
+                "metadata_modified": "2017-05-10T07:42:17.246199",
+                "timeEnd": 1494401684,
                 "timeBegin": 1469408580,
                 "resources": {
                     "50a70189-a2c1-4ead-909c-3c4d275de749": {
                         "id": "50a70189-a2c1-4ead-909c-3c4d275de749",
-                        "name": "桃園市二代戒菸合約醫療院所(藥局)名單(105.12.12).csv",
-                        "created": "2017-02-15T16:01:00",
+                        "name": "桃園市二代戒菸合約醫療院所(藥局)名單(106.5.10).csv",
+                        "created": "2017-05-10T15:34:44",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-15T16:01:00"
+                        "last_modified": "2017-05-10T15:34:44"
                     },
                     "2874675e-d182-4baf-a2f0-8edf409e6770": {
                         "id": "2874675e-d182-4baf-a2f0-8edf409e6770",
-                        "name": "桃園市二代戒菸合約醫療院所(藥局)名單(105.12.12).xlsx",
-                        "created": "2017-02-15T16:01:22",
+                        "name": "桃園市二代戒菸合約醫療院所(藥局)名單(106.5.10).xlsx",
+                        "created": "2017-05-10T15:34:29",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-15T16:01:22"
+                        "last_modified": "2017-05-10T15:34:29"
                     }
                 },
                 "counters": {
@@ -18161,8 +18278,8 @@
                 "title": "(桃園市)105年度年節食品工廠源頭稽查結果",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-24T06:59:28.254070",
-                "metadata_modified": "2017-03-24T08:44:42.628283",
-                "timeEnd": 1490338785,
+                "metadata_modified": "2017-05-10T12:39:05.490966",
+                "timeEnd": 1494391145,
                 "timeBegin": 1490309968,
                 "resources": {
                     "58268de0-b4ae-49ff-a9cc-6b708e58dbf9": {
@@ -18226,23 +18343,16 @@
                 "title": "桃園市中藥抽查合格結果",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-19T01:37:26.450239",
-                "metadata_modified": "2016-08-19T08:52:22.352149",
-                "timeEnd": 1471596742,
+                "metadata_modified": "2017-05-10T07:49:38.881110",
+                "timeEnd": 1494401804,
                 "timeBegin": 1471541846,
                 "resources": {
-                    "8c078f9e-cae0-44b6-b14d-6c9d1019288b": {
-                        "id": "8c078f9e-cae0-44b6-b14d-6c9d1019288b",
-                        "name": "中藥飲片抽查合格結果",
-                        "created": "2016-08-19T09:38:31.270155",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-19T09:38:31"
-                    },
                     "b3d39735-79a5-4f53-bd1d-bd3cc8989e5d": {
                         "id": "b3d39735-79a5-4f53-bd1d-bd3cc8989e5d",
-                        "name": "桃園市中藥飲片抽查合格結果",
-                        "created": "2016-08-19T16:51:23.692778",
+                        "name": "桃園市中藥抽查合格結果.csv",
+                        "created": "2017-05-10T15:36:44",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-08-19T16:52:22"
+                        "last_modified": "2017-05-10T15:36:44"
                     }
                 },
                 "counters": {
@@ -19115,11 +19225,11 @@
             },
             "339a42db-2392-4a94-a710-da942fc5efad": {
                 "name": "eac49f7e-fe87-4d51-a3bf-c6d05f315488",
-                "title": "105年桃園市病媒蚊密度調查結果",
+                "title": "桃園市病媒蚊密度調查結果",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-22T10:18:04.326566",
-                "metadata_modified": "2017-03-30T08:37:35.953838",
-                "timeEnd": 1490834255,
+                "metadata_modified": "2017-05-10T10:07:51.276125",
+                "timeEnd": 1494410816,
                 "timeBegin": 1471832284,
                 "resources": {
                     "1ea90cb9-7f8a-461e-9bf7-b9a6326f842a": {
@@ -19128,6 +19238,13 @@
                         "created": "2016-11-09T11:40:56",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-09T11:40:56"
+                    },
+                    "03b2a06f-ff53-4e3b-9806-1829a72cf34b": {
+                        "id": "03b2a06f-ff53-4e3b-9806-1829a72cf34b",
+                        "name": "106年桃園市病媒蚊密度調查結果(1-4月份).csv",
+                        "created": "2017-05-10T18:06:56",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-10T18:06:56"
                     }
                 },
                 "counters": {
@@ -27359,16 +27476,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-05-09T03:57:41.044196",
-                "timeEnd": 1494302261,
+                "metadata_modified": "2017-05-10T00:44:14.149455",
+                "timeEnd": 1494377054,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "5b37050e-7c93-4cd6-8937-7175ebd6a89b": {
-                        "id": "5b37050e-7c93-4cd6-8937-7175ebd6a89b",
+                    "b682fa4c-7e35-44e5-91dc-22c657b42826": {
+                        "id": "b682fa4c-7e35-44e5-91dc-22c657b42826",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-05-09T11:57:41.131468",
+                        "created": "2017-05-10T08:44:14.256828",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-09T11:57:40"
+                        "last_modified": "2017-05-10T08:44:13"
                     }
                 },
                 "counters": {
@@ -27381,8 +27498,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-05-09T03:57:23.944888",
-                "timeEnd": 1494302244,
+                "metadata_modified": "2017-05-10T00:44:40.559345",
+                "timeEnd": 1494377080,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -27392,12 +27509,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "c54bbbdf-474d-4c1c-9f75-3a65c3049218": {
-                        "id": "c54bbbdf-474d-4c1c-9f75-3a65c3049218",
+                    "b85e7195-e785-4d8e-9875-fdbea2e28f9d": {
+                        "id": "b85e7195-e785-4d8e-9875-fdbea2e28f9d",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-05-09T11:57:24.083680",
+                        "created": "2017-05-10T08:44:40.671220",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-09T11:57:23"
+                        "last_modified": "2017-05-10T08:44:40"
                     }
                 },
                 "counters": {
@@ -27407,5 +27524,5 @@
             }
         }
     },
-    "time_generated": 1494365539
+    "time_generated": 1494451953
 }
