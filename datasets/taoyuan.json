@@ -7890,8 +7890,8 @@
                 "title": "桃園市政府工程查核案件分級管制一覽表",
                 "organization_id": "380230000a",
                 "metadata_created": "2015-10-07T05:18:54.466620",
-                "metadata_modified": "2017-05-04T08:11:11.232195",
-                "timeEnd": 1493885470,
+                "metadata_modified": "2017-05-11T06:18:02.877747",
+                "timeEnd": 1494483483,
                 "timeBegin": 1444166334,
                 "resources": {
                     "d9ab2766-4227-48b5-976b-836f354273a7": {
@@ -8173,6 +8173,13 @@
                         "created": "2017-05-04T16:11:10",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-04T16:11:10"
+                    },
+                    "eabaad1b-ec1d-4a43-965f-9b9e5a57e1f0": {
+                        "id": "eabaad1b-ec1d-4a43-965f-9b9e5a57e1f0",
+                        "name": "106年4月份分級管制.csv",
+                        "created": "2017-05-11T14:18:03.026597",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:18:02"
                     }
                 },
                 "counters": {
@@ -10921,13 +10928,35 @@
     },
     "桃園市政府消防局": {
         "counters": {
-            "datasets": 56,
+            "datasets": 80,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "02affcb2-3d2b-4ee1-9148-093d42dd9956": {
+                "name": "02affcb2-3d2b-4ee1-9148-093d42dd9956",
+                "title": "桃園市其他天然災害出動救災裝備",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T07:56:54.110603",
+                "metadata_modified": "2017-05-11T07:57:16.881298",
+                "timeEnd": 1494489436,
+                "timeBegin": 1494460614,
+                "resources": {
+                    "e234d303-be49-4169-b792-f63772f985ec": {
+                        "id": "e234d303-be49-4169-b792-f63772f985ec",
+                        "name": "桃園市其他天然災害出動救災裝備_105年.csv",
+                        "created": "2017-05-11T15:57:16.921150",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T15:57:16"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "58928ebf-515a-4b1e-adb5-b103ba5a4a77": {
                 "name": "06b77259-d948-4a99-a075-5e03ba3055c3",
                 "title": "桃園市燃氣熱水器技術士清冊",
@@ -11225,6 +11254,28 @@
                     "resource_recent": 0
                 }
             },
+            "2d6ab556-f8cb-417c-9b66-55bbb29b4004": {
+                "name": "2d6ab556-f8cb-417c-9b66-55bbb29b4004",
+                "title": "桃園市水災災害出動救災人次",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T07:12:19.285460",
+                "metadata_modified": "2017-05-11T07:12:37.331321",
+                "timeEnd": 1494486757,
+                "timeBegin": 1494457939,
+                "resources": {
+                    "f99895a0-de2b-44cf-8a21-c4653affb8e2": {
+                        "id": "f99895a0-de2b-44cf-8a21-c4653affb8e2",
+                        "name": "桃園市水災災害出動救災人次_105年.csv",
+                        "created": "2017-05-11T15:12:37.370342",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T15:12:37"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "2ef3168b-7364-4a73-a87a-d81ebbf97338": {
                 "name": "2ef3168b-7364-4a73-a87a-d81ebbf97338",
                 "title": "桃園市海域安全管理及救援統計",
@@ -11269,6 +11320,94 @@
                     "resource_recent": 0
                 }
             },
+            "30c6d615-d7d8-4d96-9b52-54665d6389e2": {
+                "name": "30c6d615-d7d8-4d96-9b52-54665d6389e2",
+                "title": "桃園市風災災害人員傷亡",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T06:15:04.185503",
+                "metadata_modified": "2017-05-11T06:15:29.903549",
+                "timeEnd": 1494483329,
+                "timeBegin": 1494454504,
+                "resources": {
+                    "b9cef541-681e-459b-bbae-3ced79083c37": {
+                        "id": "b9cef541-681e-459b-bbae-3ced79083c37",
+                        "name": "桃園市風災災害人員傷亡_105年.csv",
+                        "created": "2017-05-11T14:15:29.942500",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:15:29"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3a8f6eff-e33f-40a8-8fe4-02e14bc48400": {
+                "name": "3a8f6eff-e33f-40a8-8fe4-02e14bc48400",
+                "title": "桃園市災害應變中心開設情形",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T08:01:00.166692",
+                "metadata_modified": "2017-05-11T08:01:24.647457",
+                "timeEnd": 1494489684,
+                "timeBegin": 1494460860,
+                "resources": {
+                    "d988b1ff-0fb4-409a-81b8-66a9428046cb": {
+                        "id": "d988b1ff-0fb4-409a-81b8-66a9428046cb",
+                        "name": "桃園市災害應變中心開設情形.csv",
+                        "created": "2017-05-11T16:01:24.686272",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:01:24"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3c3c1ad3-1859-46ca-9ea5-9255bc54e097": {
+                "name": "3c3c1ad3-1859-46ca-9ea5-9255bc54e097",
+                "title": "桃園市震災災害出動救災裝備",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T06:02:48.421435",
+                "metadata_modified": "2017-05-11T06:03:10.198279",
+                "timeEnd": 1494482590,
+                "timeBegin": 1494453768,
+                "resources": {
+                    "e95ba34f-fc89-4fb5-b541-f47e4c835fc7": {
+                        "id": "e95ba34f-fc89-4fb5-b541-f47e4c835fc7",
+                        "name": "桃園市震災災害出動救災裝備_105年.csv",
+                        "created": "2017-05-11T14:03:10.238914",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:03:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3c652737-8c6c-4af8-bc8d-c3bdc0adcec2": {
+                "name": "3c652737-8c6c-4af8-bc8d-c3bdc0adcec2",
+                "title": "桃園市政府消防局消防車輛數",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T05:42:15.828733",
+                "metadata_modified": "2017-05-11T05:42:44.714810",
+                "timeEnd": 1494481364,
+                "timeBegin": 1494452535,
+                "resources": {
+                    "7f522dcf-6e83-4fa4-9e0d-673c4d3d5570": {
+                        "id": "7f522dcf-6e83-4fa4-9e0d-673c4d3d5570",
+                        "name": "桃園市政府消防局消防車輛數.csv",
+                        "created": "2017-05-11T13:42:44.786136",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T13:42:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "6b8c34a5-bc3a-4a94-a990-5fc0e17d45d5": {
                 "name": "3e16878a-b7d9-4262-a47c-95ba99548009",
                 "title": "桃園市消防安全設備檢修申報",
@@ -11291,6 +11430,28 @@
                         "created": "2017-02-06T15:05:55",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-06T15:05:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3f6399c2-3d55-4d5d-a2d6-f309a34d9a47": {
+                "name": "3f6399c2-3d55-4d5d-a2d6-f309a34d9a47",
+                "title": "桃園市風災災害出動救災裝備",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T06:24:51.390532",
+                "metadata_modified": "2017-05-11T06:25:17.261864",
+                "timeEnd": 1494483917,
+                "timeBegin": 1494455091,
+                "resources": {
+                    "ad77ad5a-f0a7-40fd-a51c-d84af06fd339": {
+                        "id": "ad77ad5a-f0a7-40fd-a51c-d84af06fd339",
+                        "name": "桃園市風災災害出動救災裝備_105年.csv",
+                        "created": "2017-05-11T14:25:17.301676",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:25:17"
                     }
                 },
                 "counters": {
@@ -11464,6 +11625,28 @@
                     "resource_recent": 0
                 }
             },
+            "50b7b72e-74bf-47f4-b9b9-65e2dd9ba5e7": {
+                "name": "50b7b72e-74bf-47f4-b9b9-65e2dd9ba5e7",
+                "title": "桃園市救護義消協勤統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T08:41:51.938373",
+                "metadata_modified": "2017-05-11T08:42:22.439653",
+                "timeEnd": 1494492142,
+                "timeBegin": 1494463311,
+                "resources": {
+                    "75c082b9-e07c-4dd9-990c-a10a8974790f": {
+                        "id": "75c082b9-e07c-4dd9-990c-a10a8974790f",
+                        "name": "桃園市救護義消協勤統計.csv",
+                        "created": "2017-05-11T16:42:22.507771",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:42:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "50d6b445-061e-4165-9a47-4247f4d396a7": {
                 "name": "50d6b445-061e-4165-9a47-4247f4d396a7",
                 "title": "桃園市義勇消防人員傷亡",
@@ -11501,6 +11684,28 @@
                         "created": "2016-11-02T13:14:58",
                         "webstore_last_updated": null,
                         "last_modified": "2016-11-02T13:14:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "5351a4c5-6aa4-478d-a47f-ad7f42f3f7f9": {
+                "name": "5351a4c5-6aa4-478d-a47f-ad7f42f3f7f9",
+                "title": "桃園市震災災害人員傷亡",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T05:48:22.700656",
+                "metadata_modified": "2017-05-11T05:48:52.866892",
+                "timeEnd": 1494481732,
+                "timeBegin": 1494452902,
+                "resources": {
+                    "d50a9549-835c-4173-a60e-31f8b672e92e": {
+                        "id": "d50a9549-835c-4173-a60e-31f8b672e92e",
+                        "name": "桃園市震災災害人員傷亡_105年.csv",
+                        "created": "2017-05-11T13:48:52.903726",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T13:48:52"
                     }
                 },
                 "counters": {
@@ -11552,6 +11757,50 @@
                         "created": "2016-12-26T15:15:25",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-26T15:15:25"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "564a60dd-335f-4510-8db0-d6ea066a8a21": {
+                "name": "564a60dd-335f-4510-8db0-d6ea066a8a21",
+                "title": "桃園市震災災害建物損失",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T05:52:18.459131",
+                "metadata_modified": "2017-05-11T05:52:41.031432",
+                "timeEnd": 1494481961,
+                "timeBegin": 1494453138,
+                "resources": {
+                    "1c08713f-12b8-4dad-b2b6-22130abdaafb": {
+                        "id": "1c08713f-12b8-4dad-b2b6-22130abdaafb",
+                        "name": "桃園市震災災害建物損失_105年.csv",
+                        "created": "2017-05-11T13:52:41.070644",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T13:52:40"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "59c3815e-e947-4a26-961d-c9d18432b7b3": {
+                "name": "59c3815e-e947-4a26-961d-c9d18432b7b3",
+                "title": "桃園市水災災害出動救災裝備",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T07:14:17.190170",
+                "metadata_modified": "2017-05-11T07:14:36.187142",
+                "timeEnd": 1494486876,
+                "timeBegin": 1494458057,
+                "resources": {
+                    "9be1459c-d68c-4474-96cf-8d756c0687b4": {
+                        "id": "9be1459c-d68c-4474-96cf-8d756c0687b4",
+                        "name": "桃園市水災災害出動救災裝備_105年.csv",
+                        "created": "2017-05-11T15:14:36.227302",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T15:14:36"
                     }
                 },
                 "counters": {
@@ -11696,6 +11945,50 @@
                         "created": "2017-05-05T10:53:59.790421",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-05T10:53:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "5f44176b-4246-4bcb-88e0-5f277cfb82fc": {
+                "name": "5f44176b-4246-4bcb-88e0-5f277cfb82fc",
+                "title": "桃園市颱風來襲管制區域",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T08:09:05.145030",
+                "metadata_modified": "2017-05-11T08:10:00.405651",
+                "timeEnd": 1494490200,
+                "timeBegin": 1494461345,
+                "resources": {
+                    "03a8b2b4-b9ef-4f54-a815-f8ab1dbc31b7": {
+                        "id": "03a8b2b4-b9ef-4f54-a815-f8ab1dbc31b7",
+                        "name": "桃園市颱風來襲管制區域.csv",
+                        "created": "2017-05-11T16:10:00.444711",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:10:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "613d5970-e88f-4a6d-ac10-b632ecc3569f": {
+                "name": "613d5970-e88f-4a6d-ac10-b632ecc3569f",
+                "title": "桃園市風災災害出動救災人次",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T06:22:05.338359",
+                "metadata_modified": "2017-05-11T06:22:26.277899",
+                "timeEnd": 1494483746,
+                "timeBegin": 1494454925,
+                "resources": {
+                    "ba6d68ad-299b-41d1-a6f0-c0745001ad3c": {
+                        "id": "ba6d68ad-299b-41d1-a6f0-c0745001ad3c",
+                        "name": "桃園市風災災害出動救災人次_105年.csv",
+                        "created": "2017-05-11T14:22:26.317889",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:22:26"
                     }
                 },
                 "counters": {
@@ -11868,6 +12161,28 @@
                     "resource_recent": 0
                 }
             },
+            "655b7532-10c9-438f-8c27-b9dc77336d73": {
+                "name": "655b7532-10c9-438f-8c27-b9dc77336d73",
+                "title": "桃園市消防人員講習訓練年度統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T08:52:35.348201",
+                "metadata_modified": "2017-05-11T08:53:02.693049",
+                "timeEnd": 1494492782,
+                "timeBegin": 1494463955,
+                "resources": {
+                    "3496bbbc-be4d-4e6c-bdcc-eafebcb5bef3": {
+                        "id": "3496bbbc-be4d-4e6c-bdcc-eafebcb5bef3",
+                        "name": "桃園市消防人員講習訓練年度統計.csv",
+                        "created": "2017-05-11T16:53:02.731948",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:53:02"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "fde35c6f-eb4f-42bb-9fc2-3e511878f5bc": {
                 "name": "69243a6c-c6a2-455f-b13b-f6edc068ba33",
                 "title": "桃園市願意配合推動供氣定型化契約瓦斯行清冊",
@@ -11927,6 +12242,50 @@
                         "created": "2017-01-26T15:14:03",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-26T15:14:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7e43f249-3694-4f2f-8f44-eb2da1e49c5f": {
+                "name": "7e43f249-3694-4f2f-8f44-eb2da1e49c5f",
+                "title": "桃園市水災災害建物損失",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T07:07:55.310322",
+                "metadata_modified": "2017-05-11T07:10:57.447703",
+                "timeEnd": 1494486657,
+                "timeBegin": 1494457675,
+                "resources": {
+                    "ae93466b-e982-40de-bfbd-5b4bbdf1cfb2": {
+                        "id": "ae93466b-e982-40de-bfbd-5b4bbdf1cfb2",
+                        "name": "桃園市水災災害建物損失_105年.csv",
+                        "created": "2017-05-11T15:10:57.492179",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T15:10:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "81c4d243-2a59-4c58-ae9b-19a425d414a3": {
+                "name": "81c4d243-2a59-4c58-ae9b-19a425d414a3",
+                "title": "桃園市消防緊急救護到院前心肺功能停止傷病患統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T08:33:56.191196",
+                "metadata_modified": "2017-05-11T08:34:31.935129",
+                "timeEnd": 1494491671,
+                "timeBegin": 1494462836,
+                "resources": {
+                    "d2486554-ea2e-49e8-a457-65da91831385": {
+                        "id": "d2486554-ea2e-49e8-a457-65da91831385",
+                        "name": "桃園市消防緊急救護到院前心肺功能停止傷病患統計_10603.csv",
+                        "created": "2017-05-11T16:34:31.985836",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:34:31"
                     }
                 },
                 "counters": {
@@ -12334,6 +12693,42 @@
                     "resource_recent": 0
                 }
             },
+            "b8ce2326-b045-4180-828c-53d5d31e29c2": {
+                "name": "b8ce2326-b045-4180-828c-53d5d31e29c2",
+                "title": "桃園市政府消防局年度救護統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T08:38:39.669989",
+                "metadata_modified": "2017-05-11T08:39:03.856487",
+                "timeEnd": 1494491943,
+                "timeBegin": 1494463119,
+                "resources": {
+                    "6570f391-5bc6-47af-abc5-5187af51ef2d": {
+                        "id": "6570f391-5bc6-47af-abc5-5187af51ef2d",
+                        "name": "桃園市政府消防局年度救護統計.csv",
+                        "created": "2017-05-11T16:39:03.895021",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:39:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "bb876b8d-cd2c-4ce2-8720-e8846ac3d4e9": {
+                "name": "bb876b8d-cd2c-4ce2-8720-e8846ac3d4e9",
+                "title": "桃園市水災災害人員傷亡",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T06:44:26.187372",
+                "metadata_modified": "2017-05-11T06:44:26.941159",
+                "timeEnd": 1494456266,
+                "timeBegin": 1494456266,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "11f82b77-3737-459d-8ca1-84ae5519dbf4": {
                 "name": "bf25f31c-d010-4300-a625-c4c9863614f4",
                 "title": "桃園市消防局消防分隊通訊錄",
@@ -12378,6 +12773,28 @@
                         "created": "2017-03-30T14:12:11",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-30T14:12:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d06dc2ee-7d31-4883-9426-16a457dcd451": {
+                "name": "d06dc2ee-7d31-4883-9426-16a457dcd451",
+                "title": "桃園市其他天然災害人員傷亡",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T07:19:04.762267",
+                "metadata_modified": "2017-05-11T07:19:22.062162",
+                "timeEnd": 1494487162,
+                "timeBegin": 1494458344,
+                "resources": {
+                    "05068367-55f6-4cc7-8d4e-ffd6c525a0f2": {
+                        "id": "05068367-55f6-4cc7-8d4e-ffd6c525a0f2",
+                        "name": "桃園市其他天然災害人員傷亡_105年.csv",
+                        "created": "2017-05-11T15:19:22.104494",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T15:19:21"
                     }
                 },
                 "counters": {
@@ -12479,6 +12896,94 @@
                     "resource_recent": 0
                 }
             },
+            "e3c33905-1b6e-4b78-aad3-53247de5c32a": {
+                "name": "e3c33905-1b6e-4b78-aad3-53247de5c32a",
+                "title": "桃園市其他天然災害建物損失",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T07:52:36.677110",
+                "metadata_modified": "2017-05-11T07:52:55.772250",
+                "timeEnd": 1494489175,
+                "timeBegin": 1494460356,
+                "resources": {
+                    "aeeff09e-2917-40f3-a036-8c4dd2832b40": {
+                        "id": "aeeff09e-2917-40f3-a036-8c4dd2832b40",
+                        "name": "桃園市其他天然災害建物損失_105年.csv",
+                        "created": "2017-05-11T15:52:55.815367",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T15:52:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e7702140-1480-4a11-accc-80cd9f0f6ca7": {
+                "name": "e7702140-1480-4a11-accc-80cd9f0f6ca7",
+                "title": "桃園市震災災害出動救災人次",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T06:00:08.604079",
+                "metadata_modified": "2017-05-11T06:00:30.316973",
+                "timeEnd": 1494482430,
+                "timeBegin": 1494453608,
+                "resources": {
+                    "1de3ef4c-c3cf-4489-9b6c-fc3ac833d463": {
+                        "id": "1de3ef4c-c3cf-4489-9b6c-fc3ac833d463",
+                        "name": "桃園市震災災害出動救災人次_105年.csv",
+                        "created": "2017-05-11T14:00:30.373746",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:00:30"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e87401bb-ca21-455f-bd3f-834ebdec2492": {
+                "name": "e87401bb-ca21-455f-bd3f-834ebdec2492",
+                "title": "桃園市風災災害建物損失",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T06:17:59.452977",
+                "metadata_modified": "2017-05-11T06:18:21.397307",
+                "timeEnd": 1494483501,
+                "timeBegin": 1494454679,
+                "resources": {
+                    "8c94ceba-69ae-4853-ba81-9cfde69aeb32": {
+                        "id": "8c94ceba-69ae-4853-ba81-9cfde69aeb32",
+                        "name": "桃園市風災災害建物損失_105年.csv",
+                        "created": "2017-05-11T14:18:21.440551",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:18:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e9f4aaf1-08f0-4ceb-ab78-909d147ae411": {
+                "name": "e9f4aaf1-08f0-4ceb-ab78-909d147ae411",
+                "title": "桃園市火災財物損失統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T08:56:43.546799",
+                "metadata_modified": "2017-05-11T08:57:11.791737",
+                "timeEnd": 1494493031,
+                "timeBegin": 1494464203,
+                "resources": {
+                    "5cde0908-7c8b-4c83-a044-c6f5e38e63c5": {
+                        "id": "5cde0908-7c8b-4c83-a044-c6f5e38e63c5",
+                        "name": "桃園市火災財物損失統計10603.csv",
+                        "created": "2017-05-11T16:57:11.830307",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:57:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "2eb13f03-c6f8-4bf9-88e2-110b7cb555ba": {
                 "name": "ea03fc88-b8b6-466e-a602-06dd2170b088",
                 "title": "桃園市政府消防局人民申請案統計表",
@@ -12559,6 +13064,28 @@
                         "created": "2017-02-17T09:46:47",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-17T09:46:47"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "ffedbd8d-553f-4efb-8208-8c9dba21a6a5": {
+                "name": "ffedbd8d-553f-4efb-8208-8c9dba21a6a5",
+                "title": "桃園市其他天然災害出動救災人次",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-11T07:55:01.867005",
+                "metadata_modified": "2017-05-11T07:55:33.737329",
+                "timeEnd": 1494489333,
+                "timeBegin": 1494460501,
+                "resources": {
+                    "ccefe36d-7f51-44d9-9227-a69fa3a04336": {
+                        "id": "ccefe36d-7f51-44d9-9227-a69fa3a04336",
+                        "name": "桃園市其他天然災害出動救災人次_105年.csv",
+                        "created": "2017-05-11T15:55:33.777551",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T15:55:33"
                     }
                 },
                 "counters": {
@@ -17228,21 +17755,21 @@
                 "title": "桃園市藥物濫用自費檢驗機構",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-03T06:04:17.376916",
-                "metadata_modified": "2016-08-22T05:57:36.142252",
-                "timeEnd": 1471816656,
+                "metadata_modified": "2017-05-11T11:03:59.721206",
+                "timeEnd": 1494471839,
                 "timeBegin": 1470175457,
                 "resources": {
                     "ebe1423c-bd96-4653-b6e5-a0c035373eb1": {
                         "id": "ebe1423c-bd96-4653-b6e5-a0c035373eb1",
                         "name": "web",
-                        "created": "2016-08-03T14:04:48.430504",
+                        "created": "2016-08-03T14:04:48",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-03T14:04:48"
                     },
                     "40b42a36-1652-491a-b38f-223cae5ce094": {
                         "id": "40b42a36-1652-491a-b38f-223cae5ce094",
                         "name": "01",
-                        "created": "2016-08-17T10:29:18.174319",
+                        "created": "2016-08-17T10:29:18",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-17T10:29:17"
                     }
@@ -17271,8 +17798,8 @@
                 "title": "桃園市產後護理之家",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T03:19:56.675352",
-                "metadata_modified": "2017-03-02T04:40:40.909830",
-                "timeEnd": 1488400840,
+                "metadata_modified": "2017-05-11T08:58:37.483603",
+                "timeEnd": 1494464317,
                 "timeBegin": 1444245596,
                 "resources": {
                     "9f2e1fa4-c489-417f-b7fc-47912bc5cb76": {
@@ -17588,8 +18115,8 @@
                 "title": "桃園市政府衛生局106年抽驗食品不合格名單",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-03-07T08:04:37.568599",
-                "metadata_modified": "2017-04-27T08:29:22.363782",
-                "timeEnd": 1493281762,
+                "metadata_modified": "2017-05-11T01:15:49.174070",
+                "timeEnd": 1494436549,
                 "timeBegin": 1488845077,
                 "resources": {
                     "00e627f2-d42c-48ef-a58d-a95f7e800a6b": {
@@ -17609,7 +18136,7 @@
                     "961f7e9c-e13e-437e-9923-c090f8e857f2": {
                         "id": "961f7e9c-e13e-437e-9923-c090f8e857f2",
                         "name": "桃園市政府衛生局106年3月份抽驗食品不合格名單.csv",
-                        "created": "2017-04-27T16:29:22.411571",
+                        "created": "2017-04-27T16:29:22",
                         "webstore_last_updated": null,
                         "last_modified": "2017-04-27T16:29:22"
                     }
@@ -17660,8 +18187,8 @@
                 "title": "桃園市居家護理所",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-10-08T03:16:25.539300",
-                "metadata_modified": "2017-03-02T04:39:27.208137",
-                "timeEnd": 1488400767,
+                "metadata_modified": "2017-05-11T09:03:02.249897",
+                "timeEnd": 1494493356,
                 "timeBegin": 1444245385,
                 "resources": {
                     "979c95f0-e8ab-4d9f-a506-a1d245345fd8": {
@@ -17706,33 +18233,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-11T10:31:13"
                     },
-                    "5d857ffb-106a-407c-b080-c620da49e06d": {
-                        "id": "5d857ffb-106a-407c-b080-c620da49e06d",
-                        "name": " 104年居家護理所一覽表",
-                        "created": "2016-01-14T10:24:40",
+                    "10df5e18-0b57-4a5b-9b0a-17c20b7ff917": {
+                        "id": "10df5e18-0b57-4a5b-9b0a-17c20b7ff917",
+                        "name": "居護所一覽表(open data).csv",
+                        "created": "2017-05-11T17:02:36.238421",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-14T10:24:23"
-                    },
-                    "5829d311-14da-4088-809c-458eadf0cc08": {
-                        "id": "5829d311-14da-4088-809c-458eadf0cc08",
-                        "name": " 103年桃園市居家護理所一覽表",
-                        "created": "2016-07-28T13:48:40",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-07-28T13:48:39"
-                    },
-                    "91ca2c98-b934-42b7-8ac7-5894bb5467e7": {
-                        "id": "91ca2c98-b934-42b7-8ac7-5894bb5467e7",
-                        "name": " 104年桃園市居家護理所一覽表",
-                        "created": "2016-07-28T13:49:07",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-07-28T13:49:07"
-                    },
-                    "8ca7d0df-6163-47a6-9162-c978201a2435": {
-                        "id": "8ca7d0df-6163-47a6-9162-c978201a2435",
-                        "name": "105年桃園市居家護理所一覽表",
-                        "created": "2016-07-28T13:49:34",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-07-28T13:49:34"
+                        "last_modified": "2017-05-11T17:02:36"
                     }
                 },
                 "counters": {
@@ -18423,8 +18929,8 @@
                 "title": "桃園市精神復健機構暨精神護理機構",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-12-24T06:46:00.112247",
-                "metadata_modified": "2017-04-14T10:58:22.805744",
-                "timeEnd": 1492167298,
+                "metadata_modified": "2017-05-11T10:58:35.455071",
+                "timeEnd": 1494500076,
                 "timeBegin": 1450910760,
                 "resources": {
                     "121007b2-87ad-4918-8264-add792d4c236": {
@@ -18469,19 +18975,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T15:49:59"
                     },
-                    "0980015a-fcc9-427a-af2e-73d7a7678ada": {
-                        "id": "0980015a-fcc9-427a-af2e-73d7a7678ada",
-                        "name": "精神復健機構暨精神護理機構",
-                        "created": "2016-08-25T11:00:59",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-08-25T11:00:59"
-                    },
                     "737a4482-bb9f-4922-843d-e8fb196b63bc": {
                         "id": "737a4482-bb9f-4922-843d-e8fb196b63bc",
                         "name": "桃園市精神復健機構暨精神護理機構.csv",
-                        "created": "2017-04-14T18:54:58",
+                        "created": "2017-05-11T18:54:36",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-04-14T18:54:58"
+                        "last_modified": "2017-05-11T18:54:36"
                     }
                 },
                 "counters": {
@@ -19023,23 +19522,23 @@
                 "title": "桃園市身心障礙者醫療輔具評估機構一覽表",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-12-24T11:57:32.764698",
-                "metadata_modified": "2017-03-31T05:39:40.207394",
-                "timeEnd": 1490909980,
+                "metadata_modified": "2017-05-11T08:53:04.945637",
+                "timeEnd": 1494485457,
                 "timeBegin": 1450929452,
                 "resources": {
-                    "dc9005bf-fede-496a-b907-b6d145d95741": {
-                        "id": "dc9005bf-fede-496a-b907-b6d145d95741",
-                        "name": "桃園市身心障礙者醫療輔具評估機構一覽表  ",
-                        "created": "2016-01-15T09:09:29",
-                        "webstore_last_updated": null,
-                        "last_modified": "2016-01-15T09:09:13"
-                    },
                     "229962f9-2b2e-4bf5-88db-d1548797031d": {
                         "id": "229962f9-2b2e-4bf5-88db-d1548797031d",
                         "name": "桃園市身心障礙者醫療輔具評估機構一覽表",
                         "created": "2016-07-28T13:44:32",
                         "webstore_last_updated": null,
                         "last_modified": "2016-07-28T13:44:32"
+                    },
+                    "a2df6e67-e311-462b-9925-ce2e7583c9f8": {
+                        "id": "a2df6e67-e311-462b-9925-ce2e7583c9f8",
+                        "name": "桃園市醫療輔具評估機構一覽表1031105.pdf",
+                        "created": "2017-05-11T14:50:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:50:57"
                     }
                 },
                 "counters": {
@@ -19118,16 +19617,23 @@
                 "title": "桃園市身心障礙類別、向度之鑑定醫院名冊",
                 "organization_id": "380140000i",
                 "metadata_created": "2015-11-30T08:07:24.030929",
-                "metadata_modified": "2017-04-13T01:40:11.091799",
-                "timeEnd": 1492047569,
+                "metadata_modified": "2017-05-11T08:39:27.411868",
+                "timeEnd": 1494490225,
                 "timeBegin": 1448842044,
                 "resources": {
                     "ca306fd4-7204-47bd-b124-432358c6f1c9": {
                         "id": "ca306fd4-7204-47bd-b124-432358c6f1c9",
                         "name": "桃園市身心障礙類別、向度之鑑定醫院名冊(1060104公告)",
-                        "created": "2017-04-13T09:39:29.204621",
+                        "created": "2017-04-13T09:39:29",
                         "webstore_last_updated": null,
                         "last_modified": "2017-04-13T09:39:28"
+                    },
+                    "b335ad62-c63c-4115-960a-c94bd7bb350e": {
+                        "id": "b335ad62-c63c-4115-960a-c94bd7bb350e",
+                        "name": "本市鑑定醫院名冊(1060111更新).csv",
+                        "created": "2017-05-11T16:10:25",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T16:10:25"
                     }
                 },
                 "counters": {
@@ -21805,14 +22311,14 @@
                 "title": "106年桃園市交通事故資料表",
                 "organization_id": "380130000c",
                 "metadata_created": "2017-05-08T07:00:32.906868",
-                "metadata_modified": "2017-05-08T07:01:01.773417",
-                "timeEnd": 1494226861,
+                "metadata_modified": "2017-05-11T01:29:33.562829",
+                "timeEnd": 1494437373,
                 "timeBegin": 1494198032,
                 "resources": {
                     "8b9988a0-6cd5-4a82-8b17-204bcd261b6c": {
                         "id": "8b9988a0-6cd5-4a82-8b17-204bcd261b6c",
                         "name": "106年桃園市交通事故資料表.csv",
-                        "created": "2017-05-08T15:01:01.809493",
+                        "created": "2017-05-08T15:01:01",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-08T15:01:01"
                     }
@@ -22239,16 +22745,16 @@
                 "title": "桃園市住宅竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-01-07T06:25:14.756212",
-                "metadata_modified": "2017-02-21T01:02:30.536814",
-                "timeEnd": 1487638950,
+                "metadata_modified": "2017-05-11T08:35:55.876767",
+                "timeEnd": 1494491755,
                 "timeBegin": 1452119114,
                 "resources": {
                     "d751df74-86a0-456a-bd45-1e91c438deff": {
                         "id": "d751df74-86a0-456a-bd45-1e91c438deff",
-                        "name": "10601_1.csv",
-                        "created": "2017-02-21T09:02:30",
+                        "name": "10604_1.csv",
+                        "created": "2017-05-11T16:35:55",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-21T09:02:30"
+                        "last_modified": "2017-05-11T16:35:55"
                     }
                 },
                 "counters": {
@@ -22494,16 +23000,16 @@
                 "title": "桃園市自行車竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-06-02T01:05:34.679688",
-                "metadata_modified": "2017-02-21T01:01:07.945879",
-                "timeEnd": 1487638867,
+                "metadata_modified": "2017-05-11T08:37:05.157434",
+                "timeEnd": 1494491825,
                 "timeBegin": 1464800734,
                 "resources": {
                     "8549a09a-169e-48d4-a47c-a64ec3e8e407": {
                         "id": "8549a09a-169e-48d4-a47c-a64ec3e8e407",
-                        "name": "10601_4.csv",
-                        "created": "2017-02-21T09:01:07",
+                        "name": "10604_4.csv",
+                        "created": "2017-05-11T16:37:05",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-21T09:01:07"
+                        "last_modified": "2017-05-11T16:37:05"
                     }
                 },
                 "counters": {
@@ -22756,16 +23262,16 @@
                 "title": "桃園市機車竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-01-07T06:29:53.605911",
-                "metadata_modified": "2017-02-21T01:01:55.166163",
-                "timeEnd": 1487638915,
+                "metadata_modified": "2017-05-11T08:36:40.151555",
+                "timeEnd": 1494491799,
                 "timeBegin": 1452119393,
                 "resources": {
                     "75a851f8-62d0-475a-83cf-9d2a7c5bc059": {
                         "id": "75a851f8-62d0-475a-83cf-9d2a7c5bc059",
-                        "name": "10601_3.csv",
-                        "created": "2017-02-21T09:01:55",
+                        "name": "10604_3.csv",
+                        "created": "2017-05-11T16:36:39",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-21T09:01:55"
+                        "last_modified": "2017-05-11T16:36:39"
                     },
                     "1b312755-c66f-43a5-9ef6-e39734ab38ca": {
                         "id": "1b312755-c66f-43a5-9ef6-e39734ab38ca",
@@ -23223,16 +23729,16 @@
                 "title": "桃園市汽車竊盜點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2016-01-07T06:28:08.203004",
-                "metadata_modified": "2017-02-21T01:00:25.781061",
-                "timeEnd": 1487638825,
+                "metadata_modified": "2017-05-11T08:35:23.508256",
+                "timeEnd": 1494491723,
                 "timeBegin": 1452119288,
                 "resources": {
                     "f2219d56-1ca3-47c6-8dd8-ed9c352d0003": {
                         "id": "f2219d56-1ca3-47c6-8dd8-ed9c352d0003",
-                        "name": "10601_2.csv",
-                        "created": "2017-02-21T09:00:25",
+                        "name": "10604_2.csv",
+                        "created": "2017-05-11T16:35:23",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-21T09:00:25"
+                        "last_modified": "2017-05-11T16:35:23"
                     }
                 },
                 "counters": {
@@ -26023,14 +26529,14 @@
                 "title": "桃園市106年補助各區公所推動青年參與在地公共事務計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T06:17:24.185108",
-                "metadata_modified": "2017-05-01T06:17:56.132876",
-                "timeEnd": 1493619476,
+                "metadata_modified": "2017-05-11T06:32:33.166681",
+                "timeEnd": 1494455553,
                 "timeBegin": 1493590644,
                 "resources": {
                     "e12f0a9d-9d56-4b79-995d-db2496b9556a": {
                         "id": "e12f0a9d-9d56-4b79-995d-db2496b9556a",
                         "name": "桃園市106年補助各區公所推動青年參與在地公共事務計畫.pdf",
-                        "created": "2017-05-01T14:17:56.161964",
+                        "created": "2017-05-01T14:17:56",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:17:56"
                     }
@@ -26067,14 +26573,14 @@
                 "title": "TYC Talks青年職涯培力及巡迴講座活動",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:10:57.031997",
-                "metadata_modified": "2017-05-01T08:11:16.245728",
-                "timeEnd": 1493626276,
+                "metadata_modified": "2017-05-11T06:39:57.587477",
+                "timeEnd": 1494455997,
                 "timeBegin": 1493597457,
                 "resources": {
                     "517545c1-9e04-457b-b288-2ed34d704867": {
                         "id": "517545c1-9e04-457b-b288-2ed34d704867",
                         "name": "TYC Talks青年職涯培力及巡迴講座活動.pdf",
-                        "created": "2017-05-01T16:11:16.277439",
+                        "created": "2017-05-01T16:11:16",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:11:16"
                     }
@@ -26086,17 +26592,17 @@
             },
             "1cc34c58-1586-497a-82b3-c8e4d10c7711": {
                 "name": "1cc34c58-1586-497a-82b3-c8e4d10c7711",
-                "title": "桃園市政府青年事務局物聯網產業人才培育計畫",
+                "title": "桃園市政府青年事務局創新人才培育計畫(物聯網產業)",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:39:56.356777",
-                "metadata_modified": "2017-05-01T08:40:10.856899",
-                "timeEnd": 1493628010,
+                "metadata_modified": "2017-05-11T06:34:41.010392",
+                "timeEnd": 1494455681,
                 "timeBegin": 1493599196,
                 "resources": {
                     "9f2eff23-c278-4aac-b40a-0a6baf507b7a": {
                         "id": "9f2eff23-c278-4aac-b40a-0a6baf507b7a",
                         "name": "桃園市政府青年事務局物聯網產業人才培育計畫.pdf",
-                        "created": "2017-05-01T16:40:10.884034",
+                        "created": "2017-05-01T16:40:10",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:40:10"
                     }
@@ -26111,35 +26617,35 @@
                 "title": "創新創業主題課程",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:07:29.721844",
-                "metadata_modified": "2017-05-01T08:08:20.209906",
-                "timeEnd": 1493626100,
+                "metadata_modified": "2017-05-11T06:39:43.972239",
+                "timeEnd": 1494455983,
                 "timeBegin": 1493597249,
                 "resources": {
                     "49c1b0ec-074e-4951-bfe1-bf114d8f18e1": {
                         "id": "49c1b0ec-074e-4951-bfe1-bf114d8f18e1",
                         "name": "106年3月份創客教育課程.pdf",
-                        "created": "2017-05-01T16:07:51.169688",
+                        "created": "2017-05-01T16:07:51",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:07:51"
                     },
                     "68a73846-4c71-49f1-8b00-de5719f6debe": {
                         "id": "68a73846-4c71-49f1-8b00-de5719f6debe",
                         "name": "106年4月份創客教育課程.pdf",
-                        "created": "2017-05-01T16:07:59.143644",
+                        "created": "2017-05-01T16:07:59",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:07:59"
                     },
                     "850305a3-e35f-44f4-b362-e64b1c4869a7": {
                         "id": "850305a3-e35f-44f4-b362-e64b1c4869a7",
                         "name": "創新創業主題課程-物聯網面面觀.pdf",
-                        "created": "2017-05-01T16:08:09.662989",
+                        "created": "2017-05-01T16:08:09",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:08:09"
                     },
                     "67978590-89a6-44ab-9230-00950779c538": {
                         "id": "67978590-89a6-44ab-9230-00950779c538",
                         "name": "創新創業主題課程-創客自造多元應用.pdf",
-                        "created": "2017-05-01T16:08:20.243604",
+                        "created": "2017-05-01T16:08:20",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:08:20"
                     }
@@ -26154,14 +26660,14 @@
                 "title": "106年度桃園青年多元才藝暨校園反毒宣導計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:24:01.751901",
-                "metadata_modified": "2017-05-01T07:24:17.037591",
-                "timeEnd": 1493623457,
+                "metadata_modified": "2017-05-11T06:33:33.938537",
+                "timeEnd": 1494455613,
                 "timeBegin": 1493594641,
                 "resources": {
                     "9f617c69-eab7-4aea-a24f-6ff3aebe7876": {
                         "id": "9f617c69-eab7-4aea-a24f-6ff3aebe7876",
                         "name": "多元才藝暨校園反毒宣導計畫.pdf",
-                        "created": "2017-05-01T15:24:17.068553",
+                        "created": "2017-05-01T15:24:17",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:24:16"
                     }
@@ -26198,21 +26704,21 @@
                 "title": "桃園市政府補助青年參與國際事務作業要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T06:34:23.925756",
-                "metadata_modified": "2017-05-01T06:43:43.684678",
-                "timeEnd": 1493621023,
+                "metadata_modified": "2017-05-11T06:32:51.466853",
+                "timeEnd": 1494455571,
                 "timeBegin": 1493591663,
                 "resources": {
                     "92a41232-e671-46cd-b265-819989656aa2": {
                         "id": "92a41232-e671-46cd-b265-819989656aa2",
                         "name": "桃園市政府青年國際參與補助作業要點-106修正.pdf",
-                        "created": "2017-05-01T14:43:32.829719",
+                        "created": "2017-05-01T14:43:32",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:43:32"
                     },
                     "69c8e2c9-6200-4bfc-ab72-303a854c54fb": {
                         "id": "69c8e2c9-6200-4bfc-ab72-303a854c54fb",
                         "name": "桃園市政府補助青年參與國際事務作業要點-核銷.pdf",
-                        "created": "2017-05-01T14:43:43.727682",
+                        "created": "2017-05-01T14:43:43",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:43:43"
                     }
@@ -26227,14 +26733,14 @@
                 "title": "106年度桃園青年多元才藝跨域學習計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:59:18.696352",
-                "metadata_modified": "2017-05-01T07:59:35.301348",
-                "timeEnd": 1493625575,
+                "metadata_modified": "2017-05-11T06:34:28.024156",
+                "timeEnd": 1494455668,
                 "timeBegin": 1493596758,
                 "resources": {
                     "ea769a84-8d3c-4049-a790-0c6c3155e493": {
                         "id": "ea769a84-8d3c-4049-a790-0c6c3155e493",
                         "name": "多元才藝跨域學習計畫.pdf",
-                        "created": "2017-05-01T15:59:35.334716",
+                        "created": "2017-05-01T15:59:35",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:59:35"
                     }
@@ -26249,28 +26755,28 @@
                 "title": "桃園市青年創業貸款利息補貼計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:32:56.250219",
-                "metadata_modified": "2017-05-01T08:33:32.687182",
-                "timeEnd": 1493627612,
+                "metadata_modified": "2017-05-11T06:31:45.900857",
+                "timeEnd": 1494455505,
                 "timeBegin": 1493598776,
                 "resources": {
                     "c91bb846-0c48-4f84-a05c-9492c6ca21fe": {
                         "id": "c91bb846-0c48-4f84-a05c-9492c6ca21fe",
                         "name": "青年創業貸款利息費用補貼及課程費用補貼.pdf",
-                        "created": "2017-05-01T16:33:16.909606",
+                        "created": "2017-05-01T16:33:16",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:33:16"
                     },
                     "93ca4730-75ca-4ad1-9c58-c8adb188eb3e": {
                         "id": "93ca4730-75ca-4ad1-9c58-c8adb188eb3e",
                         "name": "桃園市青年創業貸款利息補貼計畫.pdf",
-                        "created": "2017-05-01T16:33:25.909935",
+                        "created": "2017-05-01T16:33:25",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:33:25"
                     },
                     "a646ed66-74ff-4b25-a7cd-176a2bfaef2e": {
                         "id": "a646ed66-74ff-4b25-a7cd-176a2bfaef2e",
                         "name": "桃園市青年創業貸款利息補貼計畫申請書.doc",
-                        "created": "2017-05-01T16:33:32.719809",
+                        "created": "2017-05-01T16:33:32",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:33:32"
                     }
@@ -26350,8 +26856,8 @@
                 "title": "青年出國資源指南手冊",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:03:26.697112",
-                "metadata_modified": "2017-05-01T08:03:27.371767",
-                "timeEnd": 1493597007,
+                "metadata_modified": "2017-05-11T06:34:39.247562",
+                "timeEnd": 1494455679,
                 "timeBegin": 1493597006,
                 "resources": [],
                 "counters": {
@@ -26386,56 +26892,56 @@
                 "title": "TYC青年創世代刊物",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:13:36.955681",
-                "metadata_modified": "2017-05-01T08:17:12.783759",
-                "timeEnd": 1493626632,
+                "metadata_modified": "2017-05-11T06:36:34.188717",
+                "timeEnd": 1494455794,
                 "timeBegin": 1493597616,
                 "resources": {
                     "0bac89ce-2b0a-4df4-ae50-3391a442e1a9": {
                         "id": "0bac89ce-2b0a-4df4-ae50-3391a442e1a9",
                         "name": "TYC-MagazineNo1.pdf",
-                        "created": "2017-05-01T16:13:56.807855",
+                        "created": "2017-05-01T16:13:56",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:13:56"
                     },
                     "d1cea79a-7c5c-4ba0-9cef-4c328769f691": {
                         "id": "d1cea79a-7c5c-4ba0-9cef-4c328769f691",
                         "name": "TYC-MagazineNo2.pdf",
-                        "created": "2017-05-01T16:14:07.857714",
+                        "created": "2017-05-01T16:14:07",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:14:07"
                     },
                     "8b704ccd-1871-415b-94d6-4a148ab60e3e": {
                         "id": "8b704ccd-1871-415b-94d6-4a148ab60e3e",
                         "name": "TYC-MagazineNo3.pdf",
-                        "created": "2017-05-01T16:14:43.288248",
+                        "created": "2017-05-01T16:14:43",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:14:39"
                     },
                     "dc696f5d-f5bd-4315-b885-01670802e428": {
                         "id": "dc696f5d-f5bd-4315-b885-01670802e428",
                         "name": "TYC-MagazineNo4.pdf",
-                        "created": "2017-05-01T16:15:22.307353",
+                        "created": "2017-05-01T16:15:22",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:15:17"
                     },
                     "69202133-02d2-40a3-bc89-f7020ac211ec": {
                         "id": "69202133-02d2-40a3-bc89-f7020ac211ec",
                         "name": "TYC-MagazineNo5.pdf",
-                        "created": "2017-05-01T16:15:59.957458",
+                        "created": "2017-05-01T16:15:59",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:15:56"
                     },
                     "ec1624c0-56ed-4bdd-abef-f337a15819b0": {
                         "id": "ec1624c0-56ed-4bdd-abef-f337a15819b0",
                         "name": "TYC-MagazineNo6.pdf",
-                        "created": "2017-05-01T16:16:39.240557",
+                        "created": "2017-05-01T16:16:39",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:16:33"
                     },
                     "f91adb85-4618-4954-afb4-54d44451f706": {
                         "id": "f91adb85-4618-4954-afb4-54d44451f706",
                         "name": "TYC-MagazineNo7.pdf",
-                        "created": "2017-05-01T16:17:12.813856",
+                        "created": "2017-05-01T16:17:12",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:17:10"
                     }
@@ -26479,14 +26985,14 @@
                 "title": "106年度促進多元青年文化展演計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:53:10.498639",
-                "metadata_modified": "2017-05-01T07:53:26.524337",
-                "timeEnd": 1493625206,
+                "metadata_modified": "2017-05-11T06:34:16.849483",
+                "timeEnd": 1494455656,
                 "timeBegin": 1493596390,
                 "resources": {
                     "3f98366f-1c01-4b3a-b5b9-b6f71e1813c3": {
                         "id": "3f98366f-1c01-4b3a-b5b9-b6f71e1813c3",
                         "name": "106年度促進多元青年文化展演計畫.pdf",
-                        "created": "2017-05-01T15:53:26.550391",
+                        "created": "2017-05-01T15:53:26",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:53:26"
                     }
@@ -26501,21 +27007,21 @@
                 "title": "桃園市政府促進青年參與多元文化補助作業要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:11:55.027433",
-                "metadata_modified": "2017-05-01T07:12:34.613142",
-                "timeEnd": 1493622754,
+                "metadata_modified": "2017-05-11T06:33:02.700089",
+                "timeEnd": 1494455582,
                 "timeBegin": 1493593915,
                 "resources": {
                     "94870420-4604-40ea-aadd-187f89bc575d": {
                         "id": "94870420-4604-40ea-aadd-187f89bc575d",
                         "name": "桃園市政府促進青年參與多元文化補助作業要點-106修正.pdf",
-                        "created": "2017-05-01T15:12:16.125723",
+                        "created": "2017-05-01T15:12:16",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:12:15"
                     },
                     "64c75bb5-49b9-408b-9d7c-37ef1135fe92": {
                         "id": "64c75bb5-49b9-408b-9d7c-37ef1135fe92",
                         "name": "促進青年參與多元文化補助作業要點-核銷.pdf",
-                        "created": "2017-05-01T15:12:34.652405",
+                        "created": "2017-05-01T15:12:34",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:12:34"
                     }
@@ -26527,26 +27033,33 @@
             },
             "7720d428-2cce-4a5d-b03b-ce3eca06d66a": {
                 "name": "7720d428-2cce-4a5d-b03b-ce3eca06d66a",
-                "title": "桃園市青年諮詢委員會設置要點",
+                "title": "桃園市青年諮詢委員會設置要點與名冊",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T06:22:16.909040",
-                "metadata_modified": "2017-05-01T06:22:56.498341",
-                "timeEnd": 1493619776,
+                "metadata_modified": "2017-05-11T06:37:52.015362",
+                "timeEnd": 1494484672,
                 "timeBegin": 1493590936,
                 "resources": {
                     "bc870284-979e-4872-b748-b7eb99919b62": {
                         "id": "bc870284-979e-4872-b748-b7eb99919b62",
                         "name": "桃園市青年諮詢委員會設置要點.pdf",
-                        "created": "2017-05-01T14:22:44.711706",
+                        "created": "2017-05-01T14:22:44",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:22:44"
                     },
                     "de5f69f3-1561-4f52-a0da-329b5a8ae6cd": {
                         "id": "de5f69f3-1561-4f52-a0da-329b5a8ae6cd",
                         "name": "第一屆青諮會設置要點.png",
-                        "created": "2017-05-01T14:22:56.538174",
+                        "created": "2017-05-01T14:22:56",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:22:56"
+                    },
+                    "a6c373c8-9385-4687-8563-17c76d0877a3": {
+                        "id": "a6c373c8-9385-4687-8563-17c76d0877a3",
+                        "name": "青諮委員名冊及介紹.pdf",
+                        "created": "2017-05-11T14:37:52.054983",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-11T14:37:51"
                     }
                 },
                 "counters": {
@@ -26581,14 +27094,14 @@
                 "title": "106年度桃園青年多元才藝巡迴地方計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:27:16.344388",
-                "metadata_modified": "2017-05-01T07:28:30.861481",
-                "timeEnd": 1493623710,
+                "metadata_modified": "2017-05-11T06:33:43.216597",
+                "timeEnd": 1494455623,
                 "timeBegin": 1493594836,
                 "resources": {
                     "2a16513f-4259-4fe6-897f-72ccc4357be8": {
                         "id": "2a16513f-4259-4fe6-897f-72ccc4357be8",
                         "name": "多元才藝巡迴地方計畫-1051219簽准版.pdf",
-                        "created": "2017-05-01T15:28:30.907076",
+                        "created": "2017-05-01T15:28:30",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:28:30"
                     }
@@ -26603,21 +27116,21 @@
                 "title": "桃園市政府促進青年社會參與補助作業要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T06:28:45.296796",
-                "metadata_modified": "2017-05-01T06:29:18.946411",
-                "timeEnd": 1493620158,
+                "metadata_modified": "2017-05-11T06:32:42.612925",
+                "timeEnd": 1494455562,
                 "timeBegin": 1493591325,
                 "resources": {
                     "0e4e508a-ac41-4f10-bbdb-55fa06d463b4": {
                         "id": "0e4e508a-ac41-4f10-bbdb-55fa06d463b4",
                         "name": "桃園市政府促進青年社會參與補助作業要點.pdf",
-                        "created": "2017-05-01T14:29:01.043586",
+                        "created": "2017-05-01T14:29:01",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:29:00"
                     },
                     "ed26f11a-4698-42ac-b1ee-123f4d1f503b": {
                         "id": "ed26f11a-4698-42ac-b1ee-123f4d1f503b",
                         "name": "0327_ken_促進青年社會參與補助海報設計.pdf",
-                        "created": "2017-05-01T14:29:18.987577",
+                        "created": "2017-05-01T14:29:18",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:29:17"
                     }
@@ -26632,21 +27145,21 @@
                 "title": "桃園市青年創業貸款創業輔導課程費用補貼計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:37:35.563494",
-                "metadata_modified": "2017-05-01T08:38:04.631950",
-                "timeEnd": 1493627884,
+                "metadata_modified": "2017-05-11T06:31:19.664994",
+                "timeEnd": 1494455479,
                 "timeBegin": 1493599055,
                 "resources": {
                     "ea08a872-8eb9-4935-b7a5-a91cc1114ebf": {
                         "id": "ea08a872-8eb9-4935-b7a5-a91cc1114ebf",
                         "name": "桃園市青年創業貸款創業輔導課程費用補貼計畫.pdf",
-                        "created": "2017-05-01T16:37:57.376708",
+                        "created": "2017-05-01T16:37:57",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:37:57"
                     },
                     "f1f00e9e-a9d8-41bb-b969-c22db2546c02": {
                         "id": "f1f00e9e-a9d8-41bb-b969-c22db2546c02",
                         "name": "桃園市青年創業貸款創業輔導課程費用補貼計畫申請書.pdf",
-                        "created": "2017-05-01T16:38:04.664152",
+                        "created": "2017-05-01T16:38:04",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:38:04"
                     }
@@ -26683,21 +27196,21 @@
                 "title": "桃園市政府青年國際志工服務補助作業要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:17:37.263395",
-                "metadata_modified": "2017-05-01T07:17:57.969117",
-                "timeEnd": 1493623078,
+                "metadata_modified": "2017-05-11T06:33:20.798327",
+                "timeEnd": 1494455600,
                 "timeBegin": 1493594257,
                 "resources": {
                     "edc9f2f7-ce14-4485-9fe1-33736ec52320": {
                         "id": "edc9f2f7-ce14-4485-9fe1-33736ec52320",
                         "name": "青年國際志工服務補助作業要點-106修正.pdf",
-                        "created": "2017-05-01T15:17:51.835562",
+                        "created": "2017-05-01T15:17:51",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:17:51"
                     },
                     "4bcba722-7cf6-492a-bded-b30add74d2d2": {
                         "id": "4bcba722-7cf6-492a-bded-b30add74d2d2",
                         "name": "青年國際志工服務補助作業要點-核銷.pdf",
-                        "created": "2017-05-01T15:17:58.008467",
+                        "created": "2017-05-01T15:17:58",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:17:57"
                     }
@@ -26712,14 +27225,14 @@
                 "title": "106年青年創新創業國際論壇",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:19:04.886983",
-                "metadata_modified": "2017-05-01T08:19:22.836048",
-                "timeEnd": 1493626762,
+                "metadata_modified": "2017-05-11T06:34:49.668653",
+                "timeEnd": 1494455689,
                 "timeBegin": 1493597944,
                 "resources": {
                     "28520312-b32a-497b-85aa-7e34224fc009": {
                         "id": "28520312-b32a-497b-85aa-7e34224fc009",
                         "name": "106年創新創業國際論壇.pdf",
-                        "created": "2017-05-01T16:19:22.865430",
+                        "created": "2017-05-01T16:19:22",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:19:22"
                     }
@@ -26734,21 +27247,21 @@
                 "title": "青年國際視野講座_場次規劃表(青年局)-20170410",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:56:06.875874",
-                "metadata_modified": "2017-05-01T07:56:54.947549",
-                "timeEnd": 1493625414,
+                "metadata_modified": "2017-05-11T06:34:05.354719",
+                "timeEnd": 1494455645,
                 "timeBegin": 1493596566,
                 "resources": {
                     "023fe38d-d8a7-4097-a15b-926b24e0bed0": {
                         "id": "023fe38d-d8a7-4097-a15b-926b24e0bed0",
                         "name": "青年國際視野講座_場次規劃表(青年局)-20170410.pdf",
-                        "created": "2017-05-01T15:56:30.224873",
+                        "created": "2017-05-01T15:56:30",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:56:30"
                     },
                     "5105563b-11af-4340-828f-5f2f42d56db5": {
                         "id": "5105563b-11af-4340-828f-5f2f42d56db5",
                         "name": "青年國際視野講座_場次規劃表(青年局)-20170410.xlsx",
-                        "created": "2017-05-01T15:56:54.977732",
+                        "created": "2017-05-01T15:56:54",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:56:54"
                     }
@@ -26785,14 +27298,14 @@
                 "title": "106年度跨域學習計畫課程表",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:50:07.184929",
-                "metadata_modified": "2017-05-01T07:51:02.544610",
-                "timeEnd": 1493625062,
+                "metadata_modified": "2017-05-11T06:33:55.112161",
+                "timeEnd": 1494455635,
                 "timeBegin": 1493596207,
                 "resources": {
                     "61e2ea76-d439-49ae-814b-ab1d73f9e2cf": {
                         "id": "61e2ea76-d439-49ae-814b-ab1d73f9e2cf",
                         "name": "106年度跨域學習計畫課程表0419版.pdf",
-                        "created": "2017-05-01T15:51:02.571089",
+                        "created": "2017-05-01T15:51:02",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:51:02"
                     }
@@ -26858,14 +27371,14 @@
                 "title": "桃園市106年補助辦理青年職涯發展及創業主題活動計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:22:43.162286",
-                "metadata_modified": "2017-05-01T08:23:00.384779",
-                "timeEnd": 1493626980,
+                "metadata_modified": "2017-05-11T06:31:28.020419",
+                "timeEnd": 1494455488,
                 "timeBegin": 1493598163,
                 "resources": {
                     "fd407370-6b4a-4749-bf64-703285b68389": {
                         "id": "fd407370-6b4a-4749-bf64-703285b68389",
                         "name": "桃園市106年補助辦理青年職涯發展及創業主題活動計畫.pdf",
-                        "created": "2017-05-01T16:23:00.412585",
+                        "created": "2017-05-01T16:23:00",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:23:00"
                     }
@@ -26880,14 +27393,14 @@
                 "title": "桃園市「106年青年在地深耕計畫」",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T06:10:51.754192",
-                "metadata_modified": "2017-05-01T06:11:11.682115",
-                "timeEnd": 1493619071,
+                "metadata_modified": "2017-05-11T06:32:23.890378",
+                "timeEnd": 1494455543,
                 "timeBegin": 1493590251,
                 "resources": {
                     "4a28c9d3-3fff-43f9-aa76-9fde7b393e80": {
                         "id": "4a28c9d3-3fff-43f9-aa76-9fde7b393e80",
                         "name": "桃園市「106年青年在地深耕計畫」.pdf",
-                        "created": "2017-05-01T14:11:11.715069",
+                        "created": "2017-05-01T14:11:11",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T14:11:11"
                     }
@@ -26902,14 +27415,14 @@
                 "title": "桃園市106年度青年國際志工服務計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:15:19.207021",
-                "metadata_modified": "2017-05-01T07:15:38.959265",
-                "timeEnd": 1493622938,
+                "metadata_modified": "2017-05-11T06:33:11.548886",
+                "timeEnd": 1494455591,
                 "timeBegin": 1493594119,
                 "resources": {
                     "4f39f556-d7a7-4a84-972a-3671941325bc": {
                         "id": "4f39f556-d7a7-4a84-972a-3671941325bc",
                         "name": "106年青年國際志工服務補助計畫.pdf",
-                        "created": "2017-05-01T15:15:38.993463",
+                        "created": "2017-05-01T15:15:38",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T15:15:38"
                     }
@@ -26924,8 +27437,8 @@
                 "title": "106年度桃園青年行動講堂暨公共事務宣傳計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T05:29:10.142916",
-                "metadata_modified": "2017-05-01T06:05:19.198553",
-                "timeEnd": 1493617219,
+                "metadata_modified": "2017-05-11T06:32:01.677729",
+                "timeEnd": 1494455521,
                 "timeBegin": 1493587750,
                 "resources": {
                     "21a5f8dc-4ea5-4835-91a7-82aad3f42a2c": {
@@ -26946,14 +27459,14 @@
                 "title": "桃園市政府青年事務局創新創業補助活動",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:27:06.526590",
-                "metadata_modified": "2017-05-01T08:27:19.224620",
-                "timeEnd": 1493627239,
+                "metadata_modified": "2017-05-11T06:31:36.778015",
+                "timeEnd": 1494455496,
                 "timeBegin": 1493598426,
                 "resources": {
                     "b220369f-6b76-4e58-9b68-31a8a080477c": {
                         "id": "b220369f-6b76-4e58-9b68-31a8a080477c",
                         "name": "桃園市政府青年事務局創新創業補助活動.pdf",
-                        "created": "2017-05-01T16:27:19.260008",
+                        "created": "2017-05-01T16:27:19",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-01T16:27:19"
                     }
@@ -27524,5 +28037,5 @@
             }
         }
     },
-    "time_generated": 1494451953
+    "time_generated": 1494538347
 }
