@@ -783,7 +783,7 @@
     },
     "桃園市政府勞動局": {
         "counters": {
-            "datasets": 22,
+            "datasets": 25,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -814,6 +814,20 @@
                         "last_modified": "2017-03-09T10:05:33"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1898a7ca-6d98-4c07-ac5a-4b07a0e08886": {
+                "name": "1898a7ca-6d98-4c07-ac5a-4b07a0e08886",
+                "title": "104年度桃園市轄內私立就業服務機構從事跨國人力仲介服務品質評鑑結果",
+                "organization_id": "380240000j",
+                "metadata_created": "2017-05-12T02:30:58.368884",
+                "metadata_modified": "2017-05-12T02:30:59.306996",
+                "timeEnd": 1494527459,
+                "timeBegin": 1494527458,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -855,6 +869,20 @@
                     "resource_recent": 0
                 }
             },
+            "537f704f-ab76-4546-8b9c-70166ad62066": {
+                "name": "537f704f-ab76-4546-8b9c-70166ad62066",
+                "title": "桃園市產業及社福外籍勞工人數",
+                "organization_id": "380240000j",
+                "metadata_created": "2017-05-12T01:46:30.065524",
+                "metadata_modified": "2017-05-12T02:21:16.108981",
+                "timeEnd": 1494526876,
+                "timeBegin": 1494524790,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "db5caa08-3e83-4834-a8bd-7ca690044539": {
                 "name": "670b8bda-1a83-482f-8b4c-d0f03064f74e",
                 "title": "桃園市視障按摩院所及按摩小站(駐點)",
@@ -879,6 +907,20 @@
                         "last_modified": "2016-03-01T10:29:33"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6b606a95-58d5-4d30-b7cc-945321b994cd": {
+                "name": "6b606a95-58d5-4d30-b7cc-945321b994cd",
+                "title": "桃園市違反就業服務法僱用外籍勞工案件統計",
+                "organization_id": "380240000j",
+                "metadata_created": "2017-05-12T02:20:45.632406",
+                "metadata_modified": "2017-05-12T02:20:46.403747",
+                "timeEnd": 1494526846,
+                "timeBegin": 1494526845,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -10057,10 +10099,67 @@
                 "title": "污水下水道人孔位置",
                 "organization_id": "380250000g",
                 "metadata_created": "2017-05-04T03:55:37.084531",
-                "metadata_modified": "2017-05-04T03:55:38.090627",
-                "timeEnd": 1493841338,
+                "metadata_modified": "2017-05-12T01:52:58.607398",
+                "timeEnd": 1494553978,
                 "timeBegin": 1493841337,
-                "resources": [],
+                "resources": {
+                    "2a491746-05e7-43af-903a-73d6289f1919": {
+                        "id": "2a491746-05e7-43af-903a-73d6289f1919",
+                        "name": "804010203.cpg",
+                        "created": "2017-05-12T09:49:47.074252",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:49:46"
+                    },
+                    "4d440a15-9beb-4032-9ca5-78c10f121e6e": {
+                        "id": "4d440a15-9beb-4032-9ca5-78c10f121e6e",
+                        "name": "804010203.dbf",
+                        "created": "2017-05-12T09:50:23.186892",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:50:21"
+                    },
+                    "71de211a-0d5c-481d-ac56-85b4d20ec207": {
+                        "id": "71de211a-0d5c-481d-ac56-85b4d20ec207",
+                        "name": "804010203.prj",
+                        "created": "2017-05-12T09:50:33.115832",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:50:32"
+                    },
+                    "33f2c7ec-b4ca-4096-959a-0241078679b9": {
+                        "id": "33f2c7ec-b4ca-4096-959a-0241078679b9",
+                        "name": "804010203.qpj",
+                        "created": "2017-05-12T09:51:28.240151",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:51:28"
+                    },
+                    "4f4ee13a-541a-4d87-be95-5153ed01e97e": {
+                        "id": "4f4ee13a-541a-4d87-be95-5153ed01e97e",
+                        "name": "804010203.sbn",
+                        "created": "2017-05-12T09:51:52.345468",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:51:52"
+                    },
+                    "db8f51cf-3cd8-476c-b500-5c89365fd58f": {
+                        "id": "db8f51cf-3cd8-476c-b500-5c89365fd58f",
+                        "name": "804010203.sbx",
+                        "created": "2017-05-12T09:52:10.685477",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:52:10"
+                    },
+                    "5c1bf9cd-639c-4998-a481-d56a1ba08cb0": {
+                        "id": "5c1bf9cd-639c-4998-a481-d56a1ba08cb0",
+                        "name": "804010203.shp",
+                        "created": "2017-05-12T09:52:26.396599",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:52:26"
+                    },
+                    "ef71b00f-711b-42a3-93aa-5e6e4a9ade39": {
+                        "id": "ef71b00f-711b-42a3-93aa-5e6e4a9ade39",
+                        "name": "804010203.shx",
+                        "created": "2017-05-12T09:52:58.663281",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:52:58"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -10508,10 +10607,67 @@
                 "title": "污水下水道管線位置",
                 "organization_id": "380250000g",
                 "metadata_created": "2017-05-04T02:37:31.044167",
-                "metadata_modified": "2017-05-04T02:37:31.945639",
-                "timeEnd": 1493836651,
+                "metadata_modified": "2017-05-12T05:11:30.635832",
+                "timeEnd": 1494565890,
                 "timeBegin": 1493836651,
-                "resources": [],
+                "resources": {
+                    "b290811c-78ab-407f-948a-ea504f588379": {
+                        "id": "b290811c-78ab-407f-948a-ea504f588379",
+                        "name": "804010103.cpg",
+                        "created": "2017-05-12T13:09:55.080362",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:09:54"
+                    },
+                    "2921c4b4-e9f4-4a2c-85ba-e8550610eae3": {
+                        "id": "2921c4b4-e9f4-4a2c-85ba-e8550610eae3",
+                        "name": "804010103.dbf",
+                        "created": "2017-05-12T13:10:21.004624",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:10:20"
+                    },
+                    "1a3c9eac-1aa7-49d4-8a9a-14ef7305ec17": {
+                        "id": "1a3c9eac-1aa7-49d4-8a9a-14ef7305ec17",
+                        "name": "804010103.prj",
+                        "created": "2017-05-12T13:10:30.115932",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:10:29"
+                    },
+                    "d05a3a49-044a-49eb-be84-63de9728f9f3": {
+                        "id": "d05a3a49-044a-49eb-be84-63de9728f9f3",
+                        "name": "804010103.qpj",
+                        "created": "2017-05-12T13:10:37.656593",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:10:37"
+                    },
+                    "7fdd66b7-2c16-40c7-8a0b-acfb4fb23cd0": {
+                        "id": "7fdd66b7-2c16-40c7-8a0b-acfb4fb23cd0",
+                        "name": "804010103.sbn",
+                        "created": "2017-05-12T13:10:54.785531",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:10:54"
+                    },
+                    "5c298d08-dea1-416b-a040-5e1aa2249c0b": {
+                        "id": "5c298d08-dea1-416b-a040-5e1aa2249c0b",
+                        "name": "804010103.sbx",
+                        "created": "2017-05-12T13:11:08.723624",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:11:08"
+                    },
+                    "5bd71f6a-a277-441c-abc7-c85d00aca152": {
+                        "id": "5bd71f6a-a277-441c-abc7-c85d00aca152",
+                        "name": "804010103.shp",
+                        "created": "2017-05-12T13:11:17.296795",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:11:17"
+                    },
+                    "83ad7a4f-4d88-47c7-9292-2c1567b22981": {
+                        "id": "83ad7a4f-4d88-47c7-9292-2c1567b22981",
+                        "name": "804010103.shx",
+                        "created": "2017-05-12T13:11:30.685697",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:11:30"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -10928,13 +11084,57 @@
     },
     "桃園市政府消防局": {
         "counters": {
-            "datasets": 80,
+            "datasets": 101,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "00ec9789-70cc-4f92-8b61-8de8c926ef65": {
+                "name": "00ec9789-70cc-4f92-8b61-8de8c926ef65",
+                "title": "桃園市火災出動直升機統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T01:05:03.937122",
+                "metadata_modified": "2017-05-12T01:05:53.146876",
+                "timeEnd": 1494551153,
+                "timeBegin": 1494522303,
+                "resources": {
+                    "65497579-d098-4dc3-95f1-1532871c02d3": {
+                        "id": "65497579-d098-4dc3-95f1-1532871c02d3",
+                        "name": "桃園市火災出動直升機統計.csv",
+                        "created": "2017-05-12T09:05:53.184392",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:05:53"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "028728e9-e0ca-4f35-88d2-ae5adcad3867": {
+                "name": "028728e9-e0ca-4f35-88d2-ae5adcad3867",
+                "title": "桃園市政府消防局救災救護指揮中心受理行動電話量統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T01:18:00.104023",
+                "metadata_modified": "2017-05-12T01:18:26.729700",
+                "timeEnd": 1494551906,
+                "timeBegin": 1494523080,
+                "resources": {
+                    "4fd5ab3b-d162-4039-9854-7dc08631a3a6": {
+                        "id": "4fd5ab3b-d162-4039-9854-7dc08631a3a6",
+                        "name": "桃園市政府消防局救災救護指揮中心受理行動電話量統計.csv",
+                        "created": "2017-05-12T09:18:26.768716",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:18:26"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "02affcb2-3d2b-4ee1-9148-093d42dd9956": {
                 "name": "02affcb2-3d2b-4ee1-9148-093d42dd9956",
                 "title": "桃園市其他天然災害出動救災裝備",
@@ -10972,6 +11172,28 @@
                         "created": "2017-01-12T16:36:36",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-12T16:36:36"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0bb09d45-363b-40d7-8334-8ce2f49c5739": {
+                "name": "0bb09d45-363b-40d7-8334-8ce2f49c5739",
+                "title": "桃園市政府消防局年度消防大事記",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T02:16:42.151955",
+                "metadata_modified": "2017-05-12T02:17:05.590644",
+                "timeEnd": 1494555425,
+                "timeBegin": 1494526602,
+                "resources": {
+                    "fa4a6b92-35c4-42b5-92aa-b836c0eb37a7": {
+                        "id": "fa4a6b92-35c4-42b5-92aa-b836c0eb37a7",
+                        "name": "桃園市政府消防局年度消防大事記.csv",
+                        "created": "2017-05-12T10:17:05.630902",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T10:17:05"
                     }
                 },
                 "counters": {
@@ -11152,6 +11374,28 @@
                         "created": "2017-01-17T16:45:54",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-17T16:45:54"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "17e508eb-e224-45b3-b4a3-80bc053553d5": {
+                "name": "17e508eb-e224-45b3-b4a3-80bc053553d5",
+                "title": "桃園市消防分隊茶水供應等便民服務",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T02:09:57.231250",
+                "metadata_modified": "2017-05-12T02:10:20.171963",
+                "timeEnd": 1494555020,
+                "timeBegin": 1494526197,
+                "resources": {
+                    "e0b0991a-6d61-4db0-babc-f7a44ec7da72": {
+                        "id": "e0b0991a-6d61-4db0-babc-f7a44ec7da72",
+                        "name": "桃園市消防分隊茶水供應等便民服務.csv",
+                        "created": "2017-05-12T10:10:20.212646",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T10:10:20"
                     }
                 },
                 "counters": {
@@ -11408,6 +11652,28 @@
                     "resource_recent": 0
                 }
             },
+            "3c678b48-f4fe-456b-9a4c-fcc42ac2feda": {
+                "name": "3c678b48-f4fe-456b-9a4c-fcc42ac2feda",
+                "title": "桃園市火災出動人員統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T00:40:46.184332",
+                "metadata_modified": "2017-05-12T00:41:36.706532",
+                "timeEnd": 1494549696,
+                "timeBegin": 1494520846,
+                "resources": {
+                    "3f903e87-429b-4e8e-a194-91678bff4f3d": {
+                        "id": "3f903e87-429b-4e8e-a194-91678bff4f3d",
+                        "name": "桃園市火災出動人員統計.csv",
+                        "created": "2017-05-12T08:41:36.747117",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T08:41:36"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "6b8c34a5-bc3a-4a94-a990-5fc0e17d45d5": {
                 "name": "3e16878a-b7d9-4262-a47c-95ba99548009",
                 "title": "桃園市消防安全設備檢修申報",
@@ -11454,6 +11720,20 @@
                         "last_modified": "2017-05-11T14:25:17"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4280ad3f-288f-49d8-9b89-c2565bde39a1": {
+                "name": "4280ad3f-288f-49d8-9b89-c2565bde39a1",
+                "title": "桃園市政府消防局救災救護指揮中心受理公用電話量統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T01:22:27.565345",
+                "metadata_modified": "2017-05-12T01:22:28.318013",
+                "timeEnd": 1494523348,
+                "timeBegin": 1494523347,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -11909,6 +12189,28 @@
                     "resource_recent": 0
                 }
             },
+            "5e7baae6-4a72-46c6-93cd-7567bba54a7d": {
+                "name": "5e7baae6-4a72-46c6-93cd-7567bba54a7d",
+                "title": "桃園市各類場所辦理消防安全設備檢修申報期限表",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T08:08:16.840188",
+                "metadata_modified": "2017-05-12T08:08:46.331179",
+                "timeEnd": 1494576526,
+                "timeBegin": 1494547696,
+                "resources": {
+                    "32a47e18-9fe2-40db-99fd-f693ed27ee99": {
+                        "id": "32a47e18-9fe2-40db-99fd-f693ed27ee99",
+                        "name": "桃園市各類場所辦理消防安全設備檢修申報期限表.csv",
+                        "created": "2017-05-12T16:08:46.374085",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T16:08:46"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "338a8fa1-877a-4ba7-b435-79d72c06813b": {
                 "name": "5eadfc05-a519-4acc-b946-72ce2d9704e7",
                 "title": "桃園市消防緊急救護急救處置",
@@ -12227,6 +12529,28 @@
                     "resource_recent": 0
                 }
             },
+            "7449fe37-4307-4593-bd8c-e3b95b982837": {
+                "name": "7449fe37-4307-4593-bd8c-e3b95b982837",
+                "title": "桃園市政府消防局公文電子交換暨線上簽核統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T05:32:50.860774",
+                "metadata_modified": "2017-05-12T05:34:16.911710",
+                "timeEnd": 1494567256,
+                "timeBegin": 1494538370,
+                "resources": {
+                    "d937caf2-a8d6-48c7-b114-7d92e8eda3e8": {
+                        "id": "d937caf2-a8d6-48c7-b114-7d92e8eda3e8",
+                        "name": "桃園市政府消防局公文電子交換暨線上簽核統計.csv",
+                        "created": "2017-05-12T13:34:16.950396",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:34:16"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "d808c0f0-c4ea-400c-b830-6207147af666": {
                 "name": "78154552-4fdf-4c86-bcac-932bdec59b32",
                 "title": "桃園市消防局防災社區訓練場次",
@@ -12264,6 +12588,28 @@
                         "created": "2017-05-11T15:10:57.492179",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-11T15:10:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7fe25c47-2a15-4506-b247-733b10266041": {
+                "name": "7fe25c47-2a15-4506-b247-733b10266041",
+                "title": "桃園市火災出動船艇統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T01:00:09.686665",
+                "metadata_modified": "2017-05-12T01:00:34.735402",
+                "timeEnd": 1494550834,
+                "timeBegin": 1494522009,
+                "resources": {
+                    "779741b3-1733-4ef0-997d-f651414f148d": {
+                        "id": "779741b3-1733-4ef0-997d-f651414f148d",
+                        "name": "桃園市火災出動船艇統計.csv",
+                        "created": "2017-05-12T09:00:34.773398",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:00:34"
                     }
                 },
                 "counters": {
@@ -12315,6 +12661,28 @@
                     "resource_recent": 0
                 }
             },
+            "8a35817a-87fa-41dd-a0d7-8fd235267a7a": {
+                "name": "8a35817a-87fa-41dd-a0d7-8fd235267a7a",
+                "title": "桃園市政府消防局住警器推廣執行成果",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T06:54:34.382341",
+                "metadata_modified": "2017-05-12T06:55:00.342223",
+                "timeEnd": 1494572100,
+                "timeBegin": 1494543274,
+                "resources": {
+                    "8e121d93-33e5-4bf3-9ebe-390f033cc8ef": {
+                        "id": "8e121d93-33e5-4bf3-9ebe-390f033cc8ef",
+                        "name": "桃園市政府消防局住警器推廣執行成果.csv",
+                        "created": "2017-05-12T14:55:00.390524",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T14:55:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "7cd7a0a5-753e-4a39-8b81-e737a24ff4a9": {
                 "name": "8bdfe253-dd2d-4bb2-8594-adac1d6cdb48",
                 "title": "桃園市地震斷層帶圖資",
@@ -12354,6 +12722,20 @@
                         "last_modified": "2017-04-28T14:36:15"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "912db064-b7e6-42ce-8ff2-2003be78b085": {
+                "name": "912db064-b7e6-42ce-8ff2-2003be78b085",
+                "title": "桃園市政府消防局救災救護指揮中心受理其他來源統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T06:40:18.412347",
+                "metadata_modified": "2017-05-12T06:40:19.024590",
+                "timeEnd": 1494542419,
+                "timeBegin": 1494542418,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -12412,6 +12794,20 @@
                         "last_modified": "2016-05-18T14:43:05"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "96d465fb-345d-440e-b0dd-1e87ebab14a1": {
+                "name": "96d465fb-345d-440e-b0dd-1e87ebab14a1",
+                "title": "桃園市政府消防局救災救護指揮中心受理公用電話量統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T01:20:20.499572",
+                "metadata_modified": "2017-05-12T01:20:21.180799",
+                "timeEnd": 1494523221,
+                "timeBegin": 1494523220,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -12649,6 +13045,72 @@
                     "resource_recent": 0
                 }
             },
+            "aab2825c-5158-4174-b3c8-cacff1617a59": {
+                "name": "aab2825c-5158-4174-b3c8-cacff1617a59",
+                "title": "桃園市消防楷模",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T05:56:08.411099",
+                "metadata_modified": "2017-05-12T05:56:40.622348",
+                "timeEnd": 1494568600,
+                "timeBegin": 1494539768,
+                "resources": {
+                    "236aba6c-e8cf-4ba0-86d0-3cf4b4cfdd45": {
+                        "id": "236aba6c-e8cf-4ba0-86d0-3cf4b4cfdd45",
+                        "name": "桃園市消防楷模.csv",
+                        "created": "2017-05-12T13:56:40.672894",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:56:40"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "aaeca816-148e-4979-a9e7-53fe53556cb5": {
+                "name": "aaeca816-148e-4979-a9e7-53fe53556cb5",
+                "title": "桃園市政府消防局一般公文統計表",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T05:25:12.568436",
+                "metadata_modified": "2017-05-12T05:28:03.956791",
+                "timeEnd": 1494566884,
+                "timeBegin": 1494537912,
+                "resources": {
+                    "8a1423c0-f14d-4af9-b15f-b62be748b06a": {
+                        "id": "8a1423c0-f14d-4af9-b15f-b62be748b06a",
+                        "name": "桃園市政府消防局一般公文統計表_10603.csv",
+                        "created": "2017-05-12T13:28:04.007680",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:28:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b2a83113-0995-43c8-aab2-9773085a12ec": {
+                "name": "b2a83113-0995-43c8-aab2-9773085a12ec",
+                "title": "桃園市消防員工傷亡慰問情形",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T05:46:47.894518",
+                "metadata_modified": "2017-05-12T05:47:07.895465",
+                "timeEnd": 1494568027,
+                "timeBegin": 1494539207,
+                "resources": {
+                    "ef3c2d40-9e6c-452b-8d67-024d75c0149e": {
+                        "id": "ef3c2d40-9e6c-452b-8d67-024d75c0149e",
+                        "name": "桃園市消防員工傷亡慰問情形_105年.csv",
+                        "created": "2017-05-12T13:47:07.928225",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:47:07"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "a206e5c8-ac52-4d6b-9874-8af6f8ca7637": {
                 "name": "b3ba3855-984a-4e6a-8320-0aa913b37aa1",
                 "title": "桃園市政府消防局歷年救護相關資料統計",
@@ -12710,6 +13172,20 @@
                         "last_modified": "2017-05-11T16:39:03"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b956ad55-9717-4b73-99f5-4a196e7c6344": {
+                "name": "b956ad55-9717-4b73-99f5-4a196e7c6344",
+                "title": "桃園市政府消防局救災救護指揮中心受理其他來源統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T06:39:18.068345",
+                "metadata_modified": "2017-05-12T06:39:18.892177",
+                "timeEnd": 1494542358,
+                "timeBegin": 1494542358,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -12896,6 +13372,28 @@
                     "resource_recent": 0
                 }
             },
+            "e0e90a73-6c77-4058-a609-93d435daac55": {
+                "name": "e0e90a73-6c77-4058-a609-93d435daac55",
+                "title": "桃園市火災出動車輛統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T00:46:22.870252",
+                "metadata_modified": "2017-05-12T00:48:22.041785",
+                "timeEnd": 1494550102,
+                "timeBegin": 1494521182,
+                "resources": {
+                    "8bcb4404-51ee-431c-afcd-4e06d1b0aad2": {
+                        "id": "8bcb4404-51ee-431c-afcd-4e06d1b0aad2",
+                        "name": "桃園市火災出動車輛統計.csv",
+                        "created": "2017-05-12T08:48:22.079939",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T08:48:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e3c33905-1b6e-4b78-aad3-53247de5c32a": {
                 "name": "e3c33905-1b6e-4b78-aad3-53247de5c32a",
                 "title": "桃園市其他天然災害建物損失",
@@ -12918,6 +13416,28 @@
                     "resource_recent": 0
                 }
             },
+            "e735fc72-4ee8-4e2c-a49d-66fa3bd5d47e": {
+                "name": "e735fc72-4ee8-4e2c-a49d-66fa3bd5d47e",
+                "title": "桃園市消防人力",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T05:41:35.329955",
+                "metadata_modified": "2017-05-12T05:43:31.190213",
+                "timeEnd": 1494567811,
+                "timeBegin": 1494538895,
+                "resources": {
+                    "4e50c6df-9264-4b70-831d-8114db4dd38e": {
+                        "id": "4e50c6df-9264-4b70-831d-8114db4dd38e",
+                        "name": "桃園市消防人力_105年.csv",
+                        "created": "2017-05-12T13:43:31.246273",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T13:43:31"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e7702140-1480-4a11-accc-80cd9f0f6ca7": {
                 "name": "e7702140-1480-4a11-accc-80cd9f0f6ca7",
                 "title": "桃園市震災災害出動救災人次",
@@ -12933,6 +13453,28 @@
                         "created": "2017-05-11T14:00:30.373746",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-11T14:00:30"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e770faab-6e80-4dad-8a6d-a0171e1498bf": {
+                "name": "e770faab-6e80-4dad-8a6d-a0171e1498bf",
+                "title": "桃園市政府消防局救災救護指揮中心受理市內電話量統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T01:12:25.575863",
+                "metadata_modified": "2017-05-12T01:16:08.098417",
+                "timeEnd": 1494551768,
+                "timeBegin": 1494522745,
+                "resources": {
+                    "942fead2-8177-42f5-994a-0d3b23a719cd": {
+                        "id": "942fead2-8177-42f5-994a-0d3b23a719cd",
+                        "name": "桃園市政府消防局救災救護指揮中心受理市內電話量統計.csv",
+                        "created": "2017-05-12T09:16:08.150718",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T09:16:06"
                     }
                 },
                 "counters": {
@@ -13022,6 +13564,34 @@
                         "last_modified": "2017-05-02T17:00:10"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f6005357-35e7-4482-a394-b1f699d458fd": {
+                "name": "f6005357-35e7-4482-a394-b1f699d458fd",
+                "title": "桃園市政府消防局救災救護指揮中心受理公用電話量統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T01:20:55.489702",
+                "metadata_modified": "2017-05-12T01:20:56.233580",
+                "timeEnd": 1494523256,
+                "timeBegin": 1494523255,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f8437be9-5d47-4ac7-99e3-eaad9ac77ae8": {
+                "name": "f8437be9-5d47-4ac7-99e3-eaad9ac77ae8",
+                "title": "桃園市政府消防局救災救護指揮中心受理公用電話量統計",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-05-12T02:01:42.045712",
+                "metadata_modified": "2017-05-12T02:01:42.787836",
+                "timeEnd": 1494525702,
+                "timeBegin": 1494525702,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -16408,7 +16978,7 @@
     },
     "桃園市政府秘書處": {
         "counters": {
-            "datasets": 3,
+            "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -16452,6 +17022,28 @@
                         "created": "2017-03-01T16:09:44",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-01T16:09:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8d674c39-ac64-4113-b80a-896ae2eb45f5": {
+                "name": "8d674c39-ac64-4113-b80a-896ae2eb45f5",
+                "title": "桃園市政府檔案閱覽抄錄複製收費標準",
+                "organization_id": "380010000a",
+                "metadata_created": "2017-05-12T04:19:43.557216",
+                "metadata_modified": "2017-05-12T08:09:54.099229",
+                "timeEnd": 1494573311,
+                "timeBegin": 1494533983,
+                "resources": {
+                    "d88617d6-a623-49e4-b958-02cc62eeaacd": {
+                        "id": "d88617d6-a623-49e4-b958-02cc62eeaacd",
+                        "name": "桃園市政府檔案閱覽抄錄複製收費標準.csv",
+                        "created": "2017-05-12T15:15:11",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-05-12T15:15:11"
                     }
                 },
                 "counters": {
@@ -27989,16 +28581,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-05-10T00:44:14.149455",
-                "timeEnd": 1494377054,
+                "metadata_modified": "2017-05-12T06:08:20.077689",
+                "timeEnd": 1494569300,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "b682fa4c-7e35-44e5-91dc-22c657b42826": {
-                        "id": "b682fa4c-7e35-44e5-91dc-22c657b42826",
+                    "607a91ab-66e5-4d0c-bd9f-f3902004f9af": {
+                        "id": "607a91ab-66e5-4d0c-bd9f-f3902004f9af",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-05-10T08:44:14.256828",
+                        "created": "2017-05-12T14:08:20.169099",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-10T08:44:13"
+                        "last_modified": "2017-05-12T14:08:19"
                     }
                 },
                 "counters": {
@@ -28011,8 +28603,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-05-10T00:44:40.559345",
-                "timeEnd": 1494377080,
+                "metadata_modified": "2017-05-12T06:08:01.031879",
+                "timeEnd": 1494569281,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -28022,12 +28614,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "b85e7195-e785-4d8e-9875-fdbea2e28f9d": {
-                        "id": "b85e7195-e785-4d8e-9875-fdbea2e28f9d",
+                    "1937d04b-f299-4f55-ac5a-c95e1a3ed196": {
+                        "id": "1937d04b-f299-4f55-ac5a-c95e1a3ed196",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-05-10T08:44:40.671220",
+                        "created": "2017-05-12T14:08:01.183480",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-10T08:44:40"
+                        "last_modified": "2017-05-12T14:08:00"
                     }
                 },
                 "counters": {
@@ -28037,5 +28629,5 @@
             }
         }
     },
-    "time_generated": 1494538347
+    "time_generated": 1494624739
 }
