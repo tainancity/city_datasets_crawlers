@@ -2405,7 +2405,7 @@
     },
     "桃園市政府地政局": {
         "counters": {
-            "datasets": 122,
+            "datasets": 123,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -6072,6 +6072,28 @@
                         "created": "2016-12-28T16:56:23",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-28T17:01:40"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e7f38b29-901c-444d-ac7a-483a941a60ce": {
+                "name": "e7f38b29-901c-444d-ac7a-483a941a60ce",
+                "title": "桃園市房地產消費糾紛原因及來源明細統計表",
+                "organization_id": "380160000a",
+                "metadata_created": "2017-06-01T06:13:06.476457",
+                "metadata_modified": "2017-06-01T07:26:08.404122",
+                "timeEnd": 1496301968,
+                "timeBegin": 1496268786,
+                "resources": {
+                    "c9dd38bd-d9af-4015-83de-4a005717b629": {
+                        "id": "c9dd38bd-d9af-4015-83de-4a005717b629",
+                        "name": "桃園市106年第1季房地產消費糾紛統計表.csv",
+                        "created": "2017-06-01T15:26:08.458241",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T15:26:08"
                     }
                 },
                 "counters": {
@@ -11400,30 +11422,72 @@
                 "title": "淹水潛勢圖",
                 "organization_id": "380250000g",
                 "metadata_created": "2017-03-15T08:14:43.805520",
-                "metadata_modified": "2017-03-30T07:10:33.413511",
-                "timeEnd": 1490829033,
+                "metadata_modified": "2017-06-01T10:30:57.451668",
+                "timeEnd": 1496313057,
                 "timeBegin": 1489536883,
                 "resources": {
-                    "268a05d5-4756-4e03-862b-f42db6d74ec7": {
-                        "id": "268a05d5-4756-4e03-862b-f42db6d74ec7",
-                        "name": "一日累積雨量200mm淹水潛勢圖.kml",
-                        "created": "2017-03-15T16:17:34",
+                    "8338b997-7fa6-4f8d-90ec-427fc8986cc3": {
+                        "id": "8338b997-7fa6-4f8d-90ec-427fc8986cc3",
+                        "name": "桃園市R200.dbf",
+                        "created": "2017-06-01T18:27:39.274184",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-15T16:17:34"
+                        "last_modified": "2017-06-01T18:27:39"
                     },
-                    "f9280a9a-c772-4612-9aca-7827d5c70832": {
-                        "id": "f9280a9a-c772-4612-9aca-7827d5c70832",
-                        "name": "一日累積雨量450mm淹水潛勢圖.kml",
-                        "created": "2017-03-15T16:17:48",
+                    "6897b82d-184d-4cf4-b063-d1d500145e51": {
+                        "id": "6897b82d-184d-4cf4-b063-d1d500145e51",
+                        "name": "桃園市R200.shp",
+                        "created": "2017-06-01T18:27:50.263287",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-15T16:17:48"
+                        "last_modified": "2017-06-01T18:27:49"
                     },
-                    "2fb0ba51-14f0-46ea-b4de-3731c8e20859": {
-                        "id": "2fb0ba51-14f0-46ea-b4de-3731c8e20859",
-                        "name": "一日累積雨量600mm淹水潛勢圖.kml",
-                        "created": "2017-03-15T16:17:55",
+                    "05765cea-5edd-467f-9ebf-e100fd586ee7": {
+                        "id": "05765cea-5edd-467f-9ebf-e100fd586ee7",
+                        "name": "桃園市R200.shx",
+                        "created": "2017-06-01T18:27:57.400870",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-15T16:17:55"
+                        "last_modified": "2017-06-01T18:27:57"
+                    },
+                    "28823f07-2446-4db4-9e26-4185ffc341f5": {
+                        "id": "28823f07-2446-4db4-9e26-4185ffc341f5",
+                        "name": "桃園市R450.dbf",
+                        "created": "2017-06-01T18:28:09.215812",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T18:28:09"
+                    },
+                    "0ac4b507-9f31-46c5-bf46-9e4a1738c409": {
+                        "id": "0ac4b507-9f31-46c5-bf46-9e4a1738c409",
+                        "name": "桃園市R450.shp",
+                        "created": "2017-06-01T18:28:21.279724",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T18:28:20"
+                    },
+                    "ed784146-548d-4f18-a184-3309526c2052": {
+                        "id": "ed784146-548d-4f18-a184-3309526c2052",
+                        "name": "桃園市R450.shx",
+                        "created": "2017-06-01T18:28:29.295581",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T18:28:29"
+                    },
+                    "ff7732d7-0489-4bf3-8e23-05eaf4f1163c": {
+                        "id": "ff7732d7-0489-4bf3-8e23-05eaf4f1163c",
+                        "name": "桃園市R600.dbf",
+                        "created": "2017-06-01T18:30:40.097606",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T18:30:39"
+                    },
+                    "2105ce7c-3367-436f-aa24-457d88174aae": {
+                        "id": "2105ce7c-3367-436f-aa24-457d88174aae",
+                        "name": "桃園市R600.shp",
+                        "created": "2017-06-01T18:30:49.607628",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T18:30:49"
+                    },
+                    "c84093b4-f078-40fa-bfed-3328f87a685a": {
+                        "id": "c84093b4-f078-40fa-bfed-3328f87a685a",
+                        "name": "桃園市R600.shx",
+                        "created": "2017-06-01T18:30:57.506135",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T18:30:57"
                     }
                 },
                 "counters": {
@@ -15067,7 +15131,7 @@
     },
     "桃園市政府環境保護局": {
         "counters": {
-            "datasets": 36,
+            "datasets": 37,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -16026,6 +16090,20 @@
                         "last_modified": "2017-01-13T11:20:03"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f7d42006-3748-44d7-86e4-b5e2a778b300": {
+                "name": "f7d42006-3748-44d7-86e4-b5e2a778b300",
+                "title": "桃園市政府106年度戶外噴藥期程",
+                "organization_id": "380150000i",
+                "metadata_created": "2017-06-01T05:52:51.697291",
+                "metadata_modified": "2017-06-01T05:52:52.484852",
+                "timeEnd": 1496267572,
+                "timeBegin": 1496267571,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -18550,7 +18628,7 @@
     },
     "桃園市政府經濟發展局": {
         "counters": {
-            "datasets": 34,
+            "datasets": 38,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -18621,6 +18699,28 @@
                     "resource_recent": 0
                 }
             },
+            "0c80f0c9-1ca3-4ccf-899b-5f16059d5bac": {
+                "name": "0c80f0c9-1ca3-4ccf-899b-5f16059d5bac",
+                "title": "瓦斯行",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-06-01T02:38:55.380629",
+                "metadata_modified": "2017-06-01T09:26:03.636797",
+                "timeEnd": 1496309152,
+                "timeBegin": 1496255935,
+                "resources": {
+                    "fc5cef6f-e97a-4c00-a505-e8491a9b7be8": {
+                        "id": "fc5cef6f-e97a-4c00-a505-e8491a9b7be8",
+                        "name": "瓦斯行.csv",
+                        "created": "2017-06-01T17:25:52.897860",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T17:25:52"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "11a96cb3-0cc8-4567-8b6e-4743de8069c0": {
                 "name": "11a96cb3-0cc8-4567-8b6e-4743de8069c0",
                 "title": "中尖載機組發電量(萬瓩)",
@@ -18658,6 +18758,28 @@
                         "created": "2017-02-14T14:39:10",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-14T14:39:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1f4d57bf-7b89-4bc2-84a8-c6b85ac645dd": {
+                "name": "1f4d57bf-7b89-4bc2-84a8-c6b85ac645dd",
+                "title": "電氣承裝－登記家數清冊",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-06-01T02:18:54.949449",
+                "metadata_modified": "2017-06-01T09:27:37.305326",
+                "timeEnd": 1496309238,
+                "timeBegin": 1496254734,
+                "resources": {
+                    "50b62342-8498-4fb4-bb89-9e45a6906859": {
+                        "id": "50b62342-8498-4fb4-bb89-9e45a6906859",
+                        "name": "電氣承裝－登記家數清冊(登記核淮日期：-10605.csv",
+                        "created": "2017-06-01T17:27:18.973499",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T17:27:18"
                     }
                 },
                 "counters": {
@@ -19129,6 +19251,28 @@
                     "resource_recent": 0
                 }
             },
+            "83fdfecb-f410-4481-8dee-d82c316430e3": {
+                "name": "83fdfecb-f410-4481-8dee-d82c316430e3",
+                "title": "桃園市加油站營業名冊",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-06-01T09:01:11.817510",
+                "metadata_modified": "2017-06-01T09:20:22.430664",
+                "timeEnd": 1496308822,
+                "timeBegin": 1496278871,
+                "resources": {
+                    "2a4bebcb-adb2-43bc-a243-b64f3c0a3dd7": {
+                        "id": "2a4bebcb-adb2-43bc-a243-b64f3c0a3dd7",
+                        "name": "加油站營業名冊.csv",
+                        "created": "2017-06-01T17:20:22.483582",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T17:20:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "881fea9c-3318-408f-a191-38c7cd88d2fb": {
                 "name": "881fea9c-3318-408f-a191-38c7cd88d2fb",
                 "title": "公司登記異動表",
@@ -19499,6 +19643,28 @@
                     "resource_recent": 0
                 }
             },
+            "ed942ee4-aff8-4a4a-973e-a29efb979cd7": {
+                "name": "ed942ee4-aff8-4a4a-973e-a29efb979cd7",
+                "title": "桃園市加氣站營業名冊",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-06-01T09:05:35.092265",
+                "metadata_modified": "2017-06-01T09:19:54.497446",
+                "timeEnd": 1496308794,
+                "timeBegin": 1496279135,
+                "resources": {
+                    "556f20c2-5601-42d0-97a1-20b85d678613": {
+                        "id": "556f20c2-5601-42d0-97a1-20b85d678613",
+                        "name": "加氣站.csv",
+                        "created": "2017-06-01T17:19:54.543797",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T17:19:54"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "f7bb174e-9349-478e-b919-f59a9544d27a": {
                 "name": "f7bb174e-9349-478e-b919-f59a9544d27a",
                 "title": "104年11月份工業和民生用電量",
@@ -19581,8 +19747,8 @@
                 "title": "桃園市登革熱確診個案分布",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-12T01:57:16.097596",
-                "metadata_modified": "2017-05-08T10:41:01.360904",
-                "timeEnd": 1494240061,
+                "metadata_modified": "2017-06-01T08:52:07.010600",
+                "timeEnd": 1496307103,
                 "timeBegin": 1470938236,
                 "resources": {
                     "be2864cd-6fc6-4104-8285-a9bc139fcc71": {
@@ -19592,12 +19758,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-09T17:50:16"
                     },
-                    "b398cd1a-66df-44fe-9c6f-abe489e44cde": {
-                        "id": "b398cd1a-66df-44fe-9c6f-abe489e44cde",
-                        "name": "106年登革熱確診個案(0508更新).csv",
-                        "created": "2017-05-08T18:41:01",
+                    "5818a2b3-810d-4711-ac37-1ce68271183d": {
+                        "id": "5818a2b3-810d-4711-ac37-1ce68271183d",
+                        "name": "106年登革熱確診個案(0601更新).csv",
+                        "created": "2017-06-01T16:51:43.062223",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-08T18:41:01"
+                        "last_modified": "2017-06-01T16:51:42"
                     }
                 },
                 "counters": {
@@ -22072,7 +22238,7 @@
     },
     "桃園市政府觀光旅遊局": {
         "counters": {
-            "datasets": 27,
+            "datasets": 29,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -22171,6 +22337,28 @@
                         "created": "2017-04-26T13:42:39.470515",
                         "webstore_last_updated": null,
                         "last_modified": "2017-04-26T13:42:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "04411e4e-2b6d-4ea0-8ea8-f107510b18a8": {
+                "name": "04411e4e-2b6d-4ea0-8ea8-f107510b18a8",
+                "title": "桃園市105年旅遊服務中心旅客到站人次及諮詢人次",
+                "organization_id": "380300000h",
+                "metadata_created": "2017-06-01T05:52:07.812810",
+                "metadata_modified": "2017-06-01T06:19:19.210839",
+                "timeEnd": 1496296914,
+                "timeBegin": 1496267527,
+                "resources": {
+                    "ad16ad45-14e9-4638-bd5f-ceeb7d8594e8": {
+                        "id": "ad16ad45-14e9-4638-bd5f-ceeb7d8594e8",
+                        "name": "105旅服旅客諮詢人次及到站人次.csv",
+                        "created": "2017-06-01T14:01:54",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T14:01:54"
                     }
                 },
                 "counters": {
@@ -22664,6 +22852,28 @@
                         "created": "2015-10-26T14:22:34",
                         "webstore_last_updated": null,
                         "last_modified": "2016-08-10T13:51:05"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4ecfeb5b-e5e0-4b06-9002-72b0a288e187": {
+                "name": "4ecfeb5b-e5e0-4b06-9002-72b0a288e187",
+                "title": "桃園市104年旅遊服務中心旅客到站人次及諮詢人次",
+                "organization_id": "380300000h",
+                "metadata_created": "2017-06-01T05:53:41.980923",
+                "metadata_modified": "2017-06-01T06:23:40.219057",
+                "timeEnd": 1496298220,
+                "timeBegin": 1496267621,
+                "resources": {
+                    "ea4c382c-60d7-467e-bb81-96718bb52a34": {
+                        "id": "ea4c382c-60d7-467e-bb81-96718bb52a34",
+                        "name": "104旅服旅客諮詢人次及到站人次.csv",
+                        "created": "2017-06-01T14:23:40.263902",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-01T14:23:40"
                     }
                 },
                 "counters": {
@@ -30465,5 +30675,5 @@
             }
         }
     },
-    "time_generated": 1496266367
+    "time_generated": 1496352753
 }
