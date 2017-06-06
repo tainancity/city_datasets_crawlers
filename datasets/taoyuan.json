@@ -7038,13 +7038,21 @@
             },
             "3380a379-c1f6-4567-b790-19eacfd1104a": {
                 "name": "3380a379-c1f6-4567-b790-19eacfd1104a",
-                "title": "桃園市最近5年契稅綜合統計表",
+                "title": "105年桃園市使用牌照稅稅源表",
                 "organization_id": "380260000d",
                 "metadata_created": "2017-02-14T10:28:09.096257",
-                "metadata_modified": "2017-02-14T10:28:10.010368",
-                "timeEnd": 1487039290,
+                "metadata_modified": "2017-06-06T02:33:13.702909",
+                "timeEnd": 1496716393,
                 "timeBegin": 1487039289,
-                "resources": [],
+                "resources": {
+                    "d472a2bc-c148-4d1e-b0ae-70b5a4096954": {
+                        "id": "d472a2bc-c148-4d1e-b0ae-70b5a4096954",
+                        "name": "使用牌照稅稅源.xlsx",
+                        "created": "2017-06-06T10:33:13.755089",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T10:33:13"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -9095,7 +9103,7 @@
     },
     "桃園市政府政風處": {
         "counters": {
-            "datasets": 6,
+            "datasets": 7,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -9440,6 +9448,20 @@
                     "resource_recent": 0
                 }
             },
+            "9c9f3061-7019-44c2-bd3f-20b858054541": {
+                "name": "9c9f3061-7019-44c2-bd3f-20b858054541",
+                "title": "政府政風處暨各政風機構(單位)受理財產申報人數",
+                "organization_id": "380230000a",
+                "metadata_created": "2017-06-06T08:37:35.405543",
+                "metadata_modified": "2017-06-06T08:42:43.884239",
+                "timeEnd": 1496709763,
+                "timeBegin": 1496709455,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "ad4d9517-518a-4ea6-991e-a14011f2f021": {
                 "name": "ad4d9517-518a-4ea6-991e-a14011f2f021",
                 "title": "桃園市政府政風處貪瀆案件檢舉獎金給獎標準",
@@ -9467,8 +9489,8 @@
                 "title": "桃園市政府採購稽核分級管制列等審核一覽表",
                 "organization_id": "380230000a",
                 "metadata_created": "2017-05-05T07:32:39.622547",
-                "metadata_modified": "2017-06-02T03:10:23.651279",
-                "timeEnd": 1496344223,
+                "metadata_modified": "2017-06-06T06:54:05.198361",
+                "timeEnd": 1496731386,
                 "timeBegin": 1493940759,
                 "resources": {
                     "1858a5da-b1ad-4001-a203-5c9644eada4d": {
@@ -9485,12 +9507,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-05T15:36:30"
                     },
-                    "d0a14043-0260-480c-a2aa-2221406968a9": {
-                        "id": "d0a14043-0260-480c-a2aa-2221406968a9",
-                        "name": "分級管制列等審核表1060217-總表.xls",
-                        "created": "2017-05-05T15:36:51",
+                    "58e2922f-f368-4038-bb9d-8b1dd9019f99": {
+                        "id": "58e2922f-f368-4038-bb9d-8b1dd9019f99",
+                        "name": "分級管制列等審核表1060217-總表.csv",
+                        "created": "2017-06-06T14:43:06",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-05T15:36:50"
+                        "last_modified": "2017-06-06T14:43:06"
                     }
                 },
                 "counters": {
@@ -12082,16 +12104,44 @@
                 "title": "桃園市山坡地範圍",
                 "organization_id": "380250000g",
                 "metadata_created": "2017-03-16T05:53:38.416896",
-                "metadata_modified": "2017-03-30T07:10:17.403236",
-                "timeEnd": 1490829017,
+                "metadata_modified": "2017-06-06T01:27:20.800258",
+                "timeEnd": 1496712440,
                 "timeBegin": 1489614818,
                 "resources": {
                     "01323e35-dadc-425a-b553-3237855fbde0": {
                         "id": "01323e35-dadc-425a-b553-3237855fbde0",
-                        "name": "桃園山坡地範圍圖_67.shp",
-                        "created": "2017-03-16T14:00:39",
+                        "name": "桃園山坡地範圍圖_97.dbf",
+                        "created": "2017-06-06T09:26:19",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-03-16T14:00:39"
+                        "last_modified": "2017-06-06T09:26:19"
+                    },
+                    "340af0e9-f8c0-4b36-8027-a25aa2d150a4": {
+                        "id": "340af0e9-f8c0-4b36-8027-a25aa2d150a4",
+                        "name": "桃園山坡地範圍圖_97.sbn",
+                        "created": "2017-06-06T09:26:42.722165",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T09:26:42"
+                    },
+                    "5aead31e-70c5-49dc-912f-88636e45adaa": {
+                        "id": "5aead31e-70c5-49dc-912f-88636e45adaa",
+                        "name": "桃園山坡地範圍圖_97.sbx",
+                        "created": "2017-06-06T09:26:57.635030",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T09:26:57"
+                    },
+                    "4e8ad49c-989b-4b99-8f04-561c97b35f10": {
+                        "id": "4e8ad49c-989b-4b99-8f04-561c97b35f10",
+                        "name": "桃園山坡地範圍圖_97.shp",
+                        "created": "2017-06-06T09:27:10.494326",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T09:27:10"
+                    },
+                    "22add6d2-bf72-4022-8e35-6957cb9a271c": {
+                        "id": "22add6d2-bf72-4022-8e35-6957cb9a271c",
+                        "name": "桃園山坡地範圍圖_97.shx",
+                        "created": "2017-06-06T09:27:20.854043",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T09:27:20"
                     }
                 },
                 "counters": {
@@ -12367,13 +12417,57 @@
     },
     "桃園市政府法務局": {
         "counters": {
-            "datasets": 2,
+            "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "10a69c34-abfd-4a04-9650-f827a9f30fe7": {
+                "name": "10a69c34-abfd-4a04-9650-f827a9f30fe7",
+                "title": "桃園市政府105年度消費爭議申訴案暨調解案類型分析",
+                "organization_id": "380430000a",
+                "metadata_created": "2017-06-06T07:18:10.699977",
+                "metadata_modified": "2017-06-06T08:21:53.951749",
+                "timeEnd": 1496736862,
+                "timeBegin": 1496704690,
+                "resources": {
+                    "0b1cb40a-687b-4a23-b4c4-03fb03fe4997": {
+                        "id": "0b1cb40a-687b-4a23-b4c4-03fb03fe4997",
+                        "name": "桃園市政府105年度消費爭議申訴案暨調解案類型分析(105年1-12月).csv",
+                        "created": "2017-06-06T16:14:22",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T16:14:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "16c56f2e-ee6f-402d-82f4-cae35772290a": {
+                "name": "16c56f2e-ee6f-402d-82f4-cae35772290a",
+                "title": "桃園市政府105年度消費諮詢專線電話（1950及5715分機）統計總表",
+                "organization_id": "380430000a",
+                "metadata_created": "2017-06-06T07:20:40.631196",
+                "metadata_modified": "2017-06-06T08:23:02.875407",
+                "timeEnd": 1496736948,
+                "timeBegin": 1496704840,
+                "resources": {
+                    "4204f425-f165-48c9-92a2-12133ea62f20": {
+                        "id": "4204f425-f165-48c9-92a2-12133ea62f20",
+                        "name": "桃園市政府105年度消費諮詢專線電話（1950及5715分機）統計總表(105年1~12月)CSV.csv",
+                        "created": "2017-06-06T16:15:48",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T16:15:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "edcadd24-ce13-41b8-b2d3-7d38bdd51840": {
                 "name": "49961cc4-bd29-4ff7-a94a-43b8c2471009",
                 "title": "桃園市政府104年度消費爭議申訴案暨調解案件類型分析",
@@ -14073,16 +14167,16 @@
                 "title": "桃園市政府消防局公文電子交換暨線上簽核統計",
                 "organization_id": "380320000a",
                 "metadata_created": "2017-05-12T05:32:50.860774",
-                "metadata_modified": "2017-05-15T07:43:48.894674",
-                "timeEnd": 1494834214,
+                "metadata_modified": "2017-06-06T06:12:32.147580",
+                "timeEnd": 1496729519,
                 "timeBegin": 1494538370,
                 "resources": {
-                    "7d7af9a9-18a6-45e9-8599-d36570039434": {
-                        "id": "7d7af9a9-18a6-45e9-8599-d36570039434",
-                        "name": "桃園市政府消防局公文電子交換暨線上簽核統計_10604.csv",
-                        "created": "2017-05-15T15:43:34.863976",
+                    "ff6ace78-649a-4245-b548-c0e0ed1e740d": {
+                        "id": "ff6ace78-649a-4245-b548-c0e0ed1e740d",
+                        "name": "桃園市政府消防局公文電子交換暨線上簽核統計10605.csv",
+                        "created": "2017-06-06T14:11:59.980806",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-15T15:43:34"
+                        "last_modified": "2017-06-06T14:11:59"
                     }
                 },
                 "counters": {
@@ -14646,16 +14740,16 @@
                 "title": "桃園市政府消防局一般公文統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2017-05-12T05:25:12.568436",
-                "metadata_modified": "2017-05-15T07:45:17.760948",
-                "timeEnd": 1494834308,
+                "metadata_modified": "2017-06-06T06:10:54.583699",
+                "timeEnd": 1496729293,
                 "timeBegin": 1494537912,
                 "resources": {
-                    "efb437eb-7dd3-4034-9d1d-19325217eca7": {
-                        "id": "efb437eb-7dd3-4034-9d1d-19325217eca7",
-                        "name": "桃園市政府消防局一般公文統計表_10604.csv",
-                        "created": "2017-05-15T15:45:08.785888",
+                    "7a1b3018-e719-40fc-ae08-d79c1f38e276": {
+                        "id": "7a1b3018-e719-40fc-ae08-d79c1f38e276",
+                        "name": "桃園市政府消防局一般公文統計表10605.csv",
+                        "created": "2017-06-06T14:08:13.322292",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-15T15:45:08"
+                        "last_modified": "2017-06-06T14:08:13"
                     }
                 },
                 "counters": {
@@ -15198,37 +15292,16 @@
                 "title": "桃園市政府消防局人民申請案統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:12:49.480926",
-                "metadata_modified": "2017-05-02T09:00:10.981070",
-                "timeEnd": 1493715611,
+                "metadata_modified": "2017-06-06T06:13:11.497847",
+                "timeEnd": 1496729214,
                 "timeBegin": 1462302769,
                 "resources": {
-                    "fb7fd6ec-d717-42e6-b434-d6cad0d17a9b": {
-                        "id": "fb7fd6ec-d717-42e6-b434-d6cad0d17a9b",
-                        "name": "桃園市政府消防局人民申請案統計表10601.csv",
-                        "created": "2017-02-21T09:59:36",
+                    "96a931e0-8510-4766-9d39-a58bc222264d": {
+                        "id": "96a931e0-8510-4766-9d39-a58bc222264d",
+                        "name": "桃園市政府消防局人民申請案統計表10605.csv",
+                        "created": "2017-06-06T14:06:54.616796",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-02-21T09:59:35"
-                    },
-                    "3a0b7702-9abd-4211-8bf1-7284d5d6878e": {
-                        "id": "3a0b7702-9abd-4211-8bf1-7284d5d6878e",
-                        "name": "桃園市政府消防局人民申請案統計表10602.csv",
-                        "created": "2017-03-01T12:04:38",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-03-01T12:04:38"
-                    },
-                    "816ace45-3fb7-4a4f-9285-757b4fd08021": {
-                        "id": "816ace45-3fb7-4a4f-9285-757b4fd08021",
-                        "name": "桃園市政府消防局人民申請案統計表10603.csv",
-                        "created": "2017-04-06T11:40:15",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-04-06T11:40:15"
-                    },
-                    "efe4d850-31a7-410f-a253-3046a90ca5c7": {
-                        "id": "efe4d850-31a7-410f-a253-3046a90ca5c7",
-                        "name": "桃園市政府消防局人民申請案統計表10604.csv",
-                        "created": "2017-05-02T17:00:11.037523",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-05-02T17:00:10"
+                        "last_modified": "2017-06-06T14:06:54"
                     }
                 },
                 "counters": {
@@ -20795,8 +20868,8 @@
                 "title": "桃園市衛政三項長照服務(居家護理、居家復健及喘息服務)合約單位",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-07-28T12:53:10.585506",
-                "metadata_modified": "2017-03-02T04:33:17.446736",
-                "timeEnd": 1488400397,
+                "metadata_modified": "2017-06-06T01:07:43.509057",
+                "timeEnd": 1496682463,
                 "timeBegin": 1469681590,
                 "resources": {
                     "be6586c4-7573-48fb-b660-398aaba96509": {
@@ -24570,7 +24643,7 @@
     },
     "桃園市政府警察局": {
         "counters": {
-            "datasets": 85,
+            "datasets": 104,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -24614,6 +24687,50 @@
                         "created": "2017-05-31T14:14:10",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-31T14:14:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "05eb98ac-474b-41fe-b880-e06b72cc25a8": {
+                "name": "05eb98ac-474b-41fe-b880-e06b72cc25a8",
+                "title": "桃園市104年A2道路交通事故-道路型態統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T05:43:07.689794",
+                "metadata_modified": "2017-06-06T05:47:52.772702",
+                "timeEnd": 1496727803,
+                "timeBegin": 1496698987,
+                "resources": {
+                    "360e2fea-a117-4aaf-a430-abbfe8fa2b10": {
+                        "id": "360e2fea-a117-4aaf-a430-abbfe8fa2b10",
+                        "name": "07.csv",
+                        "created": "2017-06-06T13:43:23",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T13:43:23"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "08d560b5-7cf2-4909-8a02-da39c74d8b09": {
+                "name": "08d560b5-7cf2-4909-8a02-da39c74d8b09",
+                "title": "桃園市105年A1道路交通事故-受傷年齡與行動狀態統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:46:13.032351",
+                "metadata_modified": "2017-06-06T10:47:01.264984",
+                "timeEnd": 1496745995,
+                "timeBegin": 1496717173,
+                "resources": {
+                    "1fd28cf7-617f-4a71-804f-36760664149f": {
+                        "id": "1fd28cf7-617f-4a71-804f-36760664149f",
+                        "name": "10.csv",
+                        "created": "2017-06-06T18:46:35",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:46:35"
                     }
                 },
                 "counters": {
@@ -24702,6 +24819,28 @@
                         "created": "2017-06-02T11:22:55",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-02T11:22:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0d94fcdb-b902-4982-970b-9edc453042ad": {
+                "name": "0d94fcdb-b902-4982-970b-9edc453042ad",
+                "title": "桃園市104年A2道路交通事故-機車傷亡者與戴用安全帽關係統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T06:05:19.978578",
+                "metadata_modified": "2017-06-06T06:06:13.167896",
+                "timeEnd": 1496729137,
+                "timeBegin": 1496700319,
+                "resources": {
+                    "fe1633e8-615b-4bd8-8762-9091db159bbf": {
+                        "id": "fe1633e8-615b-4bd8-8762-9091db159bbf",
+                        "name": "12.csv",
+                        "created": "2017-06-06T14:05:37",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T14:05:37"
                     }
                 },
                 "counters": {
@@ -25139,6 +25278,28 @@
                     "resource_recent": 0
                 }
             },
+            "44244de1-85e8-41de-88c5-d5bfd58e59e0": {
+                "name": "44244de1-85e8-41de-88c5-d5bfd58e59e0",
+                "title": "桃園市105年A1道路交通事故-第一當事者飲酒情形",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:43:24.678412",
+                "metadata_modified": "2017-06-06T10:44:13.828511",
+                "timeEnd": 1496745825,
+                "timeBegin": 1496717004,
+                "resources": {
+                    "3c156845-6636-4fec-9fa4-969280246384": {
+                        "id": "3c156845-6636-4fec-9fa4-969280246384",
+                        "name": "09.csv",
+                        "created": "2017-06-06T18:43:45",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:43:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e17c4b37-3c25-492a-84da-e30c2420ec5f": {
                 "name": "4898ae97-b972-476a-96bf-d80699487e0e",
                 "title": "桃園市政府警察局101~105年楊梅分局預算表",
@@ -25413,6 +25574,50 @@
                     "resource_recent": 0
                 }
             },
+            "5f87ee22-08f6-4988-880a-bf4d92f83bb2": {
+                "name": "5f87ee22-08f6-4988-880a-bf4d92f83bb2",
+                "title": "桃園市104年A2道路交通事故-駕駛人年齡分布統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T05:40:19.694708",
+                "metadata_modified": "2017-06-06T05:47:25.447217",
+                "timeEnd": 1496727653,
+                "timeBegin": 1496698819,
+                "resources": {
+                    "04b34579-d069-4f12-ab06-fb39772c5e87": {
+                        "id": "04b34579-d069-4f12-ab06-fb39772c5e87",
+                        "name": "06-1.csv",
+                        "created": "2017-06-06T13:40:53",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T13:40:53"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6257a9e4-b7ce-4f45-9f2b-73f5d1446ce9": {
+                "name": "6257a9e4-b7ce-4f45-9f2b-73f5d1446ce9",
+                "title": "桃園市104年A2道路交通事故-未滿14歲兒童統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T06:01:03.527396",
+                "metadata_modified": "2017-06-06T06:02:13.843003",
+                "timeEnd": 1496728909,
+                "timeBegin": 1496700063,
+                "resources": {
+                    "54122f11-7c04-46ac-ae48-0eb13f4b7dd8": {
+                        "id": "54122f11-7c04-46ac-ae48-0eb13f4b7dd8",
+                        "name": "11.csv",
+                        "created": "2017-06-06T14:01:49",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T14:01:49"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "50163a61-2989-4a73-a329-44d93e283c0e": {
                 "name": "64887e19-7e1d-4d82-8d09-4c7b9b1bf903",
                 "title": "桃園市政府警察局101~105年大園分局預算表",
@@ -25589,6 +25794,28 @@
                     "resource_recent": 0
                 }
             },
+            "77393c6f-6d9c-4509-b94c-7dcad93622db": {
+                "name": "77393c6f-6d9c-4509-b94c-7dcad93622db",
+                "title": "桃園市104年A2道路交通事故-第一當事者車輛用途",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T05:46:32.972931",
+                "metadata_modified": "2017-06-06T05:48:22.415944",
+                "timeEnd": 1496728019,
+                "timeBegin": 1496699192,
+                "resources": {
+                    "d64bb482-d774-4454-bfa5-c31f7a7f45d4": {
+                        "id": "d64bb482-d774-4454-bfa5-c31f7a7f45d4",
+                        "name": "08.csv",
+                        "created": "2017-06-06T13:46:59",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T13:46:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "986bfff9-8342-493e-a237-345df266b002": {
                 "name": "79e439af-a60f-4210-bd40-ab40e98a94a4",
                 "title": "桃園市政府警察局101~105年少年警察隊預算表",
@@ -25734,6 +25961,50 @@
                     "resource_recent": 0
                 }
             },
+            "874b5431-d0c3-49dd-ab9f-768d32f38586": {
+                "name": "874b5431-d0c3-49dd-ab9f-768d32f38586",
+                "title": "桃園市105年A1道路交通事故-路段(口)統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T09:33:51.204517",
+                "metadata_modified": "2017-06-06T10:35:56.743532",
+                "timeEnd": 1496741654,
+                "timeBegin": 1496712831,
+                "resources": {
+                    "7b8dddc4-3b9b-4630-a59d-76a0da5e8047": {
+                        "id": "7b8dddc4-3b9b-4630-a59d-76a0da5e8047",
+                        "name": "01.csv",
+                        "created": "2017-06-06T17:34:14",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T17:34:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8d47d045-810b-4316-b7bd-371d73cd812f": {
+                "name": "8d47d045-810b-4316-b7bd-371d73cd812f",
+                "title": "桃園市105年A1道路交通事故-道路類別統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:00:30.735734",
+                "metadata_modified": "2017-06-06T10:34:31.068332",
+                "timeEnd": 1496743251,
+                "timeBegin": 1496714430,
+                "resources": {
+                    "93859ed8-b1df-4b73-aa60-33aeb9dc3a10": {
+                        "id": "93859ed8-b1df-4b73-aa60-33aeb9dc3a10",
+                        "name": "05.csv",
+                        "created": "2017-06-06T18:00:51",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:00:51"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "53bd1291-a310-4e9c-84fb-4c148c32fd1c": {
                 "name": "906467ac-8f21-45af-8758-bc3c99b67a4f",
                 "title": "桃園市政府警察局101~105年龜山分局預算表",
@@ -25749,6 +26020,28 @@
                         "created": "2017-01-09T15:56:10",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-09T15:56:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "934ab24d-aeaa-432d-80fc-086509f565d2": {
+                "name": "934ab24d-aeaa-432d-80fc-086509f565d2",
+                "title": "桃園市105年A1道路交通事故-事故原因統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T09:38:22.720248",
+                "metadata_modified": "2017-06-06T10:35:36.423725",
+                "timeEnd": 1496742606,
+                "timeBegin": 1496713102,
+                "resources": {
+                    "06d2a357-7385-4e73-afb6-3871e22cacbf": {
+                        "id": "06d2a357-7385-4e73-afb6-3871e22cacbf",
+                        "name": "02.csv",
+                        "created": "2017-06-06T17:50:06",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T17:50:05"
                     }
                 },
                 "counters": {
@@ -25783,8 +26076,8 @@
                 "title": "桃園市104年A2道路交通事故-時間別統計",
                 "organization_id": "380130000c",
                 "metadata_created": "2017-06-02T03:25:30.849046",
-                "metadata_modified": "2017-06-02T03:27:08.841671",
-                "timeEnd": 1496374028,
+                "metadata_modified": "2017-06-06T06:07:33.396981",
+                "timeEnd": 1496700453,
                 "timeBegin": 1496345130,
                 "resources": {
                     "773a8de3-49a8-4edf-bc73-9a706277bbe3": {
@@ -25822,6 +26115,28 @@
                     "resource_recent": 0
                 }
             },
+            "9afd6e04-b4c3-46af-9524-ee16b44f778c": {
+                "name": "9afd6e04-b4c3-46af-9524-ee16b44f778c",
+                "title": "桃園市105年A1道路交通事故-車種別統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T09:52:29.964874",
+                "metadata_modified": "2017-06-06T10:35:08.810355",
+                "timeEnd": 1496742944,
+                "timeBegin": 1496713949,
+                "resources": {
+                    "ec3c2399-9239-4d46-af73-8299449cf884": {
+                        "id": "ec3c2399-9239-4d46-af73-8299449cf884",
+                        "name": "03.csv",
+                        "created": "2017-06-06T17:55:44",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T17:55:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "313a7365-ecac-41e1-acb2-8c6fc6a8e1d5": {
                 "name": "9b79666e-ca0e-4c9b-8963-c2045e385f02",
                 "title": "桃園市政府警察局101~105年刑事謷察大隊預算表",
@@ -25837,6 +26152,28 @@
                         "created": "2017-01-09T16:13:58",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-09T16:13:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9d042678-c1cd-4882-959e-32f5c45da91d": {
+                "name": "9d042678-c1cd-4882-959e-32f5c45da91d",
+                "title": "桃園市105年A1道路交通事故-駕駛人年齡分布統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:32:48.515824",
+                "metadata_modified": "2017-06-06T10:33:34.817039",
+                "timeEnd": 1496745189,
+                "timeBegin": 1496716368,
+                "resources": {
+                    "4da1d404-f1c3-4580-aad9-af6286dbad79": {
+                        "id": "4da1d404-f1c3-4580-aad9-af6286dbad79",
+                        "name": "06-1.csv",
+                        "created": "2017-06-06T18:33:09",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:33:09"
                     }
                 },
                 "counters": {
@@ -26397,6 +26734,72 @@
                     "resource_recent": 0
                 }
             },
+            "d06dd55d-aac7-4b17-9211-82cbf467cc2d": {
+                "name": "d06dd55d-aac7-4b17-9211-82cbf467cc2d",
+                "title": "桃園市105年A1道路交通事故-時間別統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T09:58:05.579923",
+                "metadata_modified": "2017-06-06T10:34:47.704592",
+                "timeEnd": 1496743108,
+                "timeBegin": 1496714285,
+                "resources": {
+                    "20d0147b-abad-48d9-b61e-f529efd0c40a": {
+                        "id": "20d0147b-abad-48d9-b61e-f529efd0c40a",
+                        "name": "04.csv",
+                        "created": "2017-06-06T17:58:28",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T17:58:27"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d7fb6ffe-6987-48e5-b6d6-85d2ef17c5d8": {
+                "name": "d7fb6ffe-6987-48e5-b6d6-85d2ef17c5d8",
+                "title": "桃園市104年A2道路交通事故-第一當事者飲酒情形",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T05:50:23.687925",
+                "metadata_modified": "2017-06-06T05:51:14.521702",
+                "timeEnd": 1496728250,
+                "timeBegin": 1496699423,
+                "resources": {
+                    "1bde675b-6f84-4a25-a5ec-696272cc467e": {
+                        "id": "1bde675b-6f84-4a25-a5ec-696272cc467e",
+                        "name": "09.csv",
+                        "created": "2017-06-06T13:50:50",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T13:50:50"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "db5055c9-9f2e-4546-8e58-e413dfbbcdeb": {
+                "name": "db5055c9-9f2e-4546-8e58-e413dfbbcdeb",
+                "title": "桃園市105年A1道路交通事故-第一當事者車輛用途",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:40:36.584661",
+                "metadata_modified": "2017-06-06T10:41:23.145451",
+                "timeEnd": 1496745659,
+                "timeBegin": 1496716836,
+                "resources": {
+                    "f9d1c782-152d-4528-85e4-1fee9ee179a4": {
+                        "id": "f9d1c782-152d-4528-85e4-1fee9ee179a4",
+                        "name": "08.csv",
+                        "created": "2017-06-06T18:40:59",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:40:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "db5b95b5-1f53-4e62-b036-9e7fdf1bda52": {
                 "name": "db5b95b5-1f53-4e62-b036-9e7fdf1bda52",
                 "title": "桃園市104年A1道路交通事故-路段(口)統計",
@@ -26412,6 +26815,28 @@
                         "created": "2017-05-31T10:55:28",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-31T10:55:28"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "db748820-1d59-4528-af9e-ce0af3ab07fc": {
+                "name": "db748820-1d59-4528-af9e-ce0af3ab07fc",
+                "title": "桃園市105年A1道路交通事故-未滿14歲兒童統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:48:42.940161",
+                "metadata_modified": "2017-06-06T10:49:52.266206",
+                "timeEnd": 1496746170,
+                "timeBegin": 1496717322,
+                "resources": {
+                    "37eaf58d-d03e-4efd-a55a-3a7c8d761b33": {
+                        "id": "37eaf58d-d03e-4efd-a55a-3a7c8d761b33",
+                        "name": "11.csv",
+                        "created": "2017-06-06T18:49:30",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:49:30"
                     }
                 },
                 "counters": {
@@ -26529,6 +26954,28 @@
                     "resource_recent": 0
                 }
             },
+            "e56f43b6-e22c-481d-a26a-e5356f6ba327": {
+                "name": "e56f43b6-e22c-481d-a26a-e5356f6ba327",
+                "title": "桃園市105年A1道路交通事故-道路型態統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:37:33.875559",
+                "metadata_modified": "2017-06-06T10:38:27.864147",
+                "timeEnd": 1496745476,
+                "timeBegin": 1496716653,
+                "resources": {
+                    "7c739620-f83d-41b8-b0b4-bdc0afbbc50c": {
+                        "id": "7c739620-f83d-41b8-b0b4-bdc0afbbc50c",
+                        "name": "07.csv",
+                        "created": "2017-06-06T18:37:56",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:37:56"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "747596e9-0a3a-4103-97fb-5626b6672adb": {
                 "name": "e8fdc094-9650-4f93-881e-1efa8f1fe0c0",
                 "title": "桃園市政府警察局為民服務成果",
@@ -26639,6 +27086,28 @@
                     "resource_recent": 0
                 }
             },
+            "f4f75600-4c21-47cf-ad50-c23eff533091": {
+                "name": "f4f75600-4c21-47cf-ad50-c23eff533091",
+                "title": "桃園市105年A1道路交通事故-機車傷亡者與戴用安全帽關係統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T10:51:55.835609",
+                "metadata_modified": "2017-06-06T10:52:33.776751",
+                "timeEnd": 1496746331,
+                "timeBegin": 1496717515,
+                "resources": {
+                    "a230dbab-f6db-4d60-8c0d-8dbdcf98b9e0": {
+                        "id": "a230dbab-f6db-4d60-8c0d-8dbdcf98b9e0",
+                        "name": "12.csv",
+                        "created": "2017-06-06T18:52:11",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T18:52:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "fac32e1c-5c8c-4cd1-b84b-528739b8be12": {
                 "name": "fac32e1c-5c8c-4cd1-b84b-528739b8be12",
                 "title": "桃園市104年A1道路交通事故-受傷年齡與行動狀態統計",
@@ -26683,6 +27152,28 @@
                     "resource_recent": 0
                 }
             },
+            "fc5fe8e8-0351-4f8b-b726-bbcfb81dae09": {
+                "name": "fc5fe8e8-0351-4f8b-b726-bbcfb81dae09",
+                "title": "桃園市104年A2道路交通事故-受傷年齡與行動狀態統計",
+                "organization_id": "380130000c",
+                "metadata_created": "2017-06-06T05:54:22.446086",
+                "metadata_modified": "2017-06-06T05:56:50.176734",
+                "timeEnd": 1496728489,
+                "timeBegin": 1496699662,
+                "resources": {
+                    "b9b4951a-cd7c-4f3f-9d88-61c5b56566b9": {
+                        "id": "b9b4951a-cd7c-4f3f-9d88-61c5b56566b9",
+                        "name": "10.csv",
+                        "created": "2017-06-06T13:54:49",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T13:54:49"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "fc6aac3e-83f6-4312-8c33-12e35647169f": {
                 "name": "fc6aac3e-83f6-4312-8c33-12e35647169f",
                 "title": "桃園市104年A1道路交通事故-事故原因統計",
@@ -26710,10 +27201,18 @@
                 "title": "桃園市104年A2道路交通事故-道路類別統計",
                 "organization_id": "380130000c",
                 "metadata_created": "2017-06-02T03:35:42.623647",
-                "metadata_modified": "2017-06-02T03:35:43.588424",
-                "timeEnd": 1496345743,
+                "metadata_modified": "2017-06-06T05:38:02.046761",
+                "timeEnd": 1496727438,
                 "timeBegin": 1496345742,
-                "resources": [],
+                "resources": {
+                    "da202cc1-926a-44a2-93b8-162337ea42b9": {
+                        "id": "da202cc1-926a-44a2-93b8-162337ea42b9",
+                        "name": "05.csv",
+                        "created": "2017-06-06T13:37:18",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T13:37:18"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -26779,16 +27278,16 @@
                 "title": "桃園市政府最新債務訊息",
                 "organization_id": "380030000d",
                 "metadata_created": "2015-10-06T06:31:55.032531",
-                "metadata_modified": "2017-05-04T03:22:49.812708",
-                "timeEnd": 1493868169,
+                "metadata_modified": "2017-06-06T02:37:01.288334",
+                "timeEnd": 1496716500,
                 "timeBegin": 1444084315,
                 "resources": {
-                    "ba0fce6f-09aa-4a66-8c97-24c3ce28ac12": {
-                        "id": "ba0fce6f-09aa-4a66-8c97-24c3ce28ac12",
-                        "name": "106.4本府最新債務訊息.csv",
-                        "created": "2017-05-04T11:22:49",
+                    "234034c0-bc62-4b4e-b743-d2d42d9b1549": {
+                        "id": "234034c0-bc62-4b4e-b743-d2d42d9b1549",
+                        "name": "106.5本府最新債務訊息.csv",
+                        "created": "2017-06-06T10:35:00.329136",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-04T11:22:49"
+                        "last_modified": "2017-06-06T10:35:00"
                     }
                 },
                 "counters": {
@@ -27170,16 +27669,16 @@
                 "title": "桃園市休閒農場",
                 "organization_id": "380270000g",
                 "metadata_created": "2015-09-18T03:16:44.521023",
-                "metadata_modified": "2016-02-26T06:40:33.896608",
-                "timeEnd": 1456440033,
+                "metadata_modified": "2017-06-06T08:34:01.566497",
+                "timeEnd": 1496738041,
                 "timeBegin": 1442517404,
                 "resources": {
-                    "3e7b3f2f-9531-4e2b-a39d-ce449cd0f0c2": {
-                        "id": "3e7b3f2f-9531-4e2b-a39d-ce449cd0f0c2",
-                        "name": "休閒農場",
-                        "created": "2015-09-18T11:18:41.457798",
+                    "0689b711-b24c-44a2-b3d0-de61aaa55d74": {
+                        "id": "0689b711-b24c-44a2-b3d0-de61aaa55d74",
+                        "name": "休閒農場.csv",
+                        "created": "2017-06-06T16:34:01.625641",
                         "webstore_last_updated": null,
-                        "last_modified": "2015-09-18T11:18:41"
+                        "last_modified": "2017-06-06T16:34:01"
                     }
                 },
                 "counters": {
@@ -29531,21 +30030,21 @@
                 "title": "106年桃青傑出志工獎計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-06-05T03:23:58.567542",
-                "metadata_modified": "2017-06-05T03:24:52.359643",
-                "timeEnd": 1496633092,
+                "metadata_modified": "2017-06-06T03:27:56.151760",
+                "timeEnd": 1496690876,
                 "timeBegin": 1496604238,
                 "resources": {
                     "d04e03ef-a14d-48e5-b831-ab465851cf69": {
                         "id": "d04e03ef-a14d-48e5-b831-ab465851cf69",
                         "name": "106年桃青傑出志工獎計畫(核定版本).pdf",
-                        "created": "2017-06-05T11:24:39.925533",
+                        "created": "2017-06-05T11:24:39",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-05T11:24:39"
                     },
                     "e2c66f29-6100-4077-b482-bcfd1ce10212": {
                         "id": "e2c66f29-6100-4077-b482-bcfd1ce10212",
                         "name": "106年桃青傑出志工獎計畫附件(核定版本).pdf",
-                        "created": "2017-06-05T11:24:52.415767",
+                        "created": "2017-06-05T11:24:52",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-05T11:24:52"
                     }
@@ -29857,21 +30356,21 @@
                 "title": "桃園市106年補助各區公所推動青年參與在地公共事務計畫",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-06-05T03:28:22.779649",
-                "metadata_modified": "2017-06-05T03:29:04.882865",
-                "timeEnd": 1496633344,
+                "metadata_modified": "2017-06-06T03:28:06.666182",
+                "timeEnd": 1496690886,
                 "timeBegin": 1496604502,
                 "resources": {
                     "8d6e3681-1b5d-4098-b3d4-f7cd8bfc80bd": {
                         "id": "8d6e3681-1b5d-4098-b3d4-f7cd8bfc80bd",
                         "name": "桃園市106年補助各區公所推動青年參與在地公共事務計畫(核定版本).pdf",
-                        "created": "2017-06-05T11:28:50.601380",
+                        "created": "2017-06-05T11:28:50",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-05T11:28:50"
                     },
                     "bbd788b5-1d5d-424a-a8b7-5a7a27b91850": {
                         "id": "bbd788b5-1d5d-424a-a8b7-5a7a27b91850",
                         "name": "桃園市106年補助各區公所推動青年參與在地公共事務計畫附件資料(核定版本).pdf",
-                        "created": "2017-06-05T11:29:04.924556",
+                        "created": "2017-06-05T11:29:04",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-05T11:29:04"
                     }
@@ -31012,16 +31511,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-05-29T01:05:00.785008",
-                "timeEnd": 1496019901,
+                "metadata_modified": "2017-06-06T01:14:49.854391",
+                "timeEnd": 1496711689,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "350998e2-2137-4740-8606-5d2afdbb8fca": {
-                        "id": "350998e2-2137-4740-8606-5d2afdbb8fca",
+                    "f30d14ff-2478-4555-a27c-594e34fe777e": {
+                        "id": "f30d14ff-2478-4555-a27c-594e34fe777e",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-05-29T09:05:01.124324",
+                        "created": "2017-06-06T09:14:49.954040",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-29T09:05:00"
+                        "last_modified": "2017-06-06T09:14:49"
                     }
                 },
                 "counters": {
@@ -31034,8 +31533,8 @@
                 "title": "106年度大宗蔬果價格月報表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-05-27T02:24:31.812803",
-                "metadata_modified": "2017-05-27T03:09:22.492338",
-                "timeEnd": 1495854395,
+                "metadata_modified": "2017-06-06T01:47:39.385817",
+                "timeEnd": 1496713659,
                 "timeBegin": 1495823071,
                 "resources": {
                     "632b3dd2-ca5f-43e1-85cc-46827d4b0f0c": {
@@ -31065,6 +31564,13 @@
                         "created": "2017-05-27T11:06:35",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-27T11:06:35"
+                    },
+                    "262ebf5d-4b41-4721-8af0-35a04f054155": {
+                        "id": "262ebf5d-4b41-4721-8af0-35a04f054155",
+                        "name": "五月份大宗蔬果價格.csv",
+                        "created": "2017-06-06T09:47:39.434672",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-06T09:47:39"
                     }
                 },
                 "counters": {
@@ -31077,8 +31583,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-05-29T01:06:16.322982",
-                "timeEnd": 1496019976,
+                "metadata_modified": "2017-06-06T01:14:26.206381",
+                "timeEnd": 1496711666,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -31088,12 +31594,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "c2c4ed7f-c117-4836-ad16-dde662fee501": {
-                        "id": "c2c4ed7f-c117-4836-ad16-dde662fee501",
+                    "f0ff3e18-c21f-4cef-968d-24fa6df7fe3b": {
+                        "id": "f0ff3e18-c21f-4cef-968d-24fa6df7fe3b",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-05-29T09:06:16.435713",
+                        "created": "2017-06-06T09:14:26.322182",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-29T09:06:16"
+                        "last_modified": "2017-06-06T09:14:25"
                     }
                 },
                 "counters": {
@@ -31103,5 +31609,5 @@
             }
         }
     },
-    "time_generated": 1496698345
+    "time_generated": 1496784762
 }
