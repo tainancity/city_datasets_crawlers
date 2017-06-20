@@ -1766,11 +1766,11 @@
     },
     "交通局": {
         "counters": {
-            "datasets": 40,
+            "datasets": 42,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 6516,
-            "resource_recent": 381
+            "resource_total": 6514,
+            "resource_recent": 383
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -2011,40 +2011,112 @@
                     "resource_recent": 0
                 }
             },
+            "615b6987-c10c-4f8d-8444-cc7b8bec40ce": {
+                "name": "cctv",
+                "title": "臺南市路況攝影機(CCTV)位置資料",
+                "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
+                "metadata_created": "2017-06-20T01:14:14.319692",
+                "metadata_modified": "2017-06-20T01:16:18.367771",
+                "timeEnd": 1497921377,
+                "timeBegin": 1497892454,
+                "resources": {
+                    "0889c52c-9435-4fe7-8239-ad820a18c5ff": {
+                        "id": "0889c52c-9435-4fe7-8239-ad820a18c5ff",
+                        "name": "臺南市路況攝影機(CCTV)位置資料(XML)",
+                        "created": "2017-06-20T09:14:48.320611",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "8ba31fa0-fde8-4be0-a1fd-444625f4c008": {
+                        "id": "8ba31fa0-fde8-4be0-a1fd-444625f4c008",
+                        "name": "臺南市路況攝影機(CCTV)位置資料(CSV)",
+                        "created": "2017-06-20T09:15:47.765003",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "5f7eb9b6-29e0-4739-a2ca-0ae3a76f1875": {
+                        "id": "5f7eb9b6-29e0-4739-a2ca-0ae3a76f1875",
+                        "name": "臺南市路況攝影機(CCTV)位置資料(JSON)",
+                        "created": "2017-06-20T09:16:17.990155",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "42087100-735a-4154-89a3-e58f0c5efaec": {
                 "name": "cms",
-                "title": "臺南市資訊可變標誌(CMS)面板位置清單",
+                "title": "臺南市資訊可變標誌(CMS)面板位置靜態資料",
                 "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
                 "metadata_created": "2015-02-16T03:11:40.668771",
-                "metadata_modified": "2017-03-31T03:38:18.551851",
-                "timeEnd": 1490902698,
+                "metadata_modified": "2017-06-20T07:40:48.899512",
+                "timeEnd": 1497915648,
                 "timeBegin": 1424027500,
                 "resources": {
                     "1c546444-4de0-4427-9c2b-37e1fde8a8ae": {
                         "id": "1c546444-4de0-4427-9c2b-37e1fde8a8ae",
-                        "name": "臺南市資訊可變標誌(CMS)面板位置清單(CSV)",
+                        "name": "臺南市資訊可變標誌(CMS)面板位置靜態資料(CSV)",
                         "created": "2016-01-07T16:34:48.271585",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
                     "672c0ec4-b357-4c3a-b8d9-a27000760a89": {
                         "id": "672c0ec4-b357-4c3a-b8d9-a27000760a89",
-                        "name": "臺南市資訊可變標誌(CMS)面板位置清單(XML)",
+                        "name": "臺南市資訊可變標誌(CMS)面板位置靜態資料(XML)",
                         "created": "2016-01-07T16:35:16.838011",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
                     "5c4c7342-14e3-4359-917d-f4d9ffa1fbbf": {
                         "id": "5c4c7342-14e3-4359-917d-f4d9ffa1fbbf",
-                        "name": "臺南市資訊可變標誌(CMS)面板位置清單(JSON)",
+                        "name": "臺南市資訊可變標誌(CMS)面板位置靜態資料(JSON)",
                         "created": "2016-01-07T16:35:44.048893",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 5
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "5ea62a35-0c11-470d-9826-a437272456c6": {
+                "name": "cms2",
+                "title": "臺南市資訊可變標誌(CMS)面板位置動態資料",
+                "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
+                "metadata_created": "2017-06-20T01:53:38.835467",
+                "metadata_modified": "2017-06-20T01:56:09.909995",
+                "timeEnd": 1497923769,
+                "timeBegin": 1497894818,
+                "resources": {
+                    "0ebbb7c1-0217-457e-951c-8523b88ade03": {
+                        "id": "0ebbb7c1-0217-457e-951c-8523b88ade03",
+                        "name": "臺南市資訊可變標誌(CMS)面板位置動態資料(XML)",
+                        "created": "2017-06-20T09:54:43.626976",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "b3f98a15-a5f2-4645-a2ec-650648b1fe67": {
+                        "id": "b3f98a15-a5f2-4645-a2ec-650648b1fe67",
+                        "name": "臺南市資訊可變標誌(CMS)面板位置動態資料(CSV)",
+                        "created": "2017-06-20T09:55:33.673978",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "fb0baad3-00d1-48ab-a26c-e25a383a190e": {
+                        "id": "fb0baad3-00d1-48ab-a26c-e25a383a190e",
+                        "name": "臺南市資訊可變標誌(CMS)面板位置動態資料(JSON)",
+                        "created": "2017-06-20T09:56:09.313438",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "800bbe1e-f7f7-41aa-9539-2f87f4a8a737": {
@@ -2685,8 +2757,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 709,
-                    "resource_recent": 50
+                    "resource_total": 710,
+                    "resource_recent": 51
                 }
             },
             "970aa102-b901-439f-9350-2c5fea209764": {
@@ -2904,8 +2976,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 547,
-                    "resource_recent": 42
+                    "resource_total": 550,
+                    "resource_recent": 45
                 }
             },
             "e7ce6b1c-39b0-4ad1-94c2-bd79ff3fb8df": {
@@ -3182,8 +3254,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 637,
-                    "resource_recent": 28
+                    "resource_total": 639,
+                    "resource_recent": 26
                 }
             },
             "a0bb9ae4-37dc-4292-8d8e-a17027e81994": {
@@ -3218,8 +3290,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1715,
-                    "resource_recent": 39
+                    "resource_total": 1720,
+                    "resource_recent": 44
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -3438,8 +3510,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 231,
-                    "resource_recent": 11
+                    "resource_total": 232,
+                    "resource_recent": 12
                 }
             },
             "36612e6d-5557-4071-baa1-07d100549a64": {
@@ -3557,42 +3629,6 @@
                     "resource_recent": 4
                 }
             },
-            "579e06d3-3f64-4a5d-b7a3-b96c01618330": {
-                "name": "trafficcctv",
-                "title": "臺南市路口影像(CCTV)位置資料",
-                "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
-                "metadata_created": "2017-03-31T03:49:30.130557",
-                "metadata_modified": "2017-03-31T03:52:39.428673",
-                "timeEnd": 1490932336,
-                "timeBegin": 1490903370,
-                "resources": {
-                    "1f723163-1a26-4568-810c-eae0b3131656": {
-                        "id": "1f723163-1a26-4568-810c-eae0b3131656",
-                        "name": "臺南市路口影像(CCTV)位置資料(XML)",
-                        "created": "2017-03-31T11:49:52.807922",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "05620dd4-5ffc-4dca-9b06-9ef412bfb2c6": {
-                        "id": "05620dd4-5ffc-4dca-9b06-9ef412bfb2c6",
-                        "name": "臺南市路口影像(CCTV)位置資料(CSV)",
-                        "created": "2017-03-31T11:50:13.722976",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "9bfabc86-41dd-4dd2-8ace-979250f4745e": {
-                        "id": "9bfabc86-41dd-4dd2-8ace-979250f4745e",
-                        "name": "臺南市路口影像(CCTV)位置資料(JSON)",
-                        "created": "2017-03-31T11:52:16.608419",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 6,
-                    "resource_recent": 3
-                }
-            },
             "b4763c50-d754-4516-93bb-bff6f9e47c0a": {
                 "name": "traffic-control-announcement",
                 "title": "臺南市交通管制公告",
@@ -3685,6 +3721,42 @@
                         "id": "51923d98-faeb-45af-957e-6c3ad3b47d08",
                         "name": "臺南市車輛偵測器(VD)位置靜態資料(JSON)",
                         "created": "2017-03-31T11:28:57.154434",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 2,
+                    "resource_recent": 2
+                }
+            },
+            "4bf503c9-8eb9-40df-9894-9e5665006748": {
+                "name": "trafficvd2",
+                "title": "臺南市車輛偵測器(VD)位置動態資料",
+                "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
+                "metadata_created": "2017-06-15T05:56:05.792713",
+                "metadata_modified": "2017-06-15T06:00:31.398397",
+                "timeEnd": 1497506430,
+                "timeBegin": 1497477365,
+                "resources": {
+                    "4e06d608-399b-4bb7-abfb-78f0b424e668": {
+                        "id": "4e06d608-399b-4bb7-abfb-78f0b424e668",
+                        "name": "臺南市車輛偵測器(VD)位置動態資料(XML)",
+                        "created": "2017-06-15T13:56:57.151008",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "043423a1-e84f-47f9-985f-f685ec537456": {
+                        "id": "043423a1-e84f-47f9-985f-f685ec537456",
+                        "name": "臺南市車輛偵測器(VD)位置動態資料(CSV)",
+                        "created": "2017-06-15T13:58:13.224212",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "1bb5ecc4-df39-4953-a109-2f52a5314ee2": {
+                        "id": "1bb5ecc4-df39-4953-a109-2f52a5314ee2",
+                        "name": "臺南市車輛偵測器(VD)位置動態資料(JSON)",
+                        "created": "2017-06-15T14:00:30.610441",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
@@ -3954,8 +4026,8 @@
                 "title": "台南市政府就業資訊",
                 "organization_id": "894dfbb0-1bd2-4733-81bd-3e13bf5f19d4",
                 "metadata_created": "2014-06-09T14:25:39.660831",
-                "metadata_modified": "2017-06-12T09:31:24.227187",
-                "timeEnd": 1497259876,
+                "metadata_modified": "2017-06-20T01:54:52.038498",
+                "timeEnd": 1497894892,
                 "timeBegin": 1402295139,
                 "resources": {
                     "67b5bef7-4984-4033-b964-3f5e4061fa7b": {
@@ -5806,8 +5878,8 @@
             "datasets": 50,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2171,
-            "resource_recent": 378
+            "resource_total": 2176,
+            "resource_recent": 380
         },
         "datasets": {
             "e5199640-a8a5-4ede-a1be-111eee604335": {
@@ -8376,8 +8448,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 4
+                    "resource_total": 6,
+                    "resource_recent": 5
                 }
             },
             "c6fab5d8-8c3a-4e58-ba5b-034ce6e06b4b": {
@@ -8440,7 +8512,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 661,
+                    "resource_total": 664,
                     "resource_recent": 48
                 }
             },
@@ -8979,8 +9051,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 421,
-                    "resource_recent": 56
+                    "resource_total": 422,
+                    "resource_recent": 57
                 }
             },
             "c93349cb-2d17-4360-8436-204db053182e": {
@@ -9514,8 +9586,8 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 551,
-            "resource_recent": 52
+            "resource_total": 553,
+            "resource_recent": 54
         },
         "datasets": {
             "320ca7e7-2267-4ffa-ae1c-90842832c220": {
@@ -9710,8 +9782,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 35,
-                    "resource_recent": 2
+                    "resource_total": 36,
+                    "resource_recent": 3
                 }
             },
             "8e38a3df-0457-4ce2-9681-bdbc9d3eb841": {
@@ -9952,8 +10024,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 114,
-                    "resource_recent": 8
+                    "resource_total": 115,
+                    "resource_recent": 9
                 }
             },
             "a170e857-9299-4325-88bc-c0dea7490b50": {
@@ -11155,8 +11227,8 @@
             "datasets": 27,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1096,
-            "resource_recent": 77
+            "resource_total": 1097,
+            "resource_recent": 78
         },
         "datasets": {
             "d735ccd2-a179-49ec-ac46-ec625e739952": {
@@ -12214,8 +12286,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 58,
-                    "resource_recent": 1
+                    "resource_total": 59,
+                    "resource_recent": 2
                 }
             },
             "3247df30-51eb-4f36-8687-a91cbf89f6c7": {
@@ -13143,7 +13215,7 @@
             "datasets": 78,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 559,
+            "resource_total": 560,
             "resource_recent": 277
         },
         "datasets": {
@@ -20930,7 +21002,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 50,
+                    "resource_total": 51,
                     "resource_recent": 24
                 }
             },
@@ -21849,8 +21921,8 @@
             "datasets": 48,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1225,
-            "resource_recent": 144
+            "resource_total": 1227,
+            "resource_recent": 145
         },
         "datasets": {
             "5717fe92-343a-45ef-a488-8b341a1d2776": {
@@ -22170,8 +22242,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 78,
-                    "resource_recent": 1
+                    "resource_total": 80,
+                    "resource_recent": 2
                 }
             },
             "e8ff87e6-b4e0-4b1f-806b-fa40bcc2c916": {
@@ -23392,8 +23464,8 @@
             "datasets": 15,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 221,
-            "resource_recent": 28
+            "resource_total": 222,
+            "resource_recent": 29
         },
         "datasets": {
             "226f8ba0-026d-4b7f-8653-8863f11b9dd0": {
@@ -23479,8 +23551,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 8,
-                    "resource_recent": 3
+                    "resource_total": 9,
+                    "resource_recent": 4
                 }
             },
             "934cbc6d-1b56-4b81-8b66-2558f040fdc1": {
@@ -26254,8 +26326,8 @@
             "datasets": 83,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 4817,
-            "resource_recent": 489
+            "resource_total": 4823,
+            "resource_recent": 484
         },
         "datasets": {
             "29ef0901-db68-4bc2-824b-73bacd57cd80": {
@@ -26917,8 +26989,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1920,
-                    "resource_recent": 42
+                    "resource_total": 1921,
+                    "resource_recent": 43
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -26967,8 +27039,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 316,
-                    "resource_recent": 41
+                    "resource_total": 317,
+                    "resource_recent": 37
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -27500,8 +27572,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 880,
-                    "resource_recent": 148
+                    "resource_total": 881,
+                    "resource_recent": 145
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -28344,8 +28416,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 75,
-                    "resource_recent": 13
+                    "resource_total": 76,
+                    "resource_recent": 14
                 }
             },
             "c7a1ec03-e77e-46ac-ae1f-f021d8988c2e": {
@@ -28645,8 +28717,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 15,
-                    "resource_recent": 7
+                    "resource_total": 16,
+                    "resource_recent": 6
                 }
             },
             "0befc277-fca5-4324-a3dd-ae2b2bbb1c6d": {
@@ -29400,8 +29472,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 10,
-                    "resource_recent": 2
+                    "resource_total": 11,
+                    "resource_recent": 3
                 }
             },
             "0c84ba0d-0077-448f-bc04-d831b29aaffb": {
@@ -29874,8 +29946,8 @@
             "datasets": 16,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 419,
-            "resource_recent": 101
+            "resource_total": 420,
+            "resource_recent": 102
         },
         "datasets": {
             "a672e6ae-6788-4f16-b9d2-ef049215df7c": {
@@ -30208,8 +30280,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 144,
-                    "resource_recent": 18
+                    "resource_total": 145,
+                    "resource_recent": 19
                 }
             },
             "8d2f2ed0-49a9-4ece-babc-849573c81db1": {
@@ -31652,8 +31724,8 @@
             "datasets": 22,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 204,
-            "resource_recent": 46
+            "resource_total": 205,
+            "resource_recent": 44
         },
         "datasets": {
             "35ccba7e-d95c-42e5-b5fe-5b1bf0827146": {
@@ -31818,8 +31890,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 57,
-                    "resource_recent": 15
+                    "resource_total": 58,
+                    "resource_recent": 13
                 }
             },
             "c588b09e-0fb8-4e5d-b4cf-b7b8149065c9": {
@@ -32224,8 +32296,8 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 946,
-            "resource_recent": 84
+            "resource_total": 947,
+            "resource_recent": 82
         },
         "datasets": {
             "979b05e1-ec87-4c2d-98ad-ebf523ec6821": {
@@ -32748,8 +32820,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 902,
-                    "resource_recent": 72
+                    "resource_total": 903,
+                    "resource_recent": 70
                 }
             },
             "fd50ca07-d045-4455-ad5c-433fe07b262d": {
@@ -32849,5 +32921,5 @@
             }
         }
     },
-    "time_generated": 1497907862
+    "time_generated": 1497994261
 }

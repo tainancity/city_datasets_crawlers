@@ -1,7 +1,7 @@
 {
     "桃園市政府主計處": {
         "counters": {
-            "datasets": 23,
+            "datasets": 58,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -59,6 +59,115 @@
                         "created": "2017-02-20T11:53:09",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T11:53:09"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0fd362be-1ac6-43de-83c2-d576b3d5c88b": {
+                "name": "0fd362be-1ac6-43de-83c2-d576b3d5c88b",
+                "title": "附屬單位決算作業基金平衡綜計表(依科目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:53:19.094182",
+                "metadata_modified": "2017-06-20T09:55:12.966545",
+                "timeEnd": 1497952513,
+                "timeBegin": 1497923599,
+                "resources": {
+                    "55663554-3f99-4ba4-af42-918769932a63": {
+                        "id": "55663554-3f99-4ba4-af42-918769932a63",
+                        "name": "104年度附屬單位決算作業基金平衡綜計表(依科目分列).csv",
+                        "created": "2017-06-20T17:55:13.006175",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:55:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "101a8284-2129-47bb-bd8a-b9dd27b60ae4": {
+                "name": "101a8284-2129-47bb-bd8a-b9dd27b60ae4",
+                "title": "附屬單位決算作業基金餘絀撥補綜計表(依撥補項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:27:48.296681",
+                "metadata_modified": "2017-06-20T09:27:49.048585",
+                "timeEnd": 1497922069,
+                "timeBegin": 1497922068,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "16a5c5a8-c0bc-49b3-815a-90ec0fb4e36f": {
+                "name": "16a5c5a8-c0bc-49b3-815a-90ec0fb4e36f",
+                "title": "附屬單位決算營業基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T08:46:13.363977",
+                "metadata_modified": "2017-06-20T08:46:44.790694",
+                "timeEnd": 1497948404,
+                "timeBegin": 1497919573,
+                "resources": {
+                    "1b3040be-bb07-4500-a7b9-246b5e4e2c6c": {
+                        "id": "1b3040be-bb07-4500-a7b9-246b5e4e2c6c",
+                        "name": "104年度附屬單位決算營業基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T16:46:44.827624",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:46:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "16da77d5-ef6a-4a7b-9f65-1e61b0c37740": {
+                "name": "16da77d5-ef6a-4a7b-9f65-1e61b0c37740",
+                "title": "附屬單位預算特別收入基金來源、用途及餘絀綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T06:49:51.662491",
+                "metadata_modified": "2017-06-20T06:52:47.840924",
+                "timeEnd": 1497941567,
+                "timeBegin": 1497912591,
+                "resources": {
+                    "69da7a34-74fa-47e7-8546-22716a33dfbf": {
+                        "id": "69da7a34-74fa-47e7-8546-22716a33dfbf",
+                        "name": "105年度附屬單位預算特別收入基金來源、用途及餘絀綜計表.csv",
+                        "created": "2017-06-20T14:52:14.912294",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:52:14"
+                    },
+                    "12fdd3ce-d4bf-4d95-864a-d535ba37a018": {
+                        "id": "12fdd3ce-d4bf-4d95-864a-d535ba37a018",
+                        "name": "106年度附屬單位預算特別收入基金來源、用途及餘絀綜計表.csv",
+                        "created": "2017-06-20T14:52:47.880143",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:52:47"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "1ec39c94-d123-4e88-82f8-2cbecf5a1c35": {
+                "name": "1ec39c94-d123-4e88-82f8-2cbecf5a1c35",
+                "title": "附屬單位決算特別收入基金平衡綜計表(依項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T10:22:30.177236",
+                "metadata_modified": "2017-06-20T10:24:30.121259",
+                "timeEnd": 1497954270,
+                "timeBegin": 1497925350,
+                "resources": {
+                    "33e4ad1e-9de8-4b5f-8577-d75b48de7306": {
+                        "id": "33e4ad1e-9de8-4b5f-8577-d75b48de7306",
+                        "name": "104年度附屬單位決算特別收入基金平衡綜計表(依項目分列).csv",
+                        "created": "2017-06-20T18:24:30.163075",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T18:24:30"
                     }
                 },
                 "counters": {
@@ -139,6 +248,79 @@
                     "resource_recent": 0
                 }
             },
+            "37a8ce1b-fe91-4f7a-b0be-c0f56da0b8a3": {
+                "name": "37a8ce1b-fe91-4f7a-b0be-c0f56da0b8a3",
+                "title": "附屬單位預算作業基金收支餘絀綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T03:32:28.656180",
+                "metadata_modified": "2017-06-20T03:39:21.908714",
+                "timeEnd": 1497929961,
+                "timeBegin": 1497900748,
+                "resources": {
+                    "d229c7e4-c7fc-4523-977b-b087c7be3109": {
+                        "id": "d229c7e4-c7fc-4523-977b-b087c7be3109",
+                        "name": "105年度附屬單位預算作業基金收支餘絀綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T11:35:02.586778",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:35:02"
+                    },
+                    "5defbebf-2d1c-41ec-a712-a9b92eef4c82": {
+                        "id": "5defbebf-2d1c-41ec-a712-a9b92eef4c82",
+                        "name": "106年度附屬單位預算作業基金收支餘絀綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T11:39:21.950515",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:39:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "39869e0b-2de3-48a7-b8a1-1b706d72ed68": {
+                "name": "39869e0b-2de3-48a7-b8a1-1b706d72ed68",
+                "title": "附屬單位決算營業基金盈虧撥補綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T08:43:20.663600",
+                "metadata_modified": "2017-06-20T08:44:16.317479",
+                "timeEnd": 1497948256,
+                "timeBegin": 1497919400,
+                "resources": {
+                    "b69411c1-10e0-4f53-92a5-580310de70aa": {
+                        "id": "b69411c1-10e0-4f53-92a5-580310de70aa",
+                        "name": "104年度附屬單位決算營業基金盈虧撥補綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T16:44:16.357159",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:44:16"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4255ad1f-8bf9-46d4-ab0c-da8170020e90": {
+                "name": "4255ad1f-8bf9-46d4-ab0c-da8170020e90",
+                "title": "附屬單位決算作業基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:40:43.003007",
+                "metadata_modified": "2017-06-20T09:41:18.430316",
+                "timeEnd": 1497951678,
+                "timeBegin": 1497922843,
+                "resources": {
+                    "7db4c73e-0b9c-4b9c-ac27-9786dc1b488f": {
+                        "id": "7db4c73e-0b9c-4b9c-ac27-9786dc1b488f",
+                        "name": "104年度附屬單位決算作業基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T17:41:18.475807",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:41:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "8d5eb2a4-2d8a-4a80-b832-a9aa12808d2d": {
                 "name": "4315c61e-b979-492b-a95c-5a6c4852c2f1",
                 "title": "桃園市平均每戶家庭收支-收入 (91~97年)",
@@ -183,6 +365,42 @@
                     "resource_recent": 0
                 }
             },
+            "5a6b9ff0-e8b0-4199-a88d-4a2248499f7e": {
+                "name": "5a6b9ff0-e8b0-4199-a88d-4a2248499f7e",
+                "title": "附屬單位預算營業基金現金流量綜計表(依機關別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T03:13:06.470845",
+                "metadata_modified": "2017-06-20T03:18:49.368133",
+                "timeEnd": 1497928729,
+                "timeBegin": 1497899586,
+                "resources": {
+                    "91e40005-9dac-49a4-89c7-178cbb79ddef": {
+                        "id": "91e40005-9dac-49a4-89c7-178cbb79ddef",
+                        "name": "105年度附屬單位預算營業基金現金流量綜計表(依機關別分列).csv",
+                        "created": "2017-06-20T11:14:59.712634",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:14:59"
+                    },
+                    "271e95fc-03da-42e3-b021-061fb9f4dba8": {
+                        "id": "271e95fc-03da-42e3-b021-061fb9f4dba8",
+                        "name": "105年度附屬單位預算營業基金現金流量綜計表(依機關別分列).csv",
+                        "created": "2017-06-20T11:17:58.554169",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:17:58"
+                    },
+                    "bb47ec4a-4024-4f64-aedf-9824face1dc8": {
+                        "id": "bb47ec4a-4024-4f64-aedf-9824face1dc8",
+                        "name": "106年度附屬單位預算營業基金現金流量綜計表(依機關別分列).csv",
+                        "created": "2017-06-20T11:18:49.414869",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:18:49"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "60750909-df80-454a-929d-8c11816792a0": {
                 "name": "60750909-df80-454a-929d-8c11816792a0",
                 "title": "桃園市總預算收支簡明比較分析表",
@@ -212,6 +430,28 @@
                     "resource_recent": 0
                 }
             },
+            "62cb144b-b080-48f2-b1a1-e73bfd34a94c": {
+                "name": "62cb144b-b080-48f2-b1a1-e73bfd34a94c",
+                "title": "附屬單位決算特別收入基金現金流量綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T10:19:19.700847",
+                "metadata_modified": "2017-06-20T10:20:16.894736",
+                "timeEnd": 1497954016,
+                "timeBegin": 1497925159,
+                "resources": {
+                    "58afa898-8482-4c32-8f39-903321a2db3e": {
+                        "id": "58afa898-8482-4c32-8f39-903321a2db3e",
+                        "name": "104年度附屬單位決算特別收入基金現金流量綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T18:20:16.941216",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T18:20:16"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "6669bdfc-f6e2-49bf-ac8a-66f651b80751": {
                 "name": "6669bdfc-f6e2-49bf-ac8a-66f651b80751",
                 "title": "桃園市總預算歲入歲出性質及餘絀簡明比較分析表",
@@ -234,6 +474,64 @@
                         "created": "2017-06-03T11:35:34",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-03T11:35:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6bc2fe95-63af-41c0-aae2-21c58e3c0e52": {
+                "name": "6bc2fe95-63af-41c0-aae2-21c58e3c0e52",
+                "title": "附屬單位預算特別收入基金現金流量綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T06:59:10.376614",
+                "metadata_modified": "2017-06-20T07:00:48.327314",
+                "timeEnd": 1497942048,
+                "timeBegin": 1497913150,
+                "resources": {
+                    "fae60bc6-c5f7-4214-aec2-93282de277f4": {
+                        "id": "fae60bc6-c5f7-4214-aec2-93282de277f4",
+                        "name": "105年度附屬單位預算特別收入基金現金流量綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T15:00:06.188645",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T15:00:06"
+                    },
+                    "54428b5c-a016-45a3-b2a8-11b819d4da1a": {
+                        "id": "54428b5c-a016-45a3-b2a8-11b819d4da1a",
+                        "name": "106年度附屬單位預算特別收入基金現金流量綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T15:00:48.370388",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T15:00:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7a1e933b-7062-46c8-813f-1b7e847a8666": {
+                "name": "7a1e933b-7062-46c8-813f-1b7e847a8666",
+                "title": "附屬單位預算作業基金餘絀撥補綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T05:47:53.148952",
+                "metadata_modified": "2017-06-20T05:52:38.984505",
+                "timeEnd": 1497937959,
+                "timeBegin": 1497908873,
+                "resources": {
+                    "2de86ce8-c99e-4ffe-814a-6c14d70f1cd2": {
+                        "id": "2de86ce8-c99e-4ffe-814a-6c14d70f1cd2",
+                        "name": "105年度附屬單位預算作業基金餘絀撥補綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T13:50:09.912898",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T13:50:09"
+                    },
+                    "cb7d213e-296e-4689-8fa9-bc106d82ecf8": {
+                        "id": "cb7d213e-296e-4689-8fa9-bc106d82ecf8",
+                        "name": "106年度附屬單位預算作業基金餘絀撥補綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T13:52:39.047033",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T13:52:38"
                     }
                 },
                 "counters": {
@@ -321,6 +619,71 @@
                     "resource_recent": 0
                 }
             },
+            "8b9221ed-2fd2-4c05-a073-1d841fb1ec99": {
+                "name": "8b9221ed-2fd2-4c05-a073-1d841fb1ec99",
+                "title": "附屬單位決算作業基金收支餘絀綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:21:53.511778",
+                "metadata_modified": "2017-06-20T09:23:21.948317",
+                "timeEnd": 1497950601,
+                "timeBegin": 1497921713,
+                "resources": {
+                    "cf4db295-75b0-483d-93ae-9f7945b127a9": {
+                        "id": "cf4db295-75b0-483d-93ae-9f7945b127a9",
+                        "name": "104年度附屬單位決算作業基金收支餘絀綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T17:23:21.986412",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:23:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8d6f0e5a-3e6e-457f-bbd1-12704379810b": {
+                "name": "8d6f0e5a-3e6e-457f-bbd1-12704379810b",
+                "title": "附屬單位預算作業基金收支餘絀綜計表(依收支科目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T03:27:35.432885",
+                "metadata_modified": "2017-06-20T03:29:36.911068",
+                "timeEnd": 1497929376,
+                "timeBegin": 1497900455,
+                "resources": {
+                    "2ee3037b-3037-41ca-af4c-ee686aa52746": {
+                        "id": "2ee3037b-3037-41ca-af4c-ee686aa52746",
+                        "name": "105年度附屬單位預算作業基金收支餘絀綜計表(依收支科目分列).csv",
+                        "created": "2017-06-20T11:28:57.430160",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:28:57"
+                    },
+                    "c981204b-4fc2-472e-9a01-c6c6b3a85681": {
+                        "id": "c981204b-4fc2-472e-9a01-c6c6b3a85681",
+                        "name": "106年度附屬單位預算作業基金收支餘絀綜計表(依收支科目分列).csv",
+                        "created": "2017-06-20T11:29:36.962934",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:29:36"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9142ba3c-1bd0-4eae-869c-a20d4d09bd05": {
+                "name": "9142ba3c-1bd0-4eae-869c-a20d4d09bd05",
+                "title": "附屬單位預算作業基金餘絀撥補綜計表(依撥補項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T03:42:49.437504",
+                "metadata_modified": "2017-06-20T03:42:50.213365",
+                "timeEnd": 1497901370,
+                "timeBegin": 1497901369,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "944079ca-8ff3-4c9f-940b-7e37d6a7a40d": {
                 "name": "944079ca-8ff3-4c9f-940b-7e37d6a7a40d",
                 "title": "附屬單位預算營業基金盈虧撥補綜計表(依機關別分列)",
@@ -379,6 +742,116 @@
                     "resource_recent": 0
                 }
             },
+            "97bb7e1c-6738-49d4-af9e-8f812aa7ebd9": {
+                "name": "97bb7e1c-6738-49d4-af9e-8f812aa7ebd9",
+                "title": "附屬單位決算作業基金現金流量綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:47:57.352241",
+                "metadata_modified": "2017-06-20T09:48:42.095838",
+                "timeEnd": 1497952122,
+                "timeBegin": 1497923277,
+                "resources": {
+                    "8468189f-7e16-4678-a34e-3239b8143a27": {
+                        "id": "8468189f-7e16-4678-a34e-3239b8143a27",
+                        "name": "104年度附屬單位決算作業基金現金流量綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T17:48:42.129872",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:48:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a7b133cf-2dbe-412c-b2d0-1d3bf8fdeb2d": {
+                "name": "a7b133cf-2dbe-412c-b2d0-1d3bf8fdeb2d",
+                "title": "附屬單位決算特別收入基金平衡綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T10:27:32.634991",
+                "metadata_modified": "2017-06-20T10:35:47.866579",
+                "timeEnd": 1497954583,
+                "timeBegin": 1497925652,
+                "resources": {
+                    "b554a15e-9f40-402e-96f6-b6f951b08297": {
+                        "id": "b554a15e-9f40-402e-96f6-b6f951b08297",
+                        "name": "104年度附屬單位決算特別收入基金平衡綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T18:29:43.570358",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T18:29:43"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b340cbdc-5963-4b1d-831d-f1080bf7242c": {
+                "name": "b340cbdc-5963-4b1d-831d-f1080bf7242c",
+                "title": "附屬單位決算營業基金盈虧撥補綜計表(依撥補項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T08:39:28.078941",
+                "metadata_modified": "2017-06-20T08:40:01.768712",
+                "timeEnd": 1497948001,
+                "timeBegin": 1497919168,
+                "resources": {
+                    "17b018f7-3dbb-4efe-8863-18b7b269ee2c": {
+                        "id": "17b018f7-3dbb-4efe-8863-18b7b269ee2c",
+                        "name": "104年度附屬單位決算營業基金盈虧撥補綜計表(依撥補項目分列).csv",
+                        "created": "2017-06-20T16:40:01.802641",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:40:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b9e062fa-0dc7-4780-9b8f-ea2e344fba96": {
+                "name": "b9e062fa-0dc7-4780-9b8f-ea2e344fba96",
+                "title": "附屬單位決算作業基金餘絀撥補綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:36:37.740847",
+                "metadata_modified": "2017-06-20T09:38:12.799822",
+                "timeEnd": 1497951492,
+                "timeBegin": 1497922597,
+                "resources": {
+                    "80f945b0-5b60-4959-a0ba-e8fb9e3b07ae": {
+                        "id": "80f945b0-5b60-4959-a0ba-e8fb9e3b07ae",
+                        "name": "104年度附屬單位決算作業基金餘絀撥補綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T17:38:12.838420",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:38:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "ba9517d0-e1ca-40ff-9200-ef816500ee91": {
+                "name": "ba9517d0-e1ca-40ff-9200-ef816500ee91",
+                "title": "附屬單位決算營業基金財務摘要綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T07:15:35.412959",
+                "metadata_modified": "2017-06-20T07:16:58.276880",
+                "timeEnd": 1497943018,
+                "timeBegin": 1497914135,
+                "resources": {
+                    "2265c835-2ebe-48a2-95f1-ecf418743d0a": {
+                        "id": "2265c835-2ebe-48a2-95f1-ecf418743d0a",
+                        "name": "104年度附屬單位決算營業基金財務摘要綜計表.csv",
+                        "created": "2017-06-20T15:16:58.318143",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T15:16:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "bbda1679-fc97-44bb-81f8-5528dd2244c1": {
                 "name": "bbda1679-fc97-44bb-81f8-5528dd2244c1",
                 "title": "桃園市總預算歲入歲出簡明比較分析表",
@@ -430,6 +903,28 @@
                     "resource_recent": 0
                 }
             },
+            "c38aa70d-cb2f-478d-802d-20f9d5b1d9c2": {
+                "name": "c38aa70d-cb2f-478d-802d-20f9d5b1d9c2",
+                "title": "附屬單位決算作業基金收支餘絀綜計表(依收支科目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:17:07.510338",
+                "metadata_modified": "2017-06-20T09:17:47.380843",
+                "timeEnd": 1497950267,
+                "timeBegin": 1497921427,
+                "resources": {
+                    "7d16e56d-1390-4cb7-acbf-125675c10cef": {
+                        "id": "7d16e56d-1390-4cb7-acbf-125675c10cef",
+                        "name": "104年度附屬單位決算作業基金收支餘絀綜計表(依收支科目分列).csv",
+                        "created": "2017-06-20T17:17:47.425863",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:17:47"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "cae36475-198b-4bc9-a88c-9744a94fadab": {
                 "name": "cae36475-198b-4bc9-a88c-9744a94fadab",
                 "title": "附屬單位預算營業基金損益綜計表(依機關別分列)",
@@ -452,6 +947,159 @@
                         "created": "2017-06-19T18:09:10.505403",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-19T18:09:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cb7f6537-7b5e-4ed6-93c0-845f4fcd52ae": {
+                "name": "cb7f6537-7b5e-4ed6-93c0-845f4fcd52ae",
+                "title": "附屬單位預算特別收入基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T06:55:08.781289",
+                "metadata_modified": "2017-06-20T06:56:38.602218",
+                "timeEnd": 1497941798,
+                "timeBegin": 1497912908,
+                "resources": {
+                    "06491d8b-3dbf-48e1-b600-b10b562e95bb": {
+                        "id": "06491d8b-3dbf-48e1-b600-b10b562e95bb",
+                        "name": "105年度附屬單位預算特別收入基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T14:55:54.982459",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:55:54"
+                    },
+                    "85a29671-1820-40f5-b0e9-b0d44cc86f9c": {
+                        "id": "85a29671-1820-40f5-b0e9-b0d44cc86f9c",
+                        "name": "106年度附屬單位預算特別收入基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T14:56:38.651199",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:56:38"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d118e002-c348-49c3-a20f-79902c19c693": {
+                "name": "d118e002-c348-49c3-a20f-79902c19c693",
+                "title": "附屬單位決算營業基金資產負債綜計表(依科目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T08:55:57.792107",
+                "metadata_modified": "2017-06-20T08:56:52.260669",
+                "timeEnd": 1497949012,
+                "timeBegin": 1497920157,
+                "resources": {
+                    "01bcd820-02d7-416a-b9db-5aa1e32fcd31": {
+                        "id": "01bcd820-02d7-416a-b9db-5aa1e32fcd31",
+                        "name": "104年度附屬單位決算營業基金資產負債綜計表(依科目分列).csv",
+                        "created": "2017-06-20T16:56:52.294899",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:56:52"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d195aa16-f68c-43c3-b31b-a6e61a9b288d": {
+                "name": "d195aa16-f68c-43c3-b31b-a6e61a9b288d",
+                "title": "附屬單位決算營業基金資產負債綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:13:09.801928",
+                "metadata_modified": "2017-06-20T09:13:52.475922",
+                "timeEnd": 1497950032,
+                "timeBegin": 1497921189,
+                "resources": {
+                    "a186fa59-6078-47e9-b051-ec13fae580e9": {
+                        "id": "a186fa59-6078-47e9-b051-ec13fae580e9",
+                        "name": "104年度附屬單位決算營業基金資產負債綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T17:13:52.508955",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:13:52"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d484b415-c1eb-4d82-bd4a-cb1596baaf8a": {
+                "name": "d484b415-c1eb-4d82-bd4a-cb1596baaf8a",
+                "title": "附屬單位決算營業基金損益綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T08:36:02.780999",
+                "metadata_modified": "2017-06-20T08:36:54.072392",
+                "timeEnd": 1497947814,
+                "timeBegin": 1497918962,
+                "resources": {
+                    "e1874200-a8f1-4f5d-8a63-e8ed5314e69b": {
+                        "id": "e1874200-a8f1-4f5d-8a63-e8ed5314e69b",
+                        "name": "104年度附屬單位決算營業基金損益綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T16:36:54.113964",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:36:53"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d946cce7-8b04-4065-89d2-ed82a674a82b": {
+                "name": "d946cce7-8b04-4065-89d2-ed82a674a82b",
+                "title": "附屬單位預算作業基金固定資產建設改良擴充資金來源綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T06:09:50.768745",
+                "metadata_modified": "2017-06-20T06:11:07.087657",
+                "timeEnd": 1497939067,
+                "timeBegin": 1497910190,
+                "resources": {
+                    "2f5f7f77-1b54-4666-93f9-be2b79f3bf22": {
+                        "id": "2f5f7f77-1b54-4666-93f9-be2b79f3bf22",
+                        "name": "105年度附屬單位預算作業基金固定資產建設改良擴充資金來源綜計表.csv",
+                        "created": "2017-06-20T14:10:32.136736",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:10:32"
+                    },
+                    "2506cfb4-427c-4d86-9e79-8b2e3faffea4": {
+                        "id": "2506cfb4-427c-4d86-9e79-8b2e3faffea4",
+                        "name": "106年度附屬單位預算作業基金固定資產建設改良擴充資金來源綜計表.csv",
+                        "created": "2017-06-20T14:11:07.123349",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:11:06"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "da1edab9-218b-4668-b73f-727f342d8edd": {
+                "name": "da1edab9-218b-4668-b73f-727f342d8edd",
+                "title": "附屬單位預算作業基金現金流量綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T06:04:29.028090",
+                "metadata_modified": "2017-06-20T06:06:09.480725",
+                "timeEnd": 1497938769,
+                "timeBegin": 1497909869,
+                "resources": {
+                    "80876b03-47df-4eb8-be28-3c6410f64f64": {
+                        "id": "80876b03-47df-4eb8-be28-3c6410f64f64",
+                        "name": "105年度附屬單位預算作業基金現金流量綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T14:05:25.891301",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:05:25"
+                    },
+                    "6f290477-4444-44b7-9f0d-e3eb882c0f15": {
+                        "id": "6f290477-4444-44b7-9f0d-e3eb882c0f15",
+                        "name": "106年度附屬單位預算作業基金現金流量綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T14:06:09.548278",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:06:09"
                     }
                 },
                 "counters": {
@@ -510,6 +1158,35 @@
                     "resource_recent": 0
                 }
             },
+            "e0a9ce91-fefd-4bce-85af-99ea0957d3b8": {
+                "name": "e0a9ce91-fefd-4bce-85af-99ea0957d3b8",
+                "title": "附屬單位預算作業基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T06:00:50.815620",
+                "metadata_modified": "2017-06-20T06:02:07.191852",
+                "timeEnd": 1497938527,
+                "timeBegin": 1497909650,
+                "resources": {
+                    "619c05a5-0d4d-4a83-87eb-85d2592b0c4c": {
+                        "id": "619c05a5-0d4d-4a83-87eb-85d2592b0c4c",
+                        "name": "105年度附屬單位預算作業基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T14:01:30.397216",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:01:30"
+                    },
+                    "8d21b9ba-cc68-43aa-9488-5bc327ef1d65": {
+                        "id": "8d21b9ba-cc68-43aa-9488-5bc327ef1d65",
+                        "name": "106年度附屬單位預算作業基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T14:02:07.223084",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:02:06"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e8179fca-f63e-4a74-b077-e7abc16c9004": {
                 "name": "e8179fca-f63e-4a74-b077-e7abc16c9004",
                 "title": "附屬單位預算營業基金盈虧撥補綜計表(依撥補項目分列)",
@@ -532,6 +1209,28 @@
                         "created": "2017-06-19T18:17:23.011060",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-19T18:17:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e89286d7-a3ea-4976-9b5f-090e08af05f7": {
+                "name": "e89286d7-a3ea-4976-9b5f-090e08af05f7",
+                "title": "附屬單位決算作業基金平衡綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T09:58:04.054373",
+                "metadata_modified": "2017-06-20T09:59:28.408643",
+                "timeEnd": 1497952768,
+                "timeBegin": 1497923884,
+                "resources": {
+                    "8c4a752e-0a1b-49c8-8ed8-3ab6a850e093": {
+                        "id": "8c4a752e-0a1b-49c8-8ed8-3ab6a850e093",
+                        "name": "104年度附屬單位決算作業基金平衡綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T17:59:28.442247",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:59:28"
                     }
                 },
                 "counters": {
@@ -568,6 +1267,50 @@
                     "resource_recent": 0
                 }
             },
+            "eda764b5-8bd9-4ecc-904e-c711f2f0105e": {
+                "name": "eda764b5-8bd9-4ecc-904e-c711f2f0105e",
+                "title": "附屬單位決算特別收入基金來源、用途及餘絀綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T10:08:46.707022",
+                "metadata_modified": "2017-06-20T10:09:59.104646",
+                "timeEnd": 1497953399,
+                "timeBegin": 1497924526,
+                "resources": {
+                    "976396a8-6db9-47f2-822d-315fc7685d6c": {
+                        "id": "976396a8-6db9-47f2-822d-315fc7685d6c",
+                        "name": "104年度附屬單位決算特別收入基金來源、用途及餘絀綜計表.csv",
+                        "created": "2017-06-20T18:09:59.138135",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T18:09:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "edf27f88-a850-4c99-97aa-e44dff970359": {
+                "name": "edf27f88-a850-4c99-97aa-e44dff970359",
+                "title": "附屬單位決算營業基金現金流量綜計表(依基金別分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T08:50:10.427557",
+                "metadata_modified": "2017-06-20T08:53:45.256489",
+                "timeEnd": 1497948825,
+                "timeBegin": 1497919810,
+                "resources": {
+                    "29227c92-105d-4183-bcb2-34ecfcf1f6ae": {
+                        "id": "29227c92-105d-4183-bcb2-34ecfcf1f6ae",
+                        "name": "104年度附屬單位決算營業基金現金流量綜計表(依基金別分列).csv",
+                        "created": "2017-06-20T16:53:45.289385",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:53:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "efc90d85-cd2c-4ceb-891b-24a589d2e6dd": {
                 "name": "efc90d85-cd2c-4ceb-891b-24a589d2e6dd",
                 "title": "附屬單位預算營業基金財務摘要綜計表",
@@ -590,6 +1333,108 @@
                         "created": "2017-06-19T17:54:08.639848",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-19T17:54:08"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f2cc0949-54ad-4469-8300-3cdbd3d52ed0": {
+                "name": "f2cc0949-54ad-4469-8300-3cdbd3d52ed0",
+                "title": "附屬單位決算特別收入基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T10:11:59.159703",
+                "metadata_modified": "2017-06-20T10:14:52.536630",
+                "timeEnd": 1497953692,
+                "timeBegin": 1497924719,
+                "resources": {
+                    "7bab9d5a-7111-4307-a92e-05dd1d873985": {
+                        "id": "7bab9d5a-7111-4307-a92e-05dd1d873985",
+                        "name": "104年度附屬單位決算作業基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T18:14:52.570541",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T18:14:52"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f9cf3e34-a97f-4275-b48e-b51c964b2fdd": {
+                "name": "f9cf3e34-a97f-4275-b48e-b51c964b2fdd",
+                "title": "附屬單位預算營業基金現金流量綜計表(依現金流量項目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T03:00:32.536312",
+                "metadata_modified": "2017-06-20T03:08:01.200353",
+                "timeEnd": 1497928081,
+                "timeBegin": 1497898832,
+                "resources": {
+                    "8a3b907e-c2bf-4cf1-9e12-802a32194f04": {
+                        "id": "8a3b907e-c2bf-4cf1-9e12-802a32194f04",
+                        "name": "105年度附屬單位預算營業基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T11:06:21.165350",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:06:21"
+                    },
+                    "65678bbb-fe36-4188-ac98-56cd414309eb": {
+                        "id": "65678bbb-fe36-4188-ac98-56cd414309eb",
+                        "name": "106年度附屬單位預算營業基金現金流量綜計表(依現金流量項目分列).csv",
+                        "created": "2017-06-20T11:08:01.244987",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:08:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fb154e52-11f4-49b7-a894-2995f7ae87b5": {
+                "name": "fb154e52-11f4-49b7-a894-2995f7ae87b5",
+                "title": "附屬單位決算營業基金損益綜計表(依收支科目分列)",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T08:17:13.258807",
+                "metadata_modified": "2017-06-20T08:18:32.062519",
+                "timeEnd": 1497946712,
+                "timeBegin": 1497917833,
+                "resources": {
+                    "ec001221-eacf-4482-a467-a73e6690801e": {
+                        "id": "ec001221-eacf-4482-a467-a73e6690801e",
+                        "name": "104年度附屬單位決算營業基金損益綜計表(依收支科目分列).csv",
+                        "created": "2017-06-20T16:18:32.111776",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:18:31"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fc241929-8032-4918-b9c4-7d4f57bdcb35": {
+                "name": "fc241929-8032-4918-b9c4-7d4f57bdcb35",
+                "title": "附屬單位預算營業基金固定資產建設改良擴充資金來源綜計表",
+                "organization_id": "380200000a",
+                "metadata_created": "2017-06-20T03:21:41.236565",
+                "metadata_modified": "2017-06-20T03:24:14.732860",
+                "timeEnd": 1497929054,
+                "timeBegin": 1497900101,
+                "resources": {
+                    "17050555-5ab2-43aa-a53e-8cff675b9953": {
+                        "id": "17050555-5ab2-43aa-a53e-8cff675b9953",
+                        "name": "105年度附屬單位預算營業基金固定資產建設改良擴充資金來源綜計表.csv",
+                        "created": "2017-06-20T11:22:31.155313",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:22:30"
+                    },
+                    "02d7e08d-be27-4e6b-b62f-ffac8039b7e7": {
+                        "id": "02d7e08d-be27-4e6b-b62f-ffac8039b7e7",
+                        "name": "106年度附屬單位預算營業基金固定資產建設改良擴充資金來源綜計表.csv",
+                        "created": "2017-06-20T11:24:14.783136",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:24:14"
                     }
                 },
                 "counters": {
@@ -1588,7 +2433,7 @@
     },
     "桃園市政府勞動局": {
         "counters": {
-            "datasets": 38,
+            "datasets": 39,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -1600,77 +2445,77 @@
                 "title": "桃園市公布違反性別工作平等法事業單位",
                 "organization_id": "380240000j",
                 "metadata_created": "2016-05-13T07:57:37.487694",
-                "metadata_modified": "2017-05-24T07:45:27.946101",
-                "timeEnd": 1495611928,
+                "metadata_modified": "2017-06-20T06:01:34.666359",
+                "timeEnd": 1497909694,
                 "timeBegin": 1463097457,
                 "resources": {
                     "ab84dce4-8b22-42a6-849d-6facc0df18c2": {
                         "id": "ab84dce4-8b22-42a6-849d-6facc0df18c2",
                         "name": "桃園市106年度第3次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:03:58.624941",
+                        "created": "2017-05-24T15:03:58",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:03:58"
                     },
                     "fdfc1989-6fd4-4077-9c48-5186137a3c1c": {
                         "id": "fdfc1989-6fd4-4077-9c48-5186137a3c1c",
                         "name": "桃園市106年度第2次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:14:51.227128",
+                        "created": "2017-05-24T15:14:51",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:14:51"
                     },
                     "5258218a-5447-4b40-a049-5f664f32dfcf": {
                         "id": "5258218a-5447-4b40-a049-5f664f32dfcf",
                         "name": "桃園市106年度第2次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:15:22.642756",
+                        "created": "2017-05-24T15:15:22",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:15:22"
                     },
                     "05743767-9d95-460c-83e2-ca43a7b727c6": {
                         "id": "05743767-9d95-460c-83e2-ca43a7b727c6",
                         "name": "桃園市106年度第1次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:19:36.791724",
+                        "created": "2017-05-24T15:19:36",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:19:36"
                     },
                     "a15a830f-f989-432e-80d8-40f1e96efd56": {
                         "id": "a15a830f-f989-432e-80d8-40f1e96efd56",
                         "name": "桃園市105年度第6次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:31:24.745513",
+                        "created": "2017-05-24T15:31:24",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:31:24"
                     },
                     "0c8c8aa7-5276-4818-8f1d-16eebb342fe7": {
                         "id": "0c8c8aa7-5276-4818-8f1d-16eebb342fe7",
                         "name": "桃園市105年度第5次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:35:02.012170",
+                        "created": "2017-05-24T15:35:02",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:35:01"
                     },
                     "37e82349-fd42-466a-9e29-86f4fac3b97c": {
                         "id": "37e82349-fd42-466a-9e29-86f4fac3b97c",
                         "name": "桃園市105年度第4次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:37:51.372725",
+                        "created": "2017-05-24T15:37:51",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:37:51"
                     },
                     "49999b7c-56f6-44be-a01e-fa8bfb0259a5": {
                         "id": "49999b7c-56f6-44be-a01e-fa8bfb0259a5",
                         "name": "桃園市105年度第3次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:40:05.969280",
+                        "created": "2017-05-24T15:40:05",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:40:05"
                     },
                     "ded30f6b-3950-4d3d-9c1b-989206cc76fc": {
                         "id": "ded30f6b-3950-4d3d-9c1b-989206cc76fc",
                         "name": "桃園市105年度第2次公布違反性別工作平等法事業單位.csv",
-                        "created": "2017-05-24T15:42:38.240268",
+                        "created": "2017-05-24T15:42:38",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:42:37"
                     },
                     "c8d90106-7719-4fbe-ab4f-6c64a66e52e3": {
                         "id": "c8d90106-7719-4fbe-ab4f-6c64a66e52e3",
                         "name": "桃園市105年度第1次公布違反性別工作平等法事業單位 .csv",
-                        "created": "2017-05-24T15:45:28.023353",
+                        "created": "2017-05-24T15:45:28",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-24T15:45:27"
                     }
@@ -1751,16 +2596,16 @@
                 "title": "106年失業者職訓開班一覽表",
                 "organization_id": "380240000j",
                 "metadata_created": "2017-05-17T05:26:55.876229",
-                "metadata_modified": "2017-05-19T08:17:56.488652",
-                "timeEnd": 1495153076,
+                "metadata_modified": "2017-06-20T05:59:58.283943",
+                "timeEnd": 1497938225,
                 "timeBegin": 1494970015,
                 "resources": {
-                    "d3df0fdf-7bed-4d80-aca4-7a120fe8e52c": {
-                        "id": "d3df0fdf-7bed-4d80-aca4-7a120fe8e52c",
-                        "name": "106年失業者職訓開班一覽表.pdf",
-                        "created": "2017-05-17T13:27:50",
+                    "e7cd4354-a439-4f05-89e9-8f603c68d38c": {
+                        "id": "e7cd4354-a439-4f05-89e9-8f603c68d38c",
+                        "name": "106年失業者職訓開班一覽表.csv",
+                        "created": "2017-06-20T13:57:05",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-17T13:27:50"
+                        "last_modified": "2017-06-20T13:57:05"
                     }
                 },
                 "counters": {
@@ -1812,6 +2657,28 @@
                         "created": "2017-06-13T15:10:11",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-13T15:10:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4d73d18e-0bdc-4628-9288-9d79b67183ad": {
+                "name": "4d73d18e-0bdc-4628-9288-9d79b67183ad",
+                "title": "桃園市仲介本國人在國內工作之私立就業服務機構暨分支機構",
+                "organization_id": "380240000j",
+                "metadata_created": "2017-06-20T08:52:10.656052",
+                "metadata_modified": "2017-06-20T08:53:39.900723",
+                "timeEnd": 1497948819,
+                "timeBegin": 1497919930,
+                "resources": {
+                    "3245f04d-ab46-4b02-a8a1-315ac4db8a45": {
+                        "id": "3245f04d-ab46-4b02-a8a1-315ac4db8a45",
+                        "name": "桃園市仲介本國人在國內工作之私立就業服務機構暨分支機構.csv",
+                        "created": "2017-06-20T16:53:39.932118",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T16:53:39"
                     }
                 },
                 "counters": {
@@ -1904,23 +2771,23 @@
                 "title": "桃園市視障按摩院所及按摩小站(駐點)",
                 "organization_id": "380240000j",
                 "metadata_created": "2015-10-02T07:29:35.102494",
-                "metadata_modified": "2016-03-01T02:29:55.028839",
-                "timeEnd": 1456799388,
+                "metadata_modified": "2017-06-20T05:24:14.409506",
+                "timeEnd": 1497931622,
                 "timeBegin": 1443742175,
                 "resources": {
-                    "d1ec4f2b-e176-4c29-8a5d-11550a2341fb": {
-                        "id": "d1ec4f2b-e176-4c29-8a5d-11550a2341fb",
-                        "name": "桃園市私人視障按摩院所",
-                        "created": "2016-02-24T10:21:33.190039",
+                    "6d224bfe-199e-42f0-ad09-3a8fabe2eefd": {
+                        "id": "6d224bfe-199e-42f0-ad09-3a8fabe2eefd",
+                        "name": "私人按摩院及個人工作室.csv",
+                        "created": "2017-06-20T12:02:56",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-02-24T10:21:17"
+                        "last_modified": "2017-06-20T12:02:56"
                     },
-                    "74386a42-00f1-43a8-91b6-5a6a6c90680f": {
-                        "id": "74386a42-00f1-43a8-91b6-5a6a6c90680f",
-                        "name": "私人按摩院及個人工作室",
-                        "created": "2016-03-01T10:29:48.719468",
+                    "1245c764-dffb-4677-97bc-06729c53fd34": {
+                        "id": "1245c764-dffb-4677-97bc-06729c53fd34",
+                        "name": "按摩小站及駐點.csv",
+                        "created": "2017-06-20T12:07:02",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-03-01T10:29:33"
+                        "last_modified": "2017-06-20T12:07:01"
                     }
                 },
                 "counters": {
@@ -1933,18 +2800,10 @@
                 "title": "就業快報求才職缺表",
                 "organization_id": "380240000j",
                 "metadata_created": "2017-05-22T02:27:16.001597",
-                "metadata_modified": "2017-05-24T06:18:44.343201",
-                "timeEnd": 1495606724,
+                "metadata_modified": "2017-06-20T03:15:44.077405",
+                "timeEnd": 1497899744,
                 "timeBegin": 1495391236,
-                "resources": {
-                    "09550ebc-dbc9-48ad-95d2-72238886c5f2": {
-                        "id": "09550ebc-dbc9-48ad-95d2-72238886c5f2",
-                        "name": "就業快報求才資枓表.pdf",
-                        "created": "2017-05-24T14:18:44.387839",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-05-24T14:18:44"
-                    }
-                },
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -2414,14 +3273,14 @@
                 "title": "桃園市石門山勞工育樂中心",
                 "organization_id": "380240000j",
                 "metadata_created": "2015-10-06T01:39:02.495088",
-                "metadata_modified": "2015-12-23T01:30:53.669895",
-                "timeEnd": 1450805453,
+                "metadata_modified": "2017-06-20T07:02:05.074471",
+                "timeEnd": 1497913325,
                 "timeBegin": 1444066742,
                 "resources": {
                     "4b76e172-d74e-404c-92a8-ac7729ee4c5e": {
                         "id": "4b76e172-d74e-404c-92a8-ac7729ee4c5e",
                         "name": "育樂中心租借資訊",
-                        "created": "2015-11-25T13:03:09.300933",
+                        "created": "2015-11-25T13:03:09",
                         "webstore_last_updated": null,
                         "last_modified": "2015-11-25T13:03:23"
                     }
@@ -2598,17 +3457,17 @@
             },
             "a4983eaa-66a2-44f6-97c2-d72f30f3e21b": {
                 "name": "a4983eaa-66a2-44f6-97c2-d72f30f3e21b",
-                "title": "桃園市都會區原住民族老人日間關懷站暨復興區部落文健康照顧站",
+                "title": "桃園市都會區原住民族老人日間關懷站暨復興區部落文化健康照顧站",
                 "organization_id": "380440000a",
                 "metadata_created": "2017-02-20T09:33:57.847147",
-                "metadata_modified": "2017-06-15T06:32:22.818897",
-                "timeEnd": 1497508342,
+                "metadata_modified": "2017-06-20T01:33:25.430274",
+                "timeEnd": 1497893605,
                 "timeBegin": 1487554437,
                 "resources": {
                     "0e80abb9-2571-4959-af55-62a862e9bd90": {
                         "id": "0e80abb9-2571-4959-af55-62a862e9bd90",
                         "name": "桃園市都會區原住民族老人日間關懷站暨復興區部落文化健康照顧站.csv",
-                        "created": "2017-06-15T14:32:22.869420",
+                        "created": "2017-06-15T14:32:22",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-15T14:32:22"
                     }
@@ -9723,8 +10582,8 @@
                 "title": "政府政風處暨各政風機構(單位)受理財產申報人數",
                 "organization_id": "380230000a",
                 "metadata_created": "2017-06-06T08:37:35.405543",
-                "metadata_modified": "2017-06-19T08:16:50.243382",
-                "timeEnd": 1497860210,
+                "metadata_modified": "2017-06-20T09:32:47.478565",
+                "timeEnd": 1497951167,
                 "timeBegin": 1496709455,
                 "resources": {
                     "4f0637be-f6d0-4bfb-b536-de25dd13f49d": {
@@ -9740,6 +10599,13 @@
                         "created": "2017-06-19T16:16:50.290455",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-19T16:16:50"
+                    },
+                    "444b378e-6c5f-455c-a6e7-ca25c74748f9": {
+                        "id": "444b378e-6c5f-455c-a6e7-ca25c74748f9",
+                        "name": "1060620財產申報受理人數(開放資料平台-修3).csv",
+                        "created": "2017-06-20T17:32:47.533483",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T17:32:47"
                     }
                 },
                 "counters": {
@@ -9950,17 +10816,17 @@
             },
             "5c411905-1d2a-4f38-b054-1f6cc9559863": {
                 "name": "5c411905-1d2a-4f38-b054-1f6cc9559863",
-                "title": "桃園市政府家庭教育中心",
+                "title": "桃園市政府家庭教育中心組織、執掌、地址、電話、傳真、網址及電子信箱帳號",
                 "organization_id": "380040000e",
                 "metadata_created": "2017-02-16T07:37:56.180623",
-                "metadata_modified": "2017-02-20T00:02:10.310320",
-                "timeEnd": 1487548920,
+                "metadata_modified": "2017-06-20T02:44:16.095649",
+                "timeEnd": 1497897856,
                 "timeBegin": 1487201876,
                 "resources": {
                     "7e061e00-ddc1-4cff-8fbe-4b27b74387ad": {
                         "id": "7e061e00-ddc1-4cff-8fbe-4b27b74387ad",
                         "name": "家庭教育中心組織、執掌、地址、電話、傳真、網址及電子信箱帳號",
-                        "created": "2017-02-20T08:02:00.698390",
+                        "created": "2017-02-20T08:02:00",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T08:02:00"
                     }
@@ -9994,11 +10860,11 @@
             },
             "777f1caf-8a48-4a2b-b489-0f64895566d5": {
                 "name": "777f1caf-8a48-4a2b-b489-0f64895566d5",
-                "title": "桃園市政府家庭教育中心",
+                "title": "桃園市政府家庭教育諮詢委員會設置要點",
                 "organization_id": "380040000e",
                 "metadata_created": "2016-10-28T06:12:24.946972",
-                "metadata_modified": "2017-02-16T07:41:54.935800",
-                "timeEnd": 1487202114,
+                "metadata_modified": "2017-06-20T02:45:02.361569",
+                "timeEnd": 1497897902,
                 "timeBegin": 1477606344,
                 "resources": {
                     "4c6f3316-4611-4e2a-ac52-d8911e8b576a": {
@@ -10155,17 +11021,17 @@
             },
             "dcbfd650-1e2f-4015-9404-b4ad8e2f1d37": {
                 "name": "dcbfd650-1e2f-4015-9404-b4ad8e2f1d37",
-                "title": "桃園市政府家庭教育中心",
+                "title": "桃園市高級中等以下學校施行家庭教育課程及活動實施要點",
                 "organization_id": "380040000e",
                 "metadata_created": "2017-02-16T07:36:22.624448",
-                "metadata_modified": "2017-02-20T00:01:01.745413",
-                "timeEnd": 1487548841,
+                "metadata_modified": "2017-06-20T02:46:10.173396",
+                "timeEnd": 1497897970,
                 "timeBegin": 1487201782,
                 "resources": {
                     "479ab95f-fea3-4d9f-abdb-d025d06ed234": {
                         "id": "479ab95f-fea3-4d9f-abdb-d025d06ed234",
                         "name": "桃園市高級中等以下學校施行家庭教育課程及活動實施要點",
-                        "created": "2017-02-20T08:00:41.018710",
+                        "created": "2017-02-20T08:00:41",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-20T08:00:40"
                     }
@@ -10454,14 +11320,14 @@
                 "title": "補助私有古蹟、歷史建築及紀念建築日常管理維護計畫經費核定一覽表",
                 "organization_id": "380330000e",
                 "metadata_created": "2017-06-09T01:50:42.319377",
-                "metadata_modified": "2017-06-09T01:53:26.162636",
-                "timeEnd": 1496973206,
+                "metadata_modified": "2017-06-20T03:51:55.644496",
+                "timeEnd": 1497901915,
                 "timeBegin": 1496944242,
                 "resources": {
                     "c9aef079-6806-4786-9629-99f2766078b4": {
                         "id": "c9aef079-6806-4786-9629-99f2766078b4",
                         "name": "補助私有古蹟、歷史建築及紀念建築日常管理維護計畫經費核定一覽表csv.csv",
-                        "created": "2017-06-09T09:53:26.199308",
+                        "created": "2017-06-09T09:53:26",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-09T09:53:26"
                     }
@@ -15870,13 +16736,63 @@
     },
     "桃園市政府環境保護局": {
         "counters": {
-            "datasets": 37,
+            "datasets": 39,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "01dccf46-ab70-47b0-872b-698544e29ed2": {
+                "name": "01dccf46-ab70-47b0-872b-698544e29ed2",
+                "title": "空氣品質監測月報表",
+                "organization_id": "380150000i",
+                "metadata_created": "2017-06-20T02:50:50.112575",
+                "metadata_modified": "2017-06-20T03:30:00.081784",
+                "timeEnd": 1497928077,
+                "timeBegin": 1497898250,
+                "resources": {
+                    "6bec2852-91cd-48f3-a6ab-51cc2c14f340": {
+                        "id": "6bec2852-91cd-48f3-a6ab-51cc2c14f340",
+                        "name": "106年4月空氣品質人工監測站監測月報表.xls",
+                        "created": "2017-06-20T11:06:28",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:06:28"
+                    },
+                    "7ddadf49-646d-4634-babe-b51466646899": {
+                        "id": "7ddadf49-646d-4634-babe-b51466646899",
+                        "name": "106年4月內壢空氣品質自動測站監測月報表.xls",
+                        "created": "2017-06-20T11:06:51",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:06:51"
+                    },
+                    "f402d27b-5c29-491b-9373-f3506d02a11f": {
+                        "id": "f402d27b-5c29-491b-9373-f3506d02a11f",
+                        "name": "106年4月新興國小空氣品質自動測站監測月報表.xls",
+                        "created": "2017-06-20T11:07:14",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:07:14"
+                    },
+                    "04461981-0f27-40af-a032-8ead9c8eb05c": {
+                        "id": "04461981-0f27-40af-a032-8ead9c8eb05c",
+                        "name": "106年4月三民公園空氣品質自動測站監測月報表.xls",
+                        "created": "2017-06-20T11:07:36",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:07:35"
+                    },
+                    "5bf109df-1d20-4e7e-b6c6-88bbc5c9adb1": {
+                        "id": "5bf109df-1d20-4e7e-b6c6-88bbc5c9adb1",
+                        "name": "106年4月觀音空氣品質自動測站監測月報表.xls",
+                        "created": "2017-06-20T11:07:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:07:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "548e2835-5f86-4d34-95bf-ca4e04c40b96": {
                 "name": "058fa865-035b-4cd6-af52-850d86cd1357",
                 "title": "桃園市機車定檢站名單",
@@ -16087,10 +17003,18 @@
                 "title": "桃園市公民營廢棄物處理機構評鑑A級機構",
                 "organization_id": "380150000i",
                 "metadata_created": "2016-12-28T05:57:04.350108",
-                "metadata_modified": "2017-04-06T00:12:17.142246",
-                "timeEnd": 1491408737,
+                "metadata_modified": "2017-06-20T06:22:16.217532",
+                "timeEnd": 1497939687,
                 "timeBegin": 1482875824,
-                "resources": [],
+                "resources": {
+                    "f4756c4b-f5cf-4268-931f-5006f7d91145": {
+                        "id": "f4756c4b-f5cf-4268-931f-5006f7d91145",
+                        "name": "桃園市公民營廢棄物處理機構評鑑A級機構.csv",
+                        "created": "2017-06-20T14:21:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T14:21:27"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -16609,6 +17533,28 @@
                         "created": "2016-01-07T16:26:28",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-07T16:26:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "89dea47a-380c-4be0-86cc-97b04562646e": {
+                "name": "89dea47a-380c-4be0-86cc-97b04562646e",
+                "title": "桃園市轄內空氣品質監測站設置概況與測定項目",
+                "organization_id": "380150000i",
+                "metadata_created": "2017-06-20T03:37:27.109896",
+                "metadata_modified": "2017-06-20T03:38:14.977596",
+                "timeEnd": 1497929895,
+                "timeBegin": 1497901047,
+                "resources": {
+                    "283f64b5-6fee-432f-a560-fdc1692144b6": {
+                        "id": "283f64b5-6fee-432f-a560-fdc1692144b6",
+                        "name": "空氣品質監測站設置概況與測定項目.xls",
+                        "created": "2017-06-20T11:38:15.013297",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:38:14"
                     }
                 },
                 "counters": {
@@ -28520,10 +29466,18 @@
                 "title": "桃園市休閒畜牧場",
                 "organization_id": "380270000g",
                 "metadata_created": "2015-10-07T02:33:25.176275",
-                "metadata_modified": "2017-06-09T05:18:09.245757",
-                "timeEnd": 1496956689,
+                "metadata_modified": "2017-06-20T03:47:57.826306",
+                "timeEnd": 1497930477,
                 "timeBegin": 1444156405,
-                "resources": [],
+                "resources": {
+                    "8ff465f7-90c1-43ac-9f03-9119aa2ec94b": {
+                        "id": "8ff465f7-90c1-43ac-9f03-9119aa2ec94b",
+                        "name": "桃園市休閒畜牧場.csv",
+                        "created": "2017-06-20T11:47:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:47:57"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -31207,10 +32161,46 @@
                 "title": "青年出國資源指南手冊",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T08:03:26.697112",
-                "metadata_modified": "2017-05-11T06:34:39.247562",
-                "timeEnd": 1494455679,
+                "metadata_modified": "2017-06-20T03:33:57.034039",
+                "timeEnd": 1497929637,
                 "timeBegin": 1493597006,
-                "resources": [],
+                "resources": {
+                    "cccbdb73-7541-4026-89fc-e83b3e661b22": {
+                        "id": "cccbdb73-7541-4026-89fc-e83b3e661b22",
+                        "name": "青年出國資源指南手冊.jpg",
+                        "created": "2017-06-20T11:32:56.334610",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:32:56"
+                    },
+                    "844ec5a8-324c-44f6-a69a-d689986313e8": {
+                        "id": "844ec5a8-324c-44f6-a69a-d689986313e8",
+                        "name": "青年出國手冊2.jpg",
+                        "created": "2017-06-20T11:33:12.552137",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:33:12"
+                    },
+                    "10af58b0-5824-4f02-ae71-c97f49f7cbc9": {
+                        "id": "10af58b0-5824-4f02-ae71-c97f49f7cbc9",
+                        "name": "出國手冊3.jpg",
+                        "created": "2017-06-20T11:33:24.607316",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:33:24"
+                    },
+                    "bd8252ee-4626-467c-8546-713c4934a536": {
+                        "id": "bd8252ee-4626-467c-8546-713c4934a536",
+                        "name": "出國手冊4.jpg",
+                        "created": "2017-06-20T11:33:37.294553",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:33:37"
+                    },
+                    "12b69633-6ab0-4a3b-9795-96ecebea73ee": {
+                        "id": "12b69633-6ab0-4a3b-9795-96ecebea73ee",
+                        "name": "出國手冊5.jpg",
+                        "created": "2017-06-20T11:33:57.069763",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-06-20T11:33:56"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -31653,11 +32643,11 @@
             },
             "968877e3-d0f3-43da-b354-e94ac6bc138a": {
                 "name": "968877e3-d0f3-43da-b354-e94ac6bc138a",
-                "title": "桃園市政府青年國際志工服務補助作業要點",
+                "title": "106年度桃園市政府青年國際志工服務補助作業要點",
                 "organization_id": "380420000a",
                 "metadata_created": "2017-05-01T07:17:37.263395",
-                "metadata_modified": "2017-05-11T06:33:20.798327",
-                "timeEnd": 1494455600,
+                "metadata_modified": "2017-06-20T03:44:44.753775",
+                "timeEnd": 1497901484,
                 "timeBegin": 1493594257,
                 "resources": {
                     "edc9f2f7-ce14-4485-9fe1-33736ec52320": {
@@ -32456,16 +33446,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-06-15T03:06:59.569087",
-                "timeEnd": 1497496019,
+                "metadata_modified": "2017-06-20T00:02:28.240557",
+                "timeEnd": 1497916948,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "ed9d344f-4621-4197-b7d4-497efc27c0a6": {
-                        "id": "ed9d344f-4621-4197-b7d4-497efc27c0a6",
+                    "6f6a6be7-3052-4eed-8541-7796690e048a": {
+                        "id": "6f6a6be7-3052-4eed-8541-7796690e048a",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-06-15T11:06:59.672245",
+                        "created": "2017-06-20T08:02:28.341997",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-06-15T11:06:59"
+                        "last_modified": "2017-06-20T08:02:28"
                     }
                 },
                 "counters": {
@@ -32528,8 +33518,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-06-15T03:07:26.802271",
-                "timeEnd": 1497496046,
+                "metadata_modified": "2017-06-20T00:02:05.946253",
+                "timeEnd": 1497916926,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -32539,12 +33529,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "52b8c860-f547-48fe-a83c-39ee021ba55c": {
-                        "id": "52b8c860-f547-48fe-a83c-39ee021ba55c",
+                    "89e983ae-33c5-4374-b300-61f9e690893c": {
+                        "id": "89e983ae-33c5-4374-b300-61f9e690893c",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-06-15T11:07:26.920408",
+                        "created": "2017-06-20T08:02:06.068431",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-06-15T11:07:26"
+                        "last_modified": "2017-06-20T08:02:05"
                     }
                 },
                 "counters": {
@@ -32554,5 +33544,5 @@
             }
         }
     },
-    "time_generated": 1497907950
+    "time_generated": 1497994348
 }
