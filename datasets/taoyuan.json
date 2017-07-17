@@ -17235,7 +17235,7 @@
     },
     "桃園市政府環境保護局": {
         "counters": {
-            "datasets": 39,
+            "datasets": 40,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -17979,6 +17979,28 @@
                         "created": "2017-01-13T10:31:48",
                         "webstore_last_updated": null,
                         "last_modified": "2017-01-13T10:31:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6a8e5f7b-a53a-4ddf-97ec-61bb00be7db3": {
+                "name": "6a8e5f7b-a53a-4ddf-97ec-61bb00be7db3",
+                "title": "洗掃街作業資料",
+                "organization_id": "380150000i",
+                "metadata_created": "2017-07-17T02:05:16.412837",
+                "metadata_modified": "2017-07-17T02:20:41.116754",
+                "timeEnd": 1500258041,
+                "timeBegin": 1500228316,
+                "resources": {
+                    "84e29ca0-6d04-48f2-8faa-5c36ccdf2ec0": {
+                        "id": "84e29ca0-6d04-48f2-8faa-5c36ccdf2ec0",
+                        "name": "洗掃作業有效里程數統計表.csv",
+                        "created": "2017-07-17T10:20:41.170867",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-07-17T10:20:40"
                     }
                 },
                 "counters": {
@@ -20323,14 +20345,14 @@
                 "title": "桃園市南區青少年活動中心",
                 "organization_id": "380120000j",
                 "metadata_created": "2016-06-13T06:16:59.704014",
-                "metadata_modified": "2016-06-14T06:38:11.343495",
-                "timeEnd": 1465857491,
+                "metadata_modified": "2017-07-17T02:30:56.973033",
+                "timeEnd": 1500229856,
                 "timeBegin": 1465769819,
                 "resources": {
                     "602ccbac-d746-40f5-a0f2-bdc603e1a734": {
                         "id": "602ccbac-d746-40f5-a0f2-bdc603e1a734",
                         "name": "桃園市南區青年服務中心",
-                        "created": "2016-06-13T14:22:09.806612",
+                        "created": "2016-06-13T14:22:09",
                         "webstore_last_updated": null,
                         "last_modified": "2016-06-13T14:22:09"
                     }
@@ -20345,10 +20367,18 @@
                 "title": "桃園市安家實物銀行社區分行",
                 "organization_id": "380120000j",
                 "metadata_created": "2015-09-18T03:56:32.864545",
-                "metadata_modified": "2017-07-13T07:34:11.163818",
-                "timeEnd": 1499902451,
+                "metadata_modified": "2017-07-17T02:37:58.721762",
+                "timeEnd": 1500259078,
                 "timeBegin": 1442519792,
-                "resources": [],
+                "resources": {
+                    "154b55c3-49ce-4116-be18-42dc53ae6772": {
+                        "id": "154b55c3-49ce-4116-be18-42dc53ae6772",
+                        "name": "106年安家實物銀行社區分行基本資料.csv",
+                        "created": "2017-07-17T10:37:58.776783",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-07-17T10:37:58"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -20432,8 +20462,8 @@
                 "title": "桃園市南區青少年活動中心場地租借說明",
                 "organization_id": "380120000j",
                 "metadata_created": "2016-03-04T06:12:59.421624",
-                "metadata_modified": "2016-11-08T03:09:52.411307",
-                "timeEnd": 1478545792,
+                "metadata_modified": "2017-07-17T02:29:59.945798",
+                "timeEnd": 1500229799,
                 "timeBegin": 1457043179,
                 "resources": {
                     "24626322-bfa4-4806-aeb6-e48c760e3e5b": {
@@ -20768,16 +20798,16 @@
                 "title": "桃園市基金會名冊",
                 "organization_id": "380120000j",
                 "metadata_created": "2016-06-07T05:52:47.861943",
-                "metadata_modified": "2016-06-14T07:39:31.925283",
-                "timeEnd": 1465861171,
+                "metadata_modified": "2017-07-17T09:23:52.305500",
+                "timeEnd": 1500283432,
                 "timeBegin": 1465249967,
                 "resources": {
                     "bfe467df-a43d-499b-bd27-65f905ec85e1": {
                         "id": "bfe467df-a43d-499b-bd27-65f905ec85e1",
-                        "name": "桃園市基金會董事長、聯絡人、電話、地址等資訊",
-                        "created": "2016-06-07T13:57:07.961192",
+                        "name": "財團法人社會福利慈善事業基金會名冊.csv",
+                        "created": "2017-07-17T17:23:52",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-06-13T15:32:12"
+                        "last_modified": "2017-07-17T17:23:52"
                     }
                 },
                 "counters": {
@@ -25678,8 +25708,8 @@
                 "title": "桃園好棧歷屆得獎業者",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-05-16T09:51:26.245692",
-                "metadata_modified": "2017-07-14T05:23:41.614642",
-                "timeEnd": 1500009821,
+                "metadata_modified": "2017-07-17T09:46:35.786190",
+                "timeEnd": 1500255995,
                 "timeBegin": 1463363486,
                 "resources": {
                     "b09c8e2f-57b7-47cb-bfd2-39dc3524f367": {
@@ -29222,30 +29252,16 @@
                 "title": "桃園市106年交通事故點位",
                 "organization_id": "380130000c",
                 "metadata_created": "2017-03-08T01:24:10.259287",
-                "metadata_modified": "2017-05-07T03:05:21.020759",
-                "timeEnd": 1494126321,
+                "metadata_modified": "2017-07-17T08:54:50.324249",
+                "timeEnd": 1500281638,
                 "timeBegin": 1488907450,
                 "resources": {
-                    "146e5169-5af8-4e0e-8730-e32b81f8ce0f": {
-                        "id": "146e5169-5af8-4e0e-8730-e32b81f8ce0f",
-                        "name": "accident_106_2.csv",
-                        "created": "2017-05-07T10:59:35",
+                    "2574dc69-839b-4507-92bd-bcf2057066be": {
+                        "id": "2574dc69-839b-4507-92bd-bcf2057066be",
+                        "name": "accident_106.csv",
+                        "created": "2017-07-17T16:53:58.900605",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-07T10:59:35"
-                    },
-                    "279a00d6-3266-40fe-b7c1-8f9bf2ae7082": {
-                        "id": "279a00d6-3266-40fe-b7c1-8f9bf2ae7082",
-                        "name": "accident_106_3.csv",
-                        "created": "2017-05-07T11:01:55.180602",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-05-07T11:01:54"
-                    },
-                    "1a1f0bc1-b98c-409b-aca6-47cf122d73e9": {
-                        "id": "1a1f0bc1-b98c-409b-aca6-47cf122d73e9",
-                        "name": "accident_106_1.csv",
-                        "created": "2017-05-07T11:05:21.058899",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-05-07T11:05:20"
+                        "last_modified": "2017-07-17T16:53:58"
                     }
                 },
                 "counters": {
@@ -34471,5 +34487,5 @@
             }
         }
     },
-    "time_generated": 1500240750
+    "time_generated": 1500327145
 }
