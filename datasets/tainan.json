@@ -1766,11 +1766,11 @@
     },
     "交通局": {
         "counters": {
-            "datasets": 42,
+            "datasets": 43,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 6968,
-            "resource_recent": 462
+            "resource_total": 6994,
+            "resource_recent": 450
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -2158,7 +2158,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 67,
+                    "resource_total": 68,
                     "resource_recent": 10
                 }
             },
@@ -2309,8 +2309,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 73,
-                    "resource_recent": 8
+                    "resource_total": 74,
+                    "resource_recent": 7
                 }
             },
             "0ed2e5e5-010b-4ec8-91ad-0f3c6e259543": {
@@ -2331,8 +2331,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 70,
-                    "resource_recent": 6
+                    "resource_total": 71,
+                    "resource_recent": 2
                 }
             },
             "c54db242-e26f-42af-a271-3b3f5876a693": {
@@ -2552,8 +2552,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 178,
-                    "resource_recent": 17
+                    "resource_total": 180,
+                    "resource_recent": 18
                 }
             },
             "f6361930-512f-4abc-8406-9d0aa8c1bfbb": {
@@ -2757,8 +2757,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 779,
-                    "resource_recent": 64
+                    "resource_total": 780,
+                    "resource_recent": 63
                 }
             },
             "970aa102-b901-439f-9350-2c5fea209764": {
@@ -2976,8 +2976,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 589,
-                    "resource_recent": 52
+                    "resource_total": 592,
+                    "resource_recent": 54
                 }
             },
             "e7ce6b1c-39b0-4ad1-94c2-bd79ff3fb8df": {
@@ -3061,8 +3061,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 388,
-                    "resource_recent": 25
+                    "resource_total": 390,
+                    "resource_recent": 23
                 }
             },
             "6e5703d6-38ff-4a5c-8f4f-b3f95ea85ef7": {
@@ -3153,8 +3153,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 506,
-                    "resource_recent": 28
+                    "resource_total": 509,
+                    "resource_recent": 30
                 }
             },
             "c2872dd5-ae70-4447-9e92-f7079f26e1e7": {
@@ -3254,8 +3254,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 689,
-                    "resource_recent": 33
+                    "resource_total": 693,
+                    "resource_recent": 35
                 }
             },
             "a0bb9ae4-37dc-4292-8d8e-a17027e81994": {
@@ -3290,8 +3290,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1854,
-                    "resource_recent": 79
+                    "resource_total": 1860,
+                    "resource_recent": 74
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -3553,7 +3553,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 57,
+                    "resource_total": 58,
                     "resource_recent": 7
                 }
             },
@@ -3589,8 +3589,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 136,
-                    "resource_recent": 13
+                    "resource_total": 137,
+                    "resource_recent": 7
                 }
             },
             "a1083a65-aa21-4263-9b72-04a47f7f2663": {
@@ -3627,6 +3627,147 @@
                 "counters": {
                     "resource_total": 11,
                     "resource_recent": 4
+                }
+            },
+            "a22063d6-750f-47c5-8bf3-7a75b741f3c6": {
+                "name": "towing-statistics",
+                "title": "臺南市車輛委外拖吊路段與件數",
+                "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
+                "metadata_created": "2017-07-18T08:28:01.654665",
+                "metadata_modified": "2017-07-18T08:47:23.765026",
+                "timeEnd": 1500367643,
+                "timeBegin": 1500337681,
+                "resources": {
+                    "a65121d4-0a83-4aaf-8f3a-235729f82b0c": {
+                        "id": "a65121d4-0a83-4aaf-8f3a-235729f82b0c",
+                        "name": "10601臺南市車輛委外拖吊路段與件數(XML)",
+                        "created": "2017-07-18T16:35:48.267922",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "73650fcd-2b3a-43f5-ba61-ce93178703cd": {
+                        "id": "73650fcd-2b3a-43f5-ba61-ce93178703cd",
+                        "name": "10601臺南市車輛委外拖吊路段與件數(CSV)",
+                        "created": "2017-07-18T16:34:21.273668",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f4a0fb55-8191-4934-8704-f7db05bcf4cb": {
+                        "id": "f4a0fb55-8191-4934-8704-f7db05bcf4cb",
+                        "name": "10601臺南市車輛委外拖吊路段與件數(JSON)",
+                        "created": "2017-07-18T16:30:05.588960",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "50e950e3-53cf-4c1b-ae0a-981fafef20ac": {
+                        "id": "50e950e3-53cf-4c1b-ae0a-981fafef20ac",
+                        "name": "10602臺南市車輛委外拖吊路段與件數(XML)",
+                        "created": "2017-07-18T16:36:44.702243",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "17157ff7-e20c-4bbd-8804-e25d0a4a4709": {
+                        "id": "17157ff7-e20c-4bbd-8804-e25d0a4a4709",
+                        "name": "10602臺南市車輛委外拖吊路段與件數(CSV)",
+                        "created": "2017-07-18T16:37:25.166647",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2f91a449-cb23-461e-9604-342a6a18a228": {
+                        "id": "2f91a449-cb23-461e-9604-342a6a18a228",
+                        "name": "10602臺南市車輛委外拖吊路段與件數(JSON)",
+                        "created": "2017-07-18T16:32:16.885776",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "f365df43-b10a-4af3-bf0b-5c2d539c2e73": {
+                        "id": "f365df43-b10a-4af3-bf0b-5c2d539c2e73",
+                        "name": "10603臺南市車輛委外拖吊路段與件數(XML)",
+                        "created": "2017-07-18T16:39:28.826966",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "a3490b9f-deb0-462a-9a24-f58559590a67": {
+                        "id": "a3490b9f-deb0-462a-9a24-f58559590a67",
+                        "name": "10603臺南市車輛委外拖吊路段與件數(CSV)",
+                        "created": "2017-07-18T16:40:12.841875",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "777927c8-3d12-4a1b-9dec-2a46de2b28d2": {
+                        "id": "777927c8-3d12-4a1b-9dec-2a46de2b28d2",
+                        "name": "10603臺南市車輛委外拖吊路段與件數(JSON)",
+                        "created": "2017-07-18T16:41:12.209250",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "17e7c0e8-08e4-4c38-be24-48c3dc284a4b": {
+                        "id": "17e7c0e8-08e4-4c38-be24-48c3dc284a4b",
+                        "name": "10604臺南市車輛委外拖吊路段與件數(XML)",
+                        "created": "2017-07-18T16:42:43.398193",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "274803b0-2b75-4819-9033-2da048e62367": {
+                        "id": "274803b0-2b75-4819-9033-2da048e62367",
+                        "name": "10604臺南市車輛委外拖吊路段與件數(CSV)",
+                        "created": "2017-07-18T16:43:22.427366",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2cf92785-f7cb-45eb-82bc-994383e0de11": {
+                        "id": "2cf92785-f7cb-45eb-82bc-994383e0de11",
+                        "name": "10604臺南市車輛委外拖吊路段與件數(JSON)",
+                        "created": "2017-07-18T16:43:56.839167",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "816058df-43a1-4574-bc79-7a51c74c6c47": {
+                        "id": "816058df-43a1-4574-bc79-7a51c74c6c47",
+                        "name": "10605臺南市車輛委外拖吊路段與件數(XML)",
+                        "created": "2017-07-18T16:44:26.767789",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "7409aa21-82a4-40f8-92c5-931bbfc9c959": {
+                        "id": "7409aa21-82a4-40f8-92c5-931bbfc9c959",
+                        "name": "10605臺南市車輛委外拖吊路段與件數(CSV)",
+                        "created": "2017-07-18T16:45:00.757261",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "ceb3e5f6-bc6a-422d-8241-6ec2b6a7c222": {
+                        "id": "ceb3e5f6-bc6a-422d-8241-6ec2b6a7c222",
+                        "name": "10605臺南市車輛委外拖吊路段與件數(JSON)",
+                        "created": "2017-07-18T16:45:54.635417",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "206bc90a-fa64-4d5d-97c6-611c5de8b70c": {
+                        "id": "206bc90a-fa64-4d5d-97c6-611c5de8b70c",
+                        "name": "10606臺南市車輛委外拖吊路段與件數(XML)",
+                        "created": "2017-07-18T16:46:27.944078",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "6522d8d6-67f9-43d5-b78e-d6d5c838e0aa": {
+                        "id": "6522d8d6-67f9-43d5-b78e-d6d5c838e0aa",
+                        "name": "10606臺南市車輛委外拖吊路段與件數(CSV)",
+                        "created": "2017-07-18T16:46:50.406262",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    },
+                    "2310e0c1-4243-4ede-92e7-443b50e771a3": {
+                        "id": "2310e0c1-4243-4ede-92e7-443b50e771a3",
+                        "name": "10606臺南市車輛委外拖吊路段與件數(JSON)",
+                        "created": "2017-07-18T16:47:23.196304",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "b4763c50-d754-4516-93bb-bff6f9e47c0a": {
@@ -5969,8 +6110,8 @@
             "datasets": 50,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2362,
-            "resource_recent": 379
+            "resource_total": 2375,
+            "resource_recent": 380
         },
         "datasets": {
             "e5199640-a8a5-4ede-a1be-111eee604335": {
@@ -5991,7 +6132,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 2,
+                    "resource_total": 3,
                     "resource_recent": 1
                 }
             },
@@ -8645,8 +8786,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 748,
-                    "resource_recent": 52
+                    "resource_total": 759,
+                    "resource_recent": 53
                 }
             },
             "9cb3236a-045f-4a3c-b006-5f8a3b8fd5cf": {
@@ -9198,7 +9339,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 424,
+                    "resource_total": 425,
                     "resource_recent": 59
                 }
             },
@@ -11388,7 +11529,7 @@
             "datasets": 27,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1125,
+            "resource_total": 1126,
             "resource_recent": 78
         },
         "datasets": {
@@ -12556,7 +12697,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 66,
+                    "resource_total": 67,
                     "resource_recent": 1
                 }
             }
@@ -12927,8 +13068,8 @@
             "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 470,
-            "resource_recent": 41
+            "resource_total": 473,
+            "resource_recent": 39
         },
         "datasets": {
             "8b063457-8da8-485f-a2ae-61d7f2d5b351": {
@@ -13149,8 +13290,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 187,
-                    "resource_recent": 6
+                    "resource_total": 190,
+                    "resource_recent": 4
                 }
             },
             "38106dc7-d258-4ced-ad17-4f681655c5a2": {
@@ -22063,8 +22204,8 @@
             "datasets": 48,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1264,
-            "resource_recent": 147
+            "resource_total": 1269,
+            "resource_recent": 145
         },
         "datasets": {
             "5717fe92-343a-45ef-a488-8b341a1d2776": {
@@ -22150,7 +22291,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 14,
+                    "resource_total": 15,
                     "resource_recent": 2
                 }
             },
@@ -22289,7 +22430,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 26,
+                    "resource_total": 27,
                     "resource_recent": 4
                 }
             },
@@ -22406,8 +22547,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 24,
-                    "resource_recent": 2
+                    "resource_total": 25,
+                    "resource_recent": 1
                 }
             },
             "71f70f8c-9141-4f62-b333-9f921da8ab19": {
@@ -22621,8 +22762,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 75,
-                    "resource_recent": 2
+                    "resource_total": 76,
+                    "resource_recent": 1
                 }
             },
             "09504f3c-f063-49b6-9f71-93ad88904402": {
@@ -23398,7 +23539,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 12,
+                    "resource_total": 13,
                     "resource_recent": 2
                 }
             },
@@ -23606,8 +23747,8 @@
             "datasets": 15,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 224,
-            "resource_recent": 27
+            "resource_total": 225,
+            "resource_recent": 28
         },
         "datasets": {
             "226f8ba0-026d-4b7f-8653-8863f11b9dd0": {
@@ -24060,8 +24201,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 72,
-                    "resource_recent": 1
+                    "resource_total": 73,
+                    "resource_recent": 2
                 }
             },
             "138e4003-5585-43d2-b6b5-76d2ec0eb1f3": {
@@ -25753,8 +25894,8 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1738,
-            "resource_recent": 102
+            "resource_total": 1740,
+            "resource_recent": 104
         },
         "datasets": {
             "98c119bd-5472-43ab-9b5d-3de0aa8e61df": {
@@ -26108,8 +26249,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 35,
-                    "resource_recent": 1
+                    "resource_total": 37,
+                    "resource_recent": 3
                 }
             },
             "4aedeedf-1650-4c2f-8c3c-438edb110f7a": {
@@ -26439,8 +26580,8 @@
             "datasets": 83,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 4958,
-            "resource_recent": 431
+            "resource_total": 4964,
+            "resource_recent": 426
         },
         "datasets": {
             "29ef0901-db68-4bc2-824b-73bacd57cd80": {
@@ -26620,8 +26761,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 504,
-                    "resource_recent": 16
+                    "resource_total": 506,
+                    "resource_recent": 14
                 }
             },
             "3d97d5df-cf5d-4dd6-acfc-b283a0154214": {
@@ -27102,8 +27243,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1938,
-                    "resource_recent": 28
+                    "resource_total": 1939,
+                    "resource_recent": 27
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -27152,8 +27293,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 330,
-                    "resource_recent": 10
+                    "resource_total": 331,
+                    "resource_recent": 8
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -28160,7 +28301,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 60,
+                    "resource_total": 61,
                     "resource_recent": 5
                 }
             },
@@ -29635,7 +29776,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 11,
+                    "resource_total": 12,
                     "resource_recent": 3
                 }
             },
@@ -29927,28 +30068,6 @@
                     "resource_recent": 1
                 }
             },
-            "b943ab28-eb99-4bf0-af30-bfb2f0fb2ed8": {
-                "name": "hotel",
-                "title": "臺南旅宿",
-                "organization_id": "ebe53aa3-20b2-446e-a2b9-3c3da9503842",
-                "metadata_created": "2017-07-14T05:54:43.908497",
-                "metadata_modified": "2017-07-14T05:58:34.985050",
-                "timeEnd": 1500011838,
-                "timeBegin": 1499982883,
-                "resources": {
-                    "e2652120-8437-43aa-8d7d-1502eaacdb32": {
-                        "id": "e2652120-8437-43aa-8d7d-1502eaacdb32",
-                        "name": "臺南旅宿1060714",
-                        "created": "2017-07-14T13:57:18.037734",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    }
-                },
-                "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
-                }
-            },
             "e70e2580-b45b-457f-8715-d1d0846434ac": {
                 "name": "landmark2",
                 "title": "臺南景點",
@@ -29990,6 +30109,28 @@
                 },
                 "counters": {
                     "resource_total": 9,
+                    "resource_recent": 1
+                }
+            },
+            "a3bbfa14-68eb-4251-8dc8-3a7a69929ea0": {
+                "name": "minsue",
+                "title": "臺南旅宿",
+                "organization_id": "ebe53aa3-20b2-446e-a2b9-3c3da9503842",
+                "metadata_created": "2015-02-13T07:29:02.859806",
+                "metadata_modified": "2017-07-18T05:50:21.209042",
+                "timeEnd": 1500328221,
+                "timeBegin": 1423783742,
+                "resources": {
+                    "51809482-d47a-4537-9ca2-01dd3c169826": {
+                        "id": "51809482-d47a-4537-9ca2-01dd3c169826",
+                        "name": "臺南旅宿1060714",
+                        "created": "2017-07-14T13:51:30.296197",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 1,
                     "resource_recent": 1
                 }
             },
@@ -30073,8 +30214,8 @@
             "datasets": 17,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 459,
-            "resource_recent": 106
+            "resource_total": 462,
+            "resource_recent": 104
         },
         "datasets": {
             "a672e6ae-6788-4f16-b9d2-ef049215df7c": {
@@ -30343,7 +30484,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
+                    "resource_total": 2,
                     "resource_recent": 1
                 }
             },
@@ -31230,8 +31371,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
-                    "resource_recent": 5
+                    "resource_total": 7,
+                    "resource_recent": 3
                 }
             },
             "2cf6f749-8244-4197-8f49-10408bdde6a7": {
@@ -31263,8 +31404,8 @@
             "datasets": 25,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 381,
-            "resource_recent": 56
+            "resource_total": 382,
+            "resource_recent": 57
         },
         "datasets": {
             "40243c31-26aa-4efe-990b-034f76aaaaa8": {
@@ -31759,8 +31900,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 106,
-                    "resource_recent": 14
+                    "resource_total": 107,
+                    "resource_recent": 15
                 }
             },
             "8e346207-fba3-4060-91e7-3ad0c25ef76d": {
@@ -33126,5 +33267,5 @@
             }
         }
     },
-    "time_generated": 1500327054
+    "time_generated": 1500413460
 }

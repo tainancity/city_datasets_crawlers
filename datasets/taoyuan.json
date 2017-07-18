@@ -1520,13 +1520,27 @@
     },
     "桃園市政府交通局": {
         "counters": {
-            "datasets": 16,
+            "datasets": 17,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "1475c3c2-5f7f-4153-a83a-3597b3525fdc": {
+                "name": "1475c3c2-5f7f-4153-a83a-3597b3525fdc",
+                "title": "桃園市政府車輛行車事故鑑定委員會 受理鑑定案件分類統計表",
+                "organization_id": "380290000h",
+                "metadata_created": "2017-07-18T05:35:33.073328",
+                "metadata_modified": "2017-07-18T05:35:33.915547",
+                "timeEnd": 1500327333,
+                "timeBegin": 1500327333,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "0a68b7fa-770d-4fca-8568-94ae31235c82": {
                 "name": "1b1330f6-b50f-4200-88c0-dfb33407c20e",
                 "title": "旅行時間偵測站 站間平均旅行時間",
@@ -10844,7 +10858,7 @@
     },
     "桃園市政府教育局": {
         "counters": {
-            "datasets": 17,
+            "datasets": 18,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -10954,6 +10968,28 @@
                         "created": "2015-12-24T11:23:03.276843",
                         "webstore_last_updated": null,
                         "last_modified": "2015-12-24T11:23:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4fe09fab-17b5-48cc-82a3-220506452747": {
+                "name": "4fe09fab-17b5-48cc-82a3-220506452747",
+                "title": "桃園市105學年下學期國民小學課照開辦情形",
+                "organization_id": "380040000e",
+                "metadata_created": "2017-07-18T05:45:18.322023",
+                "metadata_modified": "2017-07-18T05:54:06.772437",
+                "timeEnd": 1500357148,
+                "timeBegin": 1500327918,
+                "resources": {
+                    "9ccb93ed-7eb4-413e-9378-5fc2b2060a7a": {
+                        "id": "9ccb93ed-7eb4-413e-9378-5fc2b2060a7a",
+                        "name": "桃園市105學年度下學期國民小學課後照顧開辦情形",
+                        "created": "2017-07-18T13:52:28",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-07-18T13:52:28"
                     }
                 },
                 "counters": {
@@ -14009,7 +14045,7 @@
     },
     "桃園市政府消防局": {
         "counters": {
-            "datasets": 118,
+            "datasets": 119,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -14407,11 +14443,11 @@
             },
             "1a1b4d28-6933-4b96-b7e5-5fc5574a6a1e": {
                 "name": "168e85eb-cfe9-46a1-939a-2f74e28dc2c8",
-                "title": "桃園市較常發生溺水水域一覽表",
+                "title": "桃園市10大易發生溺水案件處所",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:43:56.480315",
-                "metadata_modified": "2017-04-06T06:01:25.502645",
-                "timeEnd": 1491429685,
+                "metadata_modified": "2017-07-18T08:12:45.804813",
+                "timeEnd": 1500365471,
                 "timeBegin": 1444167836,
                 "resources": {
                     "5c7f0064-9415-471e-9db2-cd8deb6bfa53": {
@@ -14421,12 +14457,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2016-09-09T09:35:46"
                     },
-                    "3ac502b0-bae5-4c3f-bc91-d77d67e6ce08": {
-                        "id": "3ac502b0-bae5-4c3f-bc91-d77d67e6ce08",
-                        "name": "桃園市較常發生溺水水域一覽表10601.csv",
-                        "created": "2017-01-17T16:45:54",
+                    "666e41fa-4a82-4258-b099-91d489533f54": {
+                        "id": "666e41fa-4a82-4258-b099-91d489533f54",
+                        "name": "桃園市10大易發生溺水案件處所.csv",
+                        "created": "2017-07-18T16:11:11",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-01-17T16:45:54"
+                        "last_modified": "2017-07-18T16:11:11"
                     }
                 },
                 "counters": {
@@ -14720,6 +14756,28 @@
                         "created": "2017-05-16T16:30:24",
                         "webstore_last_updated": null,
                         "last_modified": "2017-05-16T16:30:24"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "39031e7a-ea21-46b6-ac27-2dd4e6d927ca": {
+                "name": "39031e7a-ea21-46b6-ac27-2dd4e6d927ca",
+                "title": "桃園歷年重大災害一覽表",
+                "organization_id": "380320000a",
+                "metadata_created": "2017-07-18T05:27:32.655477",
+                "metadata_modified": "2017-07-18T05:28:37.398312",
+                "timeEnd": 1500355679,
+                "timeBegin": 1500326852,
+                "resources": {
+                    "3abeb7ca-5464-4f3b-8113-bdb3d610bf0d": {
+                        "id": "3abeb7ca-5464-4f3b-8113-bdb3d610bf0d",
+                        "name": "桃園歷年重大災害一覽表.csv",
+                        "created": "2017-07-18T13:27:59",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-07-18T13:27:59"
                     }
                 },
                 "counters": {
@@ -15860,16 +15918,16 @@
                 "title": "桃園市政府消防局公文電子交換暨線上簽核統計",
                 "organization_id": "380320000a",
                 "metadata_created": "2017-05-12T05:32:50.860774",
-                "metadata_modified": "2017-06-06T06:12:32.147580",
-                "timeEnd": 1496729519,
+                "metadata_modified": "2017-07-18T04:05:27.728823",
+                "timeEnd": 1500350715,
                 "timeBegin": 1494538370,
                 "resources": {
-                    "ff6ace78-649a-4245-b548-c0e0ed1e740d": {
-                        "id": "ff6ace78-649a-4245-b548-c0e0ed1e740d",
-                        "name": "桃園市政府消防局公文電子交換暨線上簽核統計10605.csv",
-                        "created": "2017-06-06T14:11:59.980806",
+                    "c362b51c-e7ab-4aa7-abe8-5e99a853efc2": {
+                        "id": "c362b51c-e7ab-4aa7-abe8-5e99a853efc2",
+                        "name": "桃園市政府消防局公文電子交換暨線上簽核統計10606.csv",
+                        "created": "2017-07-18T12:05:15.761755",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-06-06T14:11:59"
+                        "last_modified": "2017-07-18T12:05:15"
                     }
                 },
                 "counters": {
@@ -16569,16 +16627,16 @@
                 "title": "桃園市政府消防局歷年救護相關資料統計",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T08:56:44.324804",
-                "metadata_modified": "2017-05-16T06:53:36.603518",
-                "timeEnd": 1494917603,
+                "metadata_modified": "2017-07-18T02:01:16.921545",
+                "timeEnd": 1500343258,
                 "timeBegin": 1462323404,
                 "resources": {
-                    "80877a26-d466-45ab-bb45-8c3b6168bf34": {
-                        "id": "80877a26-d466-45ab-bb45-8c3b6168bf34",
-                        "name": "桃園市政府消防局歷年救護相關資料統計10604.csv",
-                        "created": "2017-05-16T14:53:23.521819",
+                    "84e88e1d-56b8-431c-95f2-4441c5ba6687": {
+                        "id": "84e88e1d-56b8-431c-95f2-4441c5ba6687",
+                        "name": "桃園市政府消防局歷年救護相關資料統計10606.csv",
+                        "created": "2017-07-18T10:00:58.162550",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-05-16T14:53:22"
+                        "last_modified": "2017-07-18T10:00:57"
                     }
                 },
                 "counters": {
@@ -16693,8 +16751,8 @@
                 "title": "桃園市狹小巷弄列管清冊",
                 "organization_id": "380320000a",
                 "metadata_created": "2015-10-07T05:38:38.991647",
-                "metadata_modified": "2017-04-06T06:04:26.970140",
-                "timeEnd": 1491429866,
+                "metadata_modified": "2017-07-18T07:53:16.775687",
+                "timeEnd": 1500335596,
                 "timeBegin": 1444167518,
                 "resources": {
                     "182da35c-f39b-4be1-b3f4-db9c4f66877b": {
@@ -22611,8 +22669,8 @@
                 "title": "上課測試檔",
                 "organization_id": "380140000i",
                 "metadata_created": "2017-06-30T06:47:51.579853",
-                "metadata_modified": "2017-07-04T03:41:30.120372",
-                "timeEnd": 1499110890,
+                "metadata_modified": "2017-07-18T01:28:14.828801",
+                "timeEnd": 1500312494,
                 "timeBegin": 1498776471,
                 "resources": {
                     "632df182-9fc7-45de-946e-d46d3524f8a5": {
@@ -25708,8 +25766,8 @@
                 "title": "桃園好棧歷屆得獎業者",
                 "organization_id": "380300000h",
                 "metadata_created": "2016-05-16T09:51:26.245692",
-                "metadata_modified": "2017-07-17T09:46:35.786190",
-                "timeEnd": 1500255995,
+                "metadata_modified": "2017-07-18T01:00:16.019940",
+                "timeEnd": 1500310816,
                 "timeBegin": 1463363486,
                 "resources": {
                     "b09c8e2f-57b7-47cb-bfd2-39dc3524f367": {
@@ -34382,16 +34440,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-07-14T02:22:31.669749",
-                "timeEnd": 1499998951,
+                "metadata_modified": "2017-07-18T01:49:09.013388",
+                "timeEnd": 1500342549,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "f9cef999-22a0-45c8-84fa-31c234f74d81": {
-                        "id": "f9cef999-22a0-45c8-84fa-31c234f74d81",
+                    "3c270437-0827-4644-ae5f-0429ec67830d": {
+                        "id": "3c270437-0827-4644-ae5f-0429ec67830d",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-07-14T10:22:31.846715",
+                        "created": "2017-07-18T09:49:09.145363",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-07-14T10:22:31"
+                        "last_modified": "2017-07-18T09:49:08"
                     }
                 },
                 "counters": {
@@ -34461,8 +34519,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-07-14T02:22:15.218616",
-                "timeEnd": 1499998935,
+                "metadata_modified": "2017-07-18T01:49:28.355927",
+                "timeEnd": 1500342568,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -34472,12 +34530,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "5c3ab938-0188-4979-a579-634512dcb450": {
-                        "id": "5c3ab938-0188-4979-a579-634512dcb450",
+                    "a13ad1d1-e37c-417f-8680-b753b1f44cd8": {
+                        "id": "a13ad1d1-e37c-417f-8680-b753b1f44cd8",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-07-14T10:22:15.404332",
+                        "created": "2017-07-18T09:49:28.489049",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-07-14T10:22:15"
+                        "last_modified": "2017-07-18T09:49:28"
                     }
                 },
                 "counters": {
@@ -34487,5 +34545,5 @@
             }
         }
     },
-    "time_generated": 1500327145
+    "time_generated": 1500413551
 }
