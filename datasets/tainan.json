@@ -1769,8 +1769,8 @@
             "datasets": 42,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 7187,
-            "resource_recent": 407
+            "resource_total": 7209,
+            "resource_recent": 416
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -2743,8 +2743,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 853,
-                    "resource_recent": 58
+                    "resource_total": 864,
+                    "resource_recent": 68
                 }
             },
             "970aa102-b901-439f-9350-2c5fea209764": {
@@ -3047,8 +3047,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 412,
-                    "resource_recent": 22
+                    "resource_total": 414,
+                    "resource_recent": 23
                 }
             },
             "6e5703d6-38ff-4a5c-8f4f-b3f95ea85ef7": {
@@ -3175,8 +3175,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 139,
-                    "resource_recent": 6
+                    "resource_total": 140,
+                    "resource_recent": 3
                 }
             },
             "63224a5d-8864-4440-b602-6dda51d39a5c": {
@@ -3240,8 +3240,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 770,
-                    "resource_recent": 48
+                    "resource_total": 774,
+                    "resource_recent": 50
                 }
             },
             "a0bb9ae4-37dc-4292-8d8e-a17027e81994": {
@@ -3410,7 +3410,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 259,
+                    "resource_total": 260,
                     "resource_recent": 27
                 }
             },
@@ -3554,8 +3554,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 145,
-                    "resource_recent": 7
+                    "resource_total": 148,
+                    "resource_recent": 6
                 }
             },
             "a1083a65-aa21-4263-9b72-04a47f7f2663": {
@@ -4035,8 +4035,8 @@
             "datasets": 12,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 202,
-            "resource_recent": 73
+            "resource_total": 203,
+            "resource_recent": 71
         },
         "datasets": {
             "f5ccdd58-8d1a-444e-af27-142c88baebeb": {
@@ -5873,8 +5873,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 24,
-                    "resource_recent": 3
+                    "resource_total": 25,
+                    "resource_recent": 1
                 }
             },
             "348bfd70-9e12-43f3-9f4e-9f0f6035c58c": {
@@ -6141,10 +6141,10 @@
     },
     "地政局": {
         "counters": {
-            "datasets": 50,
+            "datasets": 52,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2456,
+            "resource_total": 2464,
             "resource_recent": 372
         },
         "datasets": {
@@ -6719,6 +6719,28 @@
                 "counters": {
                     "resource_total": 49,
                     "resource_recent": 23
+                }
+            },
+            "044a383b-c8bc-49c0-a691-6340d860c259": {
+                "name": "change",
+                "title": "非都市土地變更編定筆數及面積",
+                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
+                "metadata_created": "2017-03-27T09:08:27.407894",
+                "metadata_modified": "2017-08-16T08:12:18.081979",
+                "timeEnd": 1502842338,
+                "timeBegin": 1490576907,
+                "resources": {
+                    "72043a10-8262-4597-93d1-70842123058f": {
+                        "id": "72043a10-8262-4597-93d1-70842123058f",
+                        "name": "105下半年非都市土地變更編定筆數及面積",
+                        "created": "2017-03-27T17:10:14.346811",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 2,
+                    "resource_recent": 1
                 }
             },
             "4b012334-58d0-4417-805f-b394595bf6dd": {
@@ -7375,6 +7397,28 @@
                 "counters": {
                     "resource_total": 8,
                     "resource_recent": 2
+                }
+            },
+            "b03d857b-3a6e-4692-b3e4-a04fbe653bed": {
+                "name": "landchange",
+                "title": "非都市土地使用地變更編定筆數及面積",
+                "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
+                "metadata_created": "2016-08-18T05:51:14.039067",
+                "metadata_modified": "2017-08-16T08:08:04.399422",
+                "timeEnd": 1502842084,
+                "timeBegin": 1471470674,
+                "resources": {
+                    "f77e72a6-fc06-4861-8405-06678b50cda6": {
+                        "id": "f77e72a6-fc06-4861-8405-06678b50cda6",
+                        "name": "105下半年非都市土地使用地變更編定筆數及面積",
+                        "created": "2017-03-27T18:21:01.579251",
+                        "webstore_last_updated": null,
+                        "last_modified": null
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
                 }
             },
             "5115624b-1015-408e-b770-5cea9ee2aa2d": {
@@ -8141,8 +8185,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 278,
-                    "resource_recent": 43
+                    "resource_total": 279,
+                    "resource_recent": 42
                 }
             },
             "e6886330-22b3-4912-ab61-9857bc54ff9a": {
@@ -8869,7 +8913,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 818,
+                    "resource_total": 823,
                     "resource_recent": 43
                 }
             },
@@ -8943,8 +8987,8 @@
                 "title": "臺南市土地筆數面積公告土地現值統計表",
                 "organization_id": "e35c37b5-ebae-46b6-b3d9-ea7a70e317a3",
                 "metadata_created": "2015-07-01T02:44:03.094592",
-                "metadata_modified": "2017-02-06T08:18:24.383211",
-                "timeEnd": 1486369102,
+                "metadata_modified": "2017-08-16T03:48:54.004794",
+                "timeEnd": 1502826534,
                 "timeBegin": 1435689843,
                 "resources": {
                     "64b27ee4-6a4a-493f-8e8a-542db945cc7b": {
@@ -11683,8 +11727,8 @@
             "datasets": 27,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1152,
-            "resource_recent": 77
+            "resource_total": 1153,
+            "resource_recent": 78
         },
         "datasets": {
             "d735ccd2-a179-49ec-ac46-ec625e739952": {
@@ -12689,8 +12733,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 125,
-                    "resource_recent": 5
+                    "resource_total": 126,
+                    "resource_recent": 6
                 }
             },
             "2fc6ae35-1012-4bf8-8d75-dc665dead14c": {
@@ -22379,8 +22423,8 @@
             "datasets": 48,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1311,
-            "resource_recent": 156
+            "resource_total": 1315,
+            "resource_recent": 155
         },
         "datasets": {
             "5717fe92-343a-45ef-a488-8b341a1d2776": {
@@ -22466,7 +22510,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 15,
+                    "resource_total": 16,
                     "resource_recent": 2
                 }
             },
@@ -23524,8 +23568,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 262,
-                    "resource_recent": 46
+                    "resource_total": 264,
+                    "resource_recent": 44
                 }
             },
             "4f0b4b4b-90dd-4273-b537-f87bc915fedc": {
@@ -23772,8 +23816,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "be3a5098-38a2-45d0-905c-2b0eb4ba8753": {
@@ -23929,8 +23973,8 @@
             "datasets": 15,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 239,
-            "resource_recent": 37
+            "resource_total": 246,
+            "resource_recent": 43
         },
         "datasets": {
             "226f8ba0-026d-4b7f-8653-8863f11b9dd0": {
@@ -24038,7 +24082,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 59,
+                    "resource_total": 60,
                     "resource_recent": 1
                 }
             },
@@ -24383,8 +24427,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 78,
-                    "resource_recent": 2
+                    "resource_total": 84,
+                    "resource_recent": 8
                 }
             },
             "138e4003-5585-43d2-b6b5-76d2ec0eb1f3": {
@@ -24613,8 +24657,8 @@
             "datasets": 17,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 143,
-            "resource_recent": 20
+            "resource_total": 144,
+            "resource_recent": 21
         },
         "datasets": {
             "e4116c7c-4b20-4309-8f4a-70d8a12074cb": {
@@ -24686,8 +24730,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "d2a18e80-1c08-498e-a988-161fbb21c507": {
@@ -26062,8 +26106,8 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1775,
-            "resource_recent": 98
+            "resource_total": 1777,
+            "resource_recent": 90
         },
         "datasets": {
             "98c119bd-5472-43ab-9b5d-3de0aa8e61df": {
@@ -26224,8 +26268,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1453,
-                    "resource_recent": 34
+                    "resource_total": 1454,
+                    "resource_recent": 28
                 }
             },
             "2acc3b8c-cdb6-4581-80a5-9f3c442a27c5": {
@@ -26650,8 +26694,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 106,
-                    "resource_recent": 31
+                    "resource_total": 107,
+                    "resource_recent": 29
                 }
             },
             "135fb54f-a40b-4b16-ad70-9b49a4b3c10d": {
@@ -26748,8 +26792,8 @@
             "datasets": 83,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 5050,
-            "resource_recent": 425
+            "resource_total": 4982,
+            "resource_recent": 426
         },
         "datasets": {
             "29ef0901-db68-4bc2-824b-73bacd57cd80": {
@@ -26865,7 +26909,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 62,
+                    "resource_total": 63,
                     "resource_recent": 1
                 }
             },
@@ -27010,8 +27054,8 @@
                 "title": "臺南市藥局",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2017-05-09T07:42:55.324702",
-                "metadata_modified": "2017-05-09T08:07:03.576252",
-                "timeEnd": 1494315917,
+                "metadata_modified": "2017-08-16T03:51:33.620460",
+                "timeEnd": 1502826693,
                 "timeBegin": 1494286975,
                 "resources": {
                     "fd2c7dca-b46c-4f31-a1b5-6528a0dada1b": {
@@ -27307,8 +27351,8 @@
                 "title": "登革熱專區",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-12T07:57:56.612953",
-                "metadata_modified": "2017-06-23T00:53:27.585987",
-                "timeEnd": 1498150407,
+                "metadata_modified": "2017-08-16T05:52:28.675266",
+                "timeEnd": 1502833948,
                 "timeBegin": 1439337476,
                 "resources": {
                     "135bfdd8-21fa-4c14-9d0b-f932b73a1bb1": {
@@ -27411,8 +27455,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1945,
-                    "resource_recent": 21
+                    "resource_total": 1871,
+                    "resource_recent": 17
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -27468,8 +27512,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 343,
-                    "resource_recent": 14
+                    "resource_total": 345,
+                    "resource_recent": 16
                 }
             },
             "5855a005-1116-4e47-94c3-c9b3a05f6374": {
@@ -28057,8 +28101,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 927,
-                    "resource_recent": 143
+                    "resource_total": 928,
+                    "resource_recent": 144
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -28901,8 +28945,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 93,
-                    "resource_recent": 12
+                    "resource_total": 94,
+                    "resource_recent": 13
                 }
             },
             "c7a1ec03-e77e-46ac-ae1f-f021d8988c2e": {
@@ -30183,8 +30227,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 13,
-                    "resource_recent": 3
+                    "resource_total": 14,
+                    "resource_recent": 4
                 }
             },
             "c7384d1f-f001-4e74-be54-c0154fb1b061": {
@@ -30216,8 +30260,8 @@
             "datasets": 8,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 87,
-            "resource_recent": 17
+            "resource_total": 89,
+            "resource_recent": 19
         },
         "datasets": {
             "34e6decf-dd31-4208-a46c-4173279af5fc": {
@@ -30289,8 +30333,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 8,
-                    "resource_recent": 3
+                    "resource_total": 10,
+                    "resource_recent": 5
                 }
             },
             "6b5d93dc-c3de-48b0-83fb-a95a1e2a4fbe": {
@@ -30417,8 +30461,8 @@
             "datasets": 17,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 489,
-            "resource_recent": 106
+            "resource_total": 490,
+            "resource_recent": 107
         },
         "datasets": {
             "a672e6ae-6788-4f16-b9d2-ef049215df7c": {
@@ -30693,8 +30737,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 29,
-                    "resource_recent": 12
+                    "resource_total": 30,
+                    "resource_recent": 13
                 }
             },
             "16f89aae-9893-49a6-b5e0-1d0a39d570a5": {
@@ -31656,8 +31700,8 @@
             "datasets": 25,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 410,
-            "resource_recent": 57
+            "resource_total": 416,
+            "resource_recent": 53
         },
         "datasets": {
             "40243c31-26aa-4efe-990b-034f76aaaaa8": {
@@ -32036,8 +32080,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
+                    "resource_total": 2,
+                    "resource_recent": 2
                 }
             },
             "5c672988-dbf3-4a3f-aadf-947ff666f10b": {
@@ -32152,8 +32196,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 113,
-                    "resource_recent": 13
+                    "resource_total": 118,
+                    "resource_recent": 8
                 }
             },
             "8e346207-fba3-4060-91e7-3ad0c25ef76d": {
@@ -32322,8 +32366,8 @@
             "datasets": 22,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 189,
-            "resource_recent": 39
+            "resource_total": 191,
+            "resource_recent": 38
         },
         "datasets": {
             "35ccba7e-d95c-42e5-b5fe-5b1bf0827146": {
@@ -32561,8 +32605,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 12,
-                    "resource_recent": 4
+                    "resource_total": 13,
+                    "resource_recent": 3
                 }
             },
             "b9703838-45d7-4923-b77b-bb0d29ff8507": {
@@ -32583,7 +32627,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 4,
+                    "resource_total": 5,
                     "resource_recent": 1
                 }
             },
@@ -33519,5 +33563,5 @@
             }
         }
     },
-    "time_generated": 1502832682
+    "time_generated": 1502919078
 }
