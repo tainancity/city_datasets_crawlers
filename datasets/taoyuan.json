@@ -17844,7 +17844,7 @@
     },
     "桃園市政府環境保護局": {
         "counters": {
-            "datasets": 39,
+            "datasets": 40,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -18218,8 +18218,8 @@
                 "title": "飲用水質監測",
                 "organization_id": "380150000i",
                 "metadata_created": "2015-12-24T08:25:02.553312",
-                "metadata_modified": "2017-08-11T05:53:49.598646",
-                "timeEnd": 1502430473,
+                "metadata_modified": "2017-08-18T02:57:54.627543",
+                "timeEnd": 1502996274,
                 "timeBegin": 1450916702,
                 "resources": {
                     "d3b24951-ff12-4e2f-8990-243c7e0347ff": {
@@ -18703,6 +18703,20 @@
                         "last_modified": "2017-04-19T14:57:42"
                     }
                 },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cbc6ea34-3547-471f-a80c-60314558f4c4": {
+                "name": "cbc6ea34-3547-471f-a80c-60314558f4c4",
+                "title": "土壤及地下水列管資訊(已解除列管場址)",
+                "organization_id": "380150000i",
+                "metadata_created": "2017-08-18T06:50:24.831891",
+                "metadata_modified": "2017-08-18T08:09:27.803343",
+                "timeEnd": 1503014967,
+                "timeBegin": 1503010224,
+                "resources": [],
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -20410,13 +20424,35 @@
     },
     "桃園市政府社會局": {
         "counters": {
-            "datasets": 38,
+            "datasets": 60,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "0015aa2e-9b3c-4c1b-8886-74630a007110": {
+                "name": "0015aa2e-9b3c-4c1b-8886-74630a007110",
+                "title": "桃園市臨時暨短期照顧服務之委託單位",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:38:42.461980",
+                "metadata_modified": "2017-08-18T07:37:43.507664",
+                "timeEnd": 1503038359,
+                "timeBegin": 1503009522,
+                "resources": {
+                    "70f8f1e0-4556-4b35-8fb1-695c5cb9cd91": {
+                        "id": "70f8f1e0-4556-4b35-8fb1-695c5cb9cd91",
+                        "name": "桃園市臨時暨短期照顧服務之委託單位.csv",
+                        "created": "2017-08-18T14:39:19",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:39:19"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "93446045-5cfe-4fcb-9659-bed72cdfe7b4": {
                 "name": "085c1c0e-465a-4287-8488-5c4b97f10598",
                 "title": "桃園市社區照顧關懷據點",
@@ -20615,6 +20651,57 @@
                     "resource_recent": 0
                 }
             },
+            "2f816194-c8bf-440d-9c29-7d0dd07f34da": {
+                "name": "2f816194-c8bf-440d-9c29-7d0dd07f34da",
+                "title": "桃園市身心障礙者送餐服務",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:27:00.358942",
+                "metadata_modified": "2017-08-18T07:40:00.163733",
+                "timeEnd": 1503037656,
+                "timeBegin": 1503008820,
+                "resources": {
+                    "cc880063-0978-46e5-928f-8ce306868f6f": {
+                        "id": "cc880063-0978-46e5-928f-8ce306868f6f",
+                        "name": "桃園市身心障礙者送餐服務.csv",
+                        "created": "2017-08-18T14:27:36",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:27:35"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "2fbc7dfd-0698-4c04-9c5c-1f3c87d4f2e9": {
+                "name": "2fbc7dfd-0698-4c04-9c5c-1f3c87d4f2e9",
+                "title": "桃園市非營利組織發展中心(非營利組織培力及志願服務推廣業務)",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:11:56.853830",
+                "metadata_modified": "2017-08-18T07:43:57.373495",
+                "timeEnd": 1503036794,
+                "timeBegin": 1503007916,
+                "resources": {
+                    "11682721-256e-45a1-a384-f5212fb225ae": {
+                        "id": "11682721-256e-45a1-a384-f5212fb225ae",
+                        "name": "非營利組織發展中心(志願服務業務).csv",
+                        "created": "2017-08-18T14:12:39",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:12:38"
+                    },
+                    "73df5b10-f306-4b99-897c-a4d47d8b69b9": {
+                        "id": "73df5b10-f306-4b99-897c-a4d47d8b69b9",
+                        "name": "非營利組織發展中心(非營利組織培力業務).csv",
+                        "created": "2017-08-18T14:13:14",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:13:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e8d2ba37-9fe6-44a4-b69d-a482530f20c5": {
                 "name": "3079c4ad-a3d9-4bf7-aeb3-c425ee39b68d",
                 "title": "桃園市合作社名冊",
@@ -20637,6 +20724,86 @@
                     "resource_recent": 0
                 }
             },
+            "389045be-5296-4ff9-971b-941b0b91ccb2": {
+                "name": "389045be-5296-4ff9-971b-941b0b91ccb2",
+                "title": "桃園市歷年家暴案量統計",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:51:50.357864",
+                "metadata_modified": "2017-08-18T07:34:30.162373",
+                "timeEnd": 1503039191,
+                "timeBegin": 1503010310,
+                "resources": {
+                    "1ac2a69d-4c4a-4936-970b-ab496936ea2a": {
+                        "id": "1ac2a69d-4c4a-4936-970b-ab496936ea2a",
+                        "name": "103年家暴案件通報統計.csv",
+                        "created": "2017-08-18T14:52:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:52:27"
+                    },
+                    "2a62c60e-1136-4eab-a375-4c31ee7a057b": {
+                        "id": "2a62c60e-1136-4eab-a375-4c31ee7a057b",
+                        "name": "104年家暴案件通報統計.csv",
+                        "created": "2017-08-18T14:52:48",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:52:48"
+                    },
+                    "6b99fdab-e99a-4541-a85c-023e9e7cb79a": {
+                        "id": "6b99fdab-e99a-4541-a85c-023e9e7cb79a",
+                        "name": "105年家暴案件通報統計.csv",
+                        "created": "2017-08-18T14:53:11",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:53:11"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3bd5597f-650f-4761-8989-e6aa526e4c5c": {
+                "name": "3bd5597f-650f-4761-8989-e6aa526e4c5c",
+                "title": "桃園市績優社區發展協會名冊",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:05:53.364888",
+                "metadata_modified": "2017-08-18T07:44:28.676829",
+                "timeEnd": 1503036387,
+                "timeBegin": 1503007553,
+                "resources": {
+                    "1c0ca1ff-d0cb-479a-bde7-eee583195957": {
+                        "id": "1c0ca1ff-d0cb-479a-bde7-eee583195957",
+                        "name": "桃園市績優社區發展協會名冊.csv",
+                        "created": "2017-08-18T14:06:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:06:27"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3ffb731e-d2f1-433e-8a14-0a19ee98e675": {
+                "name": "3ffb731e-d2f1-433e-8a14-0a19ee98e675",
+                "title": "桃園市違反兒童及少年福利與權益保障法執行概況",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:48:05.253433",
+                "metadata_modified": "2017-08-18T07:35:29.102829",
+                "timeEnd": 1503038918,
+                "timeBegin": 1503010085,
+                "resources": {
+                    "9a3c0978-a865-415e-9ee4-f7fe353ebf5a": {
+                        "id": "9a3c0978-a865-415e-9ee4-f7fe353ebf5a",
+                        "name": "桃園市違反兒童及少年福利與權益保障法執行概況.csv",
+                        "created": "2017-08-18T14:48:38",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:48:38"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "4f048cb4-7db0-4eff-aab5-e91de8733a09": {
                 "name": "470db331-7b7c-4887-b1f1-3378b08230c4",
                 "title": "桃園市老人文康中心",
@@ -20652,6 +20819,28 @@
                         "created": "2017-07-28T11:06:23.540812",
                         "webstore_last_updated": null,
                         "last_modified": "2017-07-28T11:06:23"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4dd17caf-6fcd-4b17-b710-a06b71c0a997": {
+                "name": "4dd17caf-6fcd-4b17-b710-a06b71c0a997",
+                "title": "桃園市身心障礙者社區樂活補給站",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:29:17.438813",
+                "metadata_modified": "2017-08-18T07:39:34.955352",
+                "timeEnd": 1503037786,
+                "timeBegin": 1503008957,
+                "resources": {
+                    "7881bd06-1674-49b8-9576-2db3902c6618": {
+                        "id": "7881bd06-1674-49b8-9576-2db3902c6618",
+                        "name": "桃園市身心障礙者社區樂活補給站.csv",
+                        "created": "2017-08-18T14:29:46",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:29:46"
                     }
                 },
                 "counters": {
@@ -20703,6 +20892,28 @@
                     "resource_recent": 0
                 }
             },
+            "5879e446-e03c-4db3-bcfd-40f5860ded0a": {
+                "name": "5879e446-e03c-4db3-bcfd-40f5860ded0a",
+                "title": "桃園市視障生活重建委辦單位",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:43:39.643050",
+                "metadata_modified": "2017-08-18T07:36:37.657989",
+                "timeEnd": 1503038647,
+                "timeBegin": 1503009819,
+                "resources": {
+                    "a59c47ec-7bbe-4371-be1b-492832c7a1cd": {
+                        "id": "a59c47ec-7bbe-4371-be1b-492832c7a1cd",
+                        "name": "桃園市視障生活重建委辦單位.csv",
+                        "created": "2017-08-18T14:44:07",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:44:07"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "0d42d186-7b2e-42f8-b182-8cbd6c1552a7": {
                 "name": "65881b10-6f35-4239-b775-cd1c928105c5",
                 "title": "桃園市身心障礙者社區資源及生活重建中心",
@@ -20718,6 +20929,35 @@
                         "created": "2016-02-22T14:18:15",
                         "webstore_last_updated": null,
                         "last_modified": "2016-02-22T14:17:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6827345d-383f-4f12-b0fb-e698cc998c80": {
+                "name": "6827345d-383f-4f12-b0fb-e698cc998c80",
+                "title": "桃園市托育人員專業訓練課程表及開辦單位資訊",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T07:01:11.511682",
+                "metadata_modified": "2017-08-18T07:32:37.573800",
+                "timeEnd": 1503039719,
+                "timeBegin": 1503010871,
+                "resources": {
+                    "e2171305-9baf-41b9-a98f-581fffe7ebc8": {
+                        "id": "e2171305-9baf-41b9-a98f-581fffe7ebc8",
+                        "name": "桃園市托育人員專業訓練課程表及開辦單位資訊(自費班).csv",
+                        "created": "2017-08-18T15:01:41",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T15:01:41"
+                    },
+                    "96952d67-36c5-4aff-a671-90b267f56c1f": {
+                        "id": "96952d67-36c5-4aff-a671-90b267f56c1f",
+                        "name": "桃園市托育人員專業訓練課程表及開辦單位資訊(勞動部補助班).csv",
+                        "created": "2017-08-18T15:01:59",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T15:01:58"
                     }
                 },
                 "counters": {
@@ -20846,6 +21086,28 @@
                         "created": "2016-01-07T16:10:50",
                         "webstore_last_updated": null,
                         "last_modified": "2016-01-07T16:10:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "712e9a31-34ff-4c63-a6e2-51c70c228fe6": {
+                "name": "712e9a31-34ff-4c63-a6e2-51c70c228fe6",
+                "title": "桃園市遊民外展服務中心",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:49:48.523092",
+                "metadata_modified": "2017-08-18T07:35:01.328948",
+                "timeEnd": 1503039024,
+                "timeBegin": 1503010188,
+                "resources": {
+                    "df296486-4d65-4681-bdf6-1eb31bbff2f9": {
+                        "id": "df296486-4d65-4681-bdf6-1eb31bbff2f9",
+                        "name": "桃園市遊民外展服務中心.csv",
+                        "created": "2017-08-18T14:50:24",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:50:24"
                     }
                 },
                 "counters": {
@@ -21035,6 +21297,50 @@
                     "resource_recent": 0
                 }
             },
+            "9e4e9888-12d6-4c05-bc42-639501efc917": {
+                "name": "9e4e9888-12d6-4c05-bc42-639501efc917",
+                "title": "桃園市老人營養餐飲服務單位",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:17:23.385351",
+                "metadata_modified": "2017-08-18T07:42:57.766871",
+                "timeEnd": 1503037075,
+                "timeBegin": 1503008243,
+                "resources": {
+                    "4349dda7-9865-4a64-a0c2-153a75f12c0c": {
+                        "id": "4349dda7-9865-4a64-a0c2-153a75f12c0c",
+                        "name": "桃園市老人營養餐飲服務單位.csv",
+                        "created": "2017-08-18T14:17:55",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:17:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9f94b1a0-a3cb-4fbb-9f1d-879f5f9e8492": {
+                "name": "9f94b1a0-a3cb-4fbb-9f1d-879f5f9e8492",
+                "title": "桃園市身心障礙者日間照顧及住宿式照顧機構名冊",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:36:11.867398",
+                "metadata_modified": "2017-08-18T07:38:16.215115",
+                "timeEnd": 1503038203,
+                "timeBegin": 1503009371,
+                "resources": {
+                    "4d05421a-c6da-4b26-a0dd-59d9d73dac78": {
+                        "id": "4d05421a-c6da-4b26-a0dd-59d9d73dac78",
+                        "name": "桃園市身心障礙者日間照顧及住宿式照顧機構名冊.csv",
+                        "created": "2017-08-18T14:36:43",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:36:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e46dc3a1-0f32-48a4-b4e4-b39716b574e5": {
                 "name": "a12dfd60-150e-4208-9fbf-450ac88c4f9d",
                 "title": "桃園市南區青少年活動中心場地租借說明",
@@ -21050,6 +21356,28 @@
                         "created": "2016-03-04T14:39:03",
                         "webstore_last_updated": null,
                         "last_modified": "2016-03-04T14:38:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a8d58807-68e5-4374-8aab-d20bb79223cd": {
+                "name": "a8d58807-68e5-4374-8aab-d20bb79223cd",
+                "title": "桃園市小型復康巴士接送服務",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:33:45.002174",
+                "metadata_modified": "2017-08-18T07:38:38.951979",
+                "timeEnd": 1503038054,
+                "timeBegin": 1503009225,
+                "resources": {
+                    "7e2b1d72-b13f-488a-94b7-f7c545038140": {
+                        "id": "7e2b1d72-b13f-488a-94b7-f7c545038140",
+                        "name": "桃園市小型復康巴士接送服務.csv",
+                        "created": "2017-08-18T14:34:14",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:34:13"
                     }
                 },
                 "counters": {
@@ -21130,6 +21458,64 @@
                     "resource_recent": 0
                 }
             },
+            "aded57b0-3b9f-43fe-a1a9-396b0a1c0267": {
+                "name": "aded57b0-3b9f-43fe-a1a9-396b0a1c0267",
+                "title": "桃園市歷年性侵害案量統計",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:57:40.872358",
+                "metadata_modified": "2017-08-18T07:34:00.812578",
+                "timeEnd": 1503039537,
+                "timeBegin": 1503010660,
+                "resources": {
+                    "c940ca18-0dc1-4884-a65c-7147f8c4693f": {
+                        "id": "c940ca18-0dc1-4884-a65c-7147f8c4693f",
+                        "name": "103年性侵害案件通報統計.csv",
+                        "created": "2017-08-18T14:58:10",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:58:10"
+                    },
+                    "74b0b623-bd7c-4485-8d41-443e8ec57735": {
+                        "id": "74b0b623-bd7c-4485-8d41-443e8ec57735",
+                        "name": "104年性侵害案件通報統計.csv",
+                        "created": "2017-08-18T14:58:29",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:58:29"
+                    },
+                    "72e17347-992a-47e1-afa7-3dc898107b7f": {
+                        "id": "72e17347-992a-47e1-afa7-3dc898107b7f",
+                        "name": "105年性侵害案件通報統計.csv",
+                        "created": "2017-08-18T14:58:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:58:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b29eb86b-a687-4bdf-8321-6f16825a9500": {
+                "name": "b29eb86b-a687-4bdf-8321-6f16825a9500",
+                "title": "桃園市弱勢家庭兒童及少年社區照顧服務名冊",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:45:40.594228",
+                "metadata_modified": "2017-08-18T07:36:12.793655",
+                "timeEnd": 1503038775,
+                "timeBegin": 1503009940,
+                "resources": {
+                    "702b345d-f752-485c-8f35-066152cb60ba": {
+                        "id": "702b345d-f752-485c-8f35-066152cb60ba",
+                        "name": "桃園市弱勢家庭兒童及少年社區照顧服務名冊.csv",
+                        "created": "2017-08-18T14:46:15",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:46:15"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "576ee1a7-d450-44f9-afea-96af09b99fed": {
                 "name": "b312f233-1e12-4245-b2a7-481050aa85c0",
                 "title": "社福統計數據_桃園市特殊境遇家庭概況(105年第1、2季)",
@@ -21152,6 +21538,28 @@
                         "created": "2017-07-31T14:11:05",
                         "webstore_last_updated": null,
                         "last_modified": "2017-07-31T14:11:05"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b319a25c-9bd9-4f10-834c-bf5b168c32d3": {
+                "name": "b319a25c-9bd9-4f10-834c-bf5b168c32d3",
+                "title": "桃園市身心障礙者日間作業設施服務單位名冊",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:24:58.746197",
+                "metadata_modified": "2017-08-18T07:40:31.569218",
+                "timeEnd": 1503037532,
+                "timeBegin": 1503008698,
+                "resources": {
+                    "dc9d0633-a978-474c-bb1d-1a48b46a8fdd": {
+                        "id": "dc9d0633-a978-474c-bb1d-1a48b46a8fdd",
+                        "name": "桃園市身心障礙者日間作業設施服務單位名冊.csv",
+                        "created": "2017-08-18T14:25:32",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:25:32"
                     }
                 },
                 "counters": {
@@ -21203,6 +21611,28 @@
                     "resource_recent": 0
                 }
             },
+            "c19c8985-cda5-4b22-b4f1-0cc2843213b0": {
+                "name": "c19c8985-cda5-4b22-b4f1-0cc2843213b0",
+                "title": "桃園市各目的事業主管機關備案志工運用單位名冊(社會福利類)",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:02:33.958636",
+                "metadata_modified": "2017-08-18T07:45:04.291501",
+                "timeEnd": 1503036237,
+                "timeBegin": 1503007353,
+                "resources": {
+                    "a7ddcdc4-efd4-46e3-9a7d-ea73781e316d": {
+                        "id": "a7ddcdc4-efd4-46e3-9a7d-ea73781e316d",
+                        "name": "桃園市政府各目的事業主管機關備案志工運用單位名冊(社會福利類).csv",
+                        "created": "2017-08-18T14:03:57",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:03:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "3ef8e8f0-9ed9-413f-aab1-f5e97d0987d0": {
                 "name": "c7b0f99b-13a1-4d16-8e00-f061f907f5fc",
                 "title": "桃園市婦幼館",
@@ -21247,6 +21677,50 @@
                         "created": "2017-02-14T10:01:26.066803",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-14T10:01:25"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d35be920-fdb3-4349-b39a-2d15d9b06c12": {
+                "name": "d35be920-fdb3-4349-b39a-2d15d9b06c12",
+                "title": "桃園市身心障礙者社區式日間照顧服務站",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:21:48.101639",
+                "metadata_modified": "2017-08-18T07:41:56.950614",
+                "timeEnd": 1503037374,
+                "timeBegin": 1503008508,
+                "resources": {
+                    "a31e2a67-b038-4f84-8b07-4b064d14cc76": {
+                        "id": "a31e2a67-b038-4f84-8b07-4b064d14cc76",
+                        "name": "桃園市身心障礙者社區式日間照顧服務站.csv",
+                        "created": "2017-08-18T14:22:54",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:22:54"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d771e458-6e10-45c0-9ec0-83fd820266b5": {
+                "name": "d771e458-6e10-45c0-9ec0-83fd820266b5",
+                "title": "桃園市失能老人接受長期照顧機構服務暨老人保護安置機構",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:15:17.845571",
+                "metadata_modified": "2017-08-18T07:43:26.311396",
+                "timeEnd": 1503036953,
+                "timeBegin": 1503008117,
+                "resources": {
+                    "7708fc55-21dd-4834-a649-a7a2e9b39455": {
+                        "id": "7708fc55-21dd-4834-a649-a7a2e9b39455",
+                        "name": "桃園市失能老人接受長期照顧機構服務暨老人保護安置機構.csv",
+                        "created": "2017-08-18T14:15:53",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:15:52"
                     }
                 },
                 "counters": {
@@ -21371,6 +21845,50 @@
                     "resource_recent": 0
                 }
             },
+            "ef4e1f6c-9ab8-4428-b15c-bb21949793f0": {
+                "name": "ef4e1f6c-9ab8-4428-b15c-bb21949793f0",
+                "title": "桃園市長青學苑辦理單位名冊",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:19:32.843369",
+                "metadata_modified": "2017-08-18T07:42:31.835359",
+                "timeEnd": 1503037198,
+                "timeBegin": 1503008372,
+                "resources": {
+                    "95e7bb25-dd3f-4d32-acf0-08643bd43e57": {
+                        "id": "95e7bb25-dd3f-4d32-acf0-08643bd43e57",
+                        "name": "桃園市長青學苑辦理單位名冊.csv",
+                        "created": "2017-08-18T14:19:58",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:19:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f2ffe13c-fce2-44c7-ad8c-9475eaffcb7c": {
+                "name": "f2ffe13c-fce2-44c7-ad8c-9475eaffcb7c",
+                "title": "桃園市身心障礙者居家服務委辦單位",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:31:28.467583",
+                "metadata_modified": "2017-08-18T07:39:08.216429",
+                "timeEnd": 1503037916,
+                "timeBegin": 1503009088,
+                "resources": {
+                    "f9f25ac0-2d88-4a0f-a86b-7c54bfc74e09": {
+                        "id": "f9f25ac0-2d88-4a0f-a86b-7c54bfc74e09",
+                        "name": "桃園市身心障礙者居家服務委辦單位.csv",
+                        "created": "2017-08-18T14:31:56",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:31:56"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "c092cbb2-3394-4898-b4db-cf50f37820ae": {
                 "name": "f5536329-37b0-4829-8b57-dd5a3fcfef4a",
                 "title": "桃園市基金會名冊",
@@ -21386,6 +21904,28 @@
                         "created": "2017-07-28T14:13:33.261939",
                         "webstore_last_updated": null,
                         "last_modified": "2017-07-28T14:13:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fd4b355e-47f9-46ef-a29a-62fa0e02e16c": {
+                "name": "fd4b355e-47f9-46ef-a29a-62fa0e02e16c",
+                "title": "桃園市公益彩券盈餘分配辦理社會福利事業執行情形",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-08-18T06:41:24.634455",
+                "metadata_modified": "2017-08-18T07:37:14.031544",
+                "timeEnd": 1503038520,
+                "timeBegin": 1503009684,
+                "resources": {
+                    "e86b9307-e5e8-4432-99c2-bac95e7bff18": {
+                        "id": "e86b9307-e5e8-4432-99c2-bac95e7bff18",
+                        "name": "桃園市106年度公益彩券盈餘分配辦理社會福利事業執行情形.csv",
+                        "created": "2017-08-18T14:42:00",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-18T14:42:00"
                     }
                 },
                 "counters": {
@@ -35426,16 +35966,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-08-17T00:04:09.061205",
-                "timeEnd": 1502928249,
+                "metadata_modified": "2017-08-18T01:36:30.198367",
+                "timeEnd": 1503020190,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "1b16e93d-0168-4469-a4a5-e68516427430": {
-                        "id": "1b16e93d-0168-4469-a4a5-e68516427430",
+                    "fde8d148-222d-4f09-9694-e0baf2f4d70e": {
+                        "id": "fde8d148-222d-4f09-9694-e0baf2f4d70e",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-08-17T08:04:09.346577",
+                        "created": "2017-08-18T09:36:30.377358",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-08-17T08:04:08"
+                        "last_modified": "2017-08-18T09:36:30"
                     }
                 },
                 "counters": {
@@ -35512,8 +36052,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-08-17T00:04:28.268045",
-                "timeEnd": 1502928268,
+                "metadata_modified": "2017-08-18T01:36:09.168869",
+                "timeEnd": 1503020169,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -35523,12 +36063,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "5f3f9991-e2f2-44ad-bd6b-08f139433af6": {
-                        "id": "5f3f9991-e2f2-44ad-bd6b-08f139433af6",
+                    "95231097-dfa7-450b-8ffa-d990383e68d5": {
+                        "id": "95231097-dfa7-450b-8ffa-d990383e68d5",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-08-17T08:04:28.427564",
+                        "created": "2017-08-18T09:36:09.386448",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-08-17T08:04:28"
+                        "last_modified": "2017-08-18T09:36:08"
                     }
                 },
                 "counters": {
@@ -35538,5 +36078,5 @@
             }
         }
     },
-    "time_generated": 1503005568
+    "time_generated": 1503091992
 }
