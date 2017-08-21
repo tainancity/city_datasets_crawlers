@@ -1769,8 +1769,8 @@
             "datasets": 42,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 7258,
-            "resource_recent": 418
+            "resource_total": 7276,
+            "resource_recent": 421
         },
         "datasets": {
             "ad9d612e-ece9-459e-8d3d-3307ce13894d": {
@@ -1971,8 +1971,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 488,
-                    "resource_recent": 13
+                    "resource_total": 489,
+                    "resource_recent": 14
                 }
             },
             "ea14c26c-b3e3-45e4-8f61-55437a27d2eb": {
@@ -2151,7 +2151,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 52,
+                    "resource_total": 53,
                     "resource_recent": 7
                 }
             },
@@ -2743,8 +2743,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 872,
-                    "resource_recent": 69
+                    "resource_total": 875,
+                    "resource_recent": 71
                 }
             },
             "970aa102-b901-439f-9350-2c5fea209764": {
@@ -3139,7 +3139,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 537,
+                    "resource_total": 538,
                     "resource_recent": 23
                 }
             },
@@ -3240,7 +3240,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 785,
+                    "resource_total": 788,
                     "resource_recent": 54
                 }
             },
@@ -3276,8 +3276,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1963,
-                    "resource_recent": 55
+                    "resource_total": 1967,
+                    "resource_recent": 50
                 }
             },
             "966b4533-5d6e-4a88-ba92-0764e0182716": {
@@ -3554,8 +3554,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 148,
-                    "resource_recent": 6
+                    "resource_total": 152,
+                    "resource_recent": 10
                 }
             },
             "a1083a65-aa21-4263-9b72-04a47f7f2663": {
@@ -3594,145 +3594,40 @@
                     "resource_recent": 4
                 }
             },
-            "a22063d6-750f-47c5-8bf3-7a75b741f3c6": {
-                "name": "towing-statistics",
+            "6887221a-0c97-4ca0-93db-9aaaccd2132f": {
+                "name": "tow-statistic",
                 "title": "臺南市車輛委外拖吊路段與件數",
                 "organization_id": "6a988acc-083e-4341-8095-4558de0a2d3a",
-                "metadata_created": "2017-07-18T08:28:01.654665",
-                "metadata_modified": "2017-07-18T08:47:23.765026",
-                "timeEnd": 1500367643,
-                "timeBegin": 1500337681,
+                "metadata_created": "2017-08-21T08:33:07.614827",
+                "metadata_modified": "2017-08-21T08:36:05.204547",
+                "timeEnd": 1503304564,
+                "timeBegin": 1503275587,
                 "resources": {
-                    "a65121d4-0a83-4aaf-8f3a-235729f82b0c": {
-                        "id": "a65121d4-0a83-4aaf-8f3a-235729f82b0c",
-                        "name": "10601臺南市車輛委外拖吊路段與件數(XML)",
-                        "created": "2017-07-18T16:35:48.267922",
+                    "d72c091e-a7f1-4f94-a2e8-a00c08a07b4f": {
+                        "id": "d72c091e-a7f1-4f94-a2e8-a00c08a07b4f",
+                        "name": "臺南市車輛委外拖吊路段與件數（XML）",
+                        "created": "2017-08-21T16:34:32.076171",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
-                    "73650fcd-2b3a-43f5-ba61-ce93178703cd": {
-                        "id": "73650fcd-2b3a-43f5-ba61-ce93178703cd",
-                        "name": "10601臺南市車輛委外拖吊路段與件數(CSV)",
-                        "created": "2017-07-18T16:34:21.273668",
+                    "593ddffa-991c-4940-ae04-183171e0e49e": {
+                        "id": "593ddffa-991c-4940-ae04-183171e0e49e",
+                        "name": "臺南市車輛委外拖吊路段與件數（CSV）",
+                        "created": "2017-08-21T16:35:38.501572",
                         "webstore_last_updated": null,
                         "last_modified": null
                     },
-                    "f4a0fb55-8191-4934-8704-f7db05bcf4cb": {
-                        "id": "f4a0fb55-8191-4934-8704-f7db05bcf4cb",
-                        "name": "10601臺南市車輛委外拖吊路段與件數(JSON)",
-                        "created": "2017-07-18T16:30:05.588960",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "50e950e3-53cf-4c1b-ae0a-981fafef20ac": {
-                        "id": "50e950e3-53cf-4c1b-ae0a-981fafef20ac",
-                        "name": "10602臺南市車輛委外拖吊路段與件數(XML)",
-                        "created": "2017-07-18T16:36:44.702243",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "17157ff7-e20c-4bbd-8804-e25d0a4a4709": {
-                        "id": "17157ff7-e20c-4bbd-8804-e25d0a4a4709",
-                        "name": "10602臺南市車輛委外拖吊路段與件數(CSV)",
-                        "created": "2017-07-18T16:37:25.166647",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2f91a449-cb23-461e-9604-342a6a18a228": {
-                        "id": "2f91a449-cb23-461e-9604-342a6a18a228",
-                        "name": "10602臺南市車輛委外拖吊路段與件數(JSON)",
-                        "created": "2017-07-18T16:32:16.885776",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "f365df43-b10a-4af3-bf0b-5c2d539c2e73": {
-                        "id": "f365df43-b10a-4af3-bf0b-5c2d539c2e73",
-                        "name": "10603臺南市車輛委外拖吊路段與件數(XML)",
-                        "created": "2017-07-18T16:39:28.826966",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "a3490b9f-deb0-462a-9a24-f58559590a67": {
-                        "id": "a3490b9f-deb0-462a-9a24-f58559590a67",
-                        "name": "10603臺南市車輛委外拖吊路段與件數(CSV)",
-                        "created": "2017-07-18T16:40:12.841875",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "777927c8-3d12-4a1b-9dec-2a46de2b28d2": {
-                        "id": "777927c8-3d12-4a1b-9dec-2a46de2b28d2",
-                        "name": "10603臺南市車輛委外拖吊路段與件數(JSON)",
-                        "created": "2017-07-18T16:41:12.209250",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "17e7c0e8-08e4-4c38-be24-48c3dc284a4b": {
-                        "id": "17e7c0e8-08e4-4c38-be24-48c3dc284a4b",
-                        "name": "10604臺南市車輛委外拖吊路段與件數(XML)",
-                        "created": "2017-07-18T16:42:43.398193",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "274803b0-2b75-4819-9033-2da048e62367": {
-                        "id": "274803b0-2b75-4819-9033-2da048e62367",
-                        "name": "10604臺南市車輛委外拖吊路段與件數(CSV)",
-                        "created": "2017-07-18T16:43:22.427366",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2cf92785-f7cb-45eb-82bc-994383e0de11": {
-                        "id": "2cf92785-f7cb-45eb-82bc-994383e0de11",
-                        "name": "10604臺南市車輛委外拖吊路段與件數(JSON)",
-                        "created": "2017-07-18T16:43:56.839167",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "816058df-43a1-4574-bc79-7a51c74c6c47": {
-                        "id": "816058df-43a1-4574-bc79-7a51c74c6c47",
-                        "name": "10605臺南市車輛委外拖吊路段與件數(XML)",
-                        "created": "2017-07-18T16:44:26.767789",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "7409aa21-82a4-40f8-92c5-931bbfc9c959": {
-                        "id": "7409aa21-82a4-40f8-92c5-931bbfc9c959",
-                        "name": "10605臺南市車輛委外拖吊路段與件數(CSV)",
-                        "created": "2017-07-18T16:45:00.757261",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "ceb3e5f6-bc6a-422d-8241-6ec2b6a7c222": {
-                        "id": "ceb3e5f6-bc6a-422d-8241-6ec2b6a7c222",
-                        "name": "10605臺南市車輛委外拖吊路段與件數(JSON)",
-                        "created": "2017-07-18T16:45:54.635417",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "206bc90a-fa64-4d5d-97c6-611c5de8b70c": {
-                        "id": "206bc90a-fa64-4d5d-97c6-611c5de8b70c",
-                        "name": "10606臺南市車輛委外拖吊路段與件數(XML)",
-                        "created": "2017-07-18T16:46:27.944078",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "6522d8d6-67f9-43d5-b78e-d6d5c838e0aa": {
-                        "id": "6522d8d6-67f9-43d5-b78e-d6d5c838e0aa",
-                        "name": "10606臺南市車輛委外拖吊路段與件數(CSV)",
-                        "created": "2017-07-18T16:46:50.406262",
-                        "webstore_last_updated": null,
-                        "last_modified": null
-                    },
-                    "2310e0c1-4243-4ede-92e7-443b50e771a3": {
-                        "id": "2310e0c1-4243-4ede-92e7-443b50e771a3",
-                        "name": "10606臺南市車輛委外拖吊路段與件數(JSON)",
-                        "created": "2017-07-18T16:47:23.196304",
+                    "341e1510-9c4c-4aea-8645-0d73f2a432a3": {
+                        "id": "341e1510-9c4c-4aea-8645-0d73f2a432a3",
+                        "name": "臺南市車輛委外拖吊路段與件數（JSON）",
+                        "created": "2017-08-21T16:36:04.927753",
                         "webstore_last_updated": null,
                         "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             },
             "b4763c50-d754-4516-93bb-bff6f9e47c0a": {
@@ -6144,8 +6039,8 @@
             "datasets": 52,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 2482,
-            "resource_recent": 375
+            "resource_total": 2485,
+            "resource_recent": 378
         },
         "datasets": {
             "e5199640-a8a5-4ede-a1be-111eee604335": {
@@ -7798,8 +7693,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 92,
-                    "resource_recent": 4
+                    "resource_total": 93,
+                    "resource_recent": 5
                 }
             },
             "a923a4c2-860e-49c9-869b-b86da0ab45ae": {
@@ -8920,8 +8815,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 834,
-                    "resource_recent": 45
+                    "resource_total": 836,
+                    "resource_recent": 47
                 }
             },
             "9cb3236a-045f-4a3c-b006-5f8a3b8fd5cf": {
@@ -10064,8 +9959,8 @@
             "datasets": 13,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 624,
-            "resource_recent": 62
+            "resource_total": 628,
+            "resource_recent": 56
         },
         "datasets": {
             "320ca7e7-2267-4ffa-ae1c-90842832c220": {
@@ -10473,8 +10368,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 74,
-                    "resource_recent": 12
+                    "resource_total": 78,
+                    "resource_recent": 6
                 }
             },
             "fd25ecb9-7fd3-41e0-b016-6a4427e3ea55": {
@@ -11106,7 +11001,7 @@
             "datasets": 9,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 931,
+            "resource_total": 932,
             "resource_recent": 72
         },
         "datasets": {
@@ -11611,7 +11506,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 448,
+                    "resource_total": 449,
                     "resource_recent": 45
                 }
             },
@@ -11734,8 +11629,8 @@
             "datasets": 27,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1159,
-            "resource_recent": 80
+            "resource_total": 1160,
+            "resource_recent": 79
         },
         "datasets": {
             "d735ccd2-a179-49ec-ac46-ec625e739952": {
@@ -12740,8 +12635,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 127,
-                    "resource_recent": 7
+                    "resource_total": 128,
+                    "resource_recent": 6
                 }
             },
             "2fc6ae35-1012-4bf8-8d75-dc665dead14c": {
@@ -13294,7 +13189,7 @@
             "datasets": 11,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 552,
+            "resource_total": 554,
             "resource_recent": 84
         },
         "datasets": {
@@ -13516,7 +13411,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 210,
+                    "resource_total": 212,
                     "resource_recent": 14
                 }
             },
@@ -13764,8 +13659,8 @@
             "datasets": 73,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 578,
-            "resource_recent": 288
+            "resource_total": 579,
+            "resource_recent": 289
         },
         "datasets": {
             "b52eebe5-f594-4503-b40f-cc0631be8219": {
@@ -14586,8 +14481,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1,
-                    "resource_recent": 1
+                    "resource_total": 2,
+                    "resource_recent": 2
                 }
             },
             "7b9373e4-23d0-457d-90eb-93f305b0ce1c": {
@@ -22430,8 +22325,8 @@
             "datasets": 48,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1322,
-            "resource_recent": 157
+            "resource_total": 1325,
+            "resource_recent": 156
         },
         "datasets": {
             "5717fe92-343a-45ef-a488-8b341a1d2776": {
@@ -22966,8 +22861,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 6,
-                    "resource_recent": 1
+                    "resource_total": 7,
+                    "resource_recent": 2
                 }
             },
             "0db59dc0-8535-40d5-908b-63b656121c39": {
@@ -22988,8 +22883,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 84,
-                    "resource_recent": 6
+                    "resource_total": 85,
+                    "resource_recent": 5
                 }
             },
             "09504f3c-f063-49b6-9f71-93ad88904402": {
@@ -23670,8 +23565,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 23,
-                    "resource_recent": 2
+                    "resource_total": 24,
+                    "resource_recent": 1
                 }
             },
             "266e5a47-07cc-4f33-b0da-c83db591ca3a": {
@@ -26157,8 +26052,8 @@
             "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 1780,
-            "resource_recent": 92
+            "resource_total": 1782,
+            "resource_recent": 83
         },
         "datasets": {
             "98c119bd-5472-43ab-9b5d-3de0aa8e61df": {
@@ -26319,8 +26214,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 1456,
-                    "resource_recent": 30
+                    "resource_total": 1457,
+                    "resource_recent": 29
                 }
             },
             "2acc3b8c-cdb6-4581-80a5-9f3c442a27c5": {
@@ -26745,8 +26640,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 107,
-                    "resource_recent": 29
+                    "resource_total": 108,
+                    "resource_recent": 21
                 }
             },
             "135fb54f-a40b-4b16-ad70-9b49a4b3c10d": {
@@ -26843,7 +26738,7 @@
             "datasets": 83,
             "dataset_total": 0,
             "dataset_recent": 0,
-            "resource_total": 4080,
+            "resource_total": 4085,
             "resource_recent": 420
         },
         "datasets": {
@@ -27499,8 +27394,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 961,
-                    "resource_recent": 14
+                    "resource_total": 962,
+                    "resource_recent": 13
                 }
             },
             "3ad9da64-0c29-4299-b769-320b57a09be8": {
@@ -27565,8 +27460,8 @@
                 "title": "105~106年臺南市登革熱病媒蚊密度調查",
                 "organization_id": "70967850-242f-4e03-b771-71e9d11403ec",
                 "metadata_created": "2015-08-14T04:49:49.566653",
-                "metadata_modified": "2017-08-14T08:14:08.006381",
-                "timeEnd": 1502698444,
+                "metadata_modified": "2017-08-21T08:33:33.230497",
+                "timeEnd": 1503304411,
                 "timeBegin": 1439498989,
                 "resources": {
                     "c3de36ef-e294-40b7-b732-e2f2c48afd5b": {
@@ -28142,11 +28037,18 @@
                         "created": "2017-08-14T16:14:04.827389",
                         "webstore_last_updated": null,
                         "last_modified": null
+                    },
+                    "baed5101-349a-4060-b511-9555f6b2f1ca": {
+                        "id": "baed5101-349a-4060-b511-9555f6b2f1ca",
+                        "name": "106-0813-0819臺南市登革熱病媒蚊監測密度調查結果轉經緯度",
+                        "created": "2017-08-21T16:33:31.110829",
+                        "webstore_last_updated": null,
+                        "last_modified": null
                     }
                 },
                 "counters": {
-                    "resource_total": 930,
-                    "resource_recent": 145
+                    "resource_total": 931,
+                    "resource_recent": 146
                 }
             },
             "42343801-bae5-4d74-a842-88832831ee6a": {
@@ -30067,8 +29969,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 13,
-                    "resource_recent": 3
+                    "resource_total": 15,
+                    "resource_recent": 2
                 }
             },
             "1991d501-cf12-4d42-bc94-5963cdeb190d": {
@@ -30293,8 +30195,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
+                    "resource_total": 1,
+                    "resource_recent": 1
                 }
             }
         }
@@ -32411,7 +32313,7 @@
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 191,
-            "resource_recent": 38
+            "resource_recent": 37
         },
         "datasets": {
             "35ccba7e-d95c-42e5-b5fe-5b1bf0827146": {
@@ -32535,8 +32437,8 @@
                 "title": "禽流感應變措施",
                 "organization_id": "32a07d6c-799d-46ab-81fd-41484a71bb26",
                 "metadata_created": "2015-01-23T07:51:41.404968",
-                "metadata_modified": "2017-06-23T07:37:29.118814",
-                "timeEnd": 1498174649,
+                "metadata_modified": "2017-08-21T07:01:52.803908",
+                "timeEnd": 1503270112,
                 "timeBegin": 1421970701,
                 "resources": {
                     "2e4a4971-4229-4ce4-ad93-fdf3cd1c6a0e": {
@@ -32576,8 +32478,8 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 27,
-                    "resource_recent": 8
+                    "resource_total": 26,
+                    "resource_recent": 7
                 }
             },
             "c588b09e-0fb8-4e5d-b4cf-b7b8149065c9": {
@@ -32598,7 +32500,7 @@
                     }
                 },
                 "counters": {
-                    "resource_total": 5,
+                    "resource_total": 6,
                     "resource_recent": 1
                 }
             },
@@ -33607,5 +33509,5 @@
             }
         }
     },
-    "time_generated": 1503264694
+    "time_generated": 1503351072
 }
