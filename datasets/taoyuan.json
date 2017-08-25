@@ -18152,10 +18152,18 @@
                 "title": "巨大廢棄物清運時間流程",
                 "organization_id": "380150000i",
                 "metadata_created": "2017-08-23T01:29:19.496364",
-                "metadata_modified": "2017-08-23T08:04:44.822768",
-                "timeEnd": 1503446684,
+                "metadata_modified": "2017-08-25T07:15:47.216295",
+                "timeEnd": 1503632804,
                 "timeBegin": 1503422959,
-                "resources": [],
+                "resources": {
+                    "c5fb49be-eabf-44e4-8eec-e231eaed525b": {
+                        "id": "c5fb49be-eabf-44e4-8eec-e231eaed525b",
+                        "name": "巨大廢棄物清運受理聯絡窗口",
+                        "created": "2017-08-25T11:46:44",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-25T11:46:44"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -18705,14 +18713,14 @@
                 "title": "營建工程空污費收費櫃檯",
                 "organization_id": "380150000i",
                 "metadata_created": "2017-08-22T01:09:48.718446",
-                "metadata_modified": "2017-08-22T01:11:50.644526",
-                "timeEnd": 1503364310,
+                "metadata_modified": "2017-08-25T06:14:32.227870",
+                "timeEnd": 1503612872,
                 "timeBegin": 1503335388,
                 "resources": {
                     "f2d6e136-81bd-4f0c-b71e-528ea3aa5081": {
                         "id": "f2d6e136-81bd-4f0c-b71e-528ea3aa5081",
                         "name": "桃園市營建工程空氣污染防制費徵收須知.pdf",
-                        "created": "2017-08-22T09:11:50.695400",
+                        "created": "2017-08-22T09:11:50",
                         "webstore_last_updated": null,
                         "last_modified": "2017-08-22T09:11:50"
                     }
@@ -18927,13 +18935,21 @@
             },
             "f7d42006-3748-44d7-86e4-b5e2a778b300": {
                 "name": "f7d42006-3748-44d7-86e4-b5e2a778b300",
-                "title": "桃園市政府106年度戶外噴藥期程",
+                "title": "戶外環境噴藥期程",
                 "organization_id": "380150000i",
                 "metadata_created": "2017-06-01T05:52:51.697291",
-                "metadata_modified": "2017-06-01T05:52:52.484852",
-                "timeEnd": 1496267572,
+                "metadata_modified": "2017-08-25T02:40:09.752319",
+                "timeEnd": 1503627603,
                 "timeBegin": 1496267571,
-                "resources": [],
+                "resources": {
+                    "b4936ebb-147a-47b1-9587-9716f559906e": {
+                        "id": "b4936ebb-147a-47b1-9587-9716f559906e",
+                        "name": "spray.csv",
+                        "created": "2017-08-25T10:20:03",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-25T10:20:03"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -23472,7 +23488,7 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 103,
+            "datasets": 104,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -26199,6 +26215,28 @@
                         "created": "2017-02-21T15:53:24",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-21T15:53:23"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e64b491a-3e9f-4598-bc1f-f9c8e3ca4c93": {
+                "name": "e64b491a-3e9f-4598-bc1f-f9c8e3ca4c93",
+                "title": "桃園市毒蛇血清供給表",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-08-25T07:23:54.868079",
+                "metadata_modified": "2017-08-25T07:28:45.983193",
+                "timeEnd": 1503646126,
+                "timeBegin": 1503617034,
+                "resources": {
+                    "0cd62b7e-133d-4228-9632-b4487577bc42": {
+                        "id": "0cd62b7e-133d-4228-9632-b4487577bc42",
+                        "name": "桃園市毒蛇血清供給表",
+                        "created": "2017-08-25T15:28:46.038895",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-08-25T15:28:45"
                     }
                 },
                 "counters": {
@@ -36201,5 +36239,5 @@
             }
         }
     },
-    "time_generated": 1503610367
+    "time_generated": 1503696770
 }
