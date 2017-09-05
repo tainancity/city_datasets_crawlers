@@ -237,15 +237,15 @@
                 "name": "6556e1e8-c908-42d5-b984-b3f7337b139b",
                 "title": "臺北捷運列車到站站名",
                 "organization_id": "379620000M",
-                "metadata_modified": "2017-09-04 11:59:45",
-                "timeEnd": 1504497585,
+                "metadata_modified": "2017-09-06 05:33:11",
+                "timeEnd": 1504647191,
                 "timeBegin": 1435593600,
                 "resources": {
                     "55ec6d6e-dc5c-4268-a725-d04cc262172b": {
                         "id": "55ec6d6e-dc5c-4268-a725-d04cc262172b",
                         "name": "apiIn.json",
-                        "created": "2017-09-04 11:59:45",
-                        "last_modified": "2017-09-04T11:59:45"
+                        "created": "2017-09-06 05:33:11",
+                        "last_modified": "2017-09-06T05:33:11"
                     }
                 },
                 "counters": {
@@ -13697,6 +13697,255 @@
     },
     "臺北市政府工務局": {
         "datasets": {
+            "29125af9-6a87-45e3-9f7f-d67f325ea805": {
+                "name": "29125af9-6a87-45e3-9f7f-d67f325ea805",
+                "title": "未結案工程統計表",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 18:52:23",
+                "timeEnd": 1504608743,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "aab32890-5400-4f34-a08c-88ee272c288c": {
+                        "id": "aab32890-5400-4f34-a08c-88ee272c288c",
+                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_新建工程處.csv",
+                        "created": "2017-09-05 18:51:10",
+                        "last_modified": "2017-09-05T18:51:10"
+                    },
+                    "43e4a211-b752-4b64-beaf-cef39bdeeace": {
+                        "id": "43e4a211-b752-4b64-beaf-cef39bdeeace",
+                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_水利工程處.csv",
+                        "created": "2017-09-05 18:51:32",
+                        "last_modified": "2017-09-05T18:51:32"
+                    },
+                    "edb2baea-14c5-42cb-b773-238146eefab3": {
+                        "id": "edb2baea-14c5-42cb-b773-238146eefab3",
+                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_公園路燈工程管理處.csv",
+                        "created": "2017-09-05 18:51:51",
+                        "last_modified": "2017-09-05T18:51:51"
+                    },
+                    "c586a512-a0d8-4d4d-90db-be673e49ce87": {
+                        "id": "c586a512-a0d8-4d4d-90db-be673e49ce87",
+                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_衛生下水道工程處.csv",
+                        "created": "2017-09-05 18:52:04",
+                        "last_modified": "2017-09-05T18:52:04"
+                    },
+                    "79c64a7a-b40a-4555-8665-bf83d8ef22cb": {
+                        "id": "79c64a7a-b40a-4555-8665-bf83d8ef22cb",
+                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_大地工程處.csv",
+                        "created": "2017-09-05 18:52:21",
+                        "last_modified": "2017-09-05T18:52:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f8cbad30-fc21-40d4-b555-f6297d37e6d5": {
+                "name": "f8cbad30-fc21-40d4-b555-f6297d37e6d5",
+                "title": "在建工程統計表",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 18:48:16",
+                "timeEnd": 1504608496,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "cd929724-f41a-4f4d-812e-bc74be59d0e4": {
+                        "id": "cd929724-f41a-4f4d-812e-bc74be59d0e4",
+                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_新建工程處.csv",
+                        "created": "2017-09-05 18:47:07",
+                        "last_modified": "2017-09-05T18:47:07"
+                    },
+                    "d733a817-3001-40f4-8b4b-3d64d8cba7eb": {
+                        "id": "d733a817-3001-40f4-8b4b-3d64d8cba7eb",
+                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_水利工程處.csv",
+                        "created": "2017-09-05 18:47:25",
+                        "last_modified": "2017-09-05T18:47:25"
+                    },
+                    "21e6fa19-fc16-441f-8edb-e422086a830d": {
+                        "id": "21e6fa19-fc16-441f-8edb-e422086a830d",
+                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_公園路燈工程管理處.csv",
+                        "created": "2017-09-05 18:47:42",
+                        "last_modified": "2017-09-05T18:47:42"
+                    },
+                    "76756993-b228-4a1e-96c6-49217ae7f9f9": {
+                        "id": "76756993-b228-4a1e-96c6-49217ae7f9f9",
+                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_衛生下水道工程處.csv",
+                        "created": "2017-09-05 18:47:59",
+                        "last_modified": "2017-09-05T18:47:59"
+                    },
+                    "f0e117d6-8c1a-4343-93ab-b710d9f29535": {
+                        "id": "f0e117d6-8c1a-4343-93ab-b710d9f29535",
+                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_大地工程處.csv",
+                        "created": "2017-09-05 18:48:14",
+                        "last_modified": "2017-09-05T18:48:14"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a7118eb1-f209-4273-8777-3fad21da93b8": {
+                "name": "a7118eb1-f209-4273-8777-3fad21da93b8",
+                "title": "公共工程發包及執行情形統計表",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 18:45:05",
+                "timeEnd": 1504608305,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "4f9bba9f-9837-41a1-beef-59cd2363fa4c": {
+                        "id": "4f9bba9f-9837-41a1-beef-59cd2363fa4c",
+                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_新建工程處.csv",
+                        "created": "2017-09-05 18:43:49",
+                        "last_modified": "2017-09-05T18:43:49"
+                    },
+                    "0ed2d394-36f2-4425-87e9-f1f57ae347b0": {
+                        "id": "0ed2d394-36f2-4425-87e9-f1f57ae347b0",
+                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_水利工程處.csv",
+                        "created": "2017-09-05 18:44:09",
+                        "last_modified": "2017-09-05T18:44:09"
+                    },
+                    "02a8dea3-706e-4a02-9f65-237efb24330d": {
+                        "id": "02a8dea3-706e-4a02-9f65-237efb24330d",
+                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_公園路燈工程管理處.csv",
+                        "created": "2017-09-05 18:44:28",
+                        "last_modified": "2017-09-05T18:44:28"
+                    },
+                    "bf330a33-b3bc-48a5-9694-27ad20083eb8": {
+                        "id": "bf330a33-b3bc-48a5-9694-27ad20083eb8",
+                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_衛生下水道工程處.csv",
+                        "created": "2017-09-05 18:44:49",
+                        "last_modified": "2017-09-05T18:44:49"
+                    },
+                    "8d6cdac7-44af-4d91-a2e9-f801dacf10c8": {
+                        "id": "8d6cdac7-44af-4d91-a2e9-f801dacf10c8",
+                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_大地工程處.csv",
+                        "created": "2017-09-05 18:45:03",
+                        "last_modified": "2017-09-05T18:45:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c173d59c-00ad-4f16-aaf9-f2d8f9bce48c": {
+                "name": "c173d59c-00ad-4f16-aaf9-f2d8f9bce48c",
+                "title": "臺北市政府工務局水利工程處防溺告示牌救生圈座標位置",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 15:00:18",
+                "timeEnd": 1504594818,
+                "timeBegin": 1487088000,
+                "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a9228b5e-84fc-4781-916c-6c3e186b9f0c": {
+                "name": "a9228b5e-84fc-4781-916c-6c3e186b9f0c",
+                "title": "臺北市河濱生態-兩棲",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 14:47:14",
+                "timeEnd": 1504594034,
+                "timeBegin": 1467820800,
+                "resources": {
+                    "8f416071-0607-45f2-9d5a-8107ef8cf2a3": {
+                        "id": "8f416071-0607-45f2-9d5a-8107ef8cf2a3",
+                        "name": "兩棲.kml",
+                        "created": "2016-11-03 15:16:40",
+                        "last_modified": "2016-11-03T15:16:40"
+                    },
+                    "f8398c69-5216-4b70-a40b-f34a5d7b0fc0": {
+                        "id": "f8398c69-5216-4b70-a40b-f34a5d7b0fc0",
+                        "name": "兩棲.zip",
+                        "created": "2016-11-03 15:17:21",
+                        "last_modified": "2016-11-03T15:17:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3b5fe265-ea4b-4144-887f-dc6030d13563": {
+                "name": "3b5fe265-ea4b-4144-887f-dc6030d13563",
+                "title": "臺北市河濱自行車租借站及租借費率&提供免費飲水、打氣及簡易維修服務",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 14:46:15",
+                "timeEnd": 1504593975,
+                "timeBegin": 1341504000,
+                "resources": {
+                    "03ed9382-1685-4955-8bad-eca0f0269363": {
+                        "id": "03ed9382-1685-4955-8bad-eca0f0269363",
+                        "name": "自行車租借站.zip",
+                        "created": "2016-01-20 09:40:25",
+                        "last_modified": "2016-01-20T09:40:25"
+                    },
+                    "acb5cf55-08c3-4d1f-b223-cb189de10b5f": {
+                        "id": "acb5cf55-08c3-4d1f-b223-cb189de10b5f",
+                        "name": "自行車租借站.csv",
+                        "created": "2016-07-12 16:18:43",
+                        "last_modified": "2016-07-12T16:18:43"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "081664c0-fc9a-4727-87db-fe82987d2cfc": {
+                "name": "081664c0-fc9a-4727-87db-fe82987d2cfc",
+                "title": "臺北市河濱自行車道景點",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 14:42:53",
+                "timeEnd": 1504593773,
+                "timeBegin": 1341504000,
+                "resources": {
+                    "dcdc300c-3065-4d6b-b636-97627807ce03": {
+                        "id": "dcdc300c-3065-4d6b-b636-97627807ce03",
+                        "name": "自行車景點.zip",
+                        "created": "2016-06-03 16:47:26",
+                        "last_modified": "2016-06-03T16:47:26"
+                    },
+                    "adca7936-9df6-4d06-b9ae-e7793d35969b": {
+                        "id": "adca7936-9df6-4d06-b9ae-e7793d35969b",
+                        "name": "臺北市河濱自行車道景點.csv",
+                        "created": "2016-06-03 16:47:21",
+                        "last_modified": "2016-06-03T16:47:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b75afd81-ab65-46d9-830c-859c7410c871": {
+                "name": "b75afd81-ab65-46d9-830c-859c7410c871",
+                "title": "臺北市河濱公園",
+                "organization_id": "379110000G",
+                "metadata_modified": "2017-09-05 14:41:24",
+                "timeEnd": 1504593684,
+                "timeBegin": 1341504000,
+                "resources": {
+                    "5cdfc584-1191-455e-87fb-d73b99ef0c6c": {
+                        "id": "5cdfc584-1191-455e-87fb-d73b99ef0c6c",
+                        "name": "河濱公園.zip",
+                        "created": "2016-06-03 16:48:23",
+                        "last_modified": "2016-06-03T16:48:23"
+                    },
+                    "c4f92891-4deb-43d6-ab36-5979651596fc": {
+                        "id": "c4f92891-4deb-43d6-ab36-5979651596fc",
+                        "name": "臺北市河濱公園.csv",
+                        "created": "2016-09-05 17:41:05",
+                        "last_modified": "2016-09-05T17:41:05"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "4cb2cb61-1b3f-4c0f-894b-353266b8a06b": {
                 "name": "4cb2cb61-1b3f-4c0f-894b-353266b8a06b",
                 "title": "臺北市河濱生態-底棲",
@@ -14035,32 +14284,6 @@
                     "resource_recent": 0
                 }
             },
-            "b75afd81-ab65-46d9-830c-859c7410c871": {
-                "name": "b75afd81-ab65-46d9-830c-859c7410c871",
-                "title": "臺北市河濱公園",
-                "organization_id": "379110000G",
-                "metadata_modified": "2017-08-30 10:28:28",
-                "timeEnd": 1504060108,
-                "timeBegin": 1341504000,
-                "resources": {
-                    "5cdfc584-1191-455e-87fb-d73b99ef0c6c": {
-                        "id": "5cdfc584-1191-455e-87fb-d73b99ef0c6c",
-                        "name": "河濱公園.zip",
-                        "created": "2016-06-03 16:48:23",
-                        "last_modified": "2016-06-03T16:48:23"
-                    },
-                    "c4f92891-4deb-43d6-ab36-5979651596fc": {
-                        "id": "c4f92891-4deb-43d6-ab36-5979651596fc",
-                        "name": "臺北市河濱公園.csv",
-                        "created": "2016-09-05 17:41:05",
-                        "last_modified": "2016-09-05T17:41:05"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "6b2db7f7-8e3c-4f76-b6c8-c48f8541b1d6": {
                 "name": "6b2db7f7-8e3c-4f76-b6c8-c48f8541b1d6",
                 "title": "臺北市易積水地區",
@@ -14138,138 +14361,6 @@
                         "name": "臺北市歷年積水紀錄圖(KML).kmz",
                         "created": "2017-08-16 14:54:56",
                         "last_modified": "2017-08-16T14:54:56"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a7118eb1-f209-4273-8777-3fad21da93b8": {
-                "name": "a7118eb1-f209-4273-8777-3fad21da93b8",
-                "title": "公共工程發包及執行情形統計表",
-                "organization_id": "379110000G",
-                "metadata_modified": "2017-08-11 09:36:29",
-                "timeEnd": 1502415389,
-                "timeBegin": 1502380800,
-                "resources": {
-                    "919d11be-507b-480d-b4ef-3f678b905a35": {
-                        "id": "919d11be-507b-480d-b4ef-3f678b905a35",
-                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_新建工程處.csv",
-                        "created": "2017-08-11 09:34:39",
-                        "last_modified": "2017-08-11T09:34:39"
-                    },
-                    "5d36a5cc-a576-4c0f-a082-75a290bb2f24": {
-                        "id": "5d36a5cc-a576-4c0f-a082-75a290bb2f24",
-                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_水利工程處.csv",
-                        "created": "2017-08-11 09:35:12",
-                        "last_modified": "2017-08-11T09:35:12"
-                    },
-                    "651f81fa-6aae-4a44-af37-7fcd4d4b305a": {
-                        "id": "651f81fa-6aae-4a44-af37-7fcd4d4b305a",
-                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_公園路燈工程管理處.csv",
-                        "created": "2017-08-11 09:35:39",
-                        "last_modified": "2017-08-11T09:35:39"
-                    },
-                    "8bace864-170f-4d54-8e4d-ed49af095732": {
-                        "id": "8bace864-170f-4d54-8e4d-ed49af095732",
-                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_衛生下水道工程處.csv",
-                        "created": "2017-08-11 09:36:01",
-                        "last_modified": "2017-08-11T09:36:01"
-                    },
-                    "7413b2ff-531a-4c72-9037-e1b5cdbe51a6": {
-                        "id": "7413b2ff-531a-4c72-9037-e1b5cdbe51a6",
-                        "name": "臺北市政府工務局所屬各工程處各項公共工程發包及執行情形統計表_大地工程處.csv",
-                        "created": "2017-08-11 09:36:26",
-                        "last_modified": "2017-08-11T09:36:26"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "f8cbad30-fc21-40d4-b555-f6297d37e6d5": {
-                "name": "f8cbad30-fc21-40d4-b555-f6297d37e6d5",
-                "title": "在建工程統計表",
-                "organization_id": "379110000G",
-                "metadata_modified": "2017-08-11 09:29:57",
-                "timeEnd": 1502414997,
-                "timeBegin": 1502380800,
-                "resources": {
-                    "e81a2fc3-15ff-40a3-a08d-4c88ca2534f4": {
-                        "id": "e81a2fc3-15ff-40a3-a08d-4c88ca2534f4",
-                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_新建工程處.csv",
-                        "created": "2017-08-11 09:28:03",
-                        "last_modified": "2017-08-11T09:28:03"
-                    },
-                    "3bf35e45-7c30-4526-97bb-2509c8590eb9": {
-                        "id": "3bf35e45-7c30-4526-97bb-2509c8590eb9",
-                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_水利工程處.csv",
-                        "created": "2017-08-11 09:28:38",
-                        "last_modified": "2017-08-11T09:28:38"
-                    },
-                    "cbe31b40-db42-4560-99ca-d7bb478c393d": {
-                        "id": "cbe31b40-db42-4560-99ca-d7bb478c393d",
-                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_公園路燈工程管理處.csv",
-                        "created": "2017-08-11 09:29:05",
-                        "last_modified": "2017-08-11T09:29:05"
-                    },
-                    "bcdcc18a-16e8-477c-a4ba-a74a01082832": {
-                        "id": "bcdcc18a-16e8-477c-a4ba-a74a01082832",
-                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_衛生下水道工程處.csv",
-                        "created": "2017-08-11 09:29:32",
-                        "last_modified": "2017-08-11T09:29:32"
-                    },
-                    "9832470e-5269-41ca-8677-449030767829": {
-                        "id": "9832470e-5269-41ca-8677-449030767829",
-                        "name": "臺北市政府工務局所屬各工程處在建工程統計表_大地工程處.csv",
-                        "created": "2017-08-11 09:29:54",
-                        "last_modified": "2017-08-11T09:29:54"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "29125af9-6a87-45e3-9f7f-d67f325ea805": {
-                "name": "29125af9-6a87-45e3-9f7f-d67f325ea805",
-                "title": "未結案工程統計表",
-                "organization_id": "379110000G",
-                "metadata_modified": "2017-08-11 09:19:34",
-                "timeEnd": 1502414374,
-                "timeBegin": 1502380800,
-                "resources": {
-                    "907d56f2-3a4e-4a3f-ab71-fd6f8f922145": {
-                        "id": "907d56f2-3a4e-4a3f-ab71-fd6f8f922145",
-                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_新建工程處.csv",
-                        "created": "2017-08-11 09:16:36",
-                        "last_modified": "2017-08-11T09:16:36"
-                    },
-                    "f8f8785c-a4a4-4510-b75e-ba9fc9edd35b": {
-                        "id": "f8f8785c-a4a4-4510-b75e-ba9fc9edd35b",
-                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_水利工程處.csv",
-                        "created": "2017-08-11 09:17:18",
-                        "last_modified": "2017-08-11T09:17:18"
-                    },
-                    "2613bf1d-6358-4070-b253-dc2f314016a8": {
-                        "id": "2613bf1d-6358-4070-b253-dc2f314016a8",
-                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_公園路燈工程管理處.csv",
-                        "created": "2017-08-11 09:17:40",
-                        "last_modified": "2017-08-11T09:17:40"
-                    },
-                    "f0f0fe3b-a696-461b-a5c5-caf30f07883e": {
-                        "id": "f0f0fe3b-a696-461b-a5c5-caf30f07883e",
-                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_衛生下水道工程處.csv",
-                        "created": "2017-08-11 09:18:27",
-                        "last_modified": "2017-08-11T09:18:27"
-                    },
-                    "e604800f-e4a8-470f-9257-c5c17c544f65": {
-                        "id": "e604800f-e4a8-470f-9257-c5c17c544f65",
-                        "name": "臺北市政府工務局所屬各工程處未結案工程統計表_大地工程處.csv",
-                        "created": "2017-08-11 09:19:31",
-                        "last_modified": "2017-08-11T09:19:31"
                     }
                 },
                 "counters": {
@@ -15395,32 +15486,6 @@
                     "resource_recent": 0
                 }
             },
-            "a9228b5e-84fc-4781-916c-6c3e186b9f0c": {
-                "name": "a9228b5e-84fc-4781-916c-6c3e186b9f0c",
-                "title": "臺北市河濱生態-兩棲",
-                "organization_id": "379110000G",
-                "metadata_modified": "2016-11-03 15:17:22",
-                "timeEnd": 1478157442,
-                "timeBegin": 1467820800,
-                "resources": {
-                    "8f416071-0607-45f2-9d5a-8107ef8cf2a3": {
-                        "id": "8f416071-0607-45f2-9d5a-8107ef8cf2a3",
-                        "name": "兩棲.kml",
-                        "created": "2016-11-03 15:16:40",
-                        "last_modified": "2016-11-03T15:16:40"
-                    },
-                    "f8398c69-5216-4b70-a40b-f34a5d7b0fc0": {
-                        "id": "f8398c69-5216-4b70-a40b-f34a5d7b0fc0",
-                        "name": "兩棲.zip",
-                        "created": "2016-11-03 15:17:21",
-                        "last_modified": "2016-11-03T15:17:21"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "b9e99311-9f86-4a57-91eb-481d14e862b5": {
                 "name": "b9e99311-9f86-4a57-91eb-481d14e862b5",
                 "title": "臺北市環境教育場所",
@@ -15434,32 +15499,6 @@
                         "name": "臺北市環境教育場所",
                         "created": "2016-09-29 15:05:02",
                         "last_modified": "2016-09-29T15:05:02"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "3b5fe265-ea4b-4144-887f-dc6030d13563": {
-                "name": "3b5fe265-ea4b-4144-887f-dc6030d13563",
-                "title": "臺北市河濱自行車租借站及租借費率&提供免費飲水、打氣及簡易維修服務",
-                "organization_id": "379110000G",
-                "metadata_modified": "2016-07-12 16:18:43",
-                "timeEnd": 1468311523,
-                "timeBegin": 1341504000,
-                "resources": {
-                    "03ed9382-1685-4955-8bad-eca0f0269363": {
-                        "id": "03ed9382-1685-4955-8bad-eca0f0269363",
-                        "name": "自行車租借站.zip",
-                        "created": "2016-01-20 09:40:25",
-                        "last_modified": "2016-01-20T09:40:25"
-                    },
-                    "acb5cf55-08c3-4d1f-b223-cb189de10b5f": {
-                        "id": "acb5cf55-08c3-4d1f-b223-cb189de10b5f",
-                        "name": "自行車租借站.csv",
-                        "created": "2016-07-12 16:18:43",
-                        "last_modified": "2016-07-12T16:18:43"
                     }
                 },
                 "counters": {
@@ -15522,58 +15561,6 @@
                         "name": "130mm_hr.kmz",
                         "created": "2016-06-06 16:23:10",
                         "last_modified": "2016-06-06T16:23:10"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "d083a75b-32b5-4e56-9830-6736746bc1b8": {
-                "name": "d083a75b-32b5-4e56-9830-6736746bc1b8",
-                "title": "臺北市六大自行車道",
-                "organization_id": "379110000G",
-                "metadata_modified": "2016-06-03 16:48:56",
-                "timeEnd": 1464943736,
-                "timeBegin": 1341504000,
-                "resources": {
-                    "fec8b462-9e7d-443b-a935-b20004935804": {
-                        "id": "fec8b462-9e7d-443b-a935-b20004935804",
-                        "name": "六大自行車道.kml",
-                        "created": "2016-06-03 16:48:51",
-                        "last_modified": "2016-06-03T16:48:51"
-                    },
-                    "95a62e76-3818-4811-8d4c-32a4c6a2a54f": {
-                        "id": "95a62e76-3818-4811-8d4c-32a4c6a2a54f",
-                        "name": "6大自行車道.csv",
-                        "created": "2016-06-03 16:48:55",
-                        "last_modified": "2016-06-03T16:48:55"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "081664c0-fc9a-4727-87db-fe82987d2cfc": {
-                "name": "081664c0-fc9a-4727-87db-fe82987d2cfc",
-                "title": "臺北市河濱自行車道景點",
-                "organization_id": "379110000G",
-                "metadata_modified": "2016-06-03 16:47:27",
-                "timeEnd": 1464943647,
-                "timeBegin": 1341504000,
-                "resources": {
-                    "dcdc300c-3065-4d6b-b636-97627807ce03": {
-                        "id": "dcdc300c-3065-4d6b-b636-97627807ce03",
-                        "name": "自行車景點.zip",
-                        "created": "2016-06-03 16:47:26",
-                        "last_modified": "2016-06-03T16:47:26"
-                    },
-                    "adca7936-9df6-4d06-b9ae-e7793d35969b": {
-                        "id": "adca7936-9df6-4d06-b9ae-e7793d35969b",
-                        "name": "臺北市河濱自行車道景點.csv",
-                        "created": "2016-06-03 16:47:21",
-                        "last_modified": "2016-06-03T16:47:21"
                     }
                 },
                 "counters": {
@@ -17566,15 +17553,15 @@
                 "name": "48c4d6a7-4b09-4d1f-9739-ee837d302bd1",
                 "title": "臺北市立動物園_植物資料",
                 "organization_id": "379040000E",
-                "metadata_modified": "2017-09-04 17:29:17",
-                "timeEnd": 1504517357,
+                "metadata_modified": "2017-09-05 10:33:20",
+                "timeEnd": 1504578800,
                 "timeBegin": 1397491200,
                 "resources": {
                     "f18de02f-b6c9-47c0-8cda-50efad621c14": {
                         "id": "f18de02f-b6c9-47c0-8cda-50efad621c14",
-                        "name": "植物資料 20170904.csv",
-                        "created": "2017-09-04 17:29:15",
-                        "last_modified": "2017-09-04T17:29:15"
+                        "name": "植物資料_20170905.csv",
+                        "created": "2017-09-05 10:33:19",
+                        "last_modified": "2017-09-05T10:33:19"
                     }
                 },
                 "counters": {
@@ -27339,19 +27326,19 @@
     },
     "臺北市政府環境保護局": {
         "datasets": {
-            "a642572d-96bb-4b1c-a9d4-5614b5ebc063": {
-                "name": "a642572d-96bb-4b1c-a9d4-5614b5ebc063",
-                "title": "臺北市病媒防治業者名單",
+            "0f9f0347-3c58-46a2-ad52-13c5e01aa05c": {
+                "name": "0f9f0347-3c58-46a2-ad52-13c5e01aa05c",
+                "title": "臺北市張貼板欄核准地點一覽表",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-09-01 16:08:10",
-                "timeEnd": 1504253290,
+                "metadata_modified": "2017-09-05 16:00:55",
+                "timeEnd": 1504598455,
                 "timeBegin": 1329926400,
                 "resources": {
-                    "30c82d47-5f47-4c55-85d9-9fb1fc4b83ab": {
-                        "id": "30c82d47-5f47-4c55-85d9-9fb1fc4b83ab",
-                        "name": "臺北市病媒防治業者名單.csv",
-                        "created": "2017-09-01 16:07:09",
-                        "last_modified": "2017-09-01T16:07:09"
+                    "26733af8-fa1e-40cf-a633-afc0ed2ab8f6": {
+                        "id": "26733af8-fa1e-40cf-a633-afc0ed2ab8f6",
+                        "name": "臺北市張貼板欄核准地點一覽表.ods",
+                        "created": "2017-09-05 16:00:05",
+                        "last_modified": "2017-09-05T16:00:05"
                     }
                 },
                 "counters": {
@@ -27359,19 +27346,19 @@
                     "resource_recent": 0
                 }
             },
-            "dac325f8-0187-43d0-b5a1-7f50bb84ab4b": {
-                "name": "dac325f8-0187-43d0-b5a1-7f50bb84ab4b",
-                "title": "臺北市路燈桿旗幟申請參考一覽表",
+            "3df138c3-7ecc-4293-aca8-e85d982a417b": {
+                "name": "3df138c3-7ecc-4293-aca8-e85d982a417b",
+                "title": "臺北市廢棄車輛處理月報表",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-09-01 13:42:56",
-                "timeEnd": 1504244576,
-                "timeBegin": 1329926400,
+                "metadata_modified": "2017-09-05 11:12:06",
+                "timeEnd": 1504581126,
+                "timeBegin": 1496246400,
                 "resources": {
-                    "3dd2dfa0-eea0-4d86-a46c-fd666510ab81": {
-                        "id": "3dd2dfa0-eea0-4d86-a46c-fd666510ab81",
-                        "name": "臺北市張掛旗幟路段參考一覽表.ods",
-                        "created": "2017-09-01 13:42:22",
-                        "last_modified": "2017-09-01T13:42:22"
+                    "143634a0-b2b3-4d6e-b989-ac5b44e2f314": {
+                        "id": "143634a0-b2b3-4d6e-b989-ac5b44e2f314",
+                        "name": "廢棄車輛處理月報.ods",
+                        "created": "2017-09-05 11:11:27",
+                        "last_modified": "2017-09-05T11:11:27"
                     }
                 },
                 "counters": {
@@ -27383,8 +27370,8 @@
                 "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
                 "title": "臺北市行人專用清潔箱",
                 "organization_id": "379150000I",
-                "metadata_modified": "2017-08-31 14:55:14",
-                "timeEnd": 1504162514,
+                "metadata_modified": "2017-09-05 11:10:31",
+                "timeEnd": 1504581031,
                 "timeBegin": 1432137600,
                 "resources": {
                     "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
@@ -27426,8 +27413,8 @@
                     "46647394-d47f-4a4d-b0f0-14a60ac2aade": {
                         "id": "46647394-d47f-4a4d-b0f0-14a60ac2aade",
                         "name": "文山區行人專用清潔箱.csv",
-                        "created": "2017-07-06 14:29:25",
-                        "last_modified": "2017-07-06T14:29:25"
+                        "created": "2017-09-05 11:09:49",
+                        "last_modified": "2017-09-05T11:09:49"
                     },
                     "05d67de9-a034-4177-9f53-10d6f79e02cf": {
                         "id": "05d67de9-a034-4177-9f53-10d6f79e02cf",
@@ -27458,6 +27445,46 @@
                         "name": "萬華區行人專用清潔箱.csv",
                         "created": "2016-07-29 11:30:33",
                         "last_modified": "2016-07-29T11:30:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a642572d-96bb-4b1c-a9d4-5614b5ebc063": {
+                "name": "a642572d-96bb-4b1c-a9d4-5614b5ebc063",
+                "title": "臺北市病媒防治業者名單",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-09-01 16:08:10",
+                "timeEnd": 1504253290,
+                "timeBegin": 1329926400,
+                "resources": {
+                    "30c82d47-5f47-4c55-85d9-9fb1fc4b83ab": {
+                        "id": "30c82d47-5f47-4c55-85d9-9fb1fc4b83ab",
+                        "name": "臺北市病媒防治業者名單.csv",
+                        "created": "2017-09-01 16:07:09",
+                        "last_modified": "2017-09-01T16:07:09"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dac325f8-0187-43d0-b5a1-7f50bb84ab4b": {
+                "name": "dac325f8-0187-43d0-b5a1-7f50bb84ab4b",
+                "title": "臺北市路燈桿旗幟申請參考一覽表",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-09-01 13:42:56",
+                "timeEnd": 1504244576,
+                "timeBegin": 1329926400,
+                "resources": {
+                    "3dd2dfa0-eea0-4d86-a46c-fd666510ab81": {
+                        "id": "3dd2dfa0-eea0-4d86-a46c-fd666510ab81",
+                        "name": "臺北市張掛旗幟路段參考一覽表.ods",
+                        "created": "2017-09-01 13:42:22",
+                        "last_modified": "2017-09-01T13:42:22"
                     }
                 },
                 "counters": {
@@ -27838,26 +27865,6 @@
                         "name": "充電站.csv",
                         "created": "2016-05-17 11:08:53",
                         "last_modified": "2016-05-17T11:08:53"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "3df138c3-7ecc-4293-aca8-e85d982a417b": {
-                "name": "3df138c3-7ecc-4293-aca8-e85d982a417b",
-                "title": "臺北市廢棄車輛處理月報表",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-08-03 15:39:17",
-                "timeEnd": 1501745957,
-                "timeBegin": 1496246400,
-                "resources": {
-                    "143634a0-b2b3-4d6e-b989-ac5b44e2f314": {
-                        "id": "143634a0-b2b3-4d6e-b989-ac5b44e2f314",
-                        "name": "臺北市廢棄車輛處理月報表.ods",
-                        "created": "2017-08-03 15:38:46",
-                        "last_modified": "2017-08-03T15:38:46"
                     }
                 },
                 "counters": {
@@ -29747,26 +29754,6 @@
                     "resource_recent": 0
                 }
             },
-            "0f9f0347-3c58-46a2-ad52-13c5e01aa05c": {
-                "name": "0f9f0347-3c58-46a2-ad52-13c5e01aa05c",
-                "title": "臺北市張貼板欄核准地點一覽表",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-03-14 10:16:17",
-                "timeEnd": 1489457778,
-                "timeBegin": 1329926400,
-                "resources": {
-                    "26733af8-fa1e-40cf-a633-afc0ed2ab8f6": {
-                        "id": "26733af8-fa1e-40cf-a633-afc0ed2ab8f6",
-                        "name": "臺北市張掛旗幟路段參考一覽表.ods",
-                        "created": "2017-03-14 10:16:18",
-                        "last_modified": "2017-03-14T10:16:18"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "33de0950-24df-463d-b199-da3fbf612ef1": {
                 "name": "33de0950-24df-463d-b199-da3fbf612ef1",
                 "title": "臺北市核准身障福利團體設置舊衣回收箱",
@@ -30487,6 +30474,26 @@
     },
     "臺北市政府產業發展局": {
         "datasets": {
+            "54d9d492-1e2e-40d1-ae7b-fbce6f271bf1": {
+                "name": "54d9d492-1e2e-40d1-ae7b-fbce6f271bf1",
+                "title": "臺北市公有零售市場行情",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-09-05 09:41:09",
+                "timeEnd": 1504575669,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "c71394d5-62a1-430b-8000-e0a980687090": {
+                        "id": "c71394d5-62a1-430b-8000-e0a980687090",
+                        "name": "1060821-0827-10.csv",
+                        "created": "2017-09-05 09:39:55",
+                        "last_modified": "2017-09-05T09:39:55"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "6a3e862a-e1cb-4e44-b989-d35609559463": {
                 "name": "6a3e862a-e1cb-4e44-b989-d35609559463",
                 "title": "臺北市開放認養動物",
@@ -30620,26 +30627,6 @@
                         "name": "waterbusiness.xml",
                         "created": "2017-08-31 19:08:00",
                         "last_modified": "2017-08-31T19:08:00"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "54d9d492-1e2e-40d1-ae7b-fbce6f271bf1": {
-                "name": "54d9d492-1e2e-40d1-ae7b-fbce6f271bf1",
-                "title": "臺北市公有零售市場行情",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-08-28 18:26:03",
-                "timeEnd": 1503915963,
-                "timeBegin": 1503849600,
-                "resources": {
-                    "c71394d5-62a1-430b-8000-e0a980687090": {
-                        "id": "c71394d5-62a1-430b-8000-e0a980687090",
-                        "name": "1060814-0820-10.csv",
-                        "created": "2017-08-28 18:24:53",
-                        "last_modified": "2017-08-28T18:24:53"
                     }
                 },
                 "counters": {
@@ -37866,8 +37853,8 @@
                 "name": "4c812503-c284-4414-9939-ac5c9061f087",
                 "title": "臺北市政府公報(106年度)",
                 "organization_id": "379010000A",
-                "metadata_modified": "2017-09-04 09:54:31",
-                "timeEnd": 1504490071,
+                "metadata_modified": "2017-09-05 09:43:10",
+                "timeEnd": 1504575790,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -43194,6 +43181,394 @@
     },
     "臺北市政府警察局": {
         "datasets": {
+            "9717c017-f17c-4610-b6fe-e92181381538": {
+                "name": "9717c017-f17c-4610-b6fe-e92181381538",
+                "title": "臺北市汽車竊盜點位資訊",
+                "organization_id": "379130000C",
+                "metadata_modified": "2017-09-05 12:44:37",
+                "timeEnd": 1504586677,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "5928460b-ee8d-4323-b6ac-ad975dbb84c3": {
+                        "id": "5928460b-ee8d-4323-b6ac-ad975dbb84c3",
+                        "name": "臺北市10401-10608汽車竊盜點位資訊.csv",
+                        "created": "2017-09-05 12:44:35",
+                        "last_modified": "2017-09-05T12:44:35"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "5c5e9e13-9803-47c0-bbd2-1a4b3c11c49b": {
+                "name": "5c5e9e13-9803-47c0-bbd2-1a4b3c11c49b",
+                "title": "臺北市自行車竊盜點位資訊",
+                "organization_id": "379130000C",
+                "metadata_modified": "2017-09-05 12:43:13",
+                "timeEnd": 1504586593,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "08052aba-d76d-4b25-93f7-e19cec685f5a": {
+                        "id": "08052aba-d76d-4b25-93f7-e19cec685f5a",
+                        "name": "臺北市10401-10608自行車竊盜點位資訊.csv",
+                        "created": "2017-09-05 12:43:12",
+                        "last_modified": "2017-09-05T12:43:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "68785231-d6c5-47a1-b001-77eec70bec02": {
+                "name": "68785231-d6c5-47a1-b001-77eec70bec02",
+                "title": "臺北市住宅竊盜點位資訊",
+                "organization_id": "379130000C",
+                "metadata_modified": "2017-09-05 12:35:49",
+                "timeEnd": 1504586149,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "34a4a431-f04d-474a-8e72-8d3f586db3df": {
+                        "id": "34a4a431-f04d-474a-8e72-8d3f586db3df",
+                        "name": "臺北市10401-10608住宅竊盜點位資訊.csv",
+                        "created": "2017-09-05 12:35:48",
+                        "last_modified": "2017-09-05T12:35:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "68af4760-5442-4b42-90ba-614c243e9a22": {
+                "name": "68af4760-5442-4b42-90ba-614c243e9a22",
+                "title": "臺北市受理網路報案統計表",
+                "organization_id": "379130000C",
+                "metadata_modified": "2017-09-05 10:30:55",
+                "timeEnd": 1504578655,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "ac975077-5060-4d09-b0d4-d71ab7f8a2bf": {
+                        "id": "ac975077-5060-4d09-b0d4-d71ab7f8a2bf",
+                        "name": "10410臺北市受理網路報案統計表.xls",
+                        "created": "2015-11-03 15:10:21",
+                        "last_modified": "2015-11-03T15:10:21"
+                    },
+                    "72f8c3b7-9828-4cb9-8ce0-971583ab88af": {
+                        "id": "72f8c3b7-9828-4cb9-8ce0-971583ab88af",
+                        "name": "10409臺北市受理網路報案.xls",
+                        "created": "2016-01-06 16:09:10",
+                        "last_modified": "2016-01-06T16:09:10"
+                    },
+                    "2047ea97-bb3f-468e-9353-30a59b74a93f": {
+                        "id": "2047ea97-bb3f-468e-9353-30a59b74a93f",
+                        "name": "10411臺北市受理網路報案統計表.xls",
+                        "created": "2015-12-02 14:42:37",
+                        "last_modified": "2015-12-02T14:42:37"
+                    },
+                    "1ed9a656-5b6a-41bc-9ceb-e2e521be1db6": {
+                        "id": "1ed9a656-5b6a-41bc-9ceb-e2e521be1db6",
+                        "name": "10412臺北市受理網路報案統計表.xls",
+                        "created": "2016-01-06 16:08:24",
+                        "last_modified": "2016-01-06T16:08:24"
+                    },
+                    "a751ec5d-7346-400e-9ac4-1460bcdb2996": {
+                        "id": "a751ec5d-7346-400e-9ac4-1460bcdb2996",
+                        "name": "10408臺北市受理網路報案統計表.xls",
+                        "created": "2016-01-06 16:07:08",
+                        "last_modified": "2016-01-06T16:07:08"
+                    },
+                    "969e844d-db39-4c00-b670-654962933be4": {
+                        "id": "969e844d-db39-4c00-b670-654962933be4",
+                        "name": "10501臺北市受理網路報案統計表.xls",
+                        "created": "2016-02-02 15:40:34",
+                        "last_modified": "2016-02-02T15:40:34"
+                    },
+                    "4613f86c-1363-43c7-893b-2381edfa34b4": {
+                        "id": "4613f86c-1363-43c7-893b-2381edfa34b4",
+                        "name": "10502臺北市受理網路報案統計表.xls",
+                        "created": "2016-03-02 16:42:29",
+                        "last_modified": "2016-03-02T16:42:29"
+                    },
+                    "6328f200-cfa0-4a26-a66c-221832dac59f": {
+                        "id": "6328f200-cfa0-4a26-a66c-221832dac59f",
+                        "name": "10503臺北市受理網路報案統計表.xls",
+                        "created": "2016-04-01 17:49:32",
+                        "last_modified": "2016-04-01T17:49:32"
+                    },
+                    "5f6c7e67-51be-4a41-a684-9acc1727a1ee": {
+                        "id": "5f6c7e67-51be-4a41-a684-9acc1727a1ee",
+                        "name": "10504臺北市受理網路報案統計表.xls",
+                        "created": "2016-05-03 15:11:13",
+                        "last_modified": "2016-05-03T15:11:13"
+                    },
+                    "b249abc8-8f5d-4d24-99bb-4403e9b88092": {
+                        "id": "b249abc8-8f5d-4d24-99bb-4403e9b88092",
+                        "name": "10505臺北市受理網路報案統計表.xls",
+                        "created": "2016-06-02 09:48:03",
+                        "last_modified": "2016-06-02T09:48:03"
+                    },
+                    "31db2214-bf07-4f8a-94b5-5fb779a3258d": {
+                        "id": "31db2214-bf07-4f8a-94b5-5fb779a3258d",
+                        "name": "10506臺北市受理網路報案統計表.xls",
+                        "created": "2016-07-06 14:33:38",
+                        "last_modified": "2016-07-06T14:33:38"
+                    },
+                    "f34c1c28-f25d-40ef-b761-3d8aa5308b23": {
+                        "id": "f34c1c28-f25d-40ef-b761-3d8aa5308b23",
+                        "name": "10507臺北市受理網路報案統計表.xls",
+                        "created": "2016-08-03 10:54:58",
+                        "last_modified": "2016-08-03T10:54:58"
+                    },
+                    "ecc6c938-edc8-4461-936b-e1f9248d2c88": {
+                        "id": "ecc6c938-edc8-4461-936b-e1f9248d2c88",
+                        "name": "10508臺北市受理網路報案統計表.xls",
+                        "created": "2016-09-02 16:02:52",
+                        "last_modified": "2016-09-02T16:02:52"
+                    },
+                    "783c5769-56f6-4bf1-8d67-456e19f4f04d": {
+                        "id": "783c5769-56f6-4bf1-8d67-456e19f4f04d",
+                        "name": "10509臺北市受理網路報案統計表.xls",
+                        "created": "2016-10-05 09:38:55",
+                        "last_modified": "2016-10-05T09:38:55"
+                    },
+                    "3d6158b9-8ceb-4dc6-8220-52e8cb364f5f": {
+                        "id": "3d6158b9-8ceb-4dc6-8220-52e8cb364f5f",
+                        "name": "10510臺北市受理網路報案統計表.xls",
+                        "created": "2016-11-02 16:29:40",
+                        "last_modified": "2016-11-02T16:29:40"
+                    },
+                    "67db9049-571c-4dcb-b922-9fe3be44ade4": {
+                        "id": "67db9049-571c-4dcb-b922-9fe3be44ade4",
+                        "name": "10511臺北市受理網路報案統計表.xls",
+                        "created": "2017-01-04 11:38:16",
+                        "last_modified": "2017-01-04T11:38:16"
+                    },
+                    "35e45641-7fe0-4dd3-bfeb-d80f840af44a": {
+                        "id": "35e45641-7fe0-4dd3-bfeb-d80f840af44a",
+                        "name": "10512臺北市受理網路報案統計表.xls",
+                        "created": "2017-01-04 11:39:11",
+                        "last_modified": "2017-01-04T11:39:11"
+                    },
+                    "96086f2c-7ad5-4c59-9255-a9e804f8fa4b": {
+                        "id": "96086f2c-7ad5-4c59-9255-a9e804f8fa4b",
+                        "name": "10601臺北市受理網路報案統計表.xls",
+                        "created": "2017-02-03 15:23:44",
+                        "last_modified": "2017-02-03T15:23:44"
+                    },
+                    "186d48cc-f0ea-4ae4-b655-53b017fd2fd0": {
+                        "id": "186d48cc-f0ea-4ae4-b655-53b017fd2fd0",
+                        "name": "10602臺北市受理網路報案統計表.xls",
+                        "created": "2017-03-03 11:19:34",
+                        "last_modified": "2017-03-03T11:19:34"
+                    },
+                    "1df32b7c-c723-4999-ba07-06aaa3be32b1": {
+                        "id": "1df32b7c-c723-4999-ba07-06aaa3be32b1",
+                        "name": "10603臺北市受理網路報案統計表.xls",
+                        "created": "2017-04-05 16:30:40",
+                        "last_modified": "2017-04-05T16:30:40"
+                    },
+                    "b2f330b2-5d35-40e7-b8b4-80f32b2223e6": {
+                        "id": "b2f330b2-5d35-40e7-b8b4-80f32b2223e6",
+                        "name": "10604臺北市受理網路報案統計表.xls",
+                        "created": "2017-05-03 14:42:58",
+                        "last_modified": "2017-05-03T14:42:58"
+                    },
+                    "95519fa6-5f39-4282-965f-adcba5b21d7d": {
+                        "id": "95519fa6-5f39-4282-965f-adcba5b21d7d",
+                        "name": "10605臺北市受理網路報案統計表.xls",
+                        "created": "2017-06-02 10:18:44",
+                        "last_modified": "2017-06-02T10:18:44"
+                    },
+                    "f089a279-e1d8-45da-8ca3-39ea5f1c325b": {
+                        "id": "f089a279-e1d8-45da-8ca3-39ea5f1c325b",
+                        "name": "10607臺北市受理網路報案統計表.xls",
+                        "created": "2017-08-03 12:59:04",
+                        "last_modified": "2017-08-03T12:59:04"
+                    },
+                    "9ece2b93-0fe8-4c3c-b8ff-7c3fa67269f7": {
+                        "id": "9ece2b93-0fe8-4c3c-b8ff-7c3fa67269f7",
+                        "name": "10606臺北市受理網路報案統計表.xls",
+                        "created": "2017-08-03 13:00:11",
+                        "last_modified": "2017-08-03T13:00:11"
+                    },
+                    "114610bd-eae5-406c-b76d-5b86a212d10b": {
+                        "id": "114610bd-eae5-406c-b76d-5b86a212d10b",
+                        "name": "10608臺北市受理網路報案統計表.xls",
+                        "created": "2017-09-05 10:30:52",
+                        "last_modified": "2017-09-05T10:30:52"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8a30762f-3e8e-48e0-ab7b-36f176d4a9a5": {
+                "name": "8a30762f-3e8e-48e0-ab7b-36f176d4a9a5",
+                "title": "小巡邏區勤務立即偵破刑案績效表",
+                "organization_id": "379130000C",
+                "metadata_modified": "2017-09-05 10:29:02",
+                "timeEnd": 1504578542,
+                "timeBegin": 1504540800,
+                "resources": {
+                    "ea57ce68-a4a4-48cf-915e-ec8b8572b616": {
+                        "id": "ea57ce68-a4a4-48cf-915e-ec8b8572b616",
+                        "name": "10410臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2015-11-03 14:56:31",
+                        "last_modified": "2015-11-03T14:56:31"
+                    },
+                    "7239f92c-6e1a-4f57-b2fd-d608963fba00": {
+                        "id": "7239f92c-6e1a-4f57-b2fd-d608963fba00",
+                        "name": "10408臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2015-12-02 13:58:38",
+                        "last_modified": "2015-12-02T13:58:38"
+                    },
+                    "40cdc0d7-b0b7-41f4-900a-e998f429f3a2": {
+                        "id": "40cdc0d7-b0b7-41f4-900a-e998f429f3a2",
+                        "name": "10411臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2015-12-02 14:38:02",
+                        "last_modified": "2015-12-02T14:38:02"
+                    },
+                    "c39c41b5-8d1f-4846-a2fd-fabe615b8c2b": {
+                        "id": "c39c41b5-8d1f-4846-a2fd-fabe615b8c2b",
+                        "name": "10409臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2015-12-02 14:47:01",
+                        "last_modified": "2015-12-02T14:47:01"
+                    },
+                    "b92f13c1-ab64-4381-96e6-39fc080c8863": {
+                        "id": "b92f13c1-ab64-4381-96e6-39fc080c8863",
+                        "name": "10412臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-01-06 16:26:18",
+                        "last_modified": "2016-01-06T16:26:18"
+                    },
+                    "7b6cc46e-8a84-491c-ab96-d026d6d934bb": {
+                        "id": "7b6cc46e-8a84-491c-ab96-d026d6d934bb",
+                        "name": "10501臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-02-02 15:38:13",
+                        "last_modified": "2016-02-02T15:38:13"
+                    },
+                    "219bf34e-bbf4-4750-b433-1d425531ab2a": {
+                        "id": "219bf34e-bbf4-4750-b433-1d425531ab2a",
+                        "name": "10502臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-03-02 16:43:31",
+                        "last_modified": "2016-03-02T16:43:31"
+                    },
+                    "b69a01e2-82ec-4f6f-8b4a-53235c953df5": {
+                        "id": "b69a01e2-82ec-4f6f-8b4a-53235c953df5",
+                        "name": "10503臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-04-01 17:47:10",
+                        "last_modified": "2016-04-01T17:47:10"
+                    },
+                    "ff02e896-9481-46c9-afa8-461021f19f2d": {
+                        "id": "ff02e896-9481-46c9-afa8-461021f19f2d",
+                        "name": "10504臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-05-03 15:13:46",
+                        "last_modified": "2016-05-03T15:13:46"
+                    },
+                    "958d4404-f998-4406-a228-fc6522dd931b": {
+                        "id": "958d4404-f998-4406-a228-fc6522dd931b",
+                        "name": "10505臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-06-02 09:58:00",
+                        "last_modified": "2016-06-02T09:58:00"
+                    },
+                    "9fa2b773-c62d-4760-8425-10d7da470479": {
+                        "id": "9fa2b773-c62d-4760-8425-10d7da470479",
+                        "name": "10506臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-07-06 14:30:10",
+                        "last_modified": "2016-07-06T14:30:10"
+                    },
+                    "101e5a19-5bfa-4f9d-a580-516a98980fff": {
+                        "id": "101e5a19-5bfa-4f9d-a580-516a98980fff",
+                        "name": "10507臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-08-03 10:15:33",
+                        "last_modified": "2016-08-03T10:15:33"
+                    },
+                    "216a80c7-81e0-4fe9-83f6-f9b477cac84b": {
+                        "id": "216a80c7-81e0-4fe9-83f6-f9b477cac84b",
+                        "name": "10508臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-09-02 16:05:28",
+                        "last_modified": "2016-09-02T16:05:28"
+                    },
+                    "d5b6b186-794e-460f-8a38-51a21f058e07": {
+                        "id": "d5b6b186-794e-460f-8a38-51a21f058e07",
+                        "name": "10509臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-10-05 09:37:11",
+                        "last_modified": "2016-10-05T09:37:11"
+                    },
+                    "9107252b-fc9b-41fa-896a-3c0639971088": {
+                        "id": "9107252b-fc9b-41fa-896a-3c0639971088",
+                        "name": "10510臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2016-11-02 16:32:23",
+                        "last_modified": "2016-11-02T16:32:23"
+                    },
+                    "4666d199-e3d2-4aeb-8712-711c7ed78a6c": {
+                        "id": "4666d199-e3d2-4aeb-8712-711c7ed78a6c",
+                        "name": "10512臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-01-04 11:33:33",
+                        "last_modified": "2017-01-04T11:33:33"
+                    },
+                    "c024c34c-0245-400a-8967-c3b116635236": {
+                        "id": "c024c34c-0245-400a-8967-c3b116635236",
+                        "name": "10511臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-01-04 11:35:28",
+                        "last_modified": "2017-01-04T11:35:28"
+                    },
+                    "b8d7e0b1-d584-4f25-aeac-b1a8ebca1420": {
+                        "id": "b8d7e0b1-d584-4f25-aeac-b1a8ebca1420",
+                        "name": "10601臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-02-03 15:26:35",
+                        "last_modified": "2017-02-03T15:26:35"
+                    },
+                    "d357ef37-e1a4-4f05-96d9-ec0ab42839c6": {
+                        "id": "d357ef37-e1a4-4f05-96d9-ec0ab42839c6",
+                        "name": "10602臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-03-03 11:16:57",
+                        "last_modified": "2017-03-03T11:16:57"
+                    },
+                    "bdfb9ef1-ac53-4e09-b839-9afcfaa4789c": {
+                        "id": "bdfb9ef1-ac53-4e09-b839-9afcfaa4789c",
+                        "name": "10603臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-04-05 17:33:03",
+                        "last_modified": "2017-04-05T17:33:03"
+                    },
+                    "817f708d-637d-403a-b8aa-046ab36a76be": {
+                        "id": "817f708d-637d-403a-b8aa-046ab36a76be",
+                        "name": "10604臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-05-03 14:39:57",
+                        "last_modified": "2017-05-03T14:39:57"
+                    },
+                    "e972df58-6cdc-489a-9070-8c3b9bb99b58": {
+                        "id": "e972df58-6cdc-489a-9070-8c3b9bb99b58",
+                        "name": "10605臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-06-02 10:19:47",
+                        "last_modified": "2017-06-02T10:19:47"
+                    },
+                    "753cdda4-06a9-423b-b882-788c08ed7857": {
+                        "id": "753cdda4-06a9-423b-b882-788c08ed7857",
+                        "name": "10607臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-08-03 12:56:19",
+                        "last_modified": "2017-08-03T12:56:19"
+                    },
+                    "983aabe7-d3cc-4946-a5d9-eea0992d5cd2": {
+                        "id": "983aabe7-d3cc-4946-a5d9-eea0992d5cd2",
+                        "name": "10606臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-08-03 13:01:00",
+                        "last_modified": "2017-08-03T13:01:00"
+                    },
+                    "79ca609b-eb62-48ba-9a08-ec8c9560e73a": {
+                        "id": "79ca609b-eb62-48ba-9a08-ec8c9560e73a",
+                        "name": "10608臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
+                        "created": "2017-09-05 10:28:58",
+                        "last_modified": "2017-09-05T10:28:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "3088ac49-6d94-4ad0-95ed-466e035cbff9": {
                 "name": "3088ac49-6d94-4ad0-95ed-466e035cbff9",
                 "title": "電話受理案件統計表",
@@ -43784,322 +44159,6 @@
                     "resource_recent": 0
                 }
             },
-            "8a30762f-3e8e-48e0-ab7b-36f176d4a9a5": {
-                "name": "8a30762f-3e8e-48e0-ab7b-36f176d4a9a5",
-                "title": "小巡邏區勤務立即偵破刑案績效表",
-                "organization_id": "379130000C",
-                "metadata_modified": "2017-08-03 13:01:03",
-                "timeEnd": 1501736463,
-                "timeBegin": 1501689600,
-                "resources": {
-                    "ea57ce68-a4a4-48cf-915e-ec8b8572b616": {
-                        "id": "ea57ce68-a4a4-48cf-915e-ec8b8572b616",
-                        "name": "10410臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2015-11-03 14:56:31",
-                        "last_modified": "2015-11-03T14:56:31"
-                    },
-                    "7239f92c-6e1a-4f57-b2fd-d608963fba00": {
-                        "id": "7239f92c-6e1a-4f57-b2fd-d608963fba00",
-                        "name": "10408臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2015-12-02 13:58:38",
-                        "last_modified": "2015-12-02T13:58:38"
-                    },
-                    "40cdc0d7-b0b7-41f4-900a-e998f429f3a2": {
-                        "id": "40cdc0d7-b0b7-41f4-900a-e998f429f3a2",
-                        "name": "10411臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2015-12-02 14:38:02",
-                        "last_modified": "2015-12-02T14:38:02"
-                    },
-                    "c39c41b5-8d1f-4846-a2fd-fabe615b8c2b": {
-                        "id": "c39c41b5-8d1f-4846-a2fd-fabe615b8c2b",
-                        "name": "10409臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2015-12-02 14:47:01",
-                        "last_modified": "2015-12-02T14:47:01"
-                    },
-                    "b92f13c1-ab64-4381-96e6-39fc080c8863": {
-                        "id": "b92f13c1-ab64-4381-96e6-39fc080c8863",
-                        "name": "10412臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-01-06 16:26:18",
-                        "last_modified": "2016-01-06T16:26:18"
-                    },
-                    "7b6cc46e-8a84-491c-ab96-d026d6d934bb": {
-                        "id": "7b6cc46e-8a84-491c-ab96-d026d6d934bb",
-                        "name": "10501臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-02-02 15:38:13",
-                        "last_modified": "2016-02-02T15:38:13"
-                    },
-                    "219bf34e-bbf4-4750-b433-1d425531ab2a": {
-                        "id": "219bf34e-bbf4-4750-b433-1d425531ab2a",
-                        "name": "10502臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-03-02 16:43:31",
-                        "last_modified": "2016-03-02T16:43:31"
-                    },
-                    "b69a01e2-82ec-4f6f-8b4a-53235c953df5": {
-                        "id": "b69a01e2-82ec-4f6f-8b4a-53235c953df5",
-                        "name": "10503臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-04-01 17:47:10",
-                        "last_modified": "2016-04-01T17:47:10"
-                    },
-                    "ff02e896-9481-46c9-afa8-461021f19f2d": {
-                        "id": "ff02e896-9481-46c9-afa8-461021f19f2d",
-                        "name": "10504臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-05-03 15:13:46",
-                        "last_modified": "2016-05-03T15:13:46"
-                    },
-                    "958d4404-f998-4406-a228-fc6522dd931b": {
-                        "id": "958d4404-f998-4406-a228-fc6522dd931b",
-                        "name": "10505臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-06-02 09:58:00",
-                        "last_modified": "2016-06-02T09:58:00"
-                    },
-                    "9fa2b773-c62d-4760-8425-10d7da470479": {
-                        "id": "9fa2b773-c62d-4760-8425-10d7da470479",
-                        "name": "10506臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-07-06 14:30:10",
-                        "last_modified": "2016-07-06T14:30:10"
-                    },
-                    "101e5a19-5bfa-4f9d-a580-516a98980fff": {
-                        "id": "101e5a19-5bfa-4f9d-a580-516a98980fff",
-                        "name": "10507臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-08-03 10:15:33",
-                        "last_modified": "2016-08-03T10:15:33"
-                    },
-                    "216a80c7-81e0-4fe9-83f6-f9b477cac84b": {
-                        "id": "216a80c7-81e0-4fe9-83f6-f9b477cac84b",
-                        "name": "10508臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-09-02 16:05:28",
-                        "last_modified": "2016-09-02T16:05:28"
-                    },
-                    "d5b6b186-794e-460f-8a38-51a21f058e07": {
-                        "id": "d5b6b186-794e-460f-8a38-51a21f058e07",
-                        "name": "10509臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-10-05 09:37:11",
-                        "last_modified": "2016-10-05T09:37:11"
-                    },
-                    "9107252b-fc9b-41fa-896a-3c0639971088": {
-                        "id": "9107252b-fc9b-41fa-896a-3c0639971088",
-                        "name": "10510臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2016-11-02 16:32:23",
-                        "last_modified": "2016-11-02T16:32:23"
-                    },
-                    "4666d199-e3d2-4aeb-8712-711c7ed78a6c": {
-                        "id": "4666d199-e3d2-4aeb-8712-711c7ed78a6c",
-                        "name": "10512臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-01-04 11:33:33",
-                        "last_modified": "2017-01-04T11:33:33"
-                    },
-                    "c024c34c-0245-400a-8967-c3b116635236": {
-                        "id": "c024c34c-0245-400a-8967-c3b116635236",
-                        "name": "10511臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-01-04 11:35:28",
-                        "last_modified": "2017-01-04T11:35:28"
-                    },
-                    "b8d7e0b1-d584-4f25-aeac-b1a8ebca1420": {
-                        "id": "b8d7e0b1-d584-4f25-aeac-b1a8ebca1420",
-                        "name": "10601臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-02-03 15:26:35",
-                        "last_modified": "2017-02-03T15:26:35"
-                    },
-                    "d357ef37-e1a4-4f05-96d9-ec0ab42839c6": {
-                        "id": "d357ef37-e1a4-4f05-96d9-ec0ab42839c6",
-                        "name": "10602臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-03-03 11:16:57",
-                        "last_modified": "2017-03-03T11:16:57"
-                    },
-                    "bdfb9ef1-ac53-4e09-b839-9afcfaa4789c": {
-                        "id": "bdfb9ef1-ac53-4e09-b839-9afcfaa4789c",
-                        "name": "10603臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-04-05 17:33:03",
-                        "last_modified": "2017-04-05T17:33:03"
-                    },
-                    "817f708d-637d-403a-b8aa-046ab36a76be": {
-                        "id": "817f708d-637d-403a-b8aa-046ab36a76be",
-                        "name": "10604臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-05-03 14:39:57",
-                        "last_modified": "2017-05-03T14:39:57"
-                    },
-                    "e972df58-6cdc-489a-9070-8c3b9bb99b58": {
-                        "id": "e972df58-6cdc-489a-9070-8c3b9bb99b58",
-                        "name": "10605臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-06-02 10:19:47",
-                        "last_modified": "2017-06-02T10:19:47"
-                    },
-                    "753cdda4-06a9-423b-b882-788c08ed7857": {
-                        "id": "753cdda4-06a9-423b-b882-788c08ed7857",
-                        "name": "10607臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-08-03 12:56:19",
-                        "last_modified": "2017-08-03T12:56:19"
-                    },
-                    "983aabe7-d3cc-4946-a5d9-eea0992d5cd2": {
-                        "id": "983aabe7-d3cc-4946-a5d9-eea0992d5cd2",
-                        "name": "10606臺北市實施小巡邏區勤務立即偵破刑案績效.xls",
-                        "created": "2017-08-03 13:01:00",
-                        "last_modified": "2017-08-03T13:01:00"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "68af4760-5442-4b42-90ba-614c243e9a22": {
-                "name": "68af4760-5442-4b42-90ba-614c243e9a22",
-                "title": "臺北市受理網路報案統計表",
-                "organization_id": "379130000C",
-                "metadata_modified": "2017-08-03 13:00:13",
-                "timeEnd": 1501736413,
-                "timeBegin": 1501689600,
-                "resources": {
-                    "ac975077-5060-4d09-b0d4-d71ab7f8a2bf": {
-                        "id": "ac975077-5060-4d09-b0d4-d71ab7f8a2bf",
-                        "name": "10410臺北市受理網路報案統計表.xls",
-                        "created": "2015-11-03 15:10:21",
-                        "last_modified": "2015-11-03T15:10:21"
-                    },
-                    "72f8c3b7-9828-4cb9-8ce0-971583ab88af": {
-                        "id": "72f8c3b7-9828-4cb9-8ce0-971583ab88af",
-                        "name": "10409臺北市受理網路報案.xls",
-                        "created": "2016-01-06 16:09:10",
-                        "last_modified": "2016-01-06T16:09:10"
-                    },
-                    "2047ea97-bb3f-468e-9353-30a59b74a93f": {
-                        "id": "2047ea97-bb3f-468e-9353-30a59b74a93f",
-                        "name": "10411臺北市受理網路報案統計表.xls",
-                        "created": "2015-12-02 14:42:37",
-                        "last_modified": "2015-12-02T14:42:37"
-                    },
-                    "1ed9a656-5b6a-41bc-9ceb-e2e521be1db6": {
-                        "id": "1ed9a656-5b6a-41bc-9ceb-e2e521be1db6",
-                        "name": "10412臺北市受理網路報案統計表.xls",
-                        "created": "2016-01-06 16:08:24",
-                        "last_modified": "2016-01-06T16:08:24"
-                    },
-                    "a751ec5d-7346-400e-9ac4-1460bcdb2996": {
-                        "id": "a751ec5d-7346-400e-9ac4-1460bcdb2996",
-                        "name": "10408臺北市受理網路報案統計表.xls",
-                        "created": "2016-01-06 16:07:08",
-                        "last_modified": "2016-01-06T16:07:08"
-                    },
-                    "969e844d-db39-4c00-b670-654962933be4": {
-                        "id": "969e844d-db39-4c00-b670-654962933be4",
-                        "name": "10501臺北市受理網路報案統計表.xls",
-                        "created": "2016-02-02 15:40:34",
-                        "last_modified": "2016-02-02T15:40:34"
-                    },
-                    "4613f86c-1363-43c7-893b-2381edfa34b4": {
-                        "id": "4613f86c-1363-43c7-893b-2381edfa34b4",
-                        "name": "10502臺北市受理網路報案統計表.xls",
-                        "created": "2016-03-02 16:42:29",
-                        "last_modified": "2016-03-02T16:42:29"
-                    },
-                    "6328f200-cfa0-4a26-a66c-221832dac59f": {
-                        "id": "6328f200-cfa0-4a26-a66c-221832dac59f",
-                        "name": "10503臺北市受理網路報案統計表.xls",
-                        "created": "2016-04-01 17:49:32",
-                        "last_modified": "2016-04-01T17:49:32"
-                    },
-                    "5f6c7e67-51be-4a41-a684-9acc1727a1ee": {
-                        "id": "5f6c7e67-51be-4a41-a684-9acc1727a1ee",
-                        "name": "10504臺北市受理網路報案統計表.xls",
-                        "created": "2016-05-03 15:11:13",
-                        "last_modified": "2016-05-03T15:11:13"
-                    },
-                    "b249abc8-8f5d-4d24-99bb-4403e9b88092": {
-                        "id": "b249abc8-8f5d-4d24-99bb-4403e9b88092",
-                        "name": "10505臺北市受理網路報案統計表.xls",
-                        "created": "2016-06-02 09:48:03",
-                        "last_modified": "2016-06-02T09:48:03"
-                    },
-                    "31db2214-bf07-4f8a-94b5-5fb779a3258d": {
-                        "id": "31db2214-bf07-4f8a-94b5-5fb779a3258d",
-                        "name": "10506臺北市受理網路報案統計表.xls",
-                        "created": "2016-07-06 14:33:38",
-                        "last_modified": "2016-07-06T14:33:38"
-                    },
-                    "f34c1c28-f25d-40ef-b761-3d8aa5308b23": {
-                        "id": "f34c1c28-f25d-40ef-b761-3d8aa5308b23",
-                        "name": "10507臺北市受理網路報案統計表.xls",
-                        "created": "2016-08-03 10:54:58",
-                        "last_modified": "2016-08-03T10:54:58"
-                    },
-                    "ecc6c938-edc8-4461-936b-e1f9248d2c88": {
-                        "id": "ecc6c938-edc8-4461-936b-e1f9248d2c88",
-                        "name": "10508臺北市受理網路報案統計表.xls",
-                        "created": "2016-09-02 16:02:52",
-                        "last_modified": "2016-09-02T16:02:52"
-                    },
-                    "783c5769-56f6-4bf1-8d67-456e19f4f04d": {
-                        "id": "783c5769-56f6-4bf1-8d67-456e19f4f04d",
-                        "name": "10509臺北市受理網路報案統計表.xls",
-                        "created": "2016-10-05 09:38:55",
-                        "last_modified": "2016-10-05T09:38:55"
-                    },
-                    "3d6158b9-8ceb-4dc6-8220-52e8cb364f5f": {
-                        "id": "3d6158b9-8ceb-4dc6-8220-52e8cb364f5f",
-                        "name": "10510臺北市受理網路報案統計表.xls",
-                        "created": "2016-11-02 16:29:40",
-                        "last_modified": "2016-11-02T16:29:40"
-                    },
-                    "67db9049-571c-4dcb-b922-9fe3be44ade4": {
-                        "id": "67db9049-571c-4dcb-b922-9fe3be44ade4",
-                        "name": "10511臺北市受理網路報案統計表.xls",
-                        "created": "2017-01-04 11:38:16",
-                        "last_modified": "2017-01-04T11:38:16"
-                    },
-                    "35e45641-7fe0-4dd3-bfeb-d80f840af44a": {
-                        "id": "35e45641-7fe0-4dd3-bfeb-d80f840af44a",
-                        "name": "10512臺北市受理網路報案統計表.xls",
-                        "created": "2017-01-04 11:39:11",
-                        "last_modified": "2017-01-04T11:39:11"
-                    },
-                    "96086f2c-7ad5-4c59-9255-a9e804f8fa4b": {
-                        "id": "96086f2c-7ad5-4c59-9255-a9e804f8fa4b",
-                        "name": "10601臺北市受理網路報案統計表.xls",
-                        "created": "2017-02-03 15:23:44",
-                        "last_modified": "2017-02-03T15:23:44"
-                    },
-                    "186d48cc-f0ea-4ae4-b655-53b017fd2fd0": {
-                        "id": "186d48cc-f0ea-4ae4-b655-53b017fd2fd0",
-                        "name": "10602臺北市受理網路報案統計表.xls",
-                        "created": "2017-03-03 11:19:34",
-                        "last_modified": "2017-03-03T11:19:34"
-                    },
-                    "1df32b7c-c723-4999-ba07-06aaa3be32b1": {
-                        "id": "1df32b7c-c723-4999-ba07-06aaa3be32b1",
-                        "name": "10603臺北市受理網路報案統計表.xls",
-                        "created": "2017-04-05 16:30:40",
-                        "last_modified": "2017-04-05T16:30:40"
-                    },
-                    "b2f330b2-5d35-40e7-b8b4-80f32b2223e6": {
-                        "id": "b2f330b2-5d35-40e7-b8b4-80f32b2223e6",
-                        "name": "10604臺北市受理網路報案統計表.xls",
-                        "created": "2017-05-03 14:42:58",
-                        "last_modified": "2017-05-03T14:42:58"
-                    },
-                    "95519fa6-5f39-4282-965f-adcba5b21d7d": {
-                        "id": "95519fa6-5f39-4282-965f-adcba5b21d7d",
-                        "name": "10605臺北市受理網路報案統計表.xls",
-                        "created": "2017-06-02 10:18:44",
-                        "last_modified": "2017-06-02T10:18:44"
-                    },
-                    "f089a279-e1d8-45da-8ca3-39ea5f1c325b": {
-                        "id": "f089a279-e1d8-45da-8ca3-39ea5f1c325b",
-                        "name": "10607臺北市受理網路報案統計表.xls",
-                        "created": "2017-08-03 12:59:04",
-                        "last_modified": "2017-08-03T12:59:04"
-                    },
-                    "9ece2b93-0fe8-4c3c-b8ff-7c3fa67269f7": {
-                        "id": "9ece2b93-0fe8-4c3c-b8ff-7c3fa67269f7",
-                        "name": "10606臺北市受理網路報案統計表.xls",
-                        "created": "2017-08-03 13:00:11",
-                        "last_modified": "2017-08-03T13:00:11"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "985743f7-a33e-4ac1-ad2e-7ef5ffea02e2": {
                 "name": "985743f7-a33e-4ac1-ad2e-7ef5ffea02e2",
                 "title": "臺北市婦幼安全警示地點",
@@ -44319,66 +44378,6 @@
                         "name": "105a1a2.ods",
                         "created": "2017-06-26 18:20:51",
                         "last_modified": "2017-06-26T18:20:51"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "68785231-d6c5-47a1-b001-77eec70bec02": {
-                "name": "68785231-d6c5-47a1-b001-77eec70bec02",
-                "title": "臺北市住宅竊盜點位資訊",
-                "organization_id": "379130000C",
-                "metadata_modified": "2017-06-16 11:03:58",
-                "timeEnd": 1497582238,
-                "timeBegin": 1496937600,
-                "resources": {
-                    "34a4a431-f04d-474a-8e72-8d3f586db3df": {
-                        "id": "34a4a431-f04d-474a-8e72-8d3f586db3df",
-                        "name": "臺北市10401-10604住宅竊盜點位資訊.csv",
-                        "created": "2017-06-03 13:24:36",
-                        "last_modified": "2017-06-03T13:24:36"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "5c5e9e13-9803-47c0-bbd2-1a4b3c11c49b": {
-                "name": "5c5e9e13-9803-47c0-bbd2-1a4b3c11c49b",
-                "title": "臺北市自行車竊盜點位資訊",
-                "organization_id": "379130000C",
-                "metadata_modified": "2017-06-16 11:00:58",
-                "timeEnd": 1497582058,
-                "timeBegin": 1496937600,
-                "resources": {
-                    "08052aba-d76d-4b25-93f7-e19cec685f5a": {
-                        "id": "08052aba-d76d-4b25-93f7-e19cec685f5a",
-                        "name": "臺北市10401-10605自行車竊盜點位資訊.csv",
-                        "created": "2017-06-16 11:00:58",
-                        "last_modified": "2017-06-16T11:00:58"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "9717c017-f17c-4610-b6fe-e92181381538": {
-                "name": "9717c017-f17c-4610-b6fe-e92181381538",
-                "title": "臺北市汽車竊盜點位資訊",
-                "organization_id": "379130000C",
-                "metadata_modified": "2017-06-03 13:21:17",
-                "timeEnd": 1496467277,
-                "timeBegin": 1493913600,
-                "resources": {
-                    "5928460b-ee8d-4323-b6ac-ad975dbb84c3": {
-                        "id": "5928460b-ee8d-4323-b6ac-ad975dbb84c3",
-                        "name": "臺北市10401-10604汽車竊盜點位資訊.csv",
-                        "created": "2017-06-03 13:18:17",
-                        "last_modified": "2017-06-03T13:18:17"
                     }
                 },
                 "counters": {
@@ -48672,6 +48671,26 @@
     },
     "臺北自來水事業處": {
         "datasets": {
+            "155999f2-3c5d-486b-af58-d7f4c0b0a4c9": {
+                "name": "155999f2-3c5d-486b-af58-d7f4c0b0a4c9",
+                "title": "臺北市直飲臺",
+                "organization_id": "379270000K",
+                "metadata_modified": "2017-09-05 09:51:06",
+                "timeEnd": 1504576266,
+                "timeBegin": 1429027200,
+                "resources": {
+                    "9f462a41-cdbb-4e3d-a8c2-dbcb74b87cb8": {
+                        "id": "9f462a41-cdbb-4e3d-a8c2-dbcb74b87cb8",
+                        "name": "1060802直飲台_.csv",
+                        "created": "2017-08-04 11:38:14",
+                        "last_modified": "2017-08-04T11:38:14"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "ab446f19-0f95-4e55-b593-0eea8e447c7d": {
                 "name": "ab446f19-0f95-4e55-b593-0eea8e447c7d",
                 "title": "支援台水月統計表",
@@ -48940,26 +48959,6 @@
                     "resource_recent": 0
                 }
             },
-            "155999f2-3c5d-486b-af58-d7f4c0b0a4c9": {
-                "name": "155999f2-3c5d-486b-af58-d7f4c0b0a4c9",
-                "title": "臺北市直飲臺",
-                "organization_id": "379270000K",
-                "metadata_modified": "2017-08-04 11:38:13",
-                "timeEnd": 1501817894,
-                "timeBegin": 1429027200,
-                "resources": {
-                    "9f462a41-cdbb-4e3d-a8c2-dbcb74b87cb8": {
-                        "id": "9f462a41-cdbb-4e3d-a8c2-dbcb74b87cb8",
-                        "name": "1060802直飲台_.csv",
-                        "created": "2017-08-04 11:38:14",
-                        "last_modified": "2017-08-04T11:38:14"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "4062fd4b-c9bb-4af3-a3f4-ef1d35ad915f": {
                 "name": "4062fd4b-c9bb-4af3-a3f4-ef1d35ad915f",
                 "title": "105年臺北自來水事業統計年報",
@@ -49146,5 +49145,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1504560821
+    "time_generated": 1504647271
 }
