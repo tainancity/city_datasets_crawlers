@@ -13734,15 +13734,15 @@
                 "name": "4d29818c-a3ee-425d-b88a-22ac0c24c712",
                 "title": "臺北市今日施工資訊",
                 "organization_id": "379110000G",
-                "metadata_modified": "2017-09-16 05:24:03",
-                "timeEnd": 1505510643,
+                "metadata_modified": "2017-09-17 05:24:01",
+                "timeEnd": 1505597041,
                 "timeBegin": 1403452800,
                 "resources": {
                     "201d8ae8-dffc-4d17-ae1f-e58d8a95b162": {
                         "id": "201d8ae8-dffc-4d17-ae1f-e58d8a95b162",
                         "name": "construction.json",
-                        "created": "2017-09-16 05:24:00",
-                        "last_modified": "2017-09-16T05:24:00"
+                        "created": "2017-09-17 05:24:01",
+                        "last_modified": "2017-09-17T05:24:01"
                     },
                     "58bc550d-4033-4727-a1a5-989b54a59d38": {
                         "id": "58bc550d-4033-4727-a1a5-989b54a59d38",
@@ -38944,6 +38944,26 @@
     },
     "臺北市政府衛生局": {
         "datasets": {
+            "a846fd02-a054-4206-b584-70dea8ad3a25": {
+                "name": "a846fd02-a054-4206-b584-70dea8ad3a25",
+                "title": "臺北市居家護理院所",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-09-16 16:10:26",
+                "timeEnd": 1505549434,
+                "timeBegin": 1370793600,
+                "resources": {
+                    "e2684b5c-e14b-4ea5-89fc-e6281241843e": {
+                        "id": "e2684b5c-e14b-4ea5-89fc-e6281241843e",
+                        "name": "106年度臺北市居家護理機構1060915.csv",
+                        "created": "2017-09-16 16:10:34",
+                        "last_modified": "2017-09-16T16:10:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "e9a28a2d-eb6c-4127-8f7e-1ef6204baf1a": {
                 "name": "e9a28a2d-eb6c-4127-8f7e-1ef6204baf1a",
                 "title": "臺北市好孕胸章索取地點及電話一覽表",
@@ -39329,26 +39349,6 @@
                         "name": "臺北市公私立醫療院所_10607.csv",
                         "created": "2017-07-31 17:04:57",
                         "last_modified": "2017-07-31T17:04:57"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a846fd02-a054-4206-b584-70dea8ad3a25": {
-                "name": "a846fd02-a054-4206-b584-70dea8ad3a25",
-                "title": "臺北市居家護理院所",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-07-29 14:33:42",
-                "timeEnd": 1501310022,
-                "timeBegin": 1370793600,
-                "resources": {
-                    "e2684b5c-e14b-4ea5-89fc-e6281241843e": {
-                        "id": "e2684b5c-e14b-4ea5-89fc-e6281241843e",
-                        "name": "106年度臺北市居家護理機構1060726.csv",
-                        "created": "2017-07-26 19:26:18",
-                        "last_modified": "2017-07-26T19:26:18"
                     }
                 },
                 "counters": {
@@ -46558,15 +46558,15 @@
                 "name": "6aa6532d-652f-4c1b-814a-4646b75407af",
                 "title": "臺北市公眾區免費無線上網熱點資料(新版)",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-09-16 05:27:01",
-                "timeEnd": 1505510821,
+                "metadata_modified": "2017-09-17 05:27:01",
+                "timeEnd": 1505597221,
                 "timeBegin": 1372348800,
                 "resources": {
                     "b087af42-2c54-4dbf-86c8-427d788779e5": {
                         "id": "b087af42-2c54-4dbf-86c8-427d788779e5",
                         "name": "freeWifi.xml",
-                        "created": "2017-09-16 05:27:01",
-                        "last_modified": "2017-09-16T05:27:01"
+                        "created": "2017-09-17 05:27:01",
+                        "last_modified": "2017-09-17T05:27:01"
                     }
                 },
                 "counters": {
@@ -46578,63 +46578,63 @@
                 "name": "5bc82dc7-f2a2-4351-abc8-c09c8a8d7529",
                 "title": "今日氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-09-16 05:20:44",
-                "timeEnd": 1505510444,
+                "metadata_modified": "2017-09-17 05:21:05",
+                "timeEnd": 1505596865,
                 "timeBegin": 0,
                 "resources": {
                     "1f1aaba5-616a-4a33-867d-878142cac5c4": {
                         "id": "1f1aaba5-616a-4a33-867d-878142cac5c4",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:19:02",
-                        "last_modified": "2017-09-16T05:19:02"
+                        "created": "2017-09-17 05:19:06",
+                        "last_modified": "2017-09-17T05:19:06"
                     },
                     "c3667669-39f8-4b82-bad9-f0f7ca859bf0": {
                         "id": "c3667669-39f8-4b82-bad9-f0f7ca859bf0",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:19:04",
-                        "last_modified": "2017-09-16T05:19:04"
+                        "created": "2017-09-17 05:19:31",
+                        "last_modified": "2017-09-17T05:19:31"
                     },
                     "c73a9461-91c8-4e5c-b728-86b6feb24ffb": {
                         "id": "c73a9461-91c8-4e5c-b728-86b6feb24ffb",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:19:20",
-                        "last_modified": "2017-09-16T05:19:20"
+                        "created": "2017-09-17 05:19:44",
+                        "last_modified": "2017-09-17T05:19:44"
                     },
                     "5e5f1d9a-cc42-482d-be4e-6223f4931977": {
                         "id": "5e5f1d9a-cc42-482d-be4e-6223f4931977",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:19:35",
-                        "last_modified": "2017-09-16T05:19:35"
+                        "created": "2017-09-17 05:19:59",
+                        "last_modified": "2017-09-17T05:19:59"
                     },
                     "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd": {
                         "id": "49c22e13-85e8-46fa-b8e7-c2bb7d4832dd",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:19:47",
-                        "last_modified": "2017-09-16T05:19:47"
+                        "created": "2017-09-17 05:20:12",
+                        "last_modified": "2017-09-17T05:20:12"
                     },
                     "b35f6ac9-6d99-492a-8773-bee73656c27b": {
                         "id": "b35f6ac9-6d99-492a-8773-bee73656c27b",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:20:01",
-                        "last_modified": "2017-09-16T05:20:01"
+                        "created": "2017-09-17 05:20:25",
+                        "last_modified": "2017-09-17T05:20:25"
                     },
                     "00fcb626-9296-4ae1-9c87-f019871755c8": {
                         "id": "00fcb626-9296-4ae1-9c87-f019871755c8",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:20:19",
-                        "last_modified": "2017-09-16T05:20:19"
+                        "created": "2017-09-17 05:20:41",
+                        "last_modified": "2017-09-17T05:20:41"
                     },
                     "7803b298-fdca-4ccc-993f-88ba97ec3c4d": {
                         "id": "7803b298-fdca-4ccc-993f-88ba97ec3c4d",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:20:32",
-                        "last_modified": "2017-09-16T05:20:32"
+                        "created": "2017-09-17 05:20:53",
+                        "last_modified": "2017-09-17T05:20:53"
                     },
                     "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570": {
                         "id": "8ee2166f-7b71-4be3-b6f4-6db1f8d0e570",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:20:44",
-                        "last_modified": "2017-09-16T05:20:44"
+                        "created": "2017-09-17 05:21:04",
+                        "last_modified": "2017-09-17T05:21:04"
                     }
                 },
                 "counters": {
@@ -46646,15 +46646,15 @@
                 "name": "bceb2963-d2dd-4f2d-929c-67c1c0d48667",
                 "title": "一週氣象資訊",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-09-16 05:19:00",
-                "timeEnd": 1505510340,
+                "metadata_modified": "2017-09-17 05:19:00",
+                "timeEnd": 1505596740,
                 "timeBegin": 0,
                 "resources": {
                     "e6831708-02b4-4ef8-98fa-4b4ce53459d9": {
                         "id": "e6831708-02b4-4ef8-98fa-4b4ce53459d9",
                         "name": "weatherReport1.xml",
-                        "created": "2017-09-16 05:19:00",
-                        "last_modified": "2017-09-16T05:19:00"
+                        "created": "2017-09-17 05:19:00",
+                        "last_modified": "2017-09-17T05:19:00"
                     }
                 },
                 "counters": {
@@ -48251,15 +48251,15 @@
                 "name": "9ebdd4b8-c211-4d28-b99d-f73a34d13867",
                 "title": "翡翠水庫水情資料",
                 "organization_id": "379550000G",
-                "metadata_modified": "2017-09-16 05:30:00",
-                "timeEnd": 1505511000,
+                "metadata_modified": "2017-09-17 05:30:00",
+                "timeEnd": 1505597400,
                 "timeBegin": 0,
                 "resources": {
                     "236f6133-e148-4bbe-adc4-efeee4ac6096": {
                         "id": "236f6133-e148-4bbe-adc4-efeee4ac6096",
                         "name": "feitsuiWater.xml",
-                        "created": "2017-09-16 05:30:00",
-                        "last_modified": "2017-09-16T05:30:00"
+                        "created": "2017-09-17 05:30:00",
+                        "last_modified": "2017-09-17T05:30:00"
                     }
                 },
                 "counters": {
@@ -48814,15 +48814,15 @@
                 "name": "961ca397-4a59-45e8-b312-697f26b059dc",
                 "title": "臺北市水質監測資訊",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-09-16 05:19:00",
-                "timeEnd": 1505510340,
+                "metadata_modified": "2017-09-17 05:19:00",
+                "timeEnd": 1505596740,
                 "timeBegin": 1398268800,
                 "resources": {
                     "190796c8-7c56-42e0-8068-39242b8ec927": {
                         "id": "190796c8-7c56-42e0-8068-39242b8ec927",
                         "name": "waterQuality.xml",
-                        "created": "2017-09-16 05:19:00",
-                        "last_modified": "2017-09-16T05:19:00"
+                        "created": "2017-09-17 05:19:00",
+                        "last_modified": "2017-09-17T05:19:00"
                     },
                     "1e9b4316-fa39-4707-aebd-f239b4f64b2f": {
                         "id": "1e9b4316-fa39-4707-aebd-f239b4f64b2f",
@@ -49284,5 +49284,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1505511251
+    "time_generated": 1505597608
 }
