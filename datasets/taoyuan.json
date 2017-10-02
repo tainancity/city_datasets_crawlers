@@ -3947,7 +3947,7 @@
     },
     "桃園市政府原住民族行政局": {
         "counters": {
-            "datasets": 7,
+            "datasets": 8,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -4035,6 +4035,28 @@
                         "created": "2017-06-15T15:55:17",
                         "webstore_last_updated": null,
                         "last_modified": "2017-06-15T15:55:17"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a0d3fedf-2dcd-421a-a717-bdc840d8d93f": {
+                "name": "a0d3fedf-2dcd-421a-a717-bdc840d8d93f",
+                "title": "106年上半年原住民子女學前教育補助情形",
+                "organization_id": "380440000a",
+                "metadata_created": "2017-10-02T08:38:03.020949",
+                "metadata_modified": "2017-10-02T09:19:55.120931",
+                "timeEnd": 1506935995,
+                "timeBegin": 1506904683,
+                "resources": {
+                    "55a26249-669e-43c9-8586-832e4f044827": {
+                        "id": "55a26249-669e-43c9-8586-832e4f044827",
+                        "name": "106年上半年桃園市原住民子女學前教育補助情形.csv",
+                        "created": "2017-10-02T17:19:55.163285",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-02T17:19:55"
                     }
                 },
                 "counters": {
@@ -13821,8 +13843,8 @@
                 "title": "桃園污水下水道系統-管線工程及用戶接管工程施工位置",
                 "organization_id": "380250000g",
                 "metadata_created": "2017-08-22T02:31:37.865016",
-                "metadata_modified": "2017-08-22T02:43:22.983911",
-                "timeEnd": 1503369440,
+                "metadata_modified": "2017-10-02T02:56:22.480417",
+                "timeEnd": 1506884182,
                 "timeBegin": 1503340297,
                 "resources": {
                     "ed4adf58-edb2-4edb-a06f-ea435bec793c": {
@@ -18252,8 +18274,8 @@
                 "title": "桃園市政府消防局人民申請案統計表",
                 "organization_id": "380320000a",
                 "metadata_created": "2016-05-04T03:12:49.480926",
-                "metadata_modified": "2017-09-04T05:31:27.959298",
-                "timeEnd": 1504503088,
+                "metadata_modified": "2017-10-02T05:06:59.260934",
+                "timeEnd": 1506920819,
                 "timeBegin": 1462302769,
                 "resources": {
                     "9fe35965-800b-4bd9-a997-ffdc9827204e": {
@@ -18311,6 +18333,13 @@
                         "created": "2017-09-04T13:31:28.062242",
                         "webstore_last_updated": null,
                         "last_modified": "2017-09-04T13:31:27"
+                    },
+                    "4c78d7da-3aa0-4aff-befc-10594fcf2cb3": {
+                        "id": "4c78d7da-3aa0-4aff-befc-10594fcf2cb3",
+                        "name": "桃園市政府消防局人民申請案統計表10609.csv",
+                        "created": "2017-10-02T13:06:59.332939",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-02T13:06:59"
                     }
                 },
                 "counters": {
@@ -27014,19 +27043,19 @@
             },
             "f4c9d9b7-461d-4677-8f4a-20d5037204b2": {
                 "name": "f4c9d9b7-461d-4677-8f4a-20d5037204b2",
-                "title": "105年桃園市流感暨肺炎鏈球菌疫苗合約醫療院所名冊",
+                "title": "106年桃園市流感疫苗合約醫療院所名冊",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-10-20T07:34:36.742478",
-                "metadata_modified": "2016-10-26T02:25:41.037220",
-                "timeEnd": 1477419941,
+                "metadata_modified": "2017-10-02T11:34:43.613752",
+                "timeEnd": 1506944083,
                 "timeBegin": 1476920076,
                 "resources": {
                     "f8ad0a95-11f8-4af0-afef-38bcadc843ea": {
                         "id": "f8ad0a95-11f8-4af0-afef-38bcadc843ea",
-                        "name": "105年桃園市流感暨肺炎鏈球菌疫苗合約醫療院所名冊-(opendata)(1051014).csv",
-                        "created": "2016-10-20T15:44:24",
+                        "name": "桃園市「106年度流感疫苗接種計畫」合約醫療院所名冊(opendata)-1060930.csv",
+                        "created": "2017-10-02T19:34:43",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-10-20T15:44:24"
+                        "last_modified": "2017-10-02T19:34:43"
                     }
                 },
                 "counters": {
@@ -32147,7 +32176,7 @@
     },
     "桃園市政府財政局": {
         "counters": {
-            "datasets": 7,
+            "datasets": 10,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -32159,14 +32188,14 @@
                 "title": "桃園市實施集中支付支用單位數、支付淨額與可支用庫款餘額",
                 "organization_id": "380030000d",
                 "metadata_created": "2017-09-29T09:14:12.896884",
-                "metadata_modified": "2017-09-29T09:20:57.771698",
-                "timeEnd": 1506676857,
+                "metadata_modified": "2017-10-02T06:46:34.525733",
+                "timeEnd": 1506897994,
                 "timeBegin": 1506647652,
                 "resources": {
                     "4fb8fd50-1796-454a-9d70-170f3f6a3922": {
                         "id": "4fb8fd50-1796-454a-9d70-170f3f6a3922",
                         "name": "桃園市實施集中支付支用單位數、支付淨額與可支用庫款餘額",
-                        "created": "2017-09-29T17:20:57.826191",
+                        "created": "2017-09-29T17:20:57",
                         "webstore_last_updated": null,
                         "last_modified": "2017-09-29T17:20:57"
                     }
@@ -32191,6 +32220,28 @@
                         "created": "2016-12-22T15:16:34",
                         "webstore_last_updated": null,
                         "last_modified": "2016-12-22T15:16:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4a1db767-9f68-4442-85ff-f97278ed8c2a": {
+                "name": "4a1db767-9f68-4442-85ff-f97278ed8c2a",
+                "title": "桃園市實施集中支付通匯(電連)存帳及簽發支票情形",
+                "organization_id": "380030000d",
+                "metadata_created": "2017-10-02T06:03:14.920971",
+                "metadata_modified": "2017-10-02T06:46:55.638256",
+                "timeEnd": 1506924611,
+                "timeBegin": 1506895394,
+                "resources": {
+                    "4dc5894b-4091-4315-b1a8-daaa14c80d5f": {
+                        "id": "4dc5894b-4091-4315-b1a8-daaa14c80d5f",
+                        "name": "桃園市實施集中支付通匯電連存帳及簽發支票情形",
+                        "created": "2017-10-02T14:10:11",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-02T14:10:11"
                     }
                 },
                 "counters": {
@@ -32242,6 +32293,28 @@
                     "resource_recent": 0
                 }
             },
+            "6530bb29-9ad4-47d2-9cab-4debf50230e3": {
+                "name": "6530bb29-9ad4-47d2-9cab-4debf50230e3",
+                "title": "桃園市政府辦理民間參與公共建設已簽約案件統計表",
+                "organization_id": "380030000d",
+                "metadata_created": "2017-10-02T06:26:47.654437",
+                "metadata_modified": "2017-10-02T06:47:26.049895",
+                "timeEnd": 1506926458,
+                "timeBegin": 1506896807,
+                "resources": {
+                    "6b15fa82-c66c-4f28-acd9-8aa7a821d1d9": {
+                        "id": "6b15fa82-c66c-4f28-acd9-8aa7a821d1d9",
+                        "name": "桃園市政府辦理民間參與公共建設已簽約案件統計表",
+                        "created": "2017-10-02T14:40:58",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-02T14:40:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "fbedbb09-b62d-4182-b25a-4f639d7cf8ae": {
                 "name": "77ac2d9e-8bbd-4df2-a2eb-4a1302601f05",
                 "title": "桃園市信用合作社分布",
@@ -32279,6 +32352,28 @@
                         "created": "2017-07-27T15:35:35",
                         "webstore_last_updated": null,
                         "last_modified": "2017-07-27T15:35:35"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "bbebc8ab-8372-49e0-b202-7af9b497e4a9": {
+                "name": "bbebc8ab-8372-49e0-b202-7af9b497e4a9",
+                "title": "桃園市政府辦理民間參與公共建設前置作業階段案件統計表",
+                "organization_id": "380030000d",
+                "metadata_created": "2017-10-02T06:17:58.716015",
+                "metadata_modified": "2017-10-02T06:47:11.899091",
+                "timeEnd": 1506926426,
+                "timeBegin": 1506896278,
+                "resources": {
+                    "116aba3b-8e02-4a8b-93b8-c7d037ae9cda": {
+                        "id": "116aba3b-8e02-4a8b-93b8-c7d037ae9cda",
+                        "name": "桃園市政府辦理民間參與公共建設前置作業階段案件統計表",
+                        "created": "2017-10-02T14:40:26",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-02T14:40:26"
                     }
                 },
                 "counters": {
@@ -36926,5 +37021,5 @@
             }
         }
     },
-    "time_generated": 1506893570
+    "time_generated": 1506979975
 }
