@@ -23284,35 +23284,13 @@
     },
     "桃園市政府秘書處": {
         "counters": {
-            "datasets": 5,
+            "datasets": 4,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
-            "8073e28e-d65a-473c-848c-96f3c936105b": {
-                "name": "15c6484d-66da-465e-8b8b-3c9f92458b16",
-                "title": "桃園市締盟城市締結資料",
-                "organization_id": "380010000a",
-                "metadata_created": "2015-10-06T03:18:35.203453",
-                "metadata_modified": "2017-05-17T10:14:28.982481",
-                "timeEnd": 1495016038,
-                "timeBegin": 1444072715,
-                "resources": {
-                    "289b584a-a51d-48f8-916e-4cdb9797afc1": {
-                        "id": "289b584a-a51d-48f8-916e-4cdb9797afc1",
-                        "name": "桃園市締盟城市締結資料.csv",
-                        "created": "2017-05-17T18:13:58",
-                        "webstore_last_updated": null,
-                        "last_modified": "2017-05-17T18:13:58"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "a4b1ef04-cc60-420f-a55f-73a687683963": {
                 "name": "1777d3c4-4654-4bfd-8294-5ab8c975bb88",
                 "title": "桃園市政府辦公大樓導覽",
@@ -23405,7 +23383,7 @@
     },
     "桃園市政府經濟發展局": {
         "counters": {
-            "datasets": 43,
+            "datasets": 44,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -24230,6 +24208,28 @@
                 "timeEnd": 1480046175,
                 "timeBegin": 1480046174,
                 "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "97812660-4b05-464a-88ad-b3ccbd40ddf4": {
+                "name": "97812660-4b05-464a-88ad-b3ccbd40ddf4",
+                "title": "公有市場委託經營資訊",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-10-19T07:54:09.553762",
+                "metadata_modified": "2017-10-19T07:54:40.981910",
+                "timeEnd": 1508399681,
+                "timeBegin": 1508370849,
+                "resources": {
+                    "629bc209-a627-4d8a-b53f-b14f48d818b8": {
+                        "id": "629bc209-a627-4d8a-b53f-b14f48d818b8",
+                        "name": "公有市場委託經營資訊.csv",
+                        "created": "2017-10-19T15:54:41.015317",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-19T15:54:40"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -37873,16 +37873,16 @@
                 "title": "每日大宗蔬果行情價格表",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-15T00:23:38.599280",
-                "metadata_modified": "2017-10-11T02:36:32.295849",
-                "timeEnd": 1507680496,
+                "metadata_modified": "2017-10-19T00:01:36.589355",
+                "timeEnd": 1508371296,
                 "timeBegin": 1487089418,
                 "resources": {
-                    "35c18c8a-991f-4013-9db1-e9a60ec57a61": {
-                        "id": "35c18c8a-991f-4013-9db1-e9a60ec57a61",
+                    "54f0362a-2fac-46ab-9fae-2d9b04958aaa": {
+                        "id": "54f0362a-2fac-46ab-9fae-2d9b04958aaa",
                         "name": "每日大宗蔬果行情價格表.csv",
-                        "created": "2017-10-11T08:08:16.319845",
+                        "created": "2017-10-19T08:01:36.791582",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-10-11T08:08:15"
+                        "last_modified": "2017-10-19T08:01:36"
                     }
                 },
                 "counters": {
@@ -37959,8 +37959,8 @@
                 "title": "每日蔬果農藥殘毒快速檢驗結果",
                 "organization_id": "b57eeabc-007a-4e4b-b1fc-22f2d06b8f0c",
                 "metadata_created": "2017-02-03T00:41:57.606635",
-                "metadata_modified": "2017-10-11T00:08:45.182604",
-                "timeEnd": 1507680525,
+                "metadata_modified": "2017-10-19T00:01:08.435495",
+                "timeEnd": 1508371268,
                 "timeBegin": 1486053717,
                 "resources": {
                     "125d2b59-73d8-499d-af0d-009bb3a10bbe": {
@@ -37970,12 +37970,12 @@
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-10T07:15:52"
                     },
-                    "995d04c0-e707-4ac8-96f2-763fbcdb7fd4": {
-                        "id": "995d04c0-e707-4ac8-96f2-763fbcdb7fd4",
+                    "8462999e-41f8-427e-a1cb-ee74259efa8c": {
+                        "id": "8462999e-41f8-427e-a1cb-ee74259efa8c",
                         "name": "每日蔬果農藥殘留農藥檢測結果.csv",
-                        "created": "2017-10-11T08:08:45.351613",
+                        "created": "2017-10-19T08:01:08.806670",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-10-11T08:08:45"
+                        "last_modified": "2017-10-19T08:01:08"
                     }
                 },
                 "counters": {
@@ -37985,5 +37985,5 @@
             }
         }
     },
-    "time_generated": 1508362419
+    "time_generated": 1508448822
 }
