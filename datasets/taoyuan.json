@@ -4544,7 +4544,7 @@
     },
     "桃園市政府地政局": {
         "counters": {
-            "datasets": 125,
+            "datasets": 126,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -4657,16 +4657,23 @@
                 "title": "105年桃園市中壢區土地公告現值及公告地價",
                 "organization_id": "380160000a",
                 "metadata_created": "2016-01-18T15:48:10.668981",
-                "metadata_modified": "2016-01-19T10:52:10.499636",
-                "timeEnd": 1453200315,
+                "metadata_modified": "2017-10-31T05:14:57.409692",
+                "timeEnd": 1509426677,
                 "timeBegin": 1453103290,
                 "resources": {
-                    "7f94a0f9-7878-4736-8086-7b3d5344f834": {
-                        "id": "7f94a0f9-7878-4736-8086-7b3d5344f834",
-                        "name": "105年桃園市中壢區土地公告現值及公告地價",
-                        "created": "2016-01-19T18:45:15.293658",
+                    "5835cf46-a6dd-4ca6-8f7a-a389c50f8864": {
+                        "id": "5835cf46-a6dd-4ca6-8f7a-a389c50f8864",
+                        "name": "中壢區.csv",
+                        "created": "2017-10-31T11:15:50",
                         "webstore_last_updated": null,
-                        "last_modified": "2016-01-19T18:44:52"
+                        "last_modified": "2017-10-31T11:15:49"
+                    },
+                    "a9735de1-df11-4b20-a228-3edc1d24dc69": {
+                        "id": "a9735de1-df11-4b20-a228-3edc1d24dc69",
+                        "name": "105年桃園市中壢區土地公告現值及公告地價",
+                        "created": "2017-10-31T13:11:17",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-31T13:11:16"
                     }
                 },
                 "counters": {
@@ -6478,6 +6485,28 @@
                         "created": "2017-04-28T15:18:48",
                         "webstore_last_updated": null,
                         "last_modified": "2017-04-28T15:18:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6f301f08-2fe8-4066-92e7-0de8b30ccab8": {
+                "name": "6f301f08-2fe8-4066-92e7-0de8b30ccab8",
+                "title": "地籍測量專業資格認證",
+                "organization_id": "380160000a",
+                "metadata_created": "2017-10-31T05:31:13.686220",
+                "metadata_modified": "2017-10-31T07:42:53.506097",
+                "timeEnd": 1509428375,
+                "timeBegin": 1509399073,
+                "resources": {
+                    "2d55c4e1-5494-4994-92e7-8f503ce093ca": {
+                        "id": "2d55c4e1-5494-4994-92e7-8f503ce093ca",
+                        "name": "地籍測量專業資格認證統計表UTF.csv",
+                        "created": "2017-10-31T13:39:35",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-10-31T13:39:35"
                     }
                 },
                 "counters": {
@@ -25035,8 +25064,8 @@
                 "title": "桃園市登革熱確診個案分布",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-12T01:57:16.097596",
-                "metadata_modified": "2017-10-17T07:12:14.836183",
-                "timeEnd": 1508224334,
+                "metadata_modified": "2017-10-31T03:54:56.691630",
+                "timeEnd": 1509422096,
                 "timeBegin": 1470938236,
                 "resources": {
                     "04606196-26f9-4e50-b33e-0ad664201604": {
@@ -25049,9 +25078,9 @@
                     "4c9388bf-8875-408f-849e-c482f7149683": {
                         "id": "4c9388bf-8875-408f-849e-c482f7149683",
                         "name": "106年登革熱確診個案.csv",
-                        "created": "2017-10-17T15:12:14.879574",
+                        "created": "2017-10-31T11:54:56",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-10-17T15:12:14"
+                        "last_modified": "2017-10-31T11:54:56"
                     }
                 },
                 "counters": {
@@ -27893,8 +27922,8 @@
                 "title": "桃園市病媒蚊密度調查結果",
                 "organization_id": "380140000i",
                 "metadata_created": "2016-08-22T10:18:04.326566",
-                "metadata_modified": "2017-10-17T08:36:52.835554",
-                "timeEnd": 1508229412,
+                "metadata_modified": "2017-10-31T10:48:57.186474",
+                "timeEnd": 1509446937,
                 "timeBegin": 1471832284,
                 "resources": {
                     "ed45eb28-8e29-4407-b435-929f99bec1e1": {
@@ -27907,9 +27936,9 @@
                     "257cd0a3-1180-4030-9243-94c858585e0d": {
                         "id": "257cd0a3-1180-4030-9243-94c858585e0d",
                         "name": "106年桃園市病媒蚊密度調查結果.csv",
-                        "created": "2017-10-17T16:36:52.883753",
+                        "created": "2017-10-31T18:48:57",
                         "webstore_last_updated": null,
-                        "last_modified": "2017-10-17T16:36:52"
+                        "last_modified": "2017-10-31T18:48:57"
                     }
                 },
                 "counters": {
@@ -38232,5 +38261,5 @@
             }
         }
     },
-    "time_generated": 1509399210
+    "time_generated": 1509485615
 }
