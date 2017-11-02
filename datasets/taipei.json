@@ -185,15 +185,15 @@
                 "name": "6556e1e8-c908-42d5-b984-b3f7337b139b",
                 "title": "臺北捷運列車到站站名",
                 "organization_id": "379620000M",
-                "metadata_modified": "2017-11-02 05:33:27",
-                "timeEnd": 1509572007,
+                "metadata_modified": "2017-11-03 05:32:59",
+                "timeEnd": 1509658379,
                 "timeBegin": 1435593600,
                 "resources": {
                     "55ec6d6e-dc5c-4268-a725-d04cc262172b": {
                         "id": "55ec6d6e-dc5c-4268-a725-d04cc262172b",
                         "name": "apiIn.json",
-                        "created": "2017-11-02 05:33:27",
-                        "last_modified": "2017-11-02T05:33:27"
+                        "created": "2017-11-03 05:32:59",
+                        "last_modified": "2017-11-03T05:32:59"
                     }
                 },
                 "counters": {
@@ -5279,6 +5279,246 @@
     },
     "臺北市政府交通局": {
         "datasets": {
+            "89202d05-0e3e-4781-a04f-45327bf12b30": {
+                "name": "89202d05-0e3e-4781-a04f-45327bf12b30",
+                "title": "臺北市市區自行車道",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:41:42",
+                "timeEnd": 1509619302,
+                "timeBegin": 1326384000,
+                "resources": {
+                    "3ef02fb3-c7e7-41d7-b96d-3a5c669f7cbd": {
+                        "id": "3ef02fb3-c7e7-41d7-b96d-3a5c669f7cbd",
+                        "name": "自行車道.zip",
+                        "created": "2017-11-02 18:41:41",
+                        "last_modified": "2017-11-02T18:41:41"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0b033882-6bff-4f63-a5d9-24e56b4555df": {
+                "name": "0b033882-6bff-4f63-a5d9-24e56b4555df",
+                "title": "臺北市機車優先道",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:41:35",
+                "timeEnd": 1509619295,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "a84647b6-3297-4c8d-bd82-49186f3e1616": {
+                        "id": "a84647b6-3297-4c8d-bd82-49186f3e1616",
+                        "name": "機車優先道.zip",
+                        "created": "2017-11-02 18:41:34",
+                        "last_modified": "2017-11-02T18:41:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "baf32b58-b194-448d-96a0-ba04013d164f": {
+                "name": "baf32b58-b194-448d-96a0-ba04013d164f",
+                "title": "臺北市交通管制工程處無障礙設施設置資料",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:41:27",
+                "timeEnd": 1509619287,
+                "timeBegin": 1433433600,
+                "resources": {
+                    "1c18341c-9f6f-4b6b-b17f-8c66b94e39a0": {
+                        "id": "1c18341c-9f6f-4b6b-b17f-8c66b94e39a0",
+                        "name": "有聲號誌設置地點.zip",
+                        "created": "2017-11-02 18:41:27",
+                        "last_modified": "2017-11-02T18:41:27"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6778e40b-c41b-49c0-9d0a-637e22211829": {
+                "name": "6778e40b-c41b-49c0-9d0a-637e22211829",
+                "title": "臺北市機車專用道",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:41:21",
+                "timeEnd": 1509619281,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "42b84b9a-9eda-4262-a533-dfe7e01ee843": {
+                        "id": "42b84b9a-9eda-4262-a533-dfe7e01ee843",
+                        "name": "機車專用道.zip",
+                        "created": "2017-11-02 18:41:20",
+                        "last_modified": "2017-11-02T18:41:20"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "50a5c4ec-9515-4c30-b83f-30b66e37053d": {
+                "name": "50a5c4ec-9515-4c30-b83f-30b66e37053d",
+                "title": "臺北市CCTV設施",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:41:14",
+                "timeEnd": 1509619274,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "aeaabd8f-40a5-4957-8305-b2144526d4b1": {
+                        "id": "aeaabd8f-40a5-4957-8305-b2144526d4b1",
+                        "name": "CCTV.zip",
+                        "created": "2017-11-02 18:41:14",
+                        "last_modified": "2017-11-02T18:41:14"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "af2976bd-3eea-42d5-9cb0-18798a457d34": {
+                "name": "af2976bd-3eea-42d5-9cb0-18798a457d34",
+                "title": "臺北市調撥車道",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:41:07",
+                "timeEnd": 1509619267,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "47798eb7-3863-49f0-b360-71af5728083a": {
+                        "id": "47798eb7-3863-49f0-b360-71af5728083a",
+                        "name": "調撥車道.zip",
+                        "created": "2017-11-02 18:41:07",
+                        "last_modified": "2017-11-02T18:41:07"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "ba35cc86-d2b7-4367-ab26-d0032967050f": {
+                "name": "ba35cc86-d2b7-4367-ab26-d0032967050f",
+                "title": "市區道路速限表",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:40:33",
+                "timeEnd": 1509619233,
+                "timeBegin": 1481558400,
+                "resources": {
+                    "74aad8f6-7f90-40b7-b476-053ece085460": {
+                        "id": "74aad8f6-7f90-40b7-b476-053ece085460",
+                        "name": "市區道路速限表.ods",
+                        "created": "2017-11-02 18:40:32",
+                        "last_modified": "2017-11-02T18:40:32"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "733872cf-f931-4d27-aba7-f01d7c271bdc": {
+                "name": "733872cf-f931-4d27-aba7-f01d7c271bdc",
+                "title": "臺北市行人專用時相路口及時段",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 18:39:48",
+                "timeEnd": 1509619188,
+                "timeBegin": 1325606400,
+                "resources": {
+                    "637df73c-6c11-49ae-825f-fd27f2d222c1": {
+                        "id": "637df73c-6c11-49ae-825f-fd27f2d222c1",
+                        "name": "行人時相號誌.zip",
+                        "created": "2017-11-02 18:39:47",
+                        "last_modified": "2017-11-02T18:39:47"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc": {
+                "name": "0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc",
+                "title": "臺北市肇事路口",
+                "organization_id": "379530000H",
+                "metadata_modified": "2017-11-02 15:06:34",
+                "timeEnd": 1509606394,
+                "timeBegin": 1349193600,
+                "resources": {
+                    "1262b7ec-ab34-4b71-83fb-c7ee75880f3f": {
+                        "id": "1262b7ec-ab34-4b71-83fb-c7ee75880f3f",
+                        "name": "臺北市肇事路口 .csv",
+                        "created": "2014-12-31 11:46:21",
+                        "last_modified": "2014-12-31T11:46:21.000541"
+                    },
+                    "8c0e3030-fe0f-415f-82c3-3fa7b36a6452": {
+                        "id": "8c0e3030-fe0f-415f-82c3-3fa7b36a6452",
+                        "name": "104年度第二季50大事故路口.txt",
+                        "created": "2016-01-05 09:06:56",
+                        "last_modified": "2016-01-05T09:06:56"
+                    },
+                    "6edcfc98-9993-4a9f-baeb-153db4f8aae3": {
+                        "id": "6edcfc98-9993-4a9f-baeb-153db4f8aae3",
+                        "name": "104年度第三季50大事故路口排行.txt",
+                        "created": "2016-01-05 09:06:40",
+                        "last_modified": "2016-01-05T09:06:40"
+                    },
+                    "168bbf36-bd83-45fd-b263-0a1a48206c82": {
+                        "id": "168bbf36-bd83-45fd-b263-0a1a48206c82",
+                        "name": "104年度第四季50大事故路口.txt",
+                        "created": "2016-04-13 17:52:50",
+                        "last_modified": "2016-04-13T17:52:50"
+                    },
+                    "b073abd8-b0ec-42ba-907a-5101db4dc5d6": {
+                        "id": "b073abd8-b0ec-42ba-907a-5101db4dc5d6",
+                        "name": "105年度第一季50大事故路口.txt",
+                        "created": "2016-09-01 13:53:48",
+                        "last_modified": "2016-09-01T13:53:48"
+                    },
+                    "24ac154c-1efa-4b56-a8be-4f9251270b7a": {
+                        "id": "24ac154c-1efa-4b56-a8be-4f9251270b7a",
+                        "name": "105年第二季50大路口.ods",
+                        "created": "2017-02-06 13:43:36",
+                        "last_modified": "2017-02-06T13:43:36"
+                    },
+                    "68fb1d14-c15a-480b-9d5d-b1936a83be63": {
+                        "id": "68fb1d14-c15a-480b-9d5d-b1936a83be63",
+                        "name": "105年第三季50大路口.ods",
+                        "created": "2017-02-06 13:44:06",
+                        "last_modified": "2017-02-06T13:44:06"
+                    },
+                    "71ef61e3-fee8-4b1b-8f38-752b5fbbf131": {
+                        "id": "71ef61e3-fee8-4b1b-8f38-752b5fbbf131",
+                        "name": "105年第四季50大路口.txt",
+                        "created": "2017-05-09 13:39:37",
+                        "last_modified": "2017-05-09T13:39:37"
+                    },
+                    "27715eba-db5f-4b97-8958-cf5fa54246d9": {
+                        "id": "27715eba-db5f-4b97-8958-cf5fa54246d9",
+                        "name": "106年度第一季50大事故路口.ods",
+                        "created": "2017-07-05 14:36:38",
+                        "last_modified": "2017-07-05T14:36:38"
+                    },
+                    "20f1a8d6-03ff-4ed7-95bc-a26960c20ec0": {
+                        "id": "20f1a8d6-03ff-4ed7-95bc-a26960c20ec0",
+                        "name": "106第二季50大路口.ods",
+                        "created": "2017-08-11 08:28:45",
+                        "last_modified": "2017-08-11T08:28:45"
+                    },
+                    "02d7d973-de9b-44a2-bf06-95bfb4e05478": {
+                        "id": "02d7d973-de9b-44a2-bf06-95bfb4e05478",
+                        "name": "106年度第三季50大事故路口.ods",
+                        "created": "2017-11-02 15:05:44",
+                        "last_modified": "2017-11-02T15:05:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "f0a32701-d708-4dd7-beb1-9450b4e5eb8e": {
                 "name": "f0a32701-d708-4dd7-beb1-9450b4e5eb8e",
                 "title": "臺北市公車專用道",
@@ -5403,26 +5643,6 @@
                     "resource_recent": 0
                 }
             },
-            "733872cf-f931-4d27-aba7-f01d7c271bdc": {
-                "name": "733872cf-f931-4d27-aba7-f01d7c271bdc",
-                "title": "臺北市行人專用時相路口及時段",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-02 17:09:29",
-                "timeEnd": 1506935392,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "637df73c-6c11-49ae-825f-fd27f2d222c1": {
-                        "id": "637df73c-6c11-49ae-825f-fd27f2d222c1",
-                        "name": "行人時相號誌.zip",
-                        "created": "2017-10-02 17:09:52",
-                        "last_modified": "2017-10-02T17:09:52"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "a9c282c5-3a43-41ed-badc-f9c1bdf1cc34": {
                 "name": "a9c282c5-3a43-41ed-badc-f9c1bdf1cc34",
                 "title": "臺北市禁停紅黃線路段分布圖",
@@ -5436,26 +5656,6 @@
                         "name": "臺北市禁停紅黃線路段分布圖",
                         "created": "2017-09-14 15:46:06",
                         "last_modified": "2017-09-14T15:46:06"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "ba35cc86-d2b7-4367-ab26-d0032967050f": {
-                "name": "ba35cc86-d2b7-4367-ab26-d0032967050f",
-                "title": "市區道路速限表",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-01 18:13:53",
-                "timeEnd": 1506852855,
-                "timeBegin": 1481558400,
-                "resources": {
-                    "74aad8f6-7f90-40b7-b476-053ece085460": {
-                        "id": "74aad8f6-7f90-40b7-b476-053ece085460",
-                        "name": "市區道路速限表.ods",
-                        "created": "2017-10-01 18:14:15",
-                        "last_modified": "2017-10-01T18:14:15"
                     }
                 },
                 "counters": {
@@ -5516,126 +5716,6 @@
                         "name": "資訊可變標誌(CMS)顯示內容",
                         "created": "2017-07-26 19:03:03",
                         "last_modified": "2017-07-26T19:03:03"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "af2976bd-3eea-42d5-9cb0-18798a457d34": {
-                "name": "af2976bd-3eea-42d5-9cb0-18798a457d34",
-                "title": "臺北市調撥車道",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-01 17:26:52",
-                "timeEnd": 1506850034,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "47798eb7-3863-49f0-b360-71af5728083a": {
-                        "id": "47798eb7-3863-49f0-b360-71af5728083a",
-                        "name": "調撥車道.zip",
-                        "created": "2017-10-01 17:27:14",
-                        "last_modified": "2017-10-01T17:27:14"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "50a5c4ec-9515-4c30-b83f-30b66e37053d": {
-                "name": "50a5c4ec-9515-4c30-b83f-30b66e37053d",
-                "title": "臺北市CCTV設施",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-01 17:24:19",
-                "timeEnd": 1506849881,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "aeaabd8f-40a5-4957-8305-b2144526d4b1": {
-                        "id": "aeaabd8f-40a5-4957-8305-b2144526d4b1",
-                        "name": "CCTV.zip",
-                        "created": "2017-10-01 17:24:41",
-                        "last_modified": "2017-10-01T17:24:41"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "6778e40b-c41b-49c0-9d0a-637e22211829": {
-                "name": "6778e40b-c41b-49c0-9d0a-637e22211829",
-                "title": "臺北市機車專用道",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-01 17:24:10",
-                "timeEnd": 1506849872,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "42b84b9a-9eda-4262-a533-dfe7e01ee843": {
-                        "id": "42b84b9a-9eda-4262-a533-dfe7e01ee843",
-                        "name": "機車專用道.zip",
-                        "created": "2017-10-01 17:24:32",
-                        "last_modified": "2017-10-01T17:24:32"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "baf32b58-b194-448d-96a0-ba04013d164f": {
-                "name": "baf32b58-b194-448d-96a0-ba04013d164f",
-                "title": "臺北市交通管制工程處無障礙設施設置資料",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-01 17:17:06",
-                "timeEnd": 1506849448,
-                "timeBegin": 1433433600,
-                "resources": {
-                    "1c18341c-9f6f-4b6b-b17f-8c66b94e39a0": {
-                        "id": "1c18341c-9f6f-4b6b-b17f-8c66b94e39a0",
-                        "name": "有聲號誌設置地點.zip",
-                        "created": "2017-10-01 17:17:28",
-                        "last_modified": "2017-10-01T17:17:28"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "0b033882-6bff-4f63-a5d9-24e56b4555df": {
-                "name": "0b033882-6bff-4f63-a5d9-24e56b4555df",
-                "title": "臺北市機車優先道",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-01 17:14:04",
-                "timeEnd": 1506849244,
-                "timeBegin": 1325606400,
-                "resources": {
-                    "a84647b6-3297-4c8d-bd82-49186f3e1616": {
-                        "id": "a84647b6-3297-4c8d-bd82-49186f3e1616",
-                        "name": "機車優先道.zip",
-                        "created": "2017-10-01 17:06:54",
-                        "last_modified": "2017-10-01T17:06:54"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "89202d05-0e3e-4781-a04f-45327bf12b30": {
-                "name": "89202d05-0e3e-4781-a04f-45327bf12b30",
-                "title": "臺北市市區自行車道",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-10-01 17:13:02",
-                "timeEnd": 1506849182,
-                "timeBegin": 1326384000,
-                "resources": {
-                    "3ef02fb3-c7e7-41d7-b96d-3a5c669f7cbd": {
-                        "id": "3ef02fb3-c7e7-41d7-b96d-3a5c669f7cbd",
-                        "name": "自行車道.zip",
-                        "created": "2017-10-01 17:06:42",
-                        "last_modified": "2017-10-01T17:06:42"
                     }
                 },
                 "counters": {
@@ -6008,86 +6088,6 @@
                         "name": "定點車機資訊",
                         "created": "2017-09-01 11:03:28",
                         "last_modified": "2017-09-01T11:03:28"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc": {
-                "name": "0b8ff24b-2c7a-4365-8ed2-7b10bae60ebc",
-                "title": "臺北市肇事路口",
-                "organization_id": "379530000H",
-                "metadata_modified": "2017-08-11 08:28:47",
-                "timeEnd": 1502411327,
-                "timeBegin": 1349193600,
-                "resources": {
-                    "1262b7ec-ab34-4b71-83fb-c7ee75880f3f": {
-                        "id": "1262b7ec-ab34-4b71-83fb-c7ee75880f3f",
-                        "name": "臺北市肇事路口 .csv",
-                        "created": "2014-12-31 11:46:21",
-                        "last_modified": "2014-12-31T11:46:21.000541"
-                    },
-                    "8c0e3030-fe0f-415f-82c3-3fa7b36a6452": {
-                        "id": "8c0e3030-fe0f-415f-82c3-3fa7b36a6452",
-                        "name": "104年度第二季50大事故路口.txt",
-                        "created": "2016-01-05 09:06:56",
-                        "last_modified": "2016-01-05T09:06:56"
-                    },
-                    "6edcfc98-9993-4a9f-baeb-153db4f8aae3": {
-                        "id": "6edcfc98-9993-4a9f-baeb-153db4f8aae3",
-                        "name": "104年度第三季50大事故路口排行.txt",
-                        "created": "2016-01-05 09:06:40",
-                        "last_modified": "2016-01-05T09:06:40"
-                    },
-                    "168bbf36-bd83-45fd-b263-0a1a48206c82": {
-                        "id": "168bbf36-bd83-45fd-b263-0a1a48206c82",
-                        "name": "104年度第四季50大事故路口.txt",
-                        "created": "2016-04-13 17:52:50",
-                        "last_modified": "2016-04-13T17:52:50"
-                    },
-                    "b073abd8-b0ec-42ba-907a-5101db4dc5d6": {
-                        "id": "b073abd8-b0ec-42ba-907a-5101db4dc5d6",
-                        "name": "105年度第一季50大事故路口.txt",
-                        "created": "2016-09-01 13:53:48",
-                        "last_modified": "2016-09-01T13:53:48"
-                    },
-                    "24ac154c-1efa-4b56-a8be-4f9251270b7a": {
-                        "id": "24ac154c-1efa-4b56-a8be-4f9251270b7a",
-                        "name": "105年第二季50大路口.ods",
-                        "created": "2017-02-06 13:43:36",
-                        "last_modified": "2017-02-06T13:43:36"
-                    },
-                    "68fb1d14-c15a-480b-9d5d-b1936a83be63": {
-                        "id": "68fb1d14-c15a-480b-9d5d-b1936a83be63",
-                        "name": "105年第三季50大路口.ods",
-                        "created": "2017-02-06 13:44:06",
-                        "last_modified": "2017-02-06T13:44:06"
-                    },
-                    "71ef61e3-fee8-4b1b-8f38-752b5fbbf131": {
-                        "id": "71ef61e3-fee8-4b1b-8f38-752b5fbbf131",
-                        "name": "105年第四季50大路口.txt",
-                        "created": "2017-05-09 13:39:37",
-                        "last_modified": "2017-05-09T13:39:37"
-                    },
-                    "27715eba-db5f-4b97-8958-cf5fa54246d9": {
-                        "id": "27715eba-db5f-4b97-8958-cf5fa54246d9",
-                        "name": "106年度第一季50大事故路口.ods",
-                        "created": "2017-07-05 14:36:38",
-                        "last_modified": "2017-07-05T14:36:38"
-                    },
-                    "2613e6ec-61de-4977-938d-69d95361cdb1": {
-                        "id": "2613e6ec-61de-4977-938d-69d95361cdb1",
-                        "name": "106第二季50大路口.ods",
-                        "created": "2017-08-11 08:28:23",
-                        "last_modified": "2017-08-11T08:28:23"
-                    },
-                    "20f1a8d6-03ff-4ed7-95bc-a26960c20ec0": {
-                        "id": "20f1a8d6-03ff-4ed7-95bc-a26960c20ec0",
-                        "name": "106第二季50大路口.ods",
-                        "created": "2017-08-11 08:28:45",
-                        "last_modified": "2017-08-11T08:28:45"
                     }
                 },
                 "counters": {
@@ -9076,6 +9076,406 @@
     },
     "臺北市政府兵役局": {
         "datasets": {
+            "d078502f-da1c-43d4-bcc9-01055fdc9e75": {
+                "name": "d078502f-da1c-43d4-bcc9-01055fdc9e75",
+                "title": "抽籤人數統計表",
+                "organization_id": "379710000A",
+                "metadata_modified": "2017-11-02 15:43:22",
+                "timeEnd": 1509608602,
+                "timeBegin": 1431964800,
+                "resources": {
+                    "c7e3c8ed-b11e-4ec6-80e5-0480815ce064": {
+                        "id": "c7e3c8ed-b11e-4ec6-80e5-0480815ce064",
+                        "name": "臺北市104年4月份抽籤人數統計表.csv",
+                        "created": "2015-08-08 10:36:19",
+                        "last_modified": "2015-08-08T10:36:19"
+                    },
+                    "d71e7203-66c2-4c2d-89e4-b5d6fa817274": {
+                        "id": "d71e7203-66c2-4c2d-89e4-b5d6fa817274",
+                        "name": "臺北市104年5月份抽籤人數統計表.csv",
+                        "created": "2015-08-08 10:36:50",
+                        "last_modified": "2015-08-08T10:36:50"
+                    },
+                    "ad63b07f-5089-4759-b555-63deb9f6fe8a": {
+                        "id": "ad63b07f-5089-4759-b555-63deb9f6fe8a",
+                        "name": "臺北市104年6月份抽籤人數統計表.csv",
+                        "created": "2015-08-08 10:37:19",
+                        "last_modified": "2015-08-08T10:37:19"
+                    },
+                    "62862f6d-f84c-495a-9772-9c0b1f57bf25": {
+                        "id": "62862f6d-f84c-495a-9772-9c0b1f57bf25",
+                        "name": "臺北市104年7月份抽籤人數統計表.csv",
+                        "created": "2015-08-08 10:37:47",
+                        "last_modified": "2015-08-08T10:37:47"
+                    },
+                    "fe8c3de8-46e0-4524-931b-ac8140a9a852": {
+                        "id": "fe8c3de8-46e0-4524-931b-ac8140a9a852",
+                        "name": "臺北市104年8月份抽籤人數統計表.csv",
+                        "created": "2015-10-02 09:29:28",
+                        "last_modified": "2015-10-02T09:29:28"
+                    },
+                    "c2399d75-806c-487d-9f74-0330e2732d86": {
+                        "id": "c2399d75-806c-487d-9f74-0330e2732d86",
+                        "name": "臺北市104年9月份抽籤人數統計表.csv",
+                        "created": "2015-10-02 09:30:20",
+                        "last_modified": "2015-10-02T09:30:20"
+                    },
+                    "e790594e-a51a-42cd-8bfd-a7d68ea99fd4": {
+                        "id": "e790594e-a51a-42cd-8bfd-a7d68ea99fd4",
+                        "name": "臺北市104年10月份抽籤人數統計表.csv",
+                        "created": "2015-11-02 15:45:33",
+                        "last_modified": "2015-11-02T15:45:33"
+                    },
+                    "14d66100-ff39-4e39-8e7c-b4eef3a2b234": {
+                        "id": "14d66100-ff39-4e39-8e7c-b4eef3a2b234",
+                        "name": "臺北市104年11月份抽籤人數統計表.csv",
+                        "created": "2015-12-08 08:43:17",
+                        "last_modified": "2015-12-08T08:43:17"
+                    },
+                    "09767ee1-c681-46bb-b053-b300cedc800e": {
+                        "id": "09767ee1-c681-46bb-b053-b300cedc800e",
+                        "name": "臺北市104年12月份抽籤人數統計表.csv",
+                        "created": "2016-01-04 15:56:31",
+                        "last_modified": "2016-01-04T15:56:31"
+                    },
+                    "971d0022-7254-491c-b97b-8acd02083e06": {
+                        "id": "971d0022-7254-491c-b97b-8acd02083e06",
+                        "name": "臺北市105年1月份抽籤人數統計表.csv",
+                        "created": "2016-02-03 10:13:09",
+                        "last_modified": "2016-02-03T10:13:09"
+                    },
+                    "f9cd2a15-80a5-4d86-a430-78516a6bb5bb": {
+                        "id": "f9cd2a15-80a5-4d86-a430-78516a6bb5bb",
+                        "name": "臺北市105年2月份抽籤人數統計表.csv",
+                        "created": "2016-03-01 08:22:56",
+                        "last_modified": "2016-03-01T08:22:56"
+                    },
+                    "69aec4d5-3b17-4ba9-b696-a9aa9860fc16": {
+                        "id": "69aec4d5-3b17-4ba9-b696-a9aa9860fc16",
+                        "name": "臺北市105年3月份抽籤人數統計表.csv",
+                        "created": "2016-04-06 12:12:22",
+                        "last_modified": "2016-04-06T12:12:22"
+                    },
+                    "36a29a45-bee5-4719-b33a-1d2d4bf7523a": {
+                        "id": "36a29a45-bee5-4719-b33a-1d2d4bf7523a",
+                        "name": "臺北市105年4月份抽籤人數統計表.csv",
+                        "created": "2016-05-05 13:57:45",
+                        "last_modified": "2016-05-05T13:57:45"
+                    },
+                    "0a093821-4e01-4eef-9596-db0b8bab77a7": {
+                        "id": "0a093821-4e01-4eef-9596-db0b8bab77a7",
+                        "name": "臺北市105年5月份抽籤人數統計表.csv",
+                        "created": "2016-06-04 15:59:42",
+                        "last_modified": "2016-06-04T15:59:42"
+                    },
+                    "df0daddb-6e92-487f-98aa-e8d3c1e1ea49": {
+                        "id": "df0daddb-6e92-487f-98aa-e8d3c1e1ea49",
+                        "name": "臺北市105年6月份抽籤人數統計表.csv",
+                        "created": "2016-07-21 14:02:20",
+                        "last_modified": "2016-07-21T14:02:20"
+                    },
+                    "4c7bbf62-b3b8-4d22-935b-6e3dc7905036": {
+                        "id": "4c7bbf62-b3b8-4d22-935b-6e3dc7905036",
+                        "name": "臺北市105年7月份抽籤人數統計表.csv",
+                        "created": "2016-08-10 08:18:12",
+                        "last_modified": "2016-08-10T08:18:12"
+                    },
+                    "75fc87d2-7b0a-40f8-babf-535c92115053": {
+                        "id": "75fc87d2-7b0a-40f8-babf-535c92115053",
+                        "name": "臺北市105年8月份抽籤人數統計表.csv",
+                        "created": "2016-09-05 08:49:47",
+                        "last_modified": "2016-09-05T08:49:47"
+                    },
+                    "e65721c5-9c4c-40a8-92ce-2b5efb609457": {
+                        "id": "e65721c5-9c4c-40a8-92ce-2b5efb609457",
+                        "name": "臺北市105年9月份抽籤人數統計表.csv",
+                        "created": "2016-10-11 14:46:24",
+                        "last_modified": "2016-10-11T14:46:24"
+                    },
+                    "00215242-b097-4169-9998-f8f0ba44d3f9": {
+                        "id": "00215242-b097-4169-9998-f8f0ba44d3f9",
+                        "name": "臺北市105年10月份抽籤人數統計表.csv",
+                        "created": "2016-11-03 14:32:13",
+                        "last_modified": "2016-11-03T14:32:13"
+                    },
+                    "1c4883c7-6736-4726-acff-a978f5bafb1d": {
+                        "id": "1c4883c7-6736-4726-acff-a978f5bafb1d",
+                        "name": "臺北市105年11月份抽籤人數統計表.csv",
+                        "created": "2016-11-30 09:46:00",
+                        "last_modified": "2016-11-30T09:46:00"
+                    },
+                    "f5b1c078-c41a-444c-91ca-3beb8c5425ff": {
+                        "id": "f5b1c078-c41a-444c-91ca-3beb8c5425ff",
+                        "name": "臺北市105年12月份抽籤人數統計表.csv",
+                        "created": "2017-01-03 08:50:35",
+                        "last_modified": "2017-01-03T08:50:35"
+                    },
+                    "5ab266a9-ccea-43c9-b331-517e1e2c60dc": {
+                        "id": "5ab266a9-ccea-43c9-b331-517e1e2c60dc",
+                        "name": "臺北市106年01月份抽籤人數統計表.csv",
+                        "created": "2017-06-07 09:14:42",
+                        "last_modified": "2017-06-07T09:14:42"
+                    },
+                    "96118012-4b84-4617-9604-7d5400f8fbe6": {
+                        "id": "96118012-4b84-4617-9604-7d5400f8fbe6",
+                        "name": "臺北市106年02月份抽籤人數統計表.csv",
+                        "created": "2017-06-07 09:30:04",
+                        "last_modified": "2017-06-07T09:30:04"
+                    },
+                    "150e7813-acc0-44ac-8cbf-e0b16b108890": {
+                        "id": "150e7813-acc0-44ac-8cbf-e0b16b108890",
+                        "name": "臺北市106年03月份抽籤人數統計表.csv",
+                        "created": "2017-06-07 09:38:26",
+                        "last_modified": "2017-06-07T09:38:26"
+                    },
+                    "a92462d0-fbf3-4a4d-a453-f9385a8a7074": {
+                        "id": "a92462d0-fbf3-4a4d-a453-f9385a8a7074",
+                        "name": "臺北市106年04月份抽籤人數統計表.csv",
+                        "created": "2017-06-07 09:42:25",
+                        "last_modified": "2017-06-07T09:42:25"
+                    },
+                    "1598301a-aab4-493e-9070-b9fc1a79fa71": {
+                        "id": "1598301a-aab4-493e-9070-b9fc1a79fa71",
+                        "name": "臺北市106年05月份抽籤人數統計表.csv",
+                        "created": "2017-06-07 09:48:09",
+                        "last_modified": "2017-06-07T09:48:09"
+                    },
+                    "cc722b5e-6481-44cc-b2ee-356ccdc53660": {
+                        "id": "cc722b5e-6481-44cc-b2ee-356ccdc53660",
+                        "name": "臺北市106年06月份抽籤人數統計表.csv",
+                        "created": "2017-07-03 09:51:34",
+                        "last_modified": "2017-07-03T09:51:34"
+                    },
+                    "11f55cc9-c10d-4dcc-8e80-05c34f237597": {
+                        "id": "11f55cc9-c10d-4dcc-8e80-05c34f237597",
+                        "name": "臺北市106年07月份抽籤人數統計表.csv",
+                        "created": "2017-08-03 14:47:22",
+                        "last_modified": "2017-08-03T14:47:22"
+                    },
+                    "0676e5f8-1ca5-4bf6-bffc-75467bdfb789": {
+                        "id": "0676e5f8-1ca5-4bf6-bffc-75467bdfb789",
+                        "name": "臺北市106年08月份抽籤人數統計表.csv",
+                        "created": "2017-09-04 10:13:28",
+                        "last_modified": "2017-09-04T10:13:28"
+                    },
+                    "addac49f-7214-41c5-969b-388c6431e316": {
+                        "id": "addac49f-7214-41c5-969b-388c6431e316",
+                        "name": "臺北市106年09月份抽籤人數統計表.csv",
+                        "created": "2017-10-05 23:11:41",
+                        "last_modified": "2017-10-05T23:11:41"
+                    },
+                    "ab127a2a-e69b-419e-a7a8-1a72d2814018": {
+                        "id": "ab127a2a-e69b-419e-a7a8-1a72d2814018",
+                        "name": "臺北市106年10月份抽籤人數統計表.csv",
+                        "created": "2017-11-02 15:43:21",
+                        "last_modified": "2017-11-02T15:43:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f47561be-7a08-46f8-be30-69968248636f": {
+                "name": "f47561be-7a08-46f8-be30-69968248636f",
+                "title": "替代役備役列管人數分析統計表",
+                "organization_id": "379710000A",
+                "metadata_modified": "2017-11-02 15:40:16",
+                "timeEnd": 1509608416,
+                "timeBegin": 1431964800,
+                "resources": {
+                    "dd0afb16-5634-41f1-a9b6-fe86e9afddbb": {
+                        "id": "dd0afb16-5634-41f1-a9b6-fe86e9afddbb",
+                        "name": "104年4月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-09-02 09:55:39",
+                        "last_modified": "2015-09-02T09:55:39"
+                    },
+                    "37355c37-e61c-4904-bd91-267922880206": {
+                        "id": "37355c37-e61c-4904-bd91-267922880206",
+                        "name": "104年5月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-09-02 09:56:22",
+                        "last_modified": "2015-09-02T09:56:22"
+                    },
+                    "2c0501f2-6e19-4bb7-8186-df02ed6b223f": {
+                        "id": "2c0501f2-6e19-4bb7-8186-df02ed6b223f",
+                        "name": "104年6月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-09-02 09:56:57",
+                        "last_modified": "2015-09-02T09:56:57"
+                    },
+                    "25744e2f-6a7b-405f-9631-9fa4f4bc5657": {
+                        "id": "25744e2f-6a7b-405f-9631-9fa4f4bc5657",
+                        "name": "104年7月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-12-08 08:28:05",
+                        "last_modified": "2015-12-08T08:28:05"
+                    },
+                    "29be4424-eaf1-43a4-8947-2f9750964680": {
+                        "id": "29be4424-eaf1-43a4-8947-2f9750964680",
+                        "name": "104年8月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-12-08 08:28:39",
+                        "last_modified": "2015-12-08T08:28:39"
+                    },
+                    "85dfeea4-97d8-4d31-91c8-774b409d145f": {
+                        "id": "85dfeea4-97d8-4d31-91c8-774b409d145f",
+                        "name": "104年9月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-12-08 08:29:07",
+                        "last_modified": "2015-12-08T08:29:07"
+                    },
+                    "16d8b960-1804-458b-92d8-c652c8e7ad2c": {
+                        "id": "16d8b960-1804-458b-92d8-c652c8e7ad2c",
+                        "name": "104年10月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-12-08 08:29:41",
+                        "last_modified": "2015-12-08T08:29:41"
+                    },
+                    "6812b55a-f57f-4e27-a154-c9ae2db68fd9": {
+                        "id": "6812b55a-f57f-4e27-a154-c9ae2db68fd9",
+                        "name": "104年11月替代役備役列管人數分析統計表.csv",
+                        "created": "2015-12-08 08:30:09",
+                        "last_modified": "2015-12-08T08:30:09"
+                    },
+                    "f2031ff5-c6ac-4967-ba99-0fedca0856de": {
+                        "id": "f2031ff5-c6ac-4967-ba99-0fedca0856de",
+                        "name": "104年12月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-01-04 12:16:44",
+                        "last_modified": "2016-01-04T12:16:44"
+                    },
+                    "9a0664fb-cbc9-439d-b404-97b26979d0a5": {
+                        "id": "9a0664fb-cbc9-439d-b404-97b26979d0a5",
+                        "name": "105年1月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-02-02 11:31:46",
+                        "last_modified": "2016-02-02T11:31:46"
+                    },
+                    "218a2140-543a-42de-a156-14086727fe1e": {
+                        "id": "218a2140-543a-42de-a156-14086727fe1e",
+                        "name": "105年2月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-03-02 15:10:07",
+                        "last_modified": "2016-03-02T15:10:07"
+                    },
+                    "0b68a84c-0c6e-47c6-b919-323b787d7cbc": {
+                        "id": "0b68a84c-0c6e-47c6-b919-323b787d7cbc",
+                        "name": "105年3月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-05-02 14:52:21",
+                        "last_modified": "2016-05-02T14:52:21"
+                    },
+                    "8cf3d9f3-4d55-4550-826d-87f0cc48cd88": {
+                        "id": "8cf3d9f3-4d55-4550-826d-87f0cc48cd88",
+                        "name": "105年4月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-05-02 14:53:00",
+                        "last_modified": "2016-05-02T14:53:00"
+                    },
+                    "50c69cf6-ad1a-405f-8a94-2e6f4f92ac54": {
+                        "id": "50c69cf6-ad1a-405f-8a94-2e6f4f92ac54",
+                        "name": "105年5月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-06-02 16:11:36",
+                        "last_modified": "2016-06-02T16:11:36"
+                    },
+                    "02120120-214d-45c4-8e9f-dfbb0c545227": {
+                        "id": "02120120-214d-45c4-8e9f-dfbb0c545227",
+                        "name": "105年6月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-07-01 16:08:58",
+                        "last_modified": "2016-07-01T16:08:58"
+                    },
+                    "549d27b4-d58d-455f-a052-b5e13a1f5191": {
+                        "id": "549d27b4-d58d-455f-a052-b5e13a1f5191",
+                        "name": "105年7月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-08-02 11:34:03",
+                        "last_modified": "2016-08-02T11:34:03"
+                    },
+                    "276117f8-853c-4284-ab76-9e596ac195c5": {
+                        "id": "276117f8-853c-4284-ab76-9e596ac195c5",
+                        "name": "105年8月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-09-05 09:09:41",
+                        "last_modified": "2016-09-05T09:09:41"
+                    },
+                    "900eb0ab-2654-4c3b-8e09-ea1414fb144a": {
+                        "id": "900eb0ab-2654-4c3b-8e09-ea1414fb144a",
+                        "name": "105年9月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-10-04 09:29:44",
+                        "last_modified": "2016-10-04T09:29:44"
+                    },
+                    "56a31d01-98dd-4a11-91ac-d86c2368f470": {
+                        "id": "56a31d01-98dd-4a11-91ac-d86c2368f470",
+                        "name": "105年10月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-12-05 14:50:17",
+                        "last_modified": "2016-12-05T14:50:17"
+                    },
+                    "1e89535f-802f-49c3-b7f1-1481de15eb7d": {
+                        "id": "1e89535f-802f-49c3-b7f1-1481de15eb7d",
+                        "name": "105年11月替代役備役列管人數分析統計表.csv",
+                        "created": "2016-12-05 14:51:06",
+                        "last_modified": "2016-12-05T14:51:06"
+                    },
+                    "f91c0521-dfb9-4519-a1aa-fcfe78e08b6f": {
+                        "id": "f91c0521-dfb9-4519-a1aa-fcfe78e08b6f",
+                        "name": "105年12月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-01-03 14:12:40",
+                        "last_modified": "2017-01-03T14:12:40"
+                    },
+                    "ba89d724-8bf8-4e96-a8d9-d4b8861786bb": {
+                        "id": "ba89d724-8bf8-4e96-a8d9-d4b8861786bb",
+                        "name": "106年01月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-02-03 10:56:33",
+                        "last_modified": "2017-02-03T10:56:33"
+                    },
+                    "a8c4d6aa-5b05-4a5a-a888-53900e7cd9e1": {
+                        "id": "a8c4d6aa-5b05-4a5a-a888-53900e7cd9e1",
+                        "name": "106年02月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-04-05 09:55:59",
+                        "last_modified": "2017-04-05T09:55:59"
+                    },
+                    "b14403de-05eb-45d8-aa15-3225e8eda4b9": {
+                        "id": "b14403de-05eb-45d8-aa15-3225e8eda4b9",
+                        "name": "106年03月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-04-05 10:01:59",
+                        "last_modified": "2017-04-05T10:01:59"
+                    },
+                    "facefbb3-4a4b-42ab-9d8d-52a81d106181": {
+                        "id": "facefbb3-4a4b-42ab-9d8d-52a81d106181",
+                        "name": "106年04月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-05-04 11:37:21",
+                        "last_modified": "2017-05-04T11:37:21"
+                    },
+                    "2280da2d-ae1d-49cb-a2fd-d2a64c0fdd33": {
+                        "id": "2280da2d-ae1d-49cb-a2fd-d2a64c0fdd33",
+                        "name": "106年05月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-06-08 13:50:28",
+                        "last_modified": "2017-06-08T13:50:28"
+                    },
+                    "c3af008d-48d2-426e-9704-99a23a2a9c45": {
+                        "id": "c3af008d-48d2-426e-9704-99a23a2a9c45",
+                        "name": "106年06月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-07-04 10:10:00",
+                        "last_modified": "2017-07-04T10:10:00"
+                    },
+                    "13b99116-65e1-4321-b691-21d024f72032": {
+                        "id": "13b99116-65e1-4321-b691-21d024f72032",
+                        "name": "106年07月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-08-03 15:14:25",
+                        "last_modified": "2017-08-03T15:14:25"
+                    },
+                    "465faaa1-265d-4627-8292-06a8522ee5df": {
+                        "id": "465faaa1-265d-4627-8292-06a8522ee5df",
+                        "name": "106年08月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-09-04 10:22:11",
+                        "last_modified": "2017-09-04T10:22:11"
+                    },
+                    "607e0076-8fca-47bf-8e4e-ced255d8ffca": {
+                        "id": "607e0076-8fca-47bf-8e4e-ced255d8ffca",
+                        "name": "106年09月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-10-03 17:22:41",
+                        "last_modified": "2017-10-03T17:22:41"
+                    },
+                    "f168bd9e-7c98-40b8-a2f5-f7e5d6605b83": {
+                        "id": "f168bd9e-7c98-40b8-a2f5-f7e5d6605b83",
+                        "name": "106年10月替代役備役列管人數分析統計表.csv",
+                        "created": "2017-11-02 15:40:15",
+                        "last_modified": "2017-11-02T15:40:15"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "a244b6e4-dec8-4654-87c7-7e19609ff4d4": {
                 "name": "a244b6e4-dec8-4654-87c7-7e19609ff4d4",
                 "title": "列管後備軍人動態統計表",
@@ -10046,200 +10446,6 @@
                     "resource_recent": 0
                 }
             },
-            "d078502f-da1c-43d4-bcc9-01055fdc9e75": {
-                "name": "d078502f-da1c-43d4-bcc9-01055fdc9e75",
-                "title": "抽籤人數統計表",
-                "organization_id": "379710000A",
-                "metadata_modified": "2017-10-05 23:11:16",
-                "timeEnd": 1507216301,
-                "timeBegin": 1431964800,
-                "resources": {
-                    "c7e3c8ed-b11e-4ec6-80e5-0480815ce064": {
-                        "id": "c7e3c8ed-b11e-4ec6-80e5-0480815ce064",
-                        "name": "臺北市104年4月份抽籤人數統計表.csv",
-                        "created": "2015-08-08 10:36:19",
-                        "last_modified": "2015-08-08T10:36:19"
-                    },
-                    "d71e7203-66c2-4c2d-89e4-b5d6fa817274": {
-                        "id": "d71e7203-66c2-4c2d-89e4-b5d6fa817274",
-                        "name": "臺北市104年5月份抽籤人數統計表.csv",
-                        "created": "2015-08-08 10:36:50",
-                        "last_modified": "2015-08-08T10:36:50"
-                    },
-                    "ad63b07f-5089-4759-b555-63deb9f6fe8a": {
-                        "id": "ad63b07f-5089-4759-b555-63deb9f6fe8a",
-                        "name": "臺北市104年6月份抽籤人數統計表.csv",
-                        "created": "2015-08-08 10:37:19",
-                        "last_modified": "2015-08-08T10:37:19"
-                    },
-                    "62862f6d-f84c-495a-9772-9c0b1f57bf25": {
-                        "id": "62862f6d-f84c-495a-9772-9c0b1f57bf25",
-                        "name": "臺北市104年7月份抽籤人數統計表.csv",
-                        "created": "2015-08-08 10:37:47",
-                        "last_modified": "2015-08-08T10:37:47"
-                    },
-                    "fe8c3de8-46e0-4524-931b-ac8140a9a852": {
-                        "id": "fe8c3de8-46e0-4524-931b-ac8140a9a852",
-                        "name": "臺北市104年8月份抽籤人數統計表.csv",
-                        "created": "2015-10-02 09:29:28",
-                        "last_modified": "2015-10-02T09:29:28"
-                    },
-                    "c2399d75-806c-487d-9f74-0330e2732d86": {
-                        "id": "c2399d75-806c-487d-9f74-0330e2732d86",
-                        "name": "臺北市104年9月份抽籤人數統計表.csv",
-                        "created": "2015-10-02 09:30:20",
-                        "last_modified": "2015-10-02T09:30:20"
-                    },
-                    "e790594e-a51a-42cd-8bfd-a7d68ea99fd4": {
-                        "id": "e790594e-a51a-42cd-8bfd-a7d68ea99fd4",
-                        "name": "臺北市104年10月份抽籤人數統計表.csv",
-                        "created": "2015-11-02 15:45:33",
-                        "last_modified": "2015-11-02T15:45:33"
-                    },
-                    "14d66100-ff39-4e39-8e7c-b4eef3a2b234": {
-                        "id": "14d66100-ff39-4e39-8e7c-b4eef3a2b234",
-                        "name": "臺北市104年11月份抽籤人數統計表.csv",
-                        "created": "2015-12-08 08:43:17",
-                        "last_modified": "2015-12-08T08:43:17"
-                    },
-                    "09767ee1-c681-46bb-b053-b300cedc800e": {
-                        "id": "09767ee1-c681-46bb-b053-b300cedc800e",
-                        "name": "臺北市104年12月份抽籤人數統計表.csv",
-                        "created": "2016-01-04 15:56:31",
-                        "last_modified": "2016-01-04T15:56:31"
-                    },
-                    "971d0022-7254-491c-b97b-8acd02083e06": {
-                        "id": "971d0022-7254-491c-b97b-8acd02083e06",
-                        "name": "臺北市105年1月份抽籤人數統計表.csv",
-                        "created": "2016-02-03 10:13:09",
-                        "last_modified": "2016-02-03T10:13:09"
-                    },
-                    "f9cd2a15-80a5-4d86-a430-78516a6bb5bb": {
-                        "id": "f9cd2a15-80a5-4d86-a430-78516a6bb5bb",
-                        "name": "臺北市105年2月份抽籤人數統計表.csv",
-                        "created": "2016-03-01 08:22:56",
-                        "last_modified": "2016-03-01T08:22:56"
-                    },
-                    "69aec4d5-3b17-4ba9-b696-a9aa9860fc16": {
-                        "id": "69aec4d5-3b17-4ba9-b696-a9aa9860fc16",
-                        "name": "臺北市105年3月份抽籤人數統計表.csv",
-                        "created": "2016-04-06 12:12:22",
-                        "last_modified": "2016-04-06T12:12:22"
-                    },
-                    "36a29a45-bee5-4719-b33a-1d2d4bf7523a": {
-                        "id": "36a29a45-bee5-4719-b33a-1d2d4bf7523a",
-                        "name": "臺北市105年4月份抽籤人數統計表.csv",
-                        "created": "2016-05-05 13:57:45",
-                        "last_modified": "2016-05-05T13:57:45"
-                    },
-                    "0a093821-4e01-4eef-9596-db0b8bab77a7": {
-                        "id": "0a093821-4e01-4eef-9596-db0b8bab77a7",
-                        "name": "臺北市105年5月份抽籤人數統計表.csv",
-                        "created": "2016-06-04 15:59:42",
-                        "last_modified": "2016-06-04T15:59:42"
-                    },
-                    "df0daddb-6e92-487f-98aa-e8d3c1e1ea49": {
-                        "id": "df0daddb-6e92-487f-98aa-e8d3c1e1ea49",
-                        "name": "臺北市105年6月份抽籤人數統計表.csv",
-                        "created": "2016-07-21 14:02:20",
-                        "last_modified": "2016-07-21T14:02:20"
-                    },
-                    "4c7bbf62-b3b8-4d22-935b-6e3dc7905036": {
-                        "id": "4c7bbf62-b3b8-4d22-935b-6e3dc7905036",
-                        "name": "臺北市105年7月份抽籤人數統計表.csv",
-                        "created": "2016-08-10 08:18:12",
-                        "last_modified": "2016-08-10T08:18:12"
-                    },
-                    "75fc87d2-7b0a-40f8-babf-535c92115053": {
-                        "id": "75fc87d2-7b0a-40f8-babf-535c92115053",
-                        "name": "臺北市105年8月份抽籤人數統計表.csv",
-                        "created": "2016-09-05 08:49:47",
-                        "last_modified": "2016-09-05T08:49:47"
-                    },
-                    "e65721c5-9c4c-40a8-92ce-2b5efb609457": {
-                        "id": "e65721c5-9c4c-40a8-92ce-2b5efb609457",
-                        "name": "臺北市105年9月份抽籤人數統計表.csv",
-                        "created": "2016-10-11 14:46:24",
-                        "last_modified": "2016-10-11T14:46:24"
-                    },
-                    "00215242-b097-4169-9998-f8f0ba44d3f9": {
-                        "id": "00215242-b097-4169-9998-f8f0ba44d3f9",
-                        "name": "臺北市105年10月份抽籤人數統計表.csv",
-                        "created": "2016-11-03 14:32:13",
-                        "last_modified": "2016-11-03T14:32:13"
-                    },
-                    "1c4883c7-6736-4726-acff-a978f5bafb1d": {
-                        "id": "1c4883c7-6736-4726-acff-a978f5bafb1d",
-                        "name": "臺北市105年11月份抽籤人數統計表.csv",
-                        "created": "2016-11-30 09:46:00",
-                        "last_modified": "2016-11-30T09:46:00"
-                    },
-                    "f5b1c078-c41a-444c-91ca-3beb8c5425ff": {
-                        "id": "f5b1c078-c41a-444c-91ca-3beb8c5425ff",
-                        "name": "臺北市105年12月份抽籤人數統計表.csv",
-                        "created": "2017-01-03 08:50:35",
-                        "last_modified": "2017-01-03T08:50:35"
-                    },
-                    "5ab266a9-ccea-43c9-b331-517e1e2c60dc": {
-                        "id": "5ab266a9-ccea-43c9-b331-517e1e2c60dc",
-                        "name": "臺北市106年01月份抽籤人數統計表.csv",
-                        "created": "2017-06-07 09:14:42",
-                        "last_modified": "2017-06-07T09:14:42"
-                    },
-                    "96118012-4b84-4617-9604-7d5400f8fbe6": {
-                        "id": "96118012-4b84-4617-9604-7d5400f8fbe6",
-                        "name": "臺北市106年02月份抽籤人數統計表.csv",
-                        "created": "2017-06-07 09:30:04",
-                        "last_modified": "2017-06-07T09:30:04"
-                    },
-                    "150e7813-acc0-44ac-8cbf-e0b16b108890": {
-                        "id": "150e7813-acc0-44ac-8cbf-e0b16b108890",
-                        "name": "臺北市106年03月份抽籤人數統計表.csv",
-                        "created": "2017-06-07 09:38:26",
-                        "last_modified": "2017-06-07T09:38:26"
-                    },
-                    "a92462d0-fbf3-4a4d-a453-f9385a8a7074": {
-                        "id": "a92462d0-fbf3-4a4d-a453-f9385a8a7074",
-                        "name": "臺北市106年04月份抽籤人數統計表.csv",
-                        "created": "2017-06-07 09:42:25",
-                        "last_modified": "2017-06-07T09:42:25"
-                    },
-                    "1598301a-aab4-493e-9070-b9fc1a79fa71": {
-                        "id": "1598301a-aab4-493e-9070-b9fc1a79fa71",
-                        "name": "臺北市106年05月份抽籤人數統計表.csv",
-                        "created": "2017-06-07 09:48:09",
-                        "last_modified": "2017-06-07T09:48:09"
-                    },
-                    "cc722b5e-6481-44cc-b2ee-356ccdc53660": {
-                        "id": "cc722b5e-6481-44cc-b2ee-356ccdc53660",
-                        "name": "臺北市106年06月份抽籤人數統計表.csv",
-                        "created": "2017-07-03 09:51:34",
-                        "last_modified": "2017-07-03T09:51:34"
-                    },
-                    "11f55cc9-c10d-4dcc-8e80-05c34f237597": {
-                        "id": "11f55cc9-c10d-4dcc-8e80-05c34f237597",
-                        "name": "臺北市106年07月份抽籤人數統計表.csv",
-                        "created": "2017-08-03 14:47:22",
-                        "last_modified": "2017-08-03T14:47:22"
-                    },
-                    "0676e5f8-1ca5-4bf6-bffc-75467bdfb789": {
-                        "id": "0676e5f8-1ca5-4bf6-bffc-75467bdfb789",
-                        "name": "臺北市106年08月份抽籤人數統計表.csv",
-                        "created": "2017-09-04 10:13:28",
-                        "last_modified": "2017-09-04T10:13:28"
-                    },
-                    "addac49f-7214-41c5-969b-388c6431e316": {
-                        "id": "addac49f-7214-41c5-969b-388c6431e316",
-                        "name": "臺北市106年09月份抽籤人數統計表.csv",
-                        "created": "2017-10-05 23:11:41",
-                        "last_modified": "2017-10-05T23:11:41"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "1ff783ac-335c-42e2-bb60-251cba8c3ba7": {
                 "name": "1ff783ac-335c-42e2-bb60-251cba8c3ba7",
                 "title": "補助私人團體經費報告",
@@ -11013,200 +11219,6 @@
                         "name": "106年第3季常備兵役役男家屬各項扶(慰)助經費統計.csv",
                         "created": "2017-10-05 22:30:46",
                         "last_modified": "2017-10-05T22:30:46"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "f47561be-7a08-46f8-be30-69968248636f": {
-                "name": "f47561be-7a08-46f8-be30-69968248636f",
-                "title": "替代役備役列管人數分析統計表",
-                "organization_id": "379710000A",
-                "metadata_modified": "2017-10-03 17:22:18",
-                "timeEnd": 1507022561,
-                "timeBegin": 1431964800,
-                "resources": {
-                    "dd0afb16-5634-41f1-a9b6-fe86e9afddbb": {
-                        "id": "dd0afb16-5634-41f1-a9b6-fe86e9afddbb",
-                        "name": "104年4月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-09-02 09:55:39",
-                        "last_modified": "2015-09-02T09:55:39"
-                    },
-                    "37355c37-e61c-4904-bd91-267922880206": {
-                        "id": "37355c37-e61c-4904-bd91-267922880206",
-                        "name": "104年5月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-09-02 09:56:22",
-                        "last_modified": "2015-09-02T09:56:22"
-                    },
-                    "2c0501f2-6e19-4bb7-8186-df02ed6b223f": {
-                        "id": "2c0501f2-6e19-4bb7-8186-df02ed6b223f",
-                        "name": "104年6月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-09-02 09:56:57",
-                        "last_modified": "2015-09-02T09:56:57"
-                    },
-                    "25744e2f-6a7b-405f-9631-9fa4f4bc5657": {
-                        "id": "25744e2f-6a7b-405f-9631-9fa4f4bc5657",
-                        "name": "104年7月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-12-08 08:28:05",
-                        "last_modified": "2015-12-08T08:28:05"
-                    },
-                    "29be4424-eaf1-43a4-8947-2f9750964680": {
-                        "id": "29be4424-eaf1-43a4-8947-2f9750964680",
-                        "name": "104年8月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-12-08 08:28:39",
-                        "last_modified": "2015-12-08T08:28:39"
-                    },
-                    "85dfeea4-97d8-4d31-91c8-774b409d145f": {
-                        "id": "85dfeea4-97d8-4d31-91c8-774b409d145f",
-                        "name": "104年9月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-12-08 08:29:07",
-                        "last_modified": "2015-12-08T08:29:07"
-                    },
-                    "16d8b960-1804-458b-92d8-c652c8e7ad2c": {
-                        "id": "16d8b960-1804-458b-92d8-c652c8e7ad2c",
-                        "name": "104年10月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-12-08 08:29:41",
-                        "last_modified": "2015-12-08T08:29:41"
-                    },
-                    "6812b55a-f57f-4e27-a154-c9ae2db68fd9": {
-                        "id": "6812b55a-f57f-4e27-a154-c9ae2db68fd9",
-                        "name": "104年11月替代役備役列管人數分析統計表.csv",
-                        "created": "2015-12-08 08:30:09",
-                        "last_modified": "2015-12-08T08:30:09"
-                    },
-                    "f2031ff5-c6ac-4967-ba99-0fedca0856de": {
-                        "id": "f2031ff5-c6ac-4967-ba99-0fedca0856de",
-                        "name": "104年12月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-01-04 12:16:44",
-                        "last_modified": "2016-01-04T12:16:44"
-                    },
-                    "9a0664fb-cbc9-439d-b404-97b26979d0a5": {
-                        "id": "9a0664fb-cbc9-439d-b404-97b26979d0a5",
-                        "name": "105年1月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-02-02 11:31:46",
-                        "last_modified": "2016-02-02T11:31:46"
-                    },
-                    "218a2140-543a-42de-a156-14086727fe1e": {
-                        "id": "218a2140-543a-42de-a156-14086727fe1e",
-                        "name": "105年2月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-03-02 15:10:07",
-                        "last_modified": "2016-03-02T15:10:07"
-                    },
-                    "0b68a84c-0c6e-47c6-b919-323b787d7cbc": {
-                        "id": "0b68a84c-0c6e-47c6-b919-323b787d7cbc",
-                        "name": "105年3月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-05-02 14:52:21",
-                        "last_modified": "2016-05-02T14:52:21"
-                    },
-                    "8cf3d9f3-4d55-4550-826d-87f0cc48cd88": {
-                        "id": "8cf3d9f3-4d55-4550-826d-87f0cc48cd88",
-                        "name": "105年4月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-05-02 14:53:00",
-                        "last_modified": "2016-05-02T14:53:00"
-                    },
-                    "50c69cf6-ad1a-405f-8a94-2e6f4f92ac54": {
-                        "id": "50c69cf6-ad1a-405f-8a94-2e6f4f92ac54",
-                        "name": "105年5月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-06-02 16:11:36",
-                        "last_modified": "2016-06-02T16:11:36"
-                    },
-                    "02120120-214d-45c4-8e9f-dfbb0c545227": {
-                        "id": "02120120-214d-45c4-8e9f-dfbb0c545227",
-                        "name": "105年6月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-07-01 16:08:58",
-                        "last_modified": "2016-07-01T16:08:58"
-                    },
-                    "549d27b4-d58d-455f-a052-b5e13a1f5191": {
-                        "id": "549d27b4-d58d-455f-a052-b5e13a1f5191",
-                        "name": "105年7月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-08-02 11:34:03",
-                        "last_modified": "2016-08-02T11:34:03"
-                    },
-                    "276117f8-853c-4284-ab76-9e596ac195c5": {
-                        "id": "276117f8-853c-4284-ab76-9e596ac195c5",
-                        "name": "105年8月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-09-05 09:09:41",
-                        "last_modified": "2016-09-05T09:09:41"
-                    },
-                    "900eb0ab-2654-4c3b-8e09-ea1414fb144a": {
-                        "id": "900eb0ab-2654-4c3b-8e09-ea1414fb144a",
-                        "name": "105年9月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-10-04 09:29:44",
-                        "last_modified": "2016-10-04T09:29:44"
-                    },
-                    "56a31d01-98dd-4a11-91ac-d86c2368f470": {
-                        "id": "56a31d01-98dd-4a11-91ac-d86c2368f470",
-                        "name": "105年10月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-12-05 14:50:17",
-                        "last_modified": "2016-12-05T14:50:17"
-                    },
-                    "1e89535f-802f-49c3-b7f1-1481de15eb7d": {
-                        "id": "1e89535f-802f-49c3-b7f1-1481de15eb7d",
-                        "name": "105年11月替代役備役列管人數分析統計表.csv",
-                        "created": "2016-12-05 14:51:06",
-                        "last_modified": "2016-12-05T14:51:06"
-                    },
-                    "f91c0521-dfb9-4519-a1aa-fcfe78e08b6f": {
-                        "id": "f91c0521-dfb9-4519-a1aa-fcfe78e08b6f",
-                        "name": "105年12月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-01-03 14:12:40",
-                        "last_modified": "2017-01-03T14:12:40"
-                    },
-                    "ba89d724-8bf8-4e96-a8d9-d4b8861786bb": {
-                        "id": "ba89d724-8bf8-4e96-a8d9-d4b8861786bb",
-                        "name": "106年01月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-02-03 10:56:33",
-                        "last_modified": "2017-02-03T10:56:33"
-                    },
-                    "a8c4d6aa-5b05-4a5a-a888-53900e7cd9e1": {
-                        "id": "a8c4d6aa-5b05-4a5a-a888-53900e7cd9e1",
-                        "name": "106年02月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-04-05 09:55:59",
-                        "last_modified": "2017-04-05T09:55:59"
-                    },
-                    "b14403de-05eb-45d8-aa15-3225e8eda4b9": {
-                        "id": "b14403de-05eb-45d8-aa15-3225e8eda4b9",
-                        "name": "106年03月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-04-05 10:01:59",
-                        "last_modified": "2017-04-05T10:01:59"
-                    },
-                    "facefbb3-4a4b-42ab-9d8d-52a81d106181": {
-                        "id": "facefbb3-4a4b-42ab-9d8d-52a81d106181",
-                        "name": "106年04月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-05-04 11:37:21",
-                        "last_modified": "2017-05-04T11:37:21"
-                    },
-                    "2280da2d-ae1d-49cb-a2fd-d2a64c0fdd33": {
-                        "id": "2280da2d-ae1d-49cb-a2fd-d2a64c0fdd33",
-                        "name": "106年05月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-06-08 13:50:28",
-                        "last_modified": "2017-06-08T13:50:28"
-                    },
-                    "c3af008d-48d2-426e-9704-99a23a2a9c45": {
-                        "id": "c3af008d-48d2-426e-9704-99a23a2a9c45",
-                        "name": "106年06月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-07-04 10:10:00",
-                        "last_modified": "2017-07-04T10:10:00"
-                    },
-                    "13b99116-65e1-4321-b691-21d024f72032": {
-                        "id": "13b99116-65e1-4321-b691-21d024f72032",
-                        "name": "106年07月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-08-03 15:14:25",
-                        "last_modified": "2017-08-03T15:14:25"
-                    },
-                    "465faaa1-265d-4627-8292-06a8522ee5df": {
-                        "id": "465faaa1-265d-4627-8292-06a8522ee5df",
-                        "name": "106年08月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-09-04 10:22:11",
-                        "last_modified": "2017-09-04T10:22:11"
-                    },
-                    "607e0076-8fca-47bf-8e4e-ced255d8ffca": {
-                        "id": "607e0076-8fca-47bf-8e4e-ced255d8ffca",
-                        "name": "106年09月替代役備役列管人數分析統計表.csv",
-                        "created": "2017-10-03 17:22:41",
-                        "last_modified": "2017-10-03T17:22:41"
                     }
                 },
                 "counters": {
@@ -13999,15 +14011,15 @@
                 "name": "4d29818c-a3ee-425d-b88a-22ac0c24c712",
                 "title": "臺北市今日施工資訊",
                 "organization_id": "379110000G",
-                "metadata_modified": "2017-11-02 05:24:02",
-                "timeEnd": 1509571442,
+                "metadata_modified": "2017-11-03 05:24:00",
+                "timeEnd": 1509657840,
                 "timeBegin": 1403452800,
                 "resources": {
                     "201d8ae8-dffc-4d17-ae1f-e58d8a95b162": {
                         "id": "201d8ae8-dffc-4d17-ae1f-e58d8a95b162",
                         "name": "construction.json",
-                        "created": "2017-11-02 05:24:02",
-                        "last_modified": "2017-11-02T05:24:02"
+                        "created": "2017-11-03 05:24:00",
+                        "last_modified": "2017-11-03T05:24:00"
                     },
                     "58bc550d-4033-4727-a1a5-989b54a59d38": {
                         "id": "58bc550d-4033-4727-a1a5-989b54a59d38",
@@ -21896,15 +21908,15 @@
                 "name": "e9bbb0c9-4d23-45b1-96d1-7b18565bbea6",
                 "title": "臺北市文化快遞資訊",
                 "organization_id": "379590000E",
-                "metadata_modified": "2017-11-01 11:50:02",
-                "timeEnd": 1509508202,
+                "metadata_modified": "2017-11-02 11:50:02",
+                "timeEnd": 1509594602,
                 "timeBegin": 1325606400,
                 "resources": {
                     "35aa3c53-28fb-423c-91b6-2c22432d0d70": {
                         "id": "35aa3c53-28fb-423c-91b6-2c22432d0d70",
                         "name": "culture.xml",
-                        "created": "2017-11-01 11:50:02",
-                        "last_modified": "2017-11-01T11:50:02"
+                        "created": "2017-11-02 11:50:02",
+                        "last_modified": "2017-11-02T11:50:02"
                     }
                 },
                 "counters": {
@@ -26213,15 +26225,15 @@
                 "name": "86672d20-9c69-4c24-859b-078862c4e699",
                 "title": "臺北市已立案宗教團體點位資料",
                 "organization_id": "379020000A",
-                "metadata_modified": "2017-11-01 19:44:02",
-                "timeEnd": 1509536642,
+                "metadata_modified": "2017-11-02 19:44:02",
+                "timeEnd": 1509623042,
                 "timeBegin": 1380643200,
                 "resources": {
                     "2aac2df3-e768-448c-8f06-181d7b424690": {
                         "id": "2aac2df3-e768-448c-8f06-181d7b424690",
                         "name": "religion.xml",
-                        "created": "2017-11-01 19:44:02",
-                        "last_modified": "2017-11-01T19:44:02"
+                        "created": "2017-11-02 19:44:02",
+                        "last_modified": "2017-11-02T19:44:02"
                     }
                 },
                 "counters": {
@@ -27303,8 +27315,8 @@
                 "name": "cc02bf3c-8d2b-49a9-8284-7d11c89b2f6d",
                 "title": "臺北市政府採購申訴審議委員會會議紀錄",
                 "organization_id": "379750000A",
-                "metadata_modified": "2017-10-05 09:21:04",
-                "timeEnd": 1507166489,
+                "metadata_modified": "2017-11-02 11:06:37",
+                "timeEnd": 1509591997,
                 "timeBegin": 1439395200,
                 "resources": {
                     "0722e932-947d-41f1-96a6-52220e5ff102": {
@@ -27420,6 +27432,12 @@
                         "name": "106.08第178次會議紀錄.odt",
                         "created": "2017-10-05 09:21:29",
                         "last_modified": "2017-10-05T09:21:29"
+                    },
+                    "100d8e9a-0a7f-4dff-bb67-5bd7bfff32f4": {
+                        "id": "100d8e9a-0a7f-4dff-bb67-5bd7bfff32f4",
+                        "name": "106.09第179次會議紀錄.odt",
+                        "created": "2017-11-02 11:06:24",
+                        "last_modified": "2017-11-02T11:06:24"
                     }
                 },
                 "counters": {
@@ -27830,15 +27848,15 @@
                 "name": "b6aa4716-aa07-4aac-9ffc-57df0f1f529f",
                 "title": "臺北市列管營業場所消防安全檢查結果",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-11-01 19:42:27",
-                "timeEnd": 1509536547,
+                "metadata_modified": "2017-11-02 19:42:24",
+                "timeEnd": 1509622944,
                 "timeBegin": 1404057600,
                 "resources": {
                     "1316a13a-39cd-4db5-b663-930638f244c5": {
                         "id": "1316a13a-39cd-4db5-b663-930638f244c5",
                         "name": "openplace.json",
-                        "created": "2017-11-01 19:42:27",
-                        "last_modified": "2017-11-01T19:42:27"
+                        "created": "2017-11-02 19:42:24",
+                        "last_modified": "2017-11-02T19:42:24"
                     }
                 },
                 "counters": {
@@ -27850,15 +27868,15 @@
                 "name": "3a45616d-c4b3-4676-b28c-24e5c9c90bd0",
                 "title": "臺北市政府燃氣熱水器承裝業名冊",
                 "organization_id": "379570000A",
-                "metadata_modified": "2017-11-01 19:28:00",
-                "timeEnd": 1509535680,
+                "metadata_modified": "2017-11-02 19:28:00",
+                "timeEnd": 1509622080,
                 "timeBegin": 1370880000,
                 "resources": {
                     "f6bb8bb9-c5b6-4851-a837-695d202d4ccb": {
                         "id": "f6bb8bb9-c5b6-4851-a837-695d202d4ccb",
                         "name": "boiler.json",
-                        "created": "2017-11-01 19:28:00",
-                        "last_modified": "2017-11-01T19:28:00"
+                        "created": "2017-11-02 19:28:00",
+                        "last_modified": "2017-11-02T19:28:00"
                     }
                 },
                 "counters": {
@@ -28362,6 +28380,92 @@
     },
     "臺北市政府環境保護局": {
         "datasets": {
+            "a835f3ba-7f50-4b0d-91a6-9df128632d1c": {
+                "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
+                "title": "臺北市行人專用清潔箱",
+                "organization_id": "379150000I",
+                "metadata_modified": "2017-11-02 17:15:13",
+                "timeEnd": 1509614113,
+                "timeBegin": 1432137600,
+                "resources": {
+                    "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
+                        "id": "97cc923a-e9ee-4adc-8c3d-335567dc15d3",
+                        "name": "士林區行人專用清潔箱.csv",
+                        "created": "2017-10-02 14:17:59",
+                        "last_modified": "2017-10-02T14:17:59"
+                    },
+                    "5fa14e06-018b-4851-8316-1ff324384f79": {
+                        "id": "5fa14e06-018b-4851-8316-1ff324384f79",
+                        "name": "大同區行人專用清潔箱.csv",
+                        "created": "2017-11-02 17:15:12",
+                        "last_modified": "2017-11-02T17:15:12"
+                    },
+                    "f40cd66c-afba-4409-9289-e677b6b8d00e": {
+                        "id": "f40cd66c-afba-4409-9289-e677b6b8d00e",
+                        "name": "大安區行人專用清潔箱.csv",
+                        "created": "2017-07-12 09:19:09",
+                        "last_modified": "2017-07-12T09:19:09"
+                    },
+                    "33b2c4c5-9870-4ee9-b280-a3a297c56a22": {
+                        "id": "33b2c4c5-9870-4ee9-b280-a3a297c56a22",
+                        "name": "中山區行人專用清潔箱.csv",
+                        "created": "2017-04-10 09:10:19",
+                        "last_modified": "2017-04-10T09:10:19"
+                    },
+                    "0b544701-fb47-4fa9-90f1-15b1987da0f5": {
+                        "id": "0b544701-fb47-4fa9-90f1-15b1987da0f5",
+                        "name": "中正區行人專用清潔箱.csv",
+                        "created": "2017-06-12 08:27:37",
+                        "last_modified": "2017-06-12T08:27:37"
+                    },
+                    "37eac6d1-6569-43c9-9fcf-fc676417c2cd": {
+                        "id": "37eac6d1-6569-43c9-9fcf-fc676417c2cd",
+                        "name": "內湖區行人專用清潔箱.csv",
+                        "created": "2017-07-26 16:40:18",
+                        "last_modified": "2017-07-26T16:40:18"
+                    },
+                    "46647394-d47f-4a4d-b0f0-14a60ac2aade": {
+                        "id": "46647394-d47f-4a4d-b0f0-14a60ac2aade",
+                        "name": "文山區行人專用清潔箱.csv",
+                        "created": "2017-11-02 14:37:38",
+                        "last_modified": "2017-11-02T14:37:38"
+                    },
+                    "05d67de9-a034-4177-9f53-10d6f79e02cf": {
+                        "id": "05d67de9-a034-4177-9f53-10d6f79e02cf",
+                        "name": "北投區行人專用清潔箱.csv",
+                        "created": "2017-10-12 13:55:21",
+                        "last_modified": "2017-10-12T13:55:21"
+                    },
+                    "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc": {
+                        "id": "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc",
+                        "name": "松山區行人專用清潔箱.csv",
+                        "created": "2017-04-06 15:42:56",
+                        "last_modified": "2017-04-06T15:42:56"
+                    },
+                    "8cbb344b-83d2-4176-9abd-d84508e7dc73": {
+                        "id": "8cbb344b-83d2-4176-9abd-d84508e7dc73",
+                        "name": "信義區行人專用清潔箱.csv",
+                        "created": "2017-10-25 14:16:32",
+                        "last_modified": "2017-10-25T14:16:32"
+                    },
+                    "7b955414-f460-4472-b1a8-44819f74dc86": {
+                        "id": "7b955414-f460-4472-b1a8-44819f74dc86",
+                        "name": "南港區行人專用清潔箱.csv",
+                        "created": "2017-06-02 08:57:46",
+                        "last_modified": "2017-06-02T08:57:46"
+                    },
+                    "5697d81f-7c9d-43fc-a202-ae8804bbd34b": {
+                        "id": "5697d81f-7c9d-43fc-a202-ae8804bbd34b",
+                        "name": "萬華區行人專用清潔箱.csv",
+                        "created": "2016-07-29 11:30:33",
+                        "last_modified": "2016-07-29T11:30:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "73bcd54c-bb76-40f1-a943-93342a6b82b1": {
                 "name": "73bcd54c-bb76-40f1-a943-93342a6b82b1",
                 "title": "臺北市再生家具",
@@ -28421,92 +28525,6 @@
                         "name": "ESCO相關資訊.csv",
                         "created": "2016-05-19 15:35:04",
                         "last_modified": "2016-05-19T15:35:04"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a835f3ba-7f50-4b0d-91a6-9df128632d1c": {
-                "name": "a835f3ba-7f50-4b0d-91a6-9df128632d1c",
-                "title": "臺北市行人專用清潔箱",
-                "organization_id": "379150000I",
-                "metadata_modified": "2017-10-25 15:09:27",
-                "timeEnd": 1508915367,
-                "timeBegin": 1432137600,
-                "resources": {
-                    "97cc923a-e9ee-4adc-8c3d-335567dc15d3": {
-                        "id": "97cc923a-e9ee-4adc-8c3d-335567dc15d3",
-                        "name": "士林區行人專用清潔箱.csv",
-                        "created": "2017-10-02 14:17:59",
-                        "last_modified": "2017-10-02T14:17:59"
-                    },
-                    "5fa14e06-018b-4851-8316-1ff324384f79": {
-                        "id": "5fa14e06-018b-4851-8316-1ff324384f79",
-                        "name": "大同區行人專用清潔箱.csv",
-                        "created": "2017-10-25 15:08:45",
-                        "last_modified": "2017-10-25T15:08:45"
-                    },
-                    "f40cd66c-afba-4409-9289-e677b6b8d00e": {
-                        "id": "f40cd66c-afba-4409-9289-e677b6b8d00e",
-                        "name": "大安區行人專用清潔箱.csv",
-                        "created": "2017-07-12 09:19:09",
-                        "last_modified": "2017-07-12T09:19:09"
-                    },
-                    "33b2c4c5-9870-4ee9-b280-a3a297c56a22": {
-                        "id": "33b2c4c5-9870-4ee9-b280-a3a297c56a22",
-                        "name": "中山區行人專用清潔箱.csv",
-                        "created": "2017-04-10 09:10:19",
-                        "last_modified": "2017-04-10T09:10:19"
-                    },
-                    "0b544701-fb47-4fa9-90f1-15b1987da0f5": {
-                        "id": "0b544701-fb47-4fa9-90f1-15b1987da0f5",
-                        "name": "中正區行人專用清潔箱.csv",
-                        "created": "2017-06-12 08:27:37",
-                        "last_modified": "2017-06-12T08:27:37"
-                    },
-                    "37eac6d1-6569-43c9-9fcf-fc676417c2cd": {
-                        "id": "37eac6d1-6569-43c9-9fcf-fc676417c2cd",
-                        "name": "內湖區行人專用清潔箱.csv",
-                        "created": "2017-07-26 16:40:18",
-                        "last_modified": "2017-07-26T16:40:18"
-                    },
-                    "46647394-d47f-4a4d-b0f0-14a60ac2aade": {
-                        "id": "46647394-d47f-4a4d-b0f0-14a60ac2aade",
-                        "name": "文山區行人專用清潔箱.csv",
-                        "created": "2017-10-19 14:34:31",
-                        "last_modified": "2017-10-19T14:34:31"
-                    },
-                    "05d67de9-a034-4177-9f53-10d6f79e02cf": {
-                        "id": "05d67de9-a034-4177-9f53-10d6f79e02cf",
-                        "name": "北投區行人專用清潔箱.csv",
-                        "created": "2017-10-12 13:55:21",
-                        "last_modified": "2017-10-12T13:55:21"
-                    },
-                    "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc": {
-                        "id": "179d0fe1-ef31-4775-b9f0-c17b3adf0fbc",
-                        "name": "松山區行人專用清潔箱.csv",
-                        "created": "2017-04-06 15:42:56",
-                        "last_modified": "2017-04-06T15:42:56"
-                    },
-                    "8cbb344b-83d2-4176-9abd-d84508e7dc73": {
-                        "id": "8cbb344b-83d2-4176-9abd-d84508e7dc73",
-                        "name": "信義區行人專用清潔箱.csv",
-                        "created": "2017-10-25 14:16:32",
-                        "last_modified": "2017-10-25T14:16:32"
-                    },
-                    "7b955414-f460-4472-b1a8-44819f74dc86": {
-                        "id": "7b955414-f460-4472-b1a8-44819f74dc86",
-                        "name": "南港區行人專用清潔箱.csv",
-                        "created": "2017-06-02 08:57:46",
-                        "last_modified": "2017-06-02T08:57:46"
-                    },
-                    "5697d81f-7c9d-43fc-a202-ae8804bbd34b": {
-                        "id": "5697d81f-7c9d-43fc-a202-ae8804bbd34b",
-                        "name": "萬華區行人專用清潔箱.csv",
-                        "created": "2016-07-29 11:30:33",
-                        "last_modified": "2016-07-29T11:30:33"
                     }
                 },
                 "counters": {
@@ -31502,15 +31520,15 @@
                 "name": "6a3e862a-e1cb-4e44-b989-d35609559463",
                 "title": "臺北市開放認養動物",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-11-01 19:26:18",
-                "timeEnd": 1509535578,
+                "metadata_modified": "2017-11-02 19:26:19",
+                "timeEnd": 1509621979,
                 "timeBegin": 1356537600,
                 "resources": {
                     "f4a75ba9-7721-4363-884d-c3820b0b917c": {
                         "id": "f4a75ba9-7721-4363-884d-c3820b0b917c",
                         "name": "animal.json",
-                        "created": "2017-11-01 19:26:18",
-                        "last_modified": "2017-11-01T19:26:18"
+                        "created": "2017-11-02 19:26:17",
+                        "last_modified": "2017-11-02T19:26:17"
                     }
                 },
                 "counters": {
@@ -31522,15 +31540,15 @@
                 "name": "d23e6ef4-3b78-4e74-8f8e-93cbe0c66515",
                 "title": "臺北市企業營運總部分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-11-01 19:18:01",
-                "timeEnd": 1509535081,
+                "metadata_modified": "2017-11-02 19:18:01",
+                "timeEnd": 1509621481,
                 "timeBegin": 1326384000,
                 "resources": {
                     "77f5bb24-425a-4910-a5c1-fafe48fdaff6": {
                         "id": "77f5bb24-425a-4910-a5c1-fafe48fdaff6",
                         "name": "factory.xml",
-                        "created": "2017-11-01 19:18:01",
-                        "last_modified": "2017-11-01T19:18:01"
+                        "created": "2017-11-02 19:18:01",
+                        "last_modified": "2017-11-02T19:18:01"
                     }
                 },
                 "counters": {
@@ -31542,15 +31560,15 @@
                 "name": "2385447a-6793-4055-8ce0-b601ffa5e9b5",
                 "title": "臺北市加油站及加氣站分布圖",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-11-01 19:16:01",
-                "timeEnd": 1509534961,
+                "metadata_modified": "2017-11-02 19:16:01",
+                "timeEnd": 1509621361,
                 "timeBegin": 1326384000,
                 "resources": {
                     "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e": {
                         "id": "a8fd6811-ab29-40dd-9b92-383e8ebd2a4e",
                         "name": "religion.xml",
-                        "created": "2017-11-01 19:16:01",
-                        "last_modified": "2017-11-01T19:16:01"
+                        "created": "2017-11-02 19:16:01",
+                        "last_modified": "2017-11-02T19:16:01"
                     }
                 },
                 "counters": {
@@ -31562,15 +31580,15 @@
                 "name": "c8215f0d-20fa-4350-bcd9-da82432c2c9d",
                 "title": "臺北市登記工廠分佈圖及基本資料",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-11-01 19:14:01",
-                "timeEnd": 1509534841,
+                "metadata_modified": "2017-11-02 19:14:01",
+                "timeEnd": 1509621241,
                 "timeBegin": 1326384000,
                 "resources": {
                     "0c526081-68e3-489f-ae05-5a015ab80f61": {
                         "id": "0c526081-68e3-489f-ae05-5a015ab80f61",
                         "name": "taipeiFactory.xml",
-                        "created": "2017-11-01 19:14:01",
-                        "last_modified": "2017-11-01T19:14:01"
+                        "created": "2017-11-02 19:14:01",
+                        "last_modified": "2017-11-02T19:14:01"
                     }
                 },
                 "counters": {
@@ -31582,15 +31600,15 @@
                 "name": "3a7f9832-d020-4a6d-9b4d-6727fc149352",
                 "title": "臺北市公用天然氣導管承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-11-01 19:12:00",
-                "timeEnd": 1509534720,
+                "metadata_modified": "2017-11-02 19:12:00",
+                "timeEnd": 1509621120,
                 "timeBegin": 1369324800,
                 "resources": {
                     "cc69a890-eaae-4af5-9b00-e24cadaaad09": {
                         "id": "cc69a890-eaae-4af5-9b00-e24cadaaad09",
                         "name": "gasbusiness.xml",
-                        "created": "2017-11-01 19:12:00",
-                        "last_modified": "2017-11-01T19:12:00"
+                        "created": "2017-11-02 19:12:00",
+                        "last_modified": "2017-11-02T19:12:00"
                     }
                 },
                 "counters": {
@@ -31602,15 +31620,15 @@
                 "name": "166c8468-c496-4e27-ade3-13ee7d4a3881",
                 "title": "臺北市電器承裝業業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-11-01 19:10:00",
-                "timeEnd": 1509534600,
+                "metadata_modified": "2017-11-02 19:10:00",
+                "timeEnd": 1509621000,
                 "timeBegin": 1369324800,
                 "resources": {
                     "7befb610-232e-4a1e-99d0-35e964c10b70": {
                         "id": "7befb610-232e-4a1e-99d0-35e964c10b70",
                         "name": "ele.xml",
-                        "created": "2017-11-01 19:10:00",
-                        "last_modified": "2017-11-01T19:10:00"
+                        "created": "2017-11-02 19:10:00",
+                        "last_modified": "2017-11-02T19:10:00"
                     }
                 },
                 "counters": {
@@ -31622,15 +31640,521 @@
                 "name": "81b2a881-d37b-41b0-b9e0-39a2fef486ce",
                 "title": "臺北市自來水管承裝商業者",
                 "organization_id": "379670000G",
-                "metadata_modified": "2017-11-01 19:08:00",
-                "timeEnd": 1509534480,
+                "metadata_modified": "2017-11-02 19:08:00",
+                "timeEnd": 1509620880,
                 "timeBegin": 1369324800,
                 "resources": {
                     "6805942d-a8dd-4635-a394-01a8eadb3eba": {
                         "id": "6805942d-a8dd-4635-a394-01a8eadb3eba",
                         "name": "waterbusiness.xml",
-                        "created": "2017-11-01 19:08:00",
-                        "last_modified": "2017-11-01T19:08:00"
+                        "created": "2017-11-02 19:08:00",
+                        "last_modified": "2017-11-02T19:08:00"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c76776d5-93ac-4957-8a59-40875c7d8d9f": {
+                "name": "c76776d5-93ac-4957-8a59-40875c7d8d9f",
+                "title": "臺北生技獎得獎名單",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:19:59",
+                "timeEnd": 1509614399,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "f3674e00-6c36-4b23-9817-1e29cfe20936": {
+                        "id": "f3674e00-6c36-4b23-9817-1e29cfe20936",
+                        "name": "2016臺北生技獎得獎名單.csv",
+                        "created": "2017-05-01 16:32:44",
+                        "last_modified": "2017-05-01T16:32:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a05ee8ee-d7f1-4024-86c1-e2f97f2120bf": {
+                "name": "a05ee8ee-d7f1-4024-86c1-e2f97f2120bf",
+                "title": "臺北市生技廠商企業名錄",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:17:14",
+                "timeEnd": 1509614234,
+                "timeBegin": 1455811200,
+                "resources": {
+                    "4e4c6bf2-3968-4874-9b07-b8ff76a2ab92": {
+                        "id": "4e4c6bf2-3968-4874-9b07-b8ff76a2ab92",
+                        "name": "105年臺北市生技產業廠商名冊.csv",
+                        "created": "2017-05-02 09:40:01",
+                        "last_modified": "2017-05-02T09:40:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fcb60a5a-c229-419c-ae5c-d093933d75ce": {
+                "name": "fcb60a5a-c229-419c-ae5c-d093933d75ce",
+                "title": "竹子湖海芋觀光農園資料",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:15:36",
+                "timeEnd": 1509614136,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "df7824b9-fcc6-4102-9f69-aec1f7022072": {
+                        "id": "df7824b9-fcc6-4102-9f69-aec1f7022072",
+                        "name": "竹子湖海芋觀光農園資料.csv",
+                        "created": "2017-07-14 14:38:46",
+                        "last_modified": "2017-07-14T14:38:46"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dd950d9c-01c0-452d-b8d0-f9cf38f3a55d": {
+                "name": "dd950d9c-01c0-452d-b8d0-f9cf38f3a55d",
+                "title": "臺北市大彎南段工業區廠商名錄",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:14:44",
+                "timeEnd": 1509614084,
+                "timeBegin": 1327939200,
+                "resources": {
+                    "c9286411-93cb-4b4b-98f3-d1a0ea241423": {
+                        "id": "c9286411-93cb-4b4b-98f3-d1a0ea241423",
+                        "name": "臺北市大彎南段工業區廠商名錄.csv",
+                        "created": "2017-08-23 15:26:36",
+                        "last_modified": "2017-08-23T15:26:36"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "15c3e1ae-899b-466c-a536-208497e3a369": {
+                "name": "15c3e1ae-899b-466c-a536-208497e3a369",
+                "title": "臺北市內湖科技園區廠商名錄",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:13:43",
+                "timeEnd": 1509614023,
+                "timeBegin": 1327939200,
+                "resources": {
+                    "296acfa2-5d93-4706-ad58-e83cc951863c": {
+                        "id": "296acfa2-5d93-4706-ad58-e83cc951863c",
+                        "name": "臺北市內湖科技園區廠商名錄.csv",
+                        "created": "2017-08-23 15:25:29",
+                        "last_modified": "2017-08-23T15:25:29"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6b7c48b4-03a6-4fcc-b172-9cee415c20b9": {
+                "name": "6b7c48b4-03a6-4fcc-b172-9cee415c20b9",
+                "title": "臺北市南港軟體工業園區廠商資料名錄",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:12:34",
+                "timeEnd": 1509613954,
+                "timeBegin": 1455811200,
+                "resources": {
+                    "13f0e277-8eaa-4ca1-ab9f-dcb99d9c9a77": {
+                        "id": "13f0e277-8eaa-4ca1-ab9f-dcb99d9c9a77",
+                        "name": "臺北市南港軟體工業園區廠商資料名錄.csv",
+                        "created": "2017-08-23 15:27:13",
+                        "last_modified": "2017-08-23T15:27:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "bdfbe47a-3bbf-45b9-9b6c-a0664dc539d2": {
+                "name": "bdfbe47a-3bbf-45b9-9b6c-a0664dc539d2",
+                "title": "臺北市供氣區域分布圖",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:11:19",
+                "timeEnd": 1509613879,
+                "timeBegin": 1431619200,
+                "resources": {
+                    "d1bea5fa-91b6-4d9f-a0b6-df8c632df1f8": {
+                        "id": "d1bea5fa-91b6-4d9f-a0b6-df8c632df1f8",
+                        "name": "供氣區域.png",
+                        "created": "2017-09-08 16:18:57",
+                        "last_modified": "2017-09-08T16:18:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "19c3ec8b-7743-460e-83db-6ddc51d10a3c": {
+                "name": "19c3ec8b-7743-460e-83db-6ddc51d10a3c",
+                "title": "花博公園展館資訊",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:10:23",
+                "timeEnd": 1509613823,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "f032f632-859e-4e83-a64d-2aaddc200028": {
+                        "id": "f032f632-859e-4e83-a64d-2aaddc200028",
+                        "name": "花博公園展館資訊.xlsx",
+                        "created": "2017-09-11 13:56:43",
+                        "last_modified": "2017-09-11T13:56:43"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "202fe057-b25b-4d14-acf7-0e556823f4d1": {
+                "name": "202fe057-b25b-4d14-acf7-0e556823f4d1",
+                "title": "農業用地允許使用申請",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:09:27",
+                "timeEnd": 1509613767,
+                "timeBegin": 1455811200,
+                "resources": {
+                    "92506c78-3f70-48a3-a80e-e19bdf7c45e3": {
+                        "id": "92506c78-3f70-48a3-a80e-e19bdf7c45e3",
+                        "name": "農業用地允許使用申請.csv",
+                        "created": "2017-09-11 14:46:42",
+                        "last_modified": "2017-09-11T14:46:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c065c245-b56b-4ab3-b5ef-bf27a386f5b2": {
+                "name": "c065c245-b56b-4ab3-b5ef-bf27a386f5b2",
+                "title": "臺北市地下水鑿井業登記資料",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:08:17",
+                "timeEnd": 1509613697,
+                "timeBegin": 1455811200,
+                "resources": {
+                    "36fed982-f176-4405-a7c7-9fdc21811290": {
+                        "id": "36fed982-f176-4405-a7c7-9fdc21811290",
+                        "name": "臺北市地下水鑿井業登記資料.csv",
+                        "created": "2017-09-11 14:52:39",
+                        "last_modified": "2017-09-11T14:52:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fc7ade1c-cca2-429a-91f9-4eaca802c8dd": {
+                "name": "fc7ade1c-cca2-429a-91f9-4eaca802c8dd",
+                "title": "臺北市用電設備檢驗維護業登記資料",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:07:16",
+                "timeEnd": 1509613636,
+                "timeBegin": 1455811200,
+                "resources": {
+                    "e4c89f39-0ab3-4473-9bab-42a3d7e0def4": {
+                        "id": "e4c89f39-0ab3-4473-9bab-42a3d7e0def4",
+                        "name": "臺北市用電設備檢驗維護業登記資料.csv",
+                        "created": "2017-09-11 14:59:33",
+                        "last_modified": "2017-09-11T14:59:33"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e4ac6d68-64ad-49a8-9f2d-48726cea25cf": {
+                "name": "e4ac6d68-64ad-49a8-9f2d-48726cea25cf",
+                "title": "木柵\/南港茶園觀光資料",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:06:14",
+                "timeEnd": 1509613574,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "7cab226d-ce4e-4894-9705-599eecef0e2d": {
+                        "id": "7cab226d-ce4e-4894-9705-599eecef0e2d",
+                        "name": "木柵茶葉專業農戶基本資料.csv",
+                        "created": "2017-09-12 15:00:09",
+                        "last_modified": "2017-09-12T15:00:09"
+                    },
+                    "74a870ef-48ca-4da4-bc48-0be34fe8bd3d": {
+                        "id": "74a870ef-48ca-4da4-bc48-0be34fe8bd3d",
+                        "name": "南港茶園農戶資料.csv",
+                        "created": "2017-09-12 15:00:14",
+                        "last_modified": "2017-09-12T15:00:14"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dc76bd87-2d1e-4c32-85d5-ef606319a4f0": {
+                "name": "dc76bd87-2d1e-4c32-85d5-ef606319a4f0",
+                "title": "臺北市瓦斯供氣戶數及供氣量",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:05:15",
+                "timeEnd": 1509613515,
+                "timeBegin": 1431619200,
+                "resources": {
+                    "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f": {
+                        "id": "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f",
+                        "name": "106年9月臺北市瓦斯供氣戶數及供氣量.xls",
+                        "created": "2017-10-06 15:18:44",
+                        "last_modified": "2017-10-06T15:18:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "bd8a1116-7766-4a42-b253-fd48e43aeffb": {
+                "name": "bd8a1116-7766-4a42-b253-fd48e43aeffb",
+                "title": "臺北市桶裝瓦斯零售商名冊",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 17:03:52",
+                "timeEnd": 1509613432,
+                "timeBegin": 1433088000,
+                "resources": {
+                    "9bfad0fe-848a-4bb5-b2e3-c57d5dc50bdb": {
+                        "id": "9bfad0fe-848a-4bb5-b2e3-c57d5dc50bdb",
+                        "name": "臺北市桶裝瓦斯零售商名冊.csv",
+                        "created": "2017-10-17 14:48:58",
+                        "last_modified": "2017-10-17T14:48:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3e78bffa-3fa3-46d5-a632-df99447de695": {
+                "name": "3e78bffa-3fa3-46d5-a632-df99447de695",
+                "title": "臺北市產業發展獎勵補助計畫---已結案之獲獎勵補助廠商基本資料",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 16:23:10",
+                "timeEnd": 1509610990,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "014c6c34-efdb-4aab-9715-50711f14562e": {
+                        "id": "014c6c34-efdb-4aab-9715-50711f14562e",
+                        "name": "1060911_產發獎助opendata.csv",
+                        "created": "2017-09-12 11:01:25",
+                        "last_modified": "2017-09-12T11:01:25"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e36d0ebc-bf6e-442d-bf39-9d2e239780de": {
+                "name": "e36d0ebc-bf6e-442d-bf39-9d2e239780de",
+                "title": "臺北市中小企業融資貸款",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 16:19:57",
+                "timeEnd": 1509610797,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "04bc415a-31a8-4abb-a810-e096a2625616": {
+                        "id": "04bc415a-31a8-4abb-a810-e096a2625616",
+                        "name": "臺北市中小企業融資貸款(直式).csv",
+                        "created": "2017-11-02 10:32:42",
+                        "last_modified": "2017-11-02T10:32:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8d7527ee-1998-4101-9f96-6fe60137c266": {
+                "name": "8d7527ee-1998-4101-9f96-6fe60137c266",
+                "title": "臺北市青年創業融資貸款",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 16:18:14",
+                "timeEnd": 1509610694,
+                "timeBegin": 1440000000,
+                "resources": {
+                    "6e66d5ea-250e-4078-ac99-6247973a0ddd": {
+                        "id": "6e66d5ea-250e-4078-ac99-6247973a0ddd",
+                        "name": "臺北市青年創業融資貸款(直式).csv",
+                        "created": "2017-11-02 10:32:14",
+                        "last_modified": "2017-11-02T10:32:14"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cb964837-c602-4238-b6c0-f63ad1094d5e": {
+                "name": "cb964837-c602-4238-b6c0-f63ad1094d5e",
+                "title": "臺北市動產擔保登記資料",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 16:05:16",
+                "timeEnd": 1509609916,
+                "timeBegin": 1455811200,
+                "resources": {
+                    "fd1dbcd4-bc91-4ead-abd7-bf28b0876d50": {
+                        "id": "fd1dbcd4-bc91-4ead-abd7-bf28b0876d50",
+                        "name": "臺北市動產擔保登記資料.csv",
+                        "created": "2017-11-02 11:34:21",
+                        "last_modified": "2017-11-02T11:34:21"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "67ff2222-546c-4f81-84c2-7fe4223347cf": {
+                "name": "67ff2222-546c-4f81-84c2-7fe4223347cf",
+                "title": "參與友善廁所店家名單",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 15:48:59",
+                "timeEnd": 1509608939,
+                "timeBegin": 1461600000,
+                "resources": {
+                    "79ebf28d-c5bb-41c2-8deb-aa2fdecabb88": {
+                        "id": "79ebf28d-c5bb-41c2-8deb-aa2fdecabb88",
+                        "name": "參與友善廁所店家名單.pdf",
+                        "created": "2016-04-26 14:46:34",
+                        "last_modified": "2016-04-26T14:46:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0c52a903-769c-4ec8-9f85-d4db81e18990": {
+                "name": "0c52a903-769c-4ec8-9f85-d4db81e18990",
+                "title": "臺北市地下街",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 15:47:52",
+                "timeEnd": 1509608872,
+                "timeBegin": 1461600000,
+                "resources": {
+                    "2901c96f-51f6-468e-9504-c8d7adfa2e83": {
+                        "id": "2901c96f-51f6-468e-9504-c8d7adfa2e83",
+                        "name": "地下街.csv",
+                        "created": "2016-04-26 13:58:15",
+                        "last_modified": "2016-04-26T13:58:15"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "3186cd22-9783-4ddc-bf79-66e3c65e5324": {
+                "name": "3186cd22-9783-4ddc-bf79-66e3c65e5324",
+                "title": "臺北市超級市場",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 15:42:53",
+                "timeEnd": 1509608573,
+                "timeBegin": 1461600000,
+                "resources": {
+                    "44441899-7d26-462a-a672-5cb8a60091b6": {
+                        "id": "44441899-7d26-462a-a672-5cb8a60091b6",
+                        "name": "超級市場(1050725修正版).csv",
+                        "created": "2016-08-05 10:47:48",
+                        "last_modified": "2016-08-05T10:47:48"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cb6c9a25-4d5c-4e31-833d-a98bb1c988db": {
+                "name": "cb6c9a25-4d5c-4e31-833d-a98bb1c988db",
+                "title": "106年度農畜批發市場休市日資訊",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 15:41:40",
+                "timeEnd": 1509608500,
+                "timeBegin": 1492444800,
+                "resources": {
+                    "bd907087-64e2-49b9-8539-5f30f7f3c695": {
+                        "id": "bd907087-64e2-49b9-8539-5f30f7f3c695",
+                        "name": "106年臺北市農漁畜批發市場休市日程表.pdf",
+                        "created": "2017-04-18 14:14:17",
+                        "last_modified": "2017-04-18T14:14:17"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9f0031b7-916f-4377-8981-f994c6598202": {
+                "name": "9f0031b7-916f-4377-8981-f994c6598202",
+                "title": "106年度漁產批發市場休市日資訊",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 15:40:42",
+                "timeEnd": 1509608442,
+                "timeBegin": 1492444800,
+                "resources": {
+                    "f6ca6bfd-85e3-4704-848a-fbe70d410b09": {
+                        "id": "f6ca6bfd-85e3-4704-848a-fbe70d410b09",
+                        "name": "106年臺北市農漁畜批發市場休市日程表.pdf",
+                        "created": "2017-04-18 14:51:40",
+                        "last_modified": "2017-04-18T14:51:40"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6ff1dd71-c432-48cf-8da7-cbd8392f6dc6": {
+                "name": "6ff1dd71-c432-48cf-8da7-cbd8392f6dc6",
+                "title": "106年度花卉批發市場休市日資訊",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 15:39:43",
+                "timeEnd": 1509608383,
+                "timeBegin": 1492444800,
+                "resources": {
+                    "87ac3386-0e9a-49cd-89b4-a92c6fc7396e": {
+                        "id": "87ac3386-0e9a-49cd-89b4-a92c6fc7396e",
+                        "name": "106年臺北市花卉批發市場休市日程表.pdf",
+                        "created": "2017-04-18 14:56:59",
+                        "last_modified": "2017-04-18T14:56:59"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0b11ca69-e33f-415b-9012-b00e3ae10b98": {
+                "name": "0b11ca69-e33f-415b-9012-b00e3ae10b98",
+                "title": "106年度花木批發市場休市日資訊",
+                "organization_id": "379670000G",
+                "metadata_modified": "2017-11-02 15:38:34",
+                "timeEnd": 1509608314,
+                "timeBegin": 1492444800,
+                "resources": {
+                    "eef8a34a-defe-49a3-beda-7c9423711f27": {
+                        "id": "eef8a34a-defe-49a3-beda-7c9423711f27",
+                        "name": "106年臺北市花木批發市場休市日程表.pdf",
+                        "created": "2017-04-18 15:00:22",
+                        "last_modified": "2017-04-18T15:00:22"
                     }
                 },
                 "counters": {
@@ -31651,26 +32175,6 @@
                         "name": "1061016-1061022-10.csv",
                         "created": "2017-10-30 19:52:18",
                         "last_modified": "2017-10-30T19:52:18"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "bd8a1116-7766-4a42-b253-fd48e43aeffb": {
-                "name": "bd8a1116-7766-4a42-b253-fd48e43aeffb",
-                "title": "臺北市桶裝瓦斯零售商名冊",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-10-17 14:48:59",
-                "timeEnd": 1508222939,
-                "timeBegin": 1433088000,
-                "resources": {
-                    "9bfad0fe-848a-4bb5-b2e3-c57d5dc50bdb": {
-                        "id": "9bfad0fe-848a-4bb5-b2e3-c57d5dc50bdb",
-                        "name": "臺北市桶裝瓦斯零售商名冊.csv",
-                        "created": "2017-10-17 14:48:58",
-                        "last_modified": "2017-10-17T14:48:58"
                     }
                 },
                 "counters": {
@@ -31751,26 +32255,6 @@
                         "name": "複本 臺北市公司登記報表10609.xls",
                         "created": "2017-10-17 09:45:31",
                         "last_modified": "2017-10-17T09:45:31"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "dc76bd87-2d1e-4c32-85d5-ef606319a4f0": {
-                "name": "dc76bd87-2d1e-4c32-85d5-ef606319a4f0",
-                "title": "臺北市瓦斯供氣戶數及供氣量",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-10-06 15:18:18",
-                "timeEnd": 1507274324,
-                "timeBegin": 1431619200,
-                "resources": {
-                    "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f": {
-                        "id": "20b22dc5-64c3-4eaf-b6eb-0f88b0a4249f",
-                        "name": "106年9月臺北市瓦斯供氣戶數及供氣量.xls",
-                        "created": "2017-10-06 15:18:44",
-                        "last_modified": "2017-10-06T15:18:44"
                     }
                 },
                 "counters": {
@@ -31936,132 +32420,6 @@
                     "resource_recent": 0
                 }
             },
-            "e4ac6d68-64ad-49a8-9f2d-48726cea25cf": {
-                "name": "e4ac6d68-64ad-49a8-9f2d-48726cea25cf",
-                "title": "木柵\/南港茶園觀光資料",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-12 15:00:09",
-                "timeEnd": 1505199614,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "7cab226d-ce4e-4894-9705-599eecef0e2d": {
-                        "id": "7cab226d-ce4e-4894-9705-599eecef0e2d",
-                        "name": "木柵茶葉專業農戶基本資料.csv",
-                        "created": "2017-09-12 15:00:09",
-                        "last_modified": "2017-09-12T15:00:09"
-                    },
-                    "74a870ef-48ca-4da4-bc48-0be34fe8bd3d": {
-                        "id": "74a870ef-48ca-4da4-bc48-0be34fe8bd3d",
-                        "name": "南港茶園農戶資料.csv",
-                        "created": "2017-09-12 15:00:14",
-                        "last_modified": "2017-09-12T15:00:14"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "cb964837-c602-4238-b6c0-f63ad1094d5e": {
-                "name": "cb964837-c602-4238-b6c0-f63ad1094d5e",
-                "title": "臺北市動產擔保登記資料",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-12 14:36:26",
-                "timeEnd": 1505198191,
-                "timeBegin": 1455811200,
-                "resources": {
-                    "fd1dbcd4-bc91-4ead-abd7-bf28b0876d50": {
-                        "id": "fd1dbcd4-bc91-4ead-abd7-bf28b0876d50",
-                        "name": "動產.csv",
-                        "created": "2017-09-12 14:36:31",
-                        "last_modified": "2017-09-12T14:36:31"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "3e78bffa-3fa3-46d5-a632-df99447de695": {
-                "name": "3e78bffa-3fa3-46d5-a632-df99447de695",
-                "title": "臺北市產業發展獎勵補助計畫---已結案之獲獎勵補助廠商基本資料",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-12 11:01:19",
-                "timeEnd": 1505185285,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "014c6c34-efdb-4aab-9715-50711f14562e": {
-                        "id": "014c6c34-efdb-4aab-9715-50711f14562e",
-                        "name": "1060911_產發獎助opendata.csv",
-                        "created": "2017-09-12 11:01:25",
-                        "last_modified": "2017-09-12T11:01:25"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "fc7ade1c-cca2-429a-91f9-4eaca802c8dd": {
-                "name": "fc7ade1c-cca2-429a-91f9-4eaca802c8dd",
-                "title": "臺北市用電設備檢驗維護業登記資料",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-11 15:00:49",
-                "timeEnd": 1505113249,
-                "timeBegin": 1455811200,
-                "resources": {
-                    "e4c89f39-0ab3-4473-9bab-42a3d7e0def4": {
-                        "id": "e4c89f39-0ab3-4473-9bab-42a3d7e0def4",
-                        "name": "臺北市用電設備檢驗維護業登記資料.csv",
-                        "created": "2017-09-11 14:59:33",
-                        "last_modified": "2017-09-11T14:59:33"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "c065c245-b56b-4ab3-b5ef-bf27a386f5b2": {
-                "name": "c065c245-b56b-4ab3-b5ef-bf27a386f5b2",
-                "title": "臺北市地下水鑿井業登記資料",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-11 14:54:27",
-                "timeEnd": 1505112867,
-                "timeBegin": 1455811200,
-                "resources": {
-                    "36fed982-f176-4405-a7c7-9fdc21811290": {
-                        "id": "36fed982-f176-4405-a7c7-9fdc21811290",
-                        "name": "臺北市地下水鑿井業登記資料.csv",
-                        "created": "2017-09-11 14:52:39",
-                        "last_modified": "2017-09-11T14:52:39"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "202fe057-b25b-4d14-acf7-0e556823f4d1": {
-                "name": "202fe057-b25b-4d14-acf7-0e556823f4d1",
-                "title": "農業用地允許使用申請",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-11 14:46:38",
-                "timeEnd": 1505112402,
-                "timeBegin": 1455811200,
-                "resources": {
-                    "92506c78-3f70-48a3-a80e-e19bdf7c45e3": {
-                        "id": "92506c78-3f70-48a3-a80e-e19bdf7c45e3",
-                        "name": "農業用地允許使用申請.csv",
-                        "created": "2017-09-11 14:46:42",
-                        "last_modified": "2017-09-11T14:46:42"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "35bc2cfb-8c10-4ae6-82a5-7e52adb54c11": {
                 "name": "35bc2cfb-8c10-4ae6-82a5-7e52adb54c11",
                 "title": "臺北市休閒農場基本資料",
@@ -32095,86 +32453,6 @@
                         "name": "複本 1051111臺北市市民農園承租資訊.csv",
                         "created": "2017-09-11 14:40:06",
                         "last_modified": "2017-09-11T14:40:06"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "e36d0ebc-bf6e-442d-bf39-9d2e239780de": {
-                "name": "e36d0ebc-bf6e-442d-bf39-9d2e239780de",
-                "title": "臺北市中小企業融資貸款",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-11 14:28:39",
-                "timeEnd": 1505111324,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "04bc415a-31a8-4abb-a810-e096a2625616": {
-                        "id": "04bc415a-31a8-4abb-a810-e096a2625616",
-                        "name": "臺北市中小企業融資貸款(直式).csv",
-                        "created": "2017-09-11 14:28:44",
-                        "last_modified": "2017-09-11T14:28:44"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "8d7527ee-1998-4101-9f96-6fe60137c266": {
-                "name": "8d7527ee-1998-4101-9f96-6fe60137c266",
-                "title": "臺北市青年創業融資貸款",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-11 14:21:43",
-                "timeEnd": 1505110903,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "6e66d5ea-250e-4078-ac99-6247973a0ddd": {
-                        "id": "6e66d5ea-250e-4078-ac99-6247973a0ddd",
-                        "name": "臺北市青年創業融資貸款(直式).csv",
-                        "created": "2017-09-11 14:19:46",
-                        "last_modified": "2017-09-11T14:19:46"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "19c3ec8b-7743-460e-83db-6ddc51d10a3c": {
-                "name": "19c3ec8b-7743-460e-83db-6ddc51d10a3c",
-                "title": "花博公園展館資訊",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-11 14:01:37",
-                "timeEnd": 1505109697,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "f032f632-859e-4e83-a64d-2aaddc200028": {
-                        "id": "f032f632-859e-4e83-a64d-2aaddc200028",
-                        "name": "花博公園展館資訊.xlsx",
-                        "created": "2017-09-11 13:56:43",
-                        "last_modified": "2017-09-11T13:56:43"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "bdfbe47a-3bbf-45b9-9b6c-a0664dc539d2": {
-                "name": "bdfbe47a-3bbf-45b9-9b6c-a0664dc539d2",
-                "title": "臺北市供氣區域分布圖",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-09-08 16:18:55",
-                "timeEnd": 1504858737,
-                "timeBegin": 1431619200,
-                "resources": {
-                    "d1bea5fa-91b6-4d9f-a0b6-df8c632df1f8": {
-                        "id": "d1bea5fa-91b6-4d9f-a0b6-df8c632df1f8",
-                        "name": "供氣區域.png",
-                        "created": "2017-09-08 16:18:57",
-                        "last_modified": "2017-09-08T16:18:57"
                     }
                 },
                 "counters": {
@@ -32322,66 +32600,6 @@
                     "resource_recent": 0
                 }
             },
-            "6b7c48b4-03a6-4fcc-b172-9cee415c20b9": {
-                "name": "6b7c48b4-03a6-4fcc-b172-9cee415c20b9",
-                "title": "臺北市南港軟體工業園區廠商資料名錄",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-08-23 15:27:23",
-                "timeEnd": 1503473243,
-                "timeBegin": 1455811200,
-                "resources": {
-                    "13f0e277-8eaa-4ca1-ab9f-dcb99d9c9a77": {
-                        "id": "13f0e277-8eaa-4ca1-ab9f-dcb99d9c9a77",
-                        "name": "臺北市南港軟體工業園區廠商資料名錄.csv",
-                        "created": "2017-08-23 15:27:13",
-                        "last_modified": "2017-08-23T15:27:13"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "dd950d9c-01c0-452d-b8d0-f9cf38f3a55d": {
-                "name": "dd950d9c-01c0-452d-b8d0-f9cf38f3a55d",
-                "title": "臺北市大彎南段工業區廠商名錄",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-08-23 15:26:45",
-                "timeEnd": 1503473205,
-                "timeBegin": 1327939200,
-                "resources": {
-                    "c9286411-93cb-4b4b-98f3-d1a0ea241423": {
-                        "id": "c9286411-93cb-4b4b-98f3-d1a0ea241423",
-                        "name": "臺北市大彎南段工業區廠商名錄.csv",
-                        "created": "2017-08-23 15:26:36",
-                        "last_modified": "2017-08-23T15:26:36"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "15c3e1ae-899b-466c-a536-208497e3a369": {
-                "name": "15c3e1ae-899b-466c-a536-208497e3a369",
-                "title": "臺北市內湖科技園區廠商名錄",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-08-23 15:25:39",
-                "timeEnd": 1503473139,
-                "timeBegin": 1327939200,
-                "resources": {
-                    "296acfa2-5d93-4706-ad58-e83cc951863c": {
-                        "id": "296acfa2-5d93-4706-ad58-e83cc951863c",
-                        "name": "臺北市內湖科技園區廠商名錄.csv",
-                        "created": "2017-08-23 15:25:29",
-                        "last_modified": "2017-08-23T15:25:29"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "89f53365-ea7b-4132-b702-27b26a575b3b": {
                 "name": "89f53365-ea7b-4132-b702-27b26a575b3b",
                 "title": "臺北市商圈通訊錄",
@@ -32454,26 +32672,6 @@
                     "resource_recent": 0
                 }
             },
-            "fcb60a5a-c229-419c-ae5c-d093933d75ce": {
-                "name": "fcb60a5a-c229-419c-ae5c-d093933d75ce",
-                "title": "竹子湖海芋觀光農園資料",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-07-14 14:43:51",
-                "timeEnd": 1500014631,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "df7824b9-fcc6-4102-9f69-aec1f7022072": {
-                        "id": "df7824b9-fcc6-4102-9f69-aec1f7022072",
-                        "name": "竹子湖海芋觀光農園資料.csv",
-                        "created": "2017-07-14 14:38:46",
-                        "last_modified": "2017-07-14T14:38:46"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "452ee8bd-6a2a-4f52-881b-3997c55f2f8a": {
                 "name": "452ee8bd-6a2a-4f52-881b-3997c55f2f8a",
                 "title": "臺北市合法資訊休閒業者清冊",
@@ -32487,126 +32685,6 @@
                         "name": "臺北市登記有案資訊休閒業列管清冊10503(修).xlsx",
                         "created": "2016-08-22 09:22:35",
                         "last_modified": "2016-08-22T09:22:35"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "a05ee8ee-d7f1-4024-86c1-e2f97f2120bf": {
-                "name": "a05ee8ee-d7f1-4024-86c1-e2f97f2120bf",
-                "title": "臺北市生技廠商企業名錄",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-05-02 09:40:01",
-                "timeEnd": 1493689201,
-                "timeBegin": 1455811200,
-                "resources": {
-                    "4e4c6bf2-3968-4874-9b07-b8ff76a2ab92": {
-                        "id": "4e4c6bf2-3968-4874-9b07-b8ff76a2ab92",
-                        "name": "105年臺北市生技產業廠商名冊.csv",
-                        "created": "2017-05-02 09:40:01",
-                        "last_modified": "2017-05-02T09:40:01"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "c76776d5-93ac-4957-8a59-40875c7d8d9f": {
-                "name": "c76776d5-93ac-4957-8a59-40875c7d8d9f",
-                "title": "臺北生技獎得獎名單",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-05-01 16:32:42",
-                "timeEnd": 1493627564,
-                "timeBegin": 1440000000,
-                "resources": {
-                    "f3674e00-6c36-4b23-9817-1e29cfe20936": {
-                        "id": "f3674e00-6c36-4b23-9817-1e29cfe20936",
-                        "name": "2016臺北生技獎得獎名單.csv",
-                        "created": "2017-05-01 16:32:44",
-                        "last_modified": "2017-05-01T16:32:44"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "0b11ca69-e33f-415b-9012-b00e3ae10b98": {
-                "name": "0b11ca69-e33f-415b-9012-b00e3ae10b98",
-                "title": "106年度花木批發市場休市日資訊",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-04-18 15:02:07",
-                "timeEnd": 1492498927,
-                "timeBegin": 1492444800,
-                "resources": {
-                    "eef8a34a-defe-49a3-beda-7c9423711f27": {
-                        "id": "eef8a34a-defe-49a3-beda-7c9423711f27",
-                        "name": "106年臺北市花木批發市場休市日程表.pdf",
-                        "created": "2017-04-18 15:00:22",
-                        "last_modified": "2017-04-18T15:00:22"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "6ff1dd71-c432-48cf-8da7-cbd8392f6dc6": {
-                "name": "6ff1dd71-c432-48cf-8da7-cbd8392f6dc6",
-                "title": "106年度花卉批發市場休市日資訊",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-04-18 14:59:27",
-                "timeEnd": 1492498767,
-                "timeBegin": 1492444800,
-                "resources": {
-                    "87ac3386-0e9a-49cd-89b4-a92c6fc7396e": {
-                        "id": "87ac3386-0e9a-49cd-89b4-a92c6fc7396e",
-                        "name": "106年臺北市花卉批發市場休市日程表.pdf",
-                        "created": "2017-04-18 14:56:59",
-                        "last_modified": "2017-04-18T14:56:59"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "9f0031b7-916f-4377-8981-f994c6598202": {
-                "name": "9f0031b7-916f-4377-8981-f994c6598202",
-                "title": "106年度漁產批發市場休市日資訊",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-04-18 14:54:56",
-                "timeEnd": 1492498496,
-                "timeBegin": 1492444800,
-                "resources": {
-                    "f6ca6bfd-85e3-4704-848a-fbe70d410b09": {
-                        "id": "f6ca6bfd-85e3-4704-848a-fbe70d410b09",
-                        "name": "106年臺北市農漁畜批發市場休市日程表.pdf",
-                        "created": "2017-04-18 14:51:40",
-                        "last_modified": "2017-04-18T14:51:40"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "cb6c9a25-4d5c-4e31-833d-a98bb1c988db": {
-                "name": "cb6c9a25-4d5c-4e31-833d-a98bb1c988db",
-                "title": "106年度農畜批發市場休市日資訊",
-                "organization_id": "379670000G",
-                "metadata_modified": "2017-04-18 14:19:36",
-                "timeEnd": 1492496376,
-                "timeBegin": 1492444800,
-                "resources": {
-                    "bd907087-64e2-49b9-8539-5f30f7f3c695": {
-                        "id": "bd907087-64e2-49b9-8539-5f30f7f3c695",
-                        "name": "106年臺北市農漁畜批發市場休市日程表.pdf",
-                        "created": "2017-04-18 14:14:17",
-                        "last_modified": "2017-04-18T14:14:17"
                     }
                 },
                 "counters": {
@@ -32667,26 +32745,6 @@
                         "name": "臺北市登記有案八大行業列管清冊 10503(修).xlsx",
                         "created": "2016-08-22 09:23:05",
                         "last_modified": "2016-08-22T09:23:05"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "3186cd22-9783-4ddc-bf79-66e3c65e5324": {
-                "name": "3186cd22-9783-4ddc-bf79-66e3c65e5324",
-                "title": "臺北市超級市場",
-                "organization_id": "379670000G",
-                "metadata_modified": "2016-08-05 10:48:42",
-                "timeEnd": 1470365322,
-                "timeBegin": 1461600000,
-                "resources": {
-                    "44441899-7d26-462a-a672-5cb8a60091b6": {
-                        "id": "44441899-7d26-462a-a672-5cb8a60091b6",
-                        "name": "超級市場(1050725修正版).csv",
-                        "created": "2016-08-05 10:47:48",
-                        "last_modified": "2016-08-05T10:47:48"
                     }
                 },
                 "counters": {
@@ -34267,46 +34325,6 @@
                     "resource_recent": 0
                 }
             },
-            "0c52a903-769c-4ec8-9f85-d4db81e18990": {
-                "name": "0c52a903-769c-4ec8-9f85-d4db81e18990",
-                "title": "臺北市地下街",
-                "organization_id": "379670000G",
-                "metadata_modified": "2016-04-26 15:23:20",
-                "timeEnd": 1461655400,
-                "timeBegin": 1461600000,
-                "resources": {
-                    "2901c96f-51f6-468e-9504-c8d7adfa2e83": {
-                        "id": "2901c96f-51f6-468e-9504-c8d7adfa2e83",
-                        "name": "地下街.csv",
-                        "created": "2016-04-26 13:58:15",
-                        "last_modified": "2016-04-26T13:58:15"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "67ff2222-546c-4f81-84c2-7fe4223347cf": {
-                "name": "67ff2222-546c-4f81-84c2-7fe4223347cf",
-                "title": "參與友善廁所店家名單",
-                "organization_id": "379670000G",
-                "metadata_modified": "2016-04-26 14:47:41",
-                "timeEnd": 1461653261,
-                "timeBegin": 1461600000,
-                "resources": {
-                    "79ebf28d-c5bb-41c2-8deb-aa2fdecabb88": {
-                        "id": "79ebf28d-c5bb-41c2-8deb-aa2fdecabb88",
-                        "name": "參與友善廁所店家名單.pdf",
-                        "created": "2016-04-26 14:46:34",
-                        "last_modified": "2016-04-26T14:46:34"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "4a50dd4a-b09c-47c8-9374-fc04a9e59cc9": {
                 "name": "4a50dd4a-b09c-47c8-9374-fc04a9e59cc9",
                 "title": "臺北市批發市場",
@@ -35611,8 +35629,8 @@
                 "name": "b796f87a-0ed8-4e57-89f6-225a4941b1ed",
                 "title": "1999派工資料",
                 "organization_id": "379220000A",
-                "metadata_modified": "2017-10-03 13:43:25",
-                "timeEnd": 1507009415,
+                "metadata_modified": "2017-11-02 11:46:57",
+                "timeEnd": 1509594417,
                 "timeBegin": 1432224000,
                 "resources": {
                     "b7f17d01-30b0-4978-840b-e039b98103af": {
@@ -35722,6 +35740,12 @@
                         "name": "open1999_201709.csv",
                         "created": "2017-10-03 13:43:35",
                         "last_modified": "2017-10-03T13:43:35"
+                    },
+                    "e3dea2f1-f597-4a4c-a42a-cc89df21272f": {
+                        "id": "e3dea2f1-f597-4a4c-a42a-cc89df21272f",
+                        "name": "open1999_201710.csv",
+                        "created": "2017-11-02 11:46:56",
+                        "last_modified": "2017-11-02T11:46:56"
                     }
                 },
                 "counters": {
@@ -38989,12 +39013,12 @@
     },
     "臺北市政府秘書處": {
         "datasets": {
-            "c316cffe-45f9-4890-953b-2ca202c81b75": {
-                "name": "c316cffe-45f9-4890-953b-2ca202c81b75",
-                "title": "臺北市年鑑2016",
+            "4c812503-c284-4414-9939-ac5c9061f087": {
+                "name": "4c812503-c284-4414-9939-ac5c9061f087",
+                "title": "臺北市政府公報(106年度)",
                 "organization_id": "379010000A",
-                "metadata_modified": "2017-11-01 17:16:55",
-                "timeEnd": 1509527815,
+                "metadata_modified": "2017-11-02 11:10:33",
+                "timeEnd": 1509592233,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -39002,12 +39026,12 @@
                     "resource_recent": 0
                 }
             },
-            "4c812503-c284-4414-9939-ac5c9061f087": {
-                "name": "4c812503-c284-4414-9939-ac5c9061f087",
-                "title": "臺北市政府公報(106年度)",
+            "c316cffe-45f9-4890-953b-2ca202c81b75": {
+                "name": "c316cffe-45f9-4890-953b-2ca202c81b75",
+                "title": "臺北市年鑑2016",
                 "organization_id": "379010000A",
-                "metadata_modified": "2017-11-01 09:56:48",
-                "timeEnd": 1509501408,
+                "metadata_modified": "2017-11-01 17:16:55",
+                "timeEnd": 1509527815,
                 "timeBegin": 0,
                 "resources": [],
                 "counters": {
@@ -40040,6 +40064,186 @@
     },
     "臺北市政府衛生局": {
         "datasets": {
+            "289439b3-35c8-42b3-a4c7-db39df17dcd2": {
+                "name": "289439b3-35c8-42b3-a4c7-db39df17dcd2",
+                "title": "臺北市醫療糾紛申訴案件統計",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 14:12:34",
+                "timeEnd": 1509603154,
+                "timeBegin": 1444752000,
+                "resources": {
+                    "a9d1c893-77da-4bfc-b668-db69125302ee": {
+                        "id": "a9d1c893-77da-4bfc-b668-db69125302ee",
+                        "name": "醫療爭議申訴案件統計表.pdf",
+                        "created": "2015-10-14 10:35:45",
+                        "last_modified": "2015-10-14T10:35:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9f8c6308-ebbc-4958-b3fc-c1c18c1afba5": {
+                "name": "9f8c6308-ebbc-4958-b3fc-c1c18c1afba5",
+                "title": "衛生局推行性別主流化相關資料",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 14:08:43",
+                "timeEnd": 1509602923,
+                "timeBegin": 0,
+                "resources": {
+                    "ba5bf4f6-4e5d-4a8a-ab62-c8ad73d2c12e": {
+                        "id": "ba5bf4f6-4e5d-4a8a-ab62-c8ad73d2c12e",
+                        "name": "衛生局推行性別主流化相關資料",
+                        "created": "2015-12-29 18:16:39",
+                        "last_modified": "2015-12-29T18:16:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "709dfc7b-d23e-4147-9007-b8d3a2f5379d": {
+                "name": "709dfc7b-d23e-4147-9007-b8d3a2f5379d",
+                "title": "臺北市健康促進醫院",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 13:54:35",
+                "timeEnd": 1509602075,
+                "timeBegin": 1370793600,
+                "resources": {
+                    "6af4a55f-74d6-4be3-8533-9763ed1a2b1c": {
+                        "id": "6af4a55f-74d6-4be3-8533-9763ed1a2b1c",
+                        "name": "臺北市健康促進醫院_10602.csv",
+                        "created": "2017-02-21 20:55:20",
+                        "last_modified": "2017-02-21T20:55:20"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "b747394c-9e67-4b1d-8d1e-bc64f143d06a": {
+                "name": "b747394c-9e67-4b1d-8d1e-bc64f143d06a",
+                "title": "臺北市急救責任醫院",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 13:53:14",
+                "timeEnd": 1509601994,
+                "timeBegin": 1370793600,
+                "resources": {
+                    "3a4930ba-474f-497b-8916-4e9d342f5035": {
+                        "id": "3a4930ba-474f-497b-8916-4e9d342f5035",
+                        "name": "臺北市急救責任醫院.csv",
+                        "created": "2017-02-22 14:20:02",
+                        "last_modified": "2017-02-22T14:20:02"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "03e33222-6665-4b90-9e87-1eeb0089cde3": {
+                "name": "03e33222-6665-4b90-9e87-1eeb0089cde3",
+                "title": "臺北市救護車資料",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 13:49:56",
+                "timeEnd": 1509601796,
+                "timeBegin": 1330617600,
+                "resources": {
+                    "e29d7b63-48cf-4cec-bdd0-9790d903ec90": {
+                        "id": "e29d7b63-48cf-4cec-bdd0-9790d903ec90",
+                        "name": "10602市民生活資料庫(救護車單位別).csv",
+                        "created": "2017-02-22 14:41:28",
+                        "last_modified": "2017-02-22T14:41:28"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d841d102-800e-4571-b952-d27941fb1602": {
+                "name": "d841d102-800e-4571-b952-d27941fb1602",
+                "title": "臺北市通過餐飲衛生管理分級評核業者名單",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 11:32:11",
+                "timeEnd": 1509593531,
+                "timeBegin": 1454515200,
+                "resources": {
+                    "c6a9e5b5-afe5-47a1-8570-f09c3007d996": {
+                        "id": "c6a9e5b5-afe5-47a1-8570-f09c3007d996",
+                        "name": "104年度通過餐飲分級業者名單（優良）.csv",
+                        "created": "2016-02-25 09:52:38",
+                        "last_modified": "2016-02-25T09:52:38"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "08b85462-bd2b-4912-9f72-721797d4a512": {
+                "name": "08b85462-bd2b-4912-9f72-721797d4a512",
+                "title": "食品資訊公開專區",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 11:29:23",
+                "timeEnd": 1509593363,
+                "timeBegin": 1451491200,
+                "resources": {
+                    "b576935c-aa01-4956-ab6d-cd237cddfa5b": {
+                        "id": "b576935c-aa01-4956-ab6d-cd237cddfa5b",
+                        "name": "食品資訊公開專區",
+                        "created": "2015-12-31 16:15:14",
+                        "last_modified": "2015-12-31T16:15:14"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e6a88956-f8b5-4dcc-ae40-84707a2f8c8c": {
+                "name": "e6a88956-f8b5-4dcc-ae40-84707a2f8c8c",
+                "title": "臺北市醫療違規裁處案件統計",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 11:23:05",
+                "timeEnd": 1509592985,
+                "timeBegin": 1444233600,
+                "resources": {
+                    "3761afee-9059-4630-bb41-1c57682cff10": {
+                        "id": "3761afee-9059-4630-bb41-1c57682cff10",
+                        "name": "105年因違反醫療法經衛生局裁處罰鍰之醫療機構名冊.csv",
+                        "created": "2016-07-07 09:29:41",
+                        "last_modified": "2016-07-07T09:29:41"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "ffdd5753-30db-4c38-b65f-b77892773d60": {
+                "name": "ffdd5753-30db-4c38-b65f-b77892773d60",
+                "title": "臺北市公私立醫療院所",
+                "organization_id": "379140000I",
+                "metadata_modified": "2017-11-02 11:20:46",
+                "timeEnd": 1509592846,
+                "timeBegin": 1325520000,
+                "resources": {
+                    "67e61ef0-7829-43e6-84b0-574e3d13a67b": {
+                        "id": "67e61ef0-7829-43e6-84b0-574e3d13a67b",
+                        "name": "臺北市公私立醫療院所_10607.csv",
+                        "created": "2017-07-31 17:04:57",
+                        "last_modified": "2017-07-31T17:04:57"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "6fa3ed67-e60e-44d9-a366-ce7008e322de": {
                 "name": "6fa3ed67-e60e-44d9-a366-ce7008e322de",
                 "title": "臺北市藥局",
@@ -40518,26 +40722,6 @@
                     "resource_recent": 0
                 }
             },
-            "ffdd5753-30db-4c38-b65f-b77892773d60": {
-                "name": "ffdd5753-30db-4c38-b65f-b77892773d60",
-                "title": "臺北市公私立醫療院所",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-07-31 17:04:57",
-                "timeEnd": 1501491897,
-                "timeBegin": 1325520000,
-                "resources": {
-                    "67e61ef0-7829-43e6-84b0-574e3d13a67b": {
-                        "id": "67e61ef0-7829-43e6-84b0-574e3d13a67b",
-                        "name": "臺北市公私立醫療院所_10607.csv",
-                        "created": "2017-07-31 17:04:57",
-                        "last_modified": "2017-07-31T17:04:57"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "2c2b4b96-2829-4de5-8bcc-655bea9a96ff": {
                 "name": "2c2b4b96-2829-4de5-8bcc-655bea9a96ff",
                 "title": "臺北市心理所",
@@ -40599,26 +40783,6 @@
                 "timeEnd": 1500262555,
                 "timeBegin": 0,
                 "resources": [],
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "9f8c6308-ebbc-4958-b3fc-c1c18c1afba5": {
-                "name": "9f8c6308-ebbc-4958-b3fc-c1c18c1afba5",
-                "title": "衛生局推行性別主流化相關資料",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-04-19 15:13:33",
-                "timeEnd": 1492586013,
-                "timeBegin": 0,
-                "resources": {
-                    "ba5bf4f6-4e5d-4a8a-ab62-c8ad73d2c12e": {
-                        "id": "ba5bf4f6-4e5d-4a8a-ab62-c8ad73d2c12e",
-                        "name": "衛生局推行性別主流化相關資料",
-                        "created": "2015-12-29 18:16:39",
-                        "last_modified": "2015-12-29T18:16:39"
-                    }
-                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -40980,86 +41144,6 @@
                     "resource_recent": 0
                 }
             },
-            "08b85462-bd2b-4912-9f72-721797d4a512": {
-                "name": "08b85462-bd2b-4912-9f72-721797d4a512",
-                "title": "食品資訊公開專區",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-03-13 20:13:31",
-                "timeEnd": 1489407211,
-                "timeBegin": 1451491200,
-                "resources": {
-                    "b576935c-aa01-4956-ab6d-cd237cddfa5b": {
-                        "id": "b576935c-aa01-4956-ab6d-cd237cddfa5b",
-                        "name": "食品資訊公開專區",
-                        "created": "2015-12-31 16:15:14",
-                        "last_modified": "2015-12-31T16:15:14"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "d841d102-800e-4571-b952-d27941fb1602": {
-                "name": "d841d102-800e-4571-b952-d27941fb1602",
-                "title": "臺北市通過餐飲衛生管理分級評核業者名單",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-03-13 20:04:30",
-                "timeEnd": 1489406670,
-                "timeBegin": 1454515200,
-                "resources": {
-                    "c6a9e5b5-afe5-47a1-8570-f09c3007d996": {
-                        "id": "c6a9e5b5-afe5-47a1-8570-f09c3007d996",
-                        "name": "104年度通過餐飲分級業者名單（優良）.csv",
-                        "created": "2016-02-25 09:52:38",
-                        "last_modified": "2016-02-25T09:52:38"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "03e33222-6665-4b90-9e87-1eeb0089cde3": {
-                "name": "03e33222-6665-4b90-9e87-1eeb0089cde3",
-                "title": "臺北市救護車資料",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-02-22 14:41:27",
-                "timeEnd": 1487745688,
-                "timeBegin": 1330617600,
-                "resources": {
-                    "e29d7b63-48cf-4cec-bdd0-9790d903ec90": {
-                        "id": "e29d7b63-48cf-4cec-bdd0-9790d903ec90",
-                        "name": "10602市民生活資料庫(救護車單位別).csv",
-                        "created": "2017-02-22 14:41:28",
-                        "last_modified": "2017-02-22T14:41:28"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "b747394c-9e67-4b1d-8d1e-bc64f143d06a": {
-                "name": "b747394c-9e67-4b1d-8d1e-bc64f143d06a",
-                "title": "臺北市急救責任醫院",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-02-22 14:20:01",
-                "timeEnd": 1487744402,
-                "timeBegin": 1370793600,
-                "resources": {
-                    "3a4930ba-474f-497b-8916-4e9d342f5035": {
-                        "id": "3a4930ba-474f-497b-8916-4e9d342f5035",
-                        "name": "臺北市急救責任醫院.csv",
-                        "created": "2017-02-22 14:20:02",
-                        "last_modified": "2017-02-22T14:20:02"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "9a1aefde-2e4a-467c-9ec4-256e33ad6df0": {
                 "name": "9a1aefde-2e4a-467c-9ec4-256e33ad6df0",
                 "title": "臺北市老人健康檢查特約醫院",
@@ -41099,26 +41183,6 @@
                         "name": "三高成果統計表(105年1月至12月).csv",
                         "created": "2017-02-21 20:47:54",
                         "last_modified": "2017-02-21T20:47:54"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "709dfc7b-d23e-4147-9007-b8d3a2f5379d": {
-                "name": "709dfc7b-d23e-4147-9007-b8d3a2f5379d",
-                "title": "臺北市健康促進醫院",
-                "organization_id": "379140000I",
-                "metadata_modified": "2017-02-21 20:55:20",
-                "timeEnd": 1487681720,
-                "timeBegin": 1370793600,
-                "resources": {
-                    "6af4a55f-74d6-4be3-8533-9763ed1a2b1c": {
-                        "id": "6af4a55f-74d6-4be3-8533-9763ed1a2b1c",
-                        "name": "臺北市健康促進醫院_10602.csv",
-                        "created": "2017-02-21 20:55:20",
-                        "last_modified": "2017-02-21T20:55:20"
                     }
                 },
                 "counters": {
@@ -41262,26 +41326,6 @@
                     "resource_recent": 0
                 }
             },
-            "e6a88956-f8b5-4dcc-ae40-84707a2f8c8c": {
-                "name": "e6a88956-f8b5-4dcc-ae40-84707a2f8c8c",
-                "title": "臺北市醫療違規裁處案件統計",
-                "organization_id": "379140000I",
-                "metadata_modified": "2016-07-07 09:29:41",
-                "timeEnd": 1467854981,
-                "timeBegin": 1444233600,
-                "resources": {
-                    "3761afee-9059-4630-bb41-1c57682cff10": {
-                        "id": "3761afee-9059-4630-bb41-1c57682cff10",
-                        "name": "105年因違反醫療法經衛生局裁處罰鍰之醫療機構名冊.csv",
-                        "created": "2016-07-07 09:29:41",
-                        "last_modified": "2016-07-07T09:29:41"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
             "c1c2e606-fb14-45f5-9915-94e9bb6db865": {
                 "name": "c1c2e606-fb14-45f5-9915-94e9bb6db865",
                 "title": "北市醫學雜誌",
@@ -41308,26 +41352,6 @@
                         "name": "臺北市立聯合醫院電子門診表",
                         "created": "2015-11-17 14:38:54",
                         "last_modified": "2015-11-17T14:38:54"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "289439b3-35c8-42b3-a4c7-db39df17dcd2": {
-                "name": "289439b3-35c8-42b3-a4c7-db39df17dcd2",
-                "title": "臺北市醫療糾紛申訴案件統計",
-                "organization_id": "379140000I",
-                "metadata_modified": "2016-05-13 11:37:39",
-                "timeEnd": 1463110659,
-                "timeBegin": 1444752000,
-                "resources": {
-                    "a9d1c893-77da-4bfc-b668-db69125302ee": {
-                        "id": "a9d1c893-77da-4bfc-b668-db69125302ee",
-                        "name": "醫療爭議申訴案件統計表.pdf",
-                        "created": "2015-10-14 10:35:45",
-                        "last_modified": "2015-10-14T10:35:45"
                     }
                 },
                 "counters": {
@@ -46338,6 +46362,366 @@
     },
     "臺北市政府財政局": {
         "datasets": {
+            "a4e08903-f426-4e31-8c8f-b5a8609b33b6": {
+                "name": "a4e08903-f426-4e31-8c8f-b5a8609b33b6",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─本月數106年5月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 17:16:20",
+                "timeEnd": 1509614180,
+                "timeBegin": 0,
+                "resources": {
+                    "9cbbe86e-1c83-4558-bf60-4d28f27771b5": {
+                        "id": "9cbbe86e-1c83-4558-bf60-4d28f27771b5",
+                        "name": "1.實徵淨額與預算數及上年同期比較─本月數10605.xlsx",
+                        "created": "2017-11-02 16:56:49",
+                        "last_modified": "2017-11-02T16:56:49"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "430edf00-94c4-4f67-b05b-903e6eb839c4": {
+                "name": "430edf00-94c4-4f67-b05b-903e6eb839c4",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─累計數106年5月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 17:16:19",
+                "timeEnd": 1509614179,
+                "timeBegin": 0,
+                "resources": {
+                    "f93ca5f3-2513-4ff6-9dcc-4ec57d998d90": {
+                        "id": "f93ca5f3-2513-4ff6-9dcc-4ec57d998d90",
+                        "name": "2.實徵淨額與預算數及上年同期比較─累計數10605.xlsx",
+                        "created": "2017-11-02 16:58:16",
+                        "last_modified": "2017-11-02T16:58:16"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "e13238be-1159-4198-9b6b-0648e75426f1": {
+                "name": "e13238be-1159-4198-9b6b-0648e75426f1",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較增減原因分析說明106年5月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 17:16:18",
+                "timeEnd": 1509614178,
+                "timeBegin": 0,
+                "resources": {
+                    "3fe9a865-f1b9-48fd-9a15-e3575419c8ea": {
+                        "id": "3fe9a865-f1b9-48fd-9a15-e3575419c8ea",
+                        "name": "3.增減原因分析說明10605.xlsx",
+                        "created": "2017-11-02 17:07:39",
+                        "last_modified": "2017-11-02T17:07:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "4428ed8f-4322-4b74-bb99-6c59d6c3921e": {
+                "name": "4428ed8f-4322-4b74-bb99-6c59d6c3921e",
+                "title": "臺北市三年來各項稅捐實徵淨額增減比較106年5月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 17:16:01",
+                "timeEnd": 1509614161,
+                "timeBegin": 0,
+                "resources": {
+                    "0cf1b8b7-a7dc-4755-aae4-9fd2c164bd50": {
+                        "id": "0cf1b8b7-a7dc-4755-aae4-9fd2c164bd50",
+                        "name": "4.三年來各項稅捐實徵淨額增減比較10605.xlsx",
+                        "created": "2017-11-02 17:11:34",
+                        "last_modified": "2017-11-02T17:11:34"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "38234a09-10c1-4697-afdc-d7f6a41b04e3": {
+                "name": "38234a09-10c1-4697-afdc-d7f6a41b04e3",
+                "title": "臺北市各項稅捐解庫情形106年5月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 17:16:00",
+                "timeEnd": 1509614160,
+                "timeBegin": 0,
+                "resources": {
+                    "225537de-a841-45ad-8575-29fb288397d2": {
+                        "id": "225537de-a841-45ad-8575-29fb288397d2",
+                        "name": "5.各項稅捐解庫情形10605.xlsx",
+                        "created": "2017-11-02 17:12:58",
+                        "last_modified": "2017-11-02T17:12:58"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "a55448ca-d545-4c98-842e-83e796a27ba1": {
+                "name": "a55448ca-d545-4c98-842e-83e796a27ba1",
+                "title": "臺北市各項稅捐退還以前年度歲入款106年5月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 17:15:57",
+                "timeEnd": 1509614157,
+                "timeBegin": 0,
+                "resources": {
+                    "36015a33-5de9-4d13-ae9a-b725da36b4db": {
+                        "id": "36015a33-5de9-4d13-ae9a-b725da36b4db",
+                        "name": "6.退還以前年度歲入款10605.xlsx",
+                        "created": "2017-11-02 17:15:37",
+                        "last_modified": "2017-11-02T17:15:37"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "cb47d58b-3234-4445-af03-f70822820e7e": {
+                "name": "cb47d58b-3234-4445-af03-f70822820e7e",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─本月數106年4月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 16:38:26",
+                "timeEnd": 1509611906,
+                "timeBegin": 0,
+                "resources": {
+                    "bb2b6b42-7507-4ac7-bed0-9f2d952bdf88": {
+                        "id": "bb2b6b42-7507-4ac7-bed0-9f2d952bdf88",
+                        "name": "1.實徵淨額與預算數及上年同期比較─本月數10604.xlsx",
+                        "created": "2017-11-02 16:22:41",
+                        "last_modified": "2017-11-02T16:22:41"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "fdcd184a-6fa7-4ed7-9c57-356d5023ee96": {
+                "name": "fdcd184a-6fa7-4ed7-9c57-356d5023ee96",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─累計數106年4月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 16:38:26",
+                "timeEnd": 1509611906,
+                "timeBegin": 0,
+                "resources": {
+                    "51eacb05-0c93-47b8-af13-2a5e181f5fd7": {
+                        "id": "51eacb05-0c93-47b8-af13-2a5e181f5fd7",
+                        "name": "2.實徵淨額與預算數及上年同期比較─累計數10604.xlsx",
+                        "created": "2017-11-02 16:25:05",
+                        "last_modified": "2017-11-02T16:25:05"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "84474573-a7f0-4467-82ae-fe371a0a1f63": {
+                "name": "84474573-a7f0-4467-82ae-fe371a0a1f63",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較增減原因分析說明106年4月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 16:38:24",
+                "timeEnd": 1509611904,
+                "timeBegin": 0,
+                "resources": {
+                    "7c799b03-62e2-4895-91f8-4813f6e20d0c": {
+                        "id": "7c799b03-62e2-4895-91f8-4813f6e20d0c",
+                        "name": "3.增減原因分析說明10604.xlsx",
+                        "created": "2017-11-02 16:26:41",
+                        "last_modified": "2017-11-02T16:26:41"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c4cb3338-f31c-49df-9c49-e753eee01346": {
+                "name": "c4cb3338-f31c-49df-9c49-e753eee01346",
+                "title": "臺北市三年來各項稅捐實徵淨額增減比較106年4月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 16:38:23",
+                "timeEnd": 1509611903,
+                "timeBegin": 0,
+                "resources": {
+                    "78639931-e2a3-42c9-a1c9-c25b27b369c4": {
+                        "id": "78639931-e2a3-42c9-a1c9-c25b27b369c4",
+                        "name": "4.三年來各項稅捐實徵淨額增減比較10604.xlsx",
+                        "created": "2017-11-02 16:28:10",
+                        "last_modified": "2017-11-02T16:28:10"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "9551b907-0cfc-462c-bf74-799659993090": {
+                "name": "9551b907-0cfc-462c-bf74-799659993090",
+                "title": "臺北市各項稅捐解庫情形106年4月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 16:38:19",
+                "timeEnd": 1509611899,
+                "timeBegin": 0,
+                "resources": {
+                    "53068c4d-6c63-4247-b6b8-883c1c74dec2": {
+                        "id": "53068c4d-6c63-4247-b6b8-883c1c74dec2",
+                        "name": "5.各項稅捐解庫情形10604.xlsx",
+                        "created": "2017-11-02 16:36:28",
+                        "last_modified": "2017-11-02T16:36:28"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dd56d2f4-8f4a-417f-82ee-0d6a6e23fc5d": {
+                "name": "dd56d2f4-8f4a-417f-82ee-0d6a6e23fc5d",
+                "title": "臺北市各項稅捐退還以前年度歲入款106年4月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 16:38:18",
+                "timeEnd": 1509611898,
+                "timeBegin": 0,
+                "resources": {
+                    "e4b59714-9f88-4487-83c4-8e977edaec6c": {
+                        "id": "e4b59714-9f88-4487-83c4-8e977edaec6c",
+                        "name": "6.退還以前年度歲入款10604.xlsx",
+                        "created": "2017-11-02 16:38:03",
+                        "last_modified": "2017-11-02T16:38:03"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "f73bfcbe-4d1e-40ae-a1a6-5ac0cc716dd4": {
+                "name": "f73bfcbe-4d1e-40ae-a1a6-5ac0cc716dd4",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─本月數106年1月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 10:01:56",
+                "timeEnd": 1509588116,
+                "timeBegin": 0,
+                "resources": {
+                    "a2cf3d51-2428-405d-890b-a06e982e5dda": {
+                        "id": "a2cf3d51-2428-405d-890b-a06e982e5dda",
+                        "name": "1.實徵淨額與預算數及上年同期比較─本月數10601.xlsx",
+                        "created": "2017-10-31 17:28:05",
+                        "last_modified": "2017-10-31T17:28:05"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "d6cab799-1eaa-4952-b1eb-4c6d1e1fd6f4": {
+                "name": "d6cab799-1eaa-4952-b1eb-4c6d1e1fd6f4",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─累計數106年1月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 10:01:10",
+                "timeEnd": 1509588070,
+                "timeBegin": 0,
+                "resources": {
+                    "1e787cdb-df16-4590-9859-bf9bc6d9293b": {
+                        "id": "1e787cdb-df16-4590-9859-bf9bc6d9293b",
+                        "name": "2.實徵淨額與預算數及上年同期比較─累計數10601.xlsx",
+                        "created": "2017-10-31 17:30:12",
+                        "last_modified": "2017-10-31T17:30:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "dda841a2-123d-4b5c-ac4c-699b7cf60231": {
+                "name": "dda841a2-123d-4b5c-ac4c-699b7cf60231",
+                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較增減原因分析說明106年1月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 10:00:17",
+                "timeEnd": 1509588017,
+                "timeBegin": 0,
+                "resources": {
+                    "775a26af-3ab0-4720-af07-8055428ca848": {
+                        "id": "775a26af-3ab0-4720-af07-8055428ca848",
+                        "name": "3.增減原因分析說明10601.xlsx",
+                        "created": "2017-10-31 17:32:20",
+                        "last_modified": "2017-10-31T17:32:20"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "418e061f-fa86-40d3-8016-74a3eb5d02c1": {
+                "name": "418e061f-fa86-40d3-8016-74a3eb5d02c1",
+                "title": "臺北市各項稅捐解庫情形106年1月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 09:58:51",
+                "timeEnd": 1509587931,
+                "timeBegin": 0,
+                "resources": {
+                    "92537c8e-14bf-43de-baeb-938008a454e3": {
+                        "id": "92537c8e-14bf-43de-baeb-938008a454e3",
+                        "name": "5.各項稅捐解庫情形10601.xlsx",
+                        "created": "2017-10-31 17:38:02",
+                        "last_modified": "2017-10-31T17:38:02"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6be6e459-f463-4852-a5a9-f83ee1e7dbe0": {
+                "name": "6be6e459-f463-4852-a5a9-f83ee1e7dbe0",
+                "title": "臺北市三年來各項稅捐實徵淨額增減比較106年1月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 09:58:07",
+                "timeEnd": 1509587887,
+                "timeBegin": 0,
+                "resources": {
+                    "82a231d8-1581-42cc-9b8d-2fe75c2b05ec": {
+                        "id": "82a231d8-1581-42cc-9b8d-2fe75c2b05ec",
+                        "name": "4.三年來各項稅捐實徵淨額增減比較10601.xlsx",
+                        "created": "2017-10-31 17:36:13",
+                        "last_modified": "2017-10-31T17:36:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7192caba-15ce-448e-b9e7-f0f06b130735": {
+                "name": "7192caba-15ce-448e-b9e7-f0f06b130735",
+                "title": "臺北市各項稅捐退還以前年度歲入款106年1月",
+                "organization_id": "379030000D",
+                "metadata_modified": "2017-11-02 09:57:15",
+                "timeEnd": 1509587835,
+                "timeBegin": 0,
+                "resources": {
+                    "9e301931-72a1-4566-ae19-a07e12bb6fce": {
+                        "id": "9e301931-72a1-4566-ae19-a07e12bb6fce",
+                        "name": "6.退還以前年度歲入款10601.xlsx",
+                        "created": "2017-10-31 17:42:01",
+                        "last_modified": "2017-10-31T17:42:01"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "17a93557-53e0-4fa7-bdee-be7cc74c31d4": {
                 "name": "17a93557-53e0-4fa7-bdee-be7cc74c31d4",
                 "title": "臺北市政府辦理民間公共建設案件統計表-截至1060930",
@@ -46631,126 +47015,6 @@
                         "name": "1.實徵淨額與預算數及上年同期比較─本月數10603.xlsx",
                         "created": "2017-10-31 18:51:08",
                         "last_modified": "2017-10-31T18:51:08"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "7192caba-15ce-448e-b9e7-f0f06b130735": {
-                "name": "7192caba-15ce-448e-b9e7-f0f06b130735",
-                "title": "臺北市各項稅捐退還以前年度歲入款106年1月",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-10-31 17:51:56",
-                "timeEnd": 1509443516,
-                "timeBegin": 0,
-                "resources": {
-                    "9e301931-72a1-4566-ae19-a07e12bb6fce": {
-                        "id": "9e301931-72a1-4566-ae19-a07e12bb6fce",
-                        "name": "6.退還以前年度歲入款10601.xlsx",
-                        "created": "2017-10-31 17:42:01",
-                        "last_modified": "2017-10-31T17:42:01"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "418e061f-fa86-40d3-8016-74a3eb5d02c1": {
-                "name": "418e061f-fa86-40d3-8016-74a3eb5d02c1",
-                "title": "臺北市各項稅捐解庫情形106年1月",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-10-31 17:45:39",
-                "timeEnd": 1509443139,
-                "timeBegin": 0,
-                "resources": {
-                    "92537c8e-14bf-43de-baeb-938008a454e3": {
-                        "id": "92537c8e-14bf-43de-baeb-938008a454e3",
-                        "name": "5.各項稅捐解庫情形10601.xlsx",
-                        "created": "2017-10-31 17:38:02",
-                        "last_modified": "2017-10-31T17:38:02"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "6be6e459-f463-4852-a5a9-f83ee1e7dbe0": {
-                "name": "6be6e459-f463-4852-a5a9-f83ee1e7dbe0",
-                "title": "臺北市三年來各項稅捐實徵淨額增減比較106年1月",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-10-31 17:45:35",
-                "timeEnd": 1509443135,
-                "timeBegin": 0,
-                "resources": {
-                    "82a231d8-1581-42cc-9b8d-2fe75c2b05ec": {
-                        "id": "82a231d8-1581-42cc-9b8d-2fe75c2b05ec",
-                        "name": "4.三年來各項稅捐實徵淨額增減比較10601.xlsx",
-                        "created": "2017-10-31 17:36:13",
-                        "last_modified": "2017-10-31T17:36:13"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "dda841a2-123d-4b5c-ac4c-699b7cf60231": {
-                "name": "dda841a2-123d-4b5c-ac4c-699b7cf60231",
-                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較增減原因分析說明106年1月",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-10-31 17:45:31",
-                "timeEnd": 1509443131,
-                "timeBegin": 0,
-                "resources": {
-                    "775a26af-3ab0-4720-af07-8055428ca848": {
-                        "id": "775a26af-3ab0-4720-af07-8055428ca848",
-                        "name": "3.增減原因分析說明10601.xlsx",
-                        "created": "2017-10-31 17:32:20",
-                        "last_modified": "2017-10-31T17:32:20"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "d6cab799-1eaa-4952-b1eb-4c6d1e1fd6f4": {
-                "name": "d6cab799-1eaa-4952-b1eb-4c6d1e1fd6f4",
-                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─累計數106年1月",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-10-31 17:45:22",
-                "timeEnd": 1509443122,
-                "timeBegin": 0,
-                "resources": {
-                    "1e787cdb-df16-4590-9859-bf9bc6d9293b": {
-                        "id": "1e787cdb-df16-4590-9859-bf9bc6d9293b",
-                        "name": "2.實徵淨額與預算數及上年同期比較─累計數10601.xlsx",
-                        "created": "2017-10-31 17:30:12",
-                        "last_modified": "2017-10-31T17:30:12"
-                    }
-                },
-                "counters": {
-                    "resource_total": 0,
-                    "resource_recent": 0
-                }
-            },
-            "f73bfcbe-4d1e-40ae-a1a6-5ac0cc716dd4": {
-                "name": "f73bfcbe-4d1e-40ae-a1a6-5ac0cc716dd4",
-                "title": "臺北市各項稅捐實徵淨額與預算數及上年同期比較─本月數106年1月",
-                "organization_id": "379030000D",
-                "metadata_modified": "2017-10-31 17:45:21",
-                "timeEnd": 1509443121,
-                "timeBegin": 0,
-                "resources": {
-                    "a2cf3d51-2428-405d-890b-a06e982e5dda": {
-                        "id": "a2cf3d51-2428-405d-890b-a06e982e5dda",
-                        "name": "1.實徵淨額與預算數及上年同期比較─本月數10601.xlsx",
-                        "created": "2017-10-31 17:28:05",
-                        "last_modified": "2017-10-31T17:28:05"
                     }
                 },
                 "counters": {
@@ -48525,7 +48789,7 @@
             }
         },
         "counters": {
-            "datasets": 100,
+            "datasets": 112,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -48538,15 +48802,15 @@
                 "name": "203f1657-bb4a-45a7-b25f-279b63136645",
                 "title": "市政網站整合平台之常見問答",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-11-01 20:50:15",
-                "timeEnd": 1509540615,
+                "metadata_modified": "2017-11-02 20:50:10",
+                "timeEnd": 1509627010,
                 "timeBegin": 0,
                 "resources": {
                     "06badd5c-e0bc-4b55-8646-9fcd4ea7096d": {
                         "id": "06badd5c-e0bc-4b55-8646-9fcd4ea7096d",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-11-01 20:50:15",
-                        "last_modified": "2017-11-01T20:50:15"
+                        "created": "2017-11-02 20:50:10",
+                        "last_modified": "2017-11-02T20:50:10"
                     },
                     "f582d9b1-51ad-421c-874e-a7472f9897b3": {
                         "id": "f582d9b1-51ad-421c-874e-a7472f9897b3",
@@ -48564,15 +48828,15 @@
                 "name": "1a97fef5-dc98-4b6b-8694-5d6b3f6f2442",
                 "title": "市政網站整合平台之最新消息",
                 "organization_id": "379730000A",
-                "metadata_modified": "2017-11-01 20:48:35",
-                "timeEnd": 1509540515,
+                "metadata_modified": "2017-11-02 20:48:37",
+                "timeEnd": 1509626917,
                 "timeBegin": 0,
                 "resources": {
                     "e9d0bf09-4596-4fd2-9929-f8deb1b7352a": {
                         "id": "e9d0bf09-4596-4fd2-9929-f8deb1b7352a",
                         "name": "taipeiGov1.xml",
-                        "created": "2017-11-01 20:48:33",
-                        "last_modified": "2017-11-01T20:48:33"
+                        "created": "2017-11-02 20:48:35",
+                        "last_modified": "2017-11-02T20:48:35"
                     }
                 },
                 "counters": {
@@ -50909,15 +51173,15 @@
                 "name": "961ca397-4a59-45e8-b312-697f26b059dc",
                 "title": "臺北市水質監測資訊",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-11-02 05:19:00",
-                "timeEnd": 1509571140,
+                "metadata_modified": "2017-11-03 05:19:00",
+                "timeEnd": 1509657540,
                 "timeBegin": 1398268800,
                 "resources": {
                     "190796c8-7c56-42e0-8068-39242b8ec927": {
                         "id": "190796c8-7c56-42e0-8068-39242b8ec927",
                         "name": "waterQuality.xml",
-                        "created": "2017-11-02 05:19:00",
-                        "last_modified": "2017-11-02T05:19:00"
+                        "created": "2017-11-03 05:19:00",
+                        "last_modified": "2017-11-03T05:19:00"
                     },
                     "1e9b4316-fa39-4707-aebd-f239b4f64b2f": {
                         "id": "1e9b4316-fa39-4707-aebd-f239b4f64b2f",
@@ -50935,15 +51199,15 @@
                 "name": "75aa4c40-db2a-47b7-8f0a-b10d4ff9788b",
                 "title": "臺北市停水資訊-(大臺北地區)",
                 "organization_id": "379270000K",
-                "metadata_modified": "2017-11-01 15:22:29",
-                "timeEnd": 1509520949,
+                "metadata_modified": "2017-11-02 15:22:32",
+                "timeEnd": 1509607352,
                 "timeBegin": 1325606400,
                 "resources": {
                     "a242ee9b-b954-4ae9-9827-2344c5dfeaea": {
                         "id": "a242ee9b-b954-4ae9-9827-2344c5dfeaea",
                         "name": "stopWater.xml",
-                        "created": "2017-11-01 15:22:29",
-                        "last_modified": "2017-11-01T15:22:29"
+                        "created": "2017-11-02 15:22:32",
+                        "last_modified": "2017-11-02T15:22:32"
                     },
                     "e9c4da25-a373-4735-8992-d904646fa1ed": {
                         "id": "e9c4da25-a373-4735-8992-d904646fa1ed",
@@ -51391,5 +51655,5 @@
             "resource_recent": 0
         }
     },
-    "time_generated": 1509572073
+    "time_generated": 1509658450
 }
