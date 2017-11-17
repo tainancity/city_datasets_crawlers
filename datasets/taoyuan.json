@@ -12705,24 +12705,24 @@
             },
             "ccddd094-ec30-41ef-b4c7-0f4d42fa8f18": {
                 "name": "18aa29c5-6cb4-4199-84bd-c8b45e077591",
-                "title": "桃園市街頭藝人名單",
+                "title": "桃園市街頭藝人名單-表演藝術類",
                 "organization_id": "380330000e",
                 "metadata_created": "2015-10-06T02:25:06.287572",
-                "metadata_modified": "2017-03-30T09:04:39.387271",
-                "timeEnd": 1490864664,
+                "metadata_modified": "2017-11-17T08:20:45.353779",
+                "timeEnd": 1510878045,
                 "timeBegin": 1444069506,
                 "resources": {
                     "bf240d26-655e-45b6-9146-a880be135aa2": {
                         "id": "bf240d26-655e-45b6-9146-a880be135aa2",
                         "name": "街頭藝人-表演藝術類合計388組.csv",
-                        "created": "2017-03-30T17:02:42.288090",
+                        "created": "2017-03-30T17:02:42",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-30T17:02:42"
                     },
                     "7637252c-f964-452a-bb7d-29dea2b9561d": {
                         "id": "7637252c-f964-452a-bb7d-29dea2b9561d",
                         "name": "街頭藝人-創意工藝類合計75組.csv",
-                        "created": "2017-03-30T17:04:24.642936",
+                        "created": "2017-03-30T17:04:24",
                         "webstore_last_updated": null,
                         "last_modified": "2017-03-30T17:04:24"
                     }
@@ -13384,7 +13384,7 @@
     },
     "桃園市政府民政局": {
         "counters": {
-            "datasets": 23,
+            "datasets": 24,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -13712,11 +13712,11 @@
             },
             "f95d1a33-ec56-44c5-a9ec-3afba8157e39": {
                 "name": "339472f6-673c-4d97-aa44-05d2ba7b83f6",
-                "title": "桃園市各區結離婚統計",
+                "title": "桃園市各區結婚統計",
                 "organization_id": "380020000a",
                 "metadata_created": "2016-02-02T01:55:48.871302",
-                "metadata_modified": "2017-07-26T05:29:23.218784",
-                "timeEnd": 1501018163,
+                "metadata_modified": "2017-11-17T08:24:59.223242",
+                "timeEnd": 1510878299,
                 "timeBegin": 1454349348,
                 "resources": {
                     "3e9f6bb6-3531-4f54-aee7-fca697a0dfeb": {
@@ -13973,6 +13973,49 @@
                         "created": "2017-02-22T11:36:45",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-22T11:36:45"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6004552b-5679-4c07-8bfe-68a3783853db": {
+                "name": "6004552b-5679-4c07-8bfe-68a3783853db",
+                "title": "桃園市各區離婚統計",
+                "organization_id": "380020000a",
+                "metadata_created": "2017-11-17T08:26:41.554942",
+                "metadata_modified": "2017-11-17T08:31:26.606576",
+                "timeEnd": 1510907326,
+                "timeBegin": 1510878401,
+                "resources": {
+                    "40ec2baf-2a8e-4616-8ee9-c93edcfc1b60": {
+                        "id": "40ec2baf-2a8e-4616-8ee9-c93edcfc1b60",
+                        "name": "102離婚對數.csv",
+                        "created": "2017-11-17T16:27:29",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:27:28"
+                    },
+                    "b3fbc854-058c-43e9-8774-5f4aebbddd43": {
+                        "id": "b3fbc854-058c-43e9-8774-5f4aebbddd43",
+                        "name": "103離婚對數.csv",
+                        "created": "2017-11-17T16:27:48",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:27:47"
+                    },
+                    "7a42d8cc-a1d4-4d14-9ed4-9e2eb032a728": {
+                        "id": "7a42d8cc-a1d4-4d14-9ed4-9e2eb032a728",
+                        "name": "104離婚對數.csv",
+                        "created": "2017-11-17T16:28:12",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:28:11"
+                    },
+                    "905fb8e1-1481-45e7-b77d-b9b488068396": {
+                        "id": "905fb8e1-1481-45e7-b77d-b9b488068396",
+                        "name": "105離婚對數.csv",
+                        "created": "2017-11-17T16:28:46",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:28:45"
                     }
                 },
                 "counters": {
@@ -14298,7 +14341,7 @@
     },
     "桃園市政府水務局": {
         "counters": {
-            "datasets": 29,
+            "datasets": 32,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -14742,6 +14785,42 @@
                     "resource_recent": 0
                 }
             },
+            "40bce825-f204-4c04-a788-e9d54509b67e": {
+                "name": "40bce825-f204-4c04-a788-e9d54509b67e",
+                "title": "淹水潛勢圖(R200)",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-11-17T08:06:46.714297",
+                "metadata_modified": "2017-11-17T08:31:00.295338",
+                "timeEnd": 1510906124,
+                "timeBegin": 1510877206,
+                "resources": {
+                    "a23b9c93-b5e5-41bb-9fa6-cded9e8cf701": {
+                        "id": "a23b9c93-b5e5-41bb-9fa6-cded9e8cf701",
+                        "name": "桃園市R200.dbf",
+                        "created": "2017-11-17T16:08:10",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:08:09"
+                    },
+                    "da28ff02-d688-457c-85e3-d204167eeee7": {
+                        "id": "da28ff02-d688-457c-85e3-d204167eeee7",
+                        "name": "桃園市R200.shp",
+                        "created": "2017-11-17T16:08:26",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:08:25"
+                    },
+                    "867fe20d-934f-4247-9f04-0c41c26dfe2e": {
+                        "id": "867fe20d-934f-4247-9f04-0c41c26dfe2e",
+                        "name": "桃園市R200.shx",
+                        "created": "2017-11-17T16:08:44",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:08:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "575d59c1-02f0-4952-bb07-ffb15828feef": {
                 "name": "575d59c1-02f0-4952-bb07-ffb15828feef",
                 "title": "大溪排水自然水質淨化工程",
@@ -14751,6 +14830,42 @@
                 "timeEnd": 1491764966,
                 "timeBegin": 1491764965,
                 "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "6aa257ba-9b34-4227-9046-872b34a22d7f": {
+                "name": "6aa257ba-9b34-4227-9046-872b34a22d7f",
+                "title": "淹水潛勢圖(R600)",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-11-17T08:06:41.683188",
+                "metadata_modified": "2017-11-17T08:30:45.831941",
+                "timeEnd": 1510906251,
+                "timeBegin": 1510877201,
+                "resources": {
+                    "5b7d886a-c33b-4ed7-8b13-122e8eef8821": {
+                        "id": "5b7d886a-c33b-4ed7-8b13-122e8eef8821",
+                        "name": "桃園市R600.dbf",
+                        "created": "2017-11-17T16:10:22",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:10:21"
+                    },
+                    "61e9af23-68a3-44fa-a472-d59749a81972": {
+                        "id": "61e9af23-68a3-44fa-a472-d59749a81972",
+                        "name": "桃園市R600.shp",
+                        "created": "2017-11-17T16:10:40",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:10:39"
+                    },
+                    "39af4684-2995-4ea1-bc16-90602f438f02": {
+                        "id": "39af4684-2995-4ea1-bc16-90602f438f02",
+                        "name": "桃園市R600.shx",
+                        "created": "2017-11-17T16:10:51",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:10:50"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -14893,6 +15008,42 @@
                         "created": "2017-07-21T10:36:09",
                         "webstore_last_updated": null,
                         "last_modified": "2017-07-21T10:36:09"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "92bf2578-fc89-4355-9ab0-62628efe0bc4": {
+                "name": "92bf2578-fc89-4355-9ab0-62628efe0bc4",
+                "title": "淹水潛勢圖(R450)",
+                "organization_id": "380250000g",
+                "metadata_created": "2017-11-17T08:06:44.551354",
+                "metadata_modified": "2017-11-17T08:30:55.241521",
+                "timeEnd": 1510906186,
+                "timeBegin": 1510877204,
+                "resources": {
+                    "e62fdf66-daa7-46ae-b364-0457a060ba9b": {
+                        "id": "e62fdf66-daa7-46ae-b364-0457a060ba9b",
+                        "name": "桃園市R450.dbf",
+                        "created": "2017-11-17T16:09:08",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:09:07"
+                    },
+                    "e015b7e8-2d66-4ef3-be9f-e33e2836a489": {
+                        "id": "e015b7e8-2d66-4ef3-be9f-e33e2836a489",
+                        "name": "桃園市R450.shp",
+                        "created": "2017-11-17T16:09:27",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:09:26"
+                    },
+                    "39ac1a38-f4bf-4faf-88e6-9cbe7ec4a57d": {
+                        "id": "39ac1a38-f4bf-4faf-88e6-9cbe7ec4a57d",
+                        "name": "桃園市R450.shx",
+                        "created": "2017-11-17T16:09:46",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:09:45"
                     }
                 },
                 "counters": {
@@ -20941,7 +21092,7 @@
     },
     "桃園市政府研究發展考核委員會": {
         "counters": {
-            "datasets": 72,
+            "datasets": 74,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -21160,6 +21311,28 @@
                         "created": "2017-11-13T16:23:51",
                         "webstore_last_updated": null,
                         "last_modified": "2017-11-13T16:23:50"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "187cf1e1-4e38-4dfc-be56-19c095d1d903": {
+                "name": "187cf1e1-4e38-4dfc-be56-19c095d1d903",
+                "title": "桃園市街頭藝人名單-創意工藝類",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-11-17T08:19:55.665806",
+                "metadata_modified": "2017-11-17T08:31:16.427433",
+                "timeEnd": 1510906899,
+                "timeBegin": 1510877995,
+                "resources": {
+                    "6b3b9c83-2d4f-4aa3-a6bb-f2b975ffbc97": {
+                        "id": "6b3b9c83-2d4f-4aa3-a6bb-f2b975ffbc97",
+                        "name": "街頭藝人-創意工藝類合計75組.csv",
+                        "created": "2017-11-17T16:21:39",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:21:38"
                     }
                 },
                 "counters": {
@@ -22294,6 +22467,28 @@
                     "resource_recent": 0
                 }
             },
+            "aa1e24d0-6295-4cd9-bf3b-16ea845d60ea": {
+                "name": "aa1e24d0-6295-4cd9-bf3b-16ea845d60ea",
+                "title": "桃園市政府補助青年參與國際事務作業要點(核銷表單)",
+                "organization_id": "380220000a",
+                "metadata_created": "2017-11-17T08:01:18.801829",
+                "metadata_modified": "2017-11-17T08:30:37.705496",
+                "timeEnd": 1510905724,
+                "timeBegin": 1510876878,
+                "resources": {
+                    "4d676cb4-189e-4997-a556-b23970cc35fc": {
+                        "id": "4d676cb4-189e-4997-a556-b23970cc35fc",
+                        "name": "桃園市政府補助青年參與國際事務作業要點-核銷.pdf",
+                        "created": "2017-11-17T16:02:04",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:02:04"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "ab301999-4c24-41ce-b978-68b8ea3791de": {
                 "name": "ab301999-4c24-41ce-b978-68b8ea3791de",
                 "title": "2016台灣燈會臨時公有停車場統計表",
@@ -22769,7 +22964,7 @@
     },
     "桃園市政府社會局": {
         "counters": {
-            "datasets": 73,
+            "datasets": 75,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -23215,6 +23410,28 @@
                     "resource_recent": 0
                 }
             },
+            "3ce94cc4-3cf4-4ef6-bc1a-1e4a366a52a9": {
+                "name": "3ce94cc4-3cf4-4ef6-bc1a-1e4a366a52a9",
+                "title": "桃園市托育人員專業訓練課程表及開辦單位資訊(勞動部補助班)",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-11-17T08:17:06.866076",
+                "metadata_modified": "2017-11-17T08:31:06.138844",
+                "timeEnd": 1510906660,
+                "timeBegin": 1510877826,
+                "resources": {
+                    "a77f12a8-302e-4906-9974-93ec253dea0c": {
+                        "id": "a77f12a8-302e-4906-9974-93ec253dea0c",
+                        "name": "桃園市托育人員專業訓練課程表及開辦單位資訊(勞動部補助班).csv",
+                        "created": "2017-11-17T16:17:40",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T16:17:39"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "3d0466a3-d666-414f-8dc3-c6c2f5ab4c0c": {
                 "name": "3d0466a3-d666-414f-8dc3-c6c2f5ab4c0c",
                 "title": "桃園市各區社區活動中心名冊-觀音區",
@@ -23459,11 +23676,11 @@
             },
             "6827345d-383f-4f12-b0fb-e698cc998c80": {
                 "name": "6827345d-383f-4f12-b0fb-e698cc998c80",
-                "title": "桃園市托育人員專業訓練課程表及開辦單位資訊",
+                "title": "桃園市托育人員專業訓練課程表及開辦單位資訊(自費班)",
                 "organization_id": "380120000j",
                 "metadata_created": "2017-08-18T07:01:11.511682",
-                "metadata_modified": "2017-08-18T07:32:37.573800",
-                "timeEnd": 1503039719,
+                "metadata_modified": "2017-11-17T08:15:39.650819",
+                "timeEnd": 1510877739,
                 "timeBegin": 1503010871,
                 "resources": {
                     "e2171305-9baf-41b9-a98f-581fffe7ebc8": {
@@ -24242,6 +24459,28 @@
                     "resource_recent": 0
                 }
             },
+            "cddabc93-d790-49a4-b9ab-39f08f3cdb39": {
+                "name": "cddabc93-d790-49a4-b9ab-39f08f3cdb39",
+                "title": "桃園市非營利組織發展中心(志願服務推廣業務)",
+                "organization_id": "380120000j",
+                "metadata_created": "2017-11-17T07:54:37.702012",
+                "metadata_modified": "2017-11-17T08:30:17.386953",
+                "timeEnd": 1510905313,
+                "timeBegin": 1510876477,
+                "resources": {
+                    "c7bb8346-c4f3-45f2-8e0e-2a2555e3a028": {
+                        "id": "c7bb8346-c4f3-45f2-8e0e-2a2555e3a028",
+                        "name": "非營利組織發展中心(志願服務業務).csv",
+                        "created": "2017-11-17T15:55:13",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T15:55:12"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "ceed246d-8791-4bb7-9b22-8f6ada8fdf3b": {
                 "name": "ceed246d-8791-4bb7-9b22-8f6ada8fdf3b",
                 "title": "105年兒少高風險家庭通報量",
@@ -24689,13 +24928,57 @@
     },
     "桃園市政府經濟發展局": {
         "counters": {
-            "datasets": 43,
+            "datasets": 48,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
             "resource_recent": 0
         },
         "datasets": {
+            "00906420-614a-497c-bd66-8bf470d7ea8f": {
+                "name": "00906420-614a-497c-bd66-8bf470d7ea8f",
+                "title": "區公所回饋金相關計畫-華亞",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-11-17T05:14:37.414622",
+                "metadata_modified": "2017-11-17T06:27:23.726564",
+                "timeEnd": 1510899914,
+                "timeBegin": 1510866877,
+                "resources": {
+                    "75437581-2e8e-464a-a298-0761e9089858": {
+                        "id": "75437581-2e8e-464a-a298-0761e9089858",
+                        "name": "華亞回饋金.csv",
+                        "created": "2017-11-17T14:25:14",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T14:25:13"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "0c13977c-01b2-461a-887f-33ee9420a727": {
+                "name": "0c13977c-01b2-461a-887f-33ee9420a727",
+                "title": "區公所回饋金相關計畫-海湖發電廠",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-11-17T06:19:09.281516",
+                "metadata_modified": "2017-11-17T06:27:12.649932",
+                "timeEnd": 1510899863,
+                "timeBegin": 1510870749,
+                "resources": {
+                    "22918edb-0b19-432d-be90-69df14dab21e": {
+                        "id": "22918edb-0b19-432d-be90-69df14dab21e",
+                        "name": "海湖發電廠營運回饋金.csv",
+                        "created": "2017-11-17T14:24:23",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T14:24:22"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "456d9011-f8b1-463a-a4ff-0149831f3300": {
                 "name": "0c758cea-fd8a-44e5-b137-edf19a17a29f",
                 "title": "歷屆桃園市金牌好店資料",
@@ -25084,6 +25367,28 @@
                         "created": "2017-10-18T17:51:42",
                         "webstore_last_updated": null,
                         "last_modified": "2017-10-18T17:51:42"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "36fe8498-ce6e-4cca-9acd-dddd48d81079": {
+                "name": "36fe8498-ce6e-4cca-9acd-dddd48d81079",
+                "title": "區公所回饋金相關計畫-海威、觀威風力發電",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-11-17T06:19:16.554040",
+                "metadata_modified": "2017-11-17T06:26:58.671757",
+                "timeEnd": 1510899835,
+                "timeBegin": 1510870756,
+                "resources": {
+                    "fee1b5a2-803f-4f68-ac65-387caed81dad": {
+                        "id": "fee1b5a2-803f-4f68-ac65-387caed81dad",
+                        "name": "桃威、觀威風力發電回饋金.csv",
+                        "created": "2017-11-17T14:23:55",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T14:23:55"
                     }
                 },
                 "counters": {
@@ -25527,6 +25832,28 @@
                 "timeEnd": 1480046175,
                 "timeBegin": 1480046174,
                 "resources": [],
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "8c9d3391-bf36-43c3-abdd-10c60dedc324": {
+                "name": "8c9d3391-bf36-43c3-abdd-10c60dedc324",
+                "title": "區公所回饋金相關計畫-板新給水廠",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-11-17T06:19:14.585542",
+                "metadata_modified": "2017-11-17T06:27:45.532699",
+                "timeEnd": 1510899796,
+                "timeBegin": 1510870754,
+                "resources": {
+                    "e1369bec-c908-4cd7-836f-55346040f5bd": {
+                        "id": "e1369bec-c908-4cd7-836f-55346040f5bd",
+                        "name": "板新給水廠回饋金.csv",
+                        "created": "2017-11-17T14:23:16",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T14:23:16"
+                    }
+                },
                 "counters": {
                     "resource_total": 0,
                     "resource_recent": 0
@@ -26046,6 +26373,28 @@
                     "resource_recent": 0
                 }
             },
+            "f0b567c6-8f98-4b21-a59e-05fd1b9ced19": {
+                "name": "f0b567c6-8f98-4b21-a59e-05fd1b9ced19",
+                "title": "區公所回饋金相關計畫-台電促協",
+                "organization_id": "380170000g",
+                "metadata_created": "2017-11-17T06:19:12.665504",
+                "metadata_modified": "2017-11-17T06:26:30.444095",
+                "timeEnd": 1510899765,
+                "timeBegin": 1510870752,
+                "resources": {
+                    "eb172fa8-25a1-4cd0-a508-079883ef4d96": {
+                        "id": "eb172fa8-25a1-4cd0-a508-079883ef4d96",
+                        "name": "台電促協金回饋金.csv",
+                        "created": "2017-11-17T14:22:45",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T14:22:44"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
             "f7bb174e-9349-478e-b919-f59a9544d27a": {
                 "name": "f7bb174e-9349-478e-b919-f59a9544d27a",
                 "title": "104年11月份工業和民生用電量",
@@ -26072,7 +26421,7 @@
     },
     "桃園市政府衛生局": {
         "counters": {
-            "datasets": 111,
+            "datasets": 113,
             "dataset_total": 0,
             "dataset_recent": 0,
             "resource_total": 0,
@@ -27239,6 +27588,28 @@
                         "created": "2017-09-15T13:12:18",
                         "webstore_last_updated": null,
                         "last_modified": "2017-09-15T13:12:18"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "7419d401-7f25-4250-821a-f089180371ba": {
+                "name": "7419d401-7f25-4250-821a-f089180371ba",
+                "title": "哺乳FUN輕鬆",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-11-17T07:12:03.677962",
+                "metadata_modified": "2017-11-17T07:18:04.957975",
+                "timeEnd": 1510902769,
+                "timeBegin": 1510873923,
+                "resources": {
+                    "ef2ea4b6-c1aa-4a4f-8a4c-69cc30de3cb9": {
+                        "id": "ef2ea4b6-c1aa-4a4f-8a4c-69cc30de3cb9",
+                        "name": "哺乳FUN輕鬆.csv",
+                        "created": "2017-11-17T15:12:49",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T15:12:48"
                     }
                 },
                 "counters": {
@@ -28531,6 +28902,28 @@
                         "created": "2017-02-08T11:59:07",
                         "webstore_last_updated": null,
                         "last_modified": "2017-02-08T11:59:07"
+                    }
+                },
+                "counters": {
+                    "resource_total": 0,
+                    "resource_recent": 0
+                }
+            },
+            "c54677e8-fa8a-49c1-82ed-fe2f54b09fa4": {
+                "name": "c54677e8-fa8a-49c1-82ed-fe2f54b09fa4",
+                "title": "桃園市護理之家通訊錄",
+                "organization_id": "380140000i",
+                "metadata_created": "2017-11-17T07:51:18.461092",
+                "metadata_modified": "2017-11-17T08:30:05.608744",
+                "timeEnd": 1510905113,
+                "timeBegin": 1510876278,
+                "resources": {
+                    "a177aa65-4ddf-449e-a231-c7f19458acde": {
+                        "id": "a177aa65-4ddf-449e-a231-c7f19458acde",
+                        "name": "一般護家通訊錄106_1.csv",
+                        "created": "2017-11-17T15:51:53",
+                        "webstore_last_updated": null,
+                        "last_modified": "2017-11-17T15:51:53"
                     }
                 },
                 "counters": {
@@ -39383,5 +39776,5 @@
             }
         }
     },
-    "time_generated": 1510868159
+    "time_generated": 1510954427
 }
